@@ -117,7 +117,7 @@ matrix:
         - python3
         - qtdeclarative5-dev
     env:
-    - BULWARK_CONFIG="--with-gui=no"
+    - BULWARK_CONFIG="--with-gui=qt5"
     - HOST=i686-w64-mingw32
     - LABEL=win32
     os: linux
@@ -139,6 +139,9 @@ matrix:
 #    - LABEL=win64
 #    os: linux
   - name: macOS x86 64 Bit
+    cache:
+      directories:
+      - usr/local/Homebrew
     env:
     - HOST=x86_64-apple-darwin
     - LABEL=macOS
