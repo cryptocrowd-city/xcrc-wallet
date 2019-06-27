@@ -135,7 +135,7 @@ matrix:
   - name: macOS x86 64 Bit
     cache:
       directories:
-      - usr/local/Homebrew
+      - /usr/local/Homebrew
     env:
     - HOST=x86_64-apple-darwin
     - LABEL=macOS
