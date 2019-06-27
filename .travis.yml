@@ -143,6 +143,8 @@ matrix:
       directories:
       - /usr/local/Homebrew
     env:
+    - CCACHE_HARDLINK=true
+    - CCACHE_SLOPPINESS=file_macro,time_macros,include_file_mtime,include_file_ctime,file_stat_matches
     - HOST=x86_64-apple-darwin
     - LABEL=macOS
     os: osx
