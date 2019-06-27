@@ -60,17 +60,17 @@ env:
   - MAKEJOBS="-s -k -j 4"
 matrix:
   include:
-  - name: Linux ARM 32 Bit
-    addons:
-      apt:
-        packages:
-        - g++-arm-linux-gnueabihf
-        - binutils-arm-linux-gnueabihf
-    env:
-    - BULWARK_CONFIG="--enable-glibc-back-compat --with-gui=no"
-    - HOST=arm-linux-gnueabihf
-    - LABEL=ARM
-    os: linux
+#  - name: Linux ARM 32 Bit
+#    addons:
+#      apt:
+#        packages:
+#        - g++-arm-linux-gnueabihf
+#        - binutils-arm-linux-gnueabihf
+#   env:
+#    - BULWARK_CONFIG="--enable-glibc-back-compat --with-gui=no"
+#    - HOST=arm-linux-gnueabihf
+#    - LABEL=ARM
+#    os: linux
 #  - name: Linux i686 32 Bit
 #    addons:
 #      apt:
@@ -138,22 +138,22 @@ matrix:
 #    - HOST=x86_64-w64-mingw32
 #    - LABEL=win64
 #    os: linux
-  - name: macOS x86 64 Bit
-    cache:
-      directories:
-      - /usr/local/Homebrew
-    env:
-    - CCACHE_HARDLINK=true
-    - CCACHE_SLOPPINESS=file_macro,time_macros,include_file_mtime,include_file_ctime,file_stat_matches
-    - HOST=x86_64-apple-darwin
-    - LABEL=macOS
-    os: osx
-    osx_image: xcode9.2
+#  - name: macOS x86 64 Bit
+#    cache:
+#      directories:
+#      - /usr/local/Homebrew
+#    env:
+#    - CCACHE_HARDLINK=true
+#    - CCACHE_SLOPPINESS=file_macro,time_macros,include_file_mtime,include_file_ctime,file_stat_matches
+#    - HOST=x86_64-apple-darwin
+#    - LABEL=macOS
+#    os: osx
+#    osx_image: xcode9.2
 before_install:
 - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew update; fi
 - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo update-alternatives --install /usr/bin/ld ld /usr/bin/ld.gold 20; fi
 install:
-- if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install ccache; export PATH="/usr/local/opt/ccache/libexec:$PATH"; brew uninstall mercurial python; brew
+- if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install ninja ccache; export PATH="/usr/local/opt/ccache/libexec:$PATH"; brew uninstall --ignore-dependencies mercurial python; brew
   bundle; brew link --overwrite --force boost@1.57; fi
 - if [ "$PYZMQ" = "true" ]; then pip install pyzmq --user ; fi
 before_script:
