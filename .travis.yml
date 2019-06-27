@@ -117,7 +117,7 @@ matrix:
         - python3
         - qtdeclarative5-dev
     env:
-    - BULWARK_CONFIG="--with-gui=qt5"
+    - BULWARK_CONFIG="--with-gui=no"
     - HOST=i686-w64-mingw32
     - LABEL=win32
     os: linux
