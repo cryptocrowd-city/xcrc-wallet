@@ -196,7 +196,7 @@ deploy:
   name: ${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-${LABEL}
   tag_name: ${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-${LABEL}
   on:
-    repo: cryptocrowd-xcrc/xcrc-wallet
+    repo: cryptocrowd-city/xcrc-wallet
     all_branches: true
  #   branch: travisci-headless
  #   tags: false #true
