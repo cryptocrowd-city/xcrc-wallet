@@ -176,7 +176,7 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi CRyptoCrowd dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
@@ -433,8 +433,8 @@
         <translation>Espora la cronologia delle transazioni</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Operazioni di privacy per zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Operazioni di privacy per zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1713,24 +1713,24 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Mappa la porta utilizzando UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
-        <translation>Attiva il conio automatico di unità CRyptoCrowd in zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>Attiva il conio automatico di unità CRyptoCrowd in zXCRC</translation>
     </message>
     <message>
-        <source>Enable zBWK Automint</source>
-        <translation>Attiva Conio automatico zBWK</translation>
+        <source>Enable zXCRC Automint</source>
+        <translation>Attiva Conio automatico zXCRC</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentuale di CRyptoCrowd in entrata che viene automaticamente convertita in zBWK attraverso il protocollo Zerocoin (min: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentuale di CRyptoCrowd in entrata che viene automaticamente convertita in zXCRC attraverso il protocollo Zerocoin (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBWK</source>
-        <translation>Percentuale di zBWK Percentuale di zBWK da coniare automaticamente</translation>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>Percentuale di zXCRC Percentuale di zXCRC da coniare automaticamente</translation>
     </message>
     <message>
-        <source>Preferred Automint zBWK Denomination</source>
-        <translation>Denominazione preferita conio automatico zBWK</translation>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>Denominazione preferita conio automatico zXCRC</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -1808,14 +1808,14 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Il tuo saldo CRyptoCrowd corrente, incluse le transazioni non confermate e non mature</translation>
     </message>
     <message>
-        <source>zBWK Balance</source>
-        <translation>Bilancio zBWK</translation>
+        <source>zXCRC Balance</source>
+        <translation>Bilancio zXCRC</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</source>
+These zXCRC are spendable.</source>
         <translation>Maturi: più di 20 conferme e più di 1 conio della stessa denominazione dopo il conio.
-Questi zBWK sono spendibili.</translation>
+Questi zXCRC sono spendibili.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1846,8 +1846,8 @@ Questi zBWK sono spendibili.</translation>
         <translation>Spendibili:</translation>
     </message>
     <message>
-        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>CRyptoCrowd bloccati o collaterali Masternodo. Questi sono esclusi dal conio di zBWK.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>CRyptoCrowd bloccati o collaterali Masternodo. Questi sono esclusi dal conio di zXCRC.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -1858,18 +1858,18 @@ Questi zBWK sono spendibili.</translation>
         <translation>Non confermati:</translation>
     </message>
     <message>
-        <source>Your current zBWK balance, unconfirmed and immature zBWK included.</source>
-        <translation>Il tuo saldo zBWK corrente, inclusi zBWK non confermati e non maturi</translation>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
+        <translation>Il tuo saldo zXCRC corrente, inclusi zXCRC non confermati e non maturi</translation>
     </message>
     <message>
         <source>Recent transactions</source>
         <translation>Transazioni recenti</translation>
     </message>
     <message>
-        <source>Current percentage of zBWK.
+        <source>Current percentage of zXCRC.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Percentuale corrente di zBWK.
+        <translation>Percentuale corrente di zXCRC.
 Se il conio automatico è attivato questa percentuale si stabilizzerà all'incirca sulla percentuale stabilita per il conio automatico (percentuale prestabilita = 10%).
 </translation>
     </message>
@@ -1933,8 +1933,8 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>0.000 000 00 XCRC</source>
@@ -1961,16 +1961,16 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of XCRC to convert to zBWK</source>
-        <translation>Immetti un importo di CRyptoCrowd da convertire in zBWK</translation>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
+        <translation>Immetti un importo di CRyptoCrowd da convertire in zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Control</source>
-        <translation>Controllo zBWK</translation>
+        <source>zXCRC Control</source>
+        <translation>Controllo zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Selected:</source>
-        <translation>zBWK selezionati:</translation>
+        <source>zXCRC Selected:</source>
+        <translation>zXCRC selezionati:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -1981,23 +1981,23 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>Spendi Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending</source>
-        <translation>zBWK disponibili disponibili per essere spesi (maturi e spendibili)</translation>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>zXCRC disponibili disponibili per essere spesi (maturi e spendibili)</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Bilancio Disponibile:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending
+        <source>Available (mature and spendable) zXCRC for spending
 
-zBWK are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>zBWK disponibili disponibili per essere spesi (maturi e spendibili)
-Gli zBWK sono maturi quando hanno più di 20 conferme E più di 2 conii della stessa denominazione dopo che sono stati coniati</translation>
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>zXCRC disponibili disponibili per essere spesi (maturi e spendibili)
+Gli zXCRC sono maturi quando hanno più di 20 conferme E più di 2 conii della stessa denominazione dopo che sono stati coniati</translation>
     </message>
     <message>
-        <source>0 zBWK</source>
-        <translation>0 zBWK</translation>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2040,31 +2040,31 @@ Gli zBWK sono maturi quando hanno più di 20 conferme E più di 2 conii della st
         <translation>Statistiche Zerocoin:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
-        <translation>Saldo totale inclusi zBWK non confermati e non maturi</translation>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Saldo totale inclusi zXCRC non confermati e non maturi</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
         <translation>Saldo totale Zerocoin:</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zBWK minting.
+        <source>Show the current status of automatic zXCRC minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to cryptocrowd.conf
 - disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
 
 </source>
-        <translation>Mostra lo stato corrente del conio automatico zBWK.
+        <translation>Mostra lo stato corrente del conio automatico zXCRC.
 Per cambiare lo stato (riavvio necessario):
 - attivato: aggiungi 'enablezeromint=1' a cryptocrowd.conf
 - disattivato: aggiungi 'enablezeromint=0' a cryptocrowd.conf
 
 Per cambiare la percentuale (riavvio non necessario):
-- menu Impostazioni-&gt;Opzioni-&gt;Percentuale di zBWK da coniare automaticamente
+- menu Impostazioni-&gt;Opzioni-&gt;Percentuale di zXCRC da coniare automaticamente
 
 </translation>
     </message>
@@ -2209,8 +2209,8 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Copia ammontare</translation>
     </message>
     <message>
-        <source>zBWK Mint</source>
-        <translation>Conio zBWK</translation>
+        <source>zXCRC Mint</source>
+        <translation>Conio zXCRC</translation>
     </message>
     <message>
         <source>AutoMint Status:</source>
@@ -2666,14 +2666,14 @@ Per cambiare la percentuale (riavvio non necessario):
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     </context>
 <context>

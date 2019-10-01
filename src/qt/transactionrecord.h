@@ -81,7 +81,7 @@ class TransactionRecord {
         ZerocoinMint,
         ZerocoinSpend,
         RecvFromZerocoinSpend,
-        ZerocoinSpend_Change_zBWK,
+        ZerocoinSpend_Change_zXCRC,
         ZerocoinSpend_FromMe,
         RecvWithObfuscation,
         ObfuscationDenominate,

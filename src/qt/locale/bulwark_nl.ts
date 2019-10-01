@@ -176,7 +176,7 @@
         <translation>Bevestig versleuteling van de portemonnee</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw CRyptoCrowd's kunnen stelen.</translation>
     </message>
     <message>
@@ -433,8 +433,8 @@
         <translation>Blader door transactiegescheidenis</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Privacy Acties voor zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Privacy Acties voor zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1948,28 +1948,28 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Map poort gebruikt UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
-        <translation>Schakel automatisch slaan van Bulwark-eenheden in op zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>Schakel automatisch slaan van Bulwark-eenheden in op zXCRC</translation>
     </message>
     <message>
-        <source>Enable zBWK Automint</source>
-        <translation>Schakel zBWK Automint in</translation>
+        <source>Enable zXCRC Automint</source>
+        <translation>Schakel zXCRC Automint in</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentage inkomende CRyptoCrowd die automatisch wordt omgezet naar zBWK via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentage inkomende CRyptoCrowd die automatisch wordt omgezet naar zXCRC via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBWK</source>
-        <translation>Percentage autominted zBWK</translation>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>Percentage autominted zXCRC</translation>
     </message>
     <message>
         <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
         <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg CRyptoCrowd voor deze denominatie beschikbaar is</translation>
     </message>
     <message>
-        <source>Preferred Automint zBWK Denomination</source>
-        <translation>Gewenste Automint zBWK denominatie</translation>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>Gewenste Automint zXCRC denominatie</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
@@ -2159,12 +2159,12 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Uw huidige Bulwark-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
     </message>
     <message>
-        <source>zBWK Balance</source>
-        <translation>zBWK-saldo</translation>
+        <source>zXCRC Balance</source>
+        <translation>zXCRC-saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</source>
+These zXCRC are spendable.</source>
         <translation>Volwassen: meer dan 20 bevestigingen en meer dan 1 mint van dezelfde denominatie nadat het gemint was.
 Deze zPIB zijn besteedbaar.</translation>
     </message>
@@ -2219,8 +2219,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>Uitgeefbaar:</translation>
     </message>
     <message>
-        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Vergrendelde CRyptoCrowd of Masternode onderpanden. Deze zijn uitgesloten van de zBWK muntage.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>Vergrendelde CRyptoCrowd of Masternode onderpanden. Deze zijn uitgesloten van de zXCRC muntage.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2231,8 +2231,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>Onbevestigd:</translation>
     </message>
     <message>
-        <source>Your current zBWK balance, unconfirmed and immature zBWK included.</source>
-        <translation>Uw huidige zBWK-saldo, onbevestigde en onvolgroeide zBWK inbegrepen.</translation>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
+        <translation>Uw huidige zXCRC-saldo, onbevestigde en onvolgroeide zXCRC inbegrepen.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2243,10 +2243,10 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>niet gesynchroniseerd</translation>
     </message>
     <message>
-        <source>Current percentage of zBWK.
+        <source>Current percentage of zXCRC.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Huidige percentage van zBWK
+        <translation>Huidige percentage van zXCRC
 Als AutoMint ingeschakeld is zal deze percentage afhangen van de geconfigureerde AutoMint percentage (standaard = 10%).
 </translation>
     </message>
@@ -2390,8 +2390,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2442,16 +2442,16 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of XCRC to convert to zBWK</source>
-        <translation>Vul het aantal CRyptoCrowd in om te converteren naar zBWK</translation>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
+        <translation>Vul het aantal CRyptoCrowd in om te converteren naar zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Control</source>
-        <translation>zBWK Control</translation>
+        <source>zXCRC Control</source>
+        <translation>zXCRC Control</translation>
     </message>
     <message>
-        <source>zBWK Selected:</source>
-        <translation>zBWK geselecteerd:</translation>
+        <source>zXCRC Selected:</source>
+        <translation>zXCRC geselecteerd:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2466,24 +2466,24 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Besteed Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending</source>
-        <translation>Beschikbare (volwassen en uitgeefbaar) zBWK voor besteding</translation>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>Beschikbare (volwassen en uitgeefbaar) zXCRC voor besteding</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Beschikbaar saldo:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending
+        <source>Available (mature and spendable) zXCRC for spending
 
-zBWK are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Beschikbare (volwwassen en uitgeefbaar) zBWK voor besteding
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Beschikbare (volwwassen en uitgeefbaar) zXCRC voor besteding
 
-zBWK zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 muntages van dezelfde denominaties nadat zij gemunt zijn.</translation>
+zXCRC zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 muntages van dezelfde denominaties nadat zij gemunt zijn.</translation>
     </message>
     <message>
-        <source>0 zBWK</source>
-        <translation>0 zBWK</translation>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2554,8 +2554,8 @@ zBWK zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 m
         <translation>Zerocoin Statistieken:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
-        <translation>Totale Saldi, inclusief onbevestigde en onvolwassen zBWK</translation>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Totale Saldi, inclusief onbevestigde en onvolwassen zXCRC</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2576,24 +2576,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat het gemint was.</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zBWK minting.
+        <source>Show the current status of automatic zXCRC minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to cryptocrowd.conf
 - disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
 
 </source>
-        <translation>Toon de huidige status van automatische zBWK-markering.
+        <translation>Toon de huidige status van automatische zXCRC-markering.
 
 Om de status te wijzigen (opnieuw opstarten vereist): 
 - enable: voeg 'enablezeromint = 1' toe aan cryptocrowd.conf
 - uitschakelen: voeg 'enablezeromint = 0' toe aan cryptocrowd.conf
 
 Om het percentage te wijzigen (geen herstart vereist): 
-- menu Instellingen-&gt; Opties-&gt; Percentage van geautomatiseerde zBWK
+- menu Instellingen-&gt; Opties-&gt; Percentage van geautomatiseerde zXCRC
 </translation>
     </message>
     <message>
@@ -2789,12 +2789,12 @@ Maximum allowed: </source>
 Maximaal toegestaan:</translation>
     </message>
     <message>
-        <source>zBWK Spend #: </source>
-        <translation>zBWK besteed #:</translation>
+        <source>zXCRC Spend #: </source>
+        <translation>zXCRC besteed #:</translation>
     </message>
     <message>
-        <source>zBWK Mint</source>
-        <translation>zBWK mint</translation>
+        <source>zXCRC Mint</source>
+        <translation>zXCRC mint</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2809,12 +2809,12 @@ Maximaal toegestaan:</translation>
         <translation>Geconfigureerd doelpercentage:&lt;b&gt;</translation>
     </message>
     <message>
-        <source>zBWK is currently disabled due to maintenance.</source>
-        <translation>zBWK is momenteel uitgeschakeld vanwege onderhoud.</translation>
+        <source>zXCRC is currently disabled due to maintenance.</source>
+        <translation>zXCRC is momenteel uitgeschakeld vanwege onderhoud.</translation>
     </message>
     <message>
-        <source>zBWK is currently undergoing maintenance.</source>
-        <translation>zBWK wordt momenteel onderhouden.</translation>
+        <source>zXCRC is currently undergoing maintenance.</source>
+        <translation>zXCRC wordt momenteel onderhouden.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2901,8 +2901,8 @@ Maximaal toegestaan:</translation>
         <translation>Succesvol gemint</translation>
     </message>
     <message>
-        <source> zBWK in </source>
-        <translation> zBWK in </translation>
+        <source> zXCRC in </source>
+        <translation> zXCRC in </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2961,12 +2961,12 @@ Maximaal toegestaan:</translation>
         <translation>Bevestig verzending coins</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>Versie 1 zBWK vereist een beveiligingsniveau van 100 om succesvol te besteden.</translation>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Versie 1 zXCRC vereist een beveiligingsniveau van 100 om succesvol te besteden.</translation>
     </message>
     <message>
-        <source>Failed to spend zBWK</source>
-        <translation>Mislukt om zBWK te besteden.</translation>
+        <source>Failed to spend zXCRC</source>
+        <translation>Mislukt om zXCRC te besteden.</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2988,7 +2988,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of XCRC to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zXCRC</comment>
         <translation><numerusform>PrivacyDialoog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3305,8 +3305,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Aangepast back-up pad:</translation>
     </message>
     <message>
-        <source>Custom zBWK Backup Path:</source>
-        <translation>Aangepast zBWK back-up pad:</translation>
+        <source>Custom zXCRC Backup Path:</source>
+        <translation>Aangepast zXCRC back-up pad:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3805,12 +3805,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Munten automatisch geselecteerd</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBWKs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uBulwark's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uBulwark's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uXCRCs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uBulwark's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uBulwark's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "total at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBWKs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uBulwark's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uBulwark's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uXCRCs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uBulwark's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uBulwark's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
@@ -4529,8 +4529,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>CRyptoCrowd Stake</translation>
     </message>
     <message>
-        <source>zBWK Stake</source>
-        <translation>zBWK Stake</translation>
+        <source>zXCRC Stake</source>
+        <translation>zXCRC Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4549,32 +4549,32 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verduistering creëert denominaties</translation>
     </message>
     <message>
-        <source>Converted CRyptoCrowd to zBWK</source>
-        <translation>Geconverteerde CRyptoCrowd naar zBWK</translation>
+        <source>Converted CRyptoCrowd to zXCRC</source>
+        <translation>Geconverteerde CRyptoCrowd naar zXCRC</translation>
     </message>
     <message>
-        <source>Spent zBWK</source>
-        <translation>Bestede zBWK</translation>
+        <source>Spent zXCRC</source>
+        <translation>Bestede zXCRC</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>Ontvangen CRyptoCrowd van zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Ontvangen CRyptoCrowd van zXCRC</translation>
     </message>
     <message>
-        <source>Minted Change as zBWK from zBWK Spend</source>
-        <translation>Gemint wisselgeld als zBWK van bestede zBWK</translation>
+        <source>Minted Change as zXCRC from zXCRC Spend</source>
+        <translation>Gemint wisselgeld als zXCRC van bestede zXCRC</translation>
     </message>
     <message>
-        <source>Converted zBWK to CRyptoCrowd</source>
-        <translation>Geconverteerde zBWK naar CRyptoCrowd</translation>
+        <source>Converted zXCRC to CRyptoCrowd</source>
+        <translation>Geconverteerde zXCRC naar CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Transaction)</source>
-        <translation>Anonieme (zBWK transactie)</translation>
+        <source>Anonymous (zXCRC Transaction)</source>
+        <translation>Anonieme (zXCRC transactie)</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Stake)</source>
-        <translation>Anonieme (zBWK stake)</translation>
+        <source>Anonymous (zXCRC Stake)</source>
+        <translation>Anonieme (zXCRC stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4784,12 +4784,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Exporteren succesvol</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>Ontvangen CRyptoCrowd van zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Ontvangen CRyptoCrowd van zXCRC</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zBWK</source>
-        <translation>Zerocoin besteed, wisselgeld in zBWK</translation>
+        <source>Zerocoin Spend, Change in zXCRC</source>
+        <translation>Zerocoin besteed, wisselgeld in zXCRC</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4857,10 +4857,10 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
 </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
-        <source>Select zBWK to Spend</source>
-        <translation>Selecteer zBWK om te besteden</translation>
+        <source>Select zXCRC to Spend</source>
+        <translation>Selecteer zXCRC om te besteden</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4871,8 +4871,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4938,16 +4938,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Gedistribueerd onder de MIT software licentie, zie het bijgevoegde bestand COPYING of &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zBWK minting (0-1, default: %u)</source>
-        <translation>Schakel automatische portemonnee back-ups in geactiveerd na elke geminte zBWK (0-1, standaard: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</source>
+        <translation>Schakel automatische portemonnee back-ups in geactiveerd na elke geminte zXCRC (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
         <translation>In- of uitschakelen staking functionaliteit voor CRyptoCrowd inputs (0-1, standaard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
-        <translation>In- of uitschakelen staking functionaliteit voor zBWK inputs (0-1, standaard: %u)</translation>
+        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>
+        <translation>In- of uitschakelen staking functionaliteit voor zXCRC inputs (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -5542,8 +5542,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Percentage automatisch geminte Zerocoin (10-100, standaard: %u)</translation>
     </message>
     <message>
-        <source>Reindex the CRyptoCrowd and zBWK money supply statistics</source>
-        <translation>Indexeer de Bulwark- en zBWK-geldvoorraadstatistieken opnieuw</translation>
+        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>
+        <translation>Indexeer de Bulwark- en zXCRC-geldvoorraadstatistieken opnieuw</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5618,8 +5618,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Voorkeur denominatie voor automatisch minted Zerocoin (1/5/10/50/100/500/1000/5000), 0 voor geen voorkeur. standaard: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zBWK backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Specificeer aangepast back-up pad om een kopie van elke automatische zBWK back-up toe te voegen. Indien ingesteld als dir zal elke back-up een bestand genereren met een tijdstempel. Indien ingesteld als file zal elke back-up herschreven worden naar dat bestand. Indien backuppath ook is ingesteld zullen 4 back-ups gedaan worden.</translation>
+        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Specificeer aangepast back-up pad om een kopie van elke automatische zXCRC back-up toe te voegen. Indien ingesteld als dir zal elke back-up een bestand genereren met een tijdstempel. Indien ingesteld als file zal elke back-up herschreven worden naar dat bestand. Indien backuppath ook is ingesteld zullen 4 back-ups gedaan worden.</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6118,8 +6118,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Synchroniseren sporks...</translation>
     </message>
     <message>
-        <source>Syncing zBWK wallet...</source>
-        <translation>Synchroniseren zBWK portemonnee...</translation>
+        <source>Syncing zXCRC wallet...</source>
+        <translation>Synchroniseren zXCRC portemonnee...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6266,8 +6266,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Gebruikersnaam voor JSON-RPC verbindingen</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zBWK</source>
-        <translation>Waarde is minder dan de kleinst beschikbare denominatie (=1) van zBWK</translation>
+        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>
+        <translation>Waarde is minder dan de kleinst beschikbare denominatie (=1) van zXCRC</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6282,8 +6282,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Portemonnee verifiëren...</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>Versie 1 zBWK vereist een beveiligingsniveau van 100 om succesvol uit te geven.</translation>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Versie 1 zXCRC vereist een beveiligingsniveau van 100 om succesvol uit te geven.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>

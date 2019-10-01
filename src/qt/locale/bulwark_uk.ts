@@ -172,7 +172,7 @@
         <translation>Підтвердження шифрування гаманця</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd зараз закриється, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші CRyptoCrowd'и від крадіжки зловмисним програмним забезпеченням, що заражає ваш комп'ютер.</translation>
     </message>
     <message>
@@ -373,7 +373,7 @@
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     </context>
 <context>
     <name>bulwark-core</name>

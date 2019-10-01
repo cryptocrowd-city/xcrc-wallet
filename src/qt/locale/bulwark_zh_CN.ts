@@ -172,7 +172,7 @@
         <translation>确认钱包加密</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>Bulwark将关闭以完成加密过程。但是，仅仅加密您的钱包是不够的，因为它并不能阻止恶意软件从您的电脑里面偷取Bulwarks。</translation>
     </message>
     <message>
@@ -1533,7 +1533,7 @@ Address: %4
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     </context>
 <context>
     <name>bulwark-core</name>

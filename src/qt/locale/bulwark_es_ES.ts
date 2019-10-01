@@ -176,7 +176,7 @@
         <translation>Confirmar encriptación del monedero</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus Bulwarks frente a malware que infecte su ordenador.</translation>
     </message>
     <message>
@@ -645,7 +645,7 @@
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     </context>
 <context>
     <name>bulwark-core</name>

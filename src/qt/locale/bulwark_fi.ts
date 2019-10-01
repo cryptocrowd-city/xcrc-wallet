@@ -172,7 +172,7 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella Bulwarkien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
     </message>
     <message>
@@ -2511,7 +2511,7 @@ Please check the address and try again.</source>
     </message>
 </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>

@@ -1,17 +1,17 @@
 import socket
 
 seeders = [
-    'bwkseed.mempool.pw',
-    'bwkseed1.cryptocrowd.city',
-    'bwkseed2.cryptocrowd.city',
-    'bwkseed3.cryptocrowd.city',
-    'bwkseed4.cryptocrowd.city',
-    'bwkseed5.cryptocrowd.city',
-    'bwkseed1.bulwarkcrypto.site',
-    'bwkseed2.bulwarkcrypto.site',
-    'bwkseed3.bulwarkcrypto.site',
-    'bwkseed4.bulwarkcrypto.site',
-    'bwkseed5.bulwarkcrypto.site'
+    'xcrcseed.mempool.pw',
+    'xcrcseed1.cryptocrowd.city',
+    'xcrcseed2.cryptocrowd.city',
+    'xcrcseed3.cryptocrowd.city',
+    'xcrcseed4.cryptocrowd.city',
+    'xcrcseed5.cryptocrowd.city',
+    'xcrcseed1.bulwarkcrypto.site',
+    'xcrcseed2.bulwarkcrypto.site',
+    'xcrcseed3.bulwarkcrypto.site',
+    'xcrcseed4.bulwarkcrypto.site',
+    'xcrcseed5.bulwarkcrypto.site'
 ]
 
 for seeder in seeders:

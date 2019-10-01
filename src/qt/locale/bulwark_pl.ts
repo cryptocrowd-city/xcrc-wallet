@@ -2021,7 +2021,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations </transla
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>

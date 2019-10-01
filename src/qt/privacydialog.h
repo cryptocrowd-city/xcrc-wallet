@@ -74,7 +74,7 @@ class PrivacyDialog : public QDialog {
 
     int nDisplayUnit;
     bool updateLabel(const QString& address);
-    void sendzBWK();
+    void sendzXCRC();
 
   private slots:
     void on_payTo_textChanged(const QString& address);
@@ -94,9 +94,9 @@ class PrivacyDialog : public QDialog {
 //    void coinControlClipboardLowOutput();
 //    void coinControlClipboardChange();
 
-    void on_pushButtonMintzBWK_clicked();
-    void on_pushButtonSpendzBWK_clicked();
-    void on_pushButtonZBWKControl_clicked();
+    void on_pushButtonMintzXCRC_clicked();
+    void on_pushButtonSpendzXCRC_clicked();
+    void on_pushButtonZXCRCControl_clicked();
     void on_pasteButton_clicked();
     void updateDisplayUnit();
 };

@@ -23,8 +23,8 @@ CRyptoCrowd 2.1.0.0 is a mandatory update to address bugs and introduce enhancem
 - Replaced UI icons and fixed icon references in the wallet.
 
 ## Zerocoin
-- Corrected the confirmation information for zBWK transactions in the transaction list and overview page.
-- Lessoned zBWK confirmation count (UI only) in favor of proper icon referencing. 
+- Corrected the confirmation information for zXCRC transactions in the transaction list and overview page.
+- Lessoned zXCRC confirmation count (UI only) in favor of proper icon referencing. 
 
 
 ## Technical

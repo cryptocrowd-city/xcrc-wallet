@@ -176,7 +176,7 @@
         <translation>Confirmer le cryptage du portefeuille</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd va maintenant se fermer pour finir le processus de cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos Bulwarks d'un vol par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
@@ -433,8 +433,8 @@
         <translation>Afficher l'historique de transaction</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Actions confidentielles pour zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Actions confidentielles pour zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1887,24 +1887,24 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Répertorier les port utilisant UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
-        <translation>Activé l'auto-monnayage de CRyptoCrowd unités en zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>Activé l'auto-monnayage de CRyptoCrowd unités en zXCRC</translation>
     </message>
     <message>
-        <source>Enable zBWK Automint</source>
-        <translation>Activé zBWK Auto-monnayage</translation>
+        <source>Enable zXCRC Automint</source>
+        <translation>Activé zXCRC Auto-monnayage</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Pourcentage des CRyptoCrowd entrants qui seront automatiquement convertis en zBWK via le protocole Zerocoin (min. 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>Pourcentage des CRyptoCrowd entrants qui seront automatiquement convertis en zXCRC via le protocole Zerocoin (min. 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBWK</source>
-        <translation>Pourcentage de zBWK auto-monnayé</translation>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>Pourcentage de zXCRC auto-monnayé</translation>
     </message>
     <message>
-        <source>Preferred Automint zBWK Denomination</source>
-        <translation>Dénomination préférée d'auto-monnayage zBWK</translation>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>Dénomination préférée d'auto-monnayage zXCRC</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
@@ -2094,14 +2094,14 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Votre solde CRyptoCrowd actuel, incluant les transactions non confirmées et immatures</translation>
     </message>
     <message>
-        <source>zBWK Balance</source>
-        <translation>Solde de zBWK</translation>
+        <source>zXCRC Balance</source>
+        <translation>Solde de zXCRC</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</source>
+These zXCRC are spendable.</source>
         <translation>Maturité: plus de 20 confirmations et plus de 1 monnayer de la même dénomination après sa frappe.
-Ces zBWK sont dépensables.</translation>
+Ces zXCRC sont dépensables.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2154,8 +2154,8 @@ Immature: confirmé, mais moins de 1 monnayer de la même dénomination après s
         <translation>Dépensable:</translation>
     </message>
     <message>
-        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>CRyptoCrowd Verrouillé ou Masternode collatéraux. Ceux-ci sont exclus de la monnayage zBWK.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>CRyptoCrowd Verrouillé ou Masternode collatéraux. Ceux-ci sont exclus de la monnayage zXCRC.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2166,8 +2166,8 @@ Immature: confirmé, mais moins de 1 monnayer de la même dénomination après s
         <translation>Non confirmé:</translation>
     </message>
     <message>
-        <source>Your current zBWK balance, unconfirmed and immature zBWK included.</source>
-        <translation>Votre solde courant zBWK, incluant les zBWK non confirmés et immatures.</translation>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
+        <translation>Votre solde courant zXCRC, incluant les zXCRC non confirmés et immatures.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2178,10 +2178,10 @@ Immature: confirmé, mais moins de 1 monnayer de la même dénomination après s
         <translation>désynchronisé</translation>
     </message>
     <message>
-        <source>Current percentage of zBWK.
+        <source>Current percentage of zXCRC.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Le pourcentage actuel de zBWK.
+        <translation>Le pourcentage actuel de zXCRC.
 Si Auto-monnayage est activé, ce pourcentage sera réglé autour du pourcentage Auto-monnayage configuré (par défaut = 10%).</translation>
     </message>
     <message>
@@ -2324,8 +2324,8 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2376,16 +2376,16 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>CONFIDENTIALITÉ</translation>
     </message>
     <message>
-        <source>Enter an amount of XCRC to convert to zBWK</source>
-        <translation>Entrez un montant de CRyptoCrowd à convertir en zBWK</translation>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
+        <translation>Entrez un montant de CRyptoCrowd à convertir en zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Control</source>
-        <translation>Contrôle zBWK</translation>
+        <source>zXCRC Control</source>
+        <translation>Contrôle zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Selected:</source>
-        <translation>zBWK sélectionné:</translation>
+        <source>zXCRC Selected:</source>
+        <translation>zXCRC sélectionné:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2400,24 +2400,24 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>Dépenser Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending</source>
-        <translation>zBWK disponibles (matures et dépensables) pour dépenser</translation>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>zXCRC disponibles (matures et dépensables) pour dépenser</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Solde disponible:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending
+        <source>Available (mature and spendable) zXCRC for spending
 
-zBWK are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>zBWK disponible (mature et utilisable) pour les dépenses
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>zXCRC disponible (mature et utilisable) pour les dépenses
 
-Les zBWK sont matures lorsqu'elles ont plus de 20 confirmations ET plus de 2 monnayent de même dénomination après ils était monnayer</translation>
+Les zXCRC sont matures lorsqu'elles ont plus de 20 confirmations ET plus de 2 monnayent de même dénomination après ils était monnayer</translation>
     </message>
     <message>
-        <source>0 zBWK</source>
-        <translation>0 zBWK</translation>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2488,8 +2488,8 @@ Les zBWK sont matures lorsqu'elles ont plus de 20 confirmations ET plus de 2 mon
         <translation>Statistiques Zerocoin:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
-        <translation>Solde total incluant les zBWK non confirmés et immatures</translation>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Solde total incluant les zXCRC non confirmés et immatures</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2510,24 +2510,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Immature: confirmé, mais moins de 1 monnayer de la même dénomination après sa frappe</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zBWK minting.
+        <source>Show the current status of automatic zXCRC minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to cryptocrowd.conf
 - disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
 
 </source>
-        <translation>Afficher l'état actuel de monnayage automatique zBWK.
+        <translation>Afficher l'état actuel de monnayage automatique zXCRC.
 
 Pour changer le statut (redémarrage requis):
 - enable: ajoute 'enablezeromint = 1' au fichier cryptocrowd.conf
 - disable: ajoute 'enablezeromint = 0' au fichier cryptocrowd.conf
 
 Pour changer le pourcentage (pas de redémarrage requis):
-- menu Paramètres-&gt; Options-&gt; Pourcentage de zBWK auto-monnayé
+- menu Paramètres-&gt; Options-&gt; Pourcentage de zXCRC auto-monnayé
 
 </translation>
     </message>
@@ -2724,12 +2724,12 @@ Maximum allowed: </source>
 Maximum autorisé:</translation>
     </message>
     <message>
-        <source>zBWK Spend #: </source>
-        <translation>Dépense zBWK #:</translation>
+        <source>zXCRC Spend #: </source>
+        <translation>Dépense zXCRC #:</translation>
     </message>
     <message>
-        <source>zBWK Mint</source>
-        <translation>Monnayer zBWK</translation>
+        <source>zXCRC Mint</source>
+        <translation>Monnayer zXCRC</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2744,12 +2744,12 @@ Maximum autorisé:</translation>
         <translation>Pourcentage cible configuré: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zBWK is currently disabled due to maintenance.</source>
-        <translation>zBWK est actuellement désactivé pour cause de maintenance.</translation>
+        <source>zXCRC is currently disabled due to maintenance.</source>
+        <translation>zXCRC est actuellement désactivé pour cause de maintenance.</translation>
     </message>
     <message>
-        <source>zBWK is currently undergoing maintenance.</source>
-        <translation>zBWK est actuellement en cours de maintenance.</translation>
+        <source>zXCRC is currently undergoing maintenance.</source>
+        <translation>zXCRC est actuellement en cours de maintenance.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2836,8 +2836,8 @@ Maximum autorisé:</translation>
         <translation>Monnayez réussi</translation>
     </message>
     <message>
-        <source> zBWK in </source>
-        <translation>zBWK dans</translation>
+        <source> zXCRC in </source>
+        <translation>zXCRC dans</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2892,13 +2892,13 @@ Maximum autorisé:</translation>
         <translation>Confirmer l'envoi des pièces</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>La version 1 de zBWK requiert un niveau de sécurité de 100 pour les dépenser.
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>La version 1 de zXCRC requiert un niveau de sécurité de 100 pour les dépenser.
 </translation>
     </message>
     <message>
-        <source>Failed to spend zBWK</source>
-        <translation>Échec de la dépense de zBWK</translation>
+        <source>Failed to spend zXCRC</source>
+        <translation>Échec de la dépense de zXCRC</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -3232,8 +3232,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Chemin du répertoire de sauvegarde personnalisé:</translation>
     </message>
     <message>
-        <source>Custom zBWK Backup Path:</source>
-        <translation>Chemin du répertoire de sauvegarde zBWK personnalisé:</translation>
+        <source>Custom zXCRC Backup Path:</source>
+        <translation>Chemin du répertoire de sauvegarde zXCRC personnalisé:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -4156,36 +4156,36 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>CRyptoCrowd Stake</translation>
     </message>
     <message>
-        <source>zBWK Stake</source>
-        <translation>zBWK Stake</translation>
+        <source>zXCRC Stake</source>
+        <translation>zXCRC Stake</translation>
     </message>
     <message>
-        <source>Converted CRyptoCrowd to zBWK</source>
-        <translation>CRyptoCrowd converti en zBWK</translation>
+        <source>Converted CRyptoCrowd to zXCRC</source>
+        <translation>CRyptoCrowd converti en zXCRC</translation>
     </message>
     <message>
-        <source>Spent zBWK</source>
-        <translation>zBWK dépensés</translation>
+        <source>Spent zXCRC</source>
+        <translation>zXCRC dépensés</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>CRyptoCrowd reçu depuis zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>CRyptoCrowd reçu depuis zXCRC</translation>
     </message>
     <message>
-        <source>Minted Change as zBWK from zBWK Spend</source>
-        <translation>Monnaie rendue à partir d'une dépense zBWK frappée comme zBWK </translation>
+        <source>Minted Change as zXCRC from zXCRC Spend</source>
+        <translation>Monnaie rendue à partir d'une dépense zXCRC frappée comme zXCRC </translation>
     </message>
     <message>
-        <source>Converted zBWK to CRyptoCrowd</source>
-        <translation>zBWK converti en CRyptoCrowd</translation>
+        <source>Converted zXCRC to CRyptoCrowd</source>
+        <translation>zXCRC converti en CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Transaction)</source>
-        <translation>Anonyme (transaction zBWK)</translation>
+        <source>Anonymous (zXCRC Transaction)</source>
+        <translation>Anonyme (transaction zXCRC)</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Stake)</source>
-        <translation>Anonyme (zBWK Stake)</translation>
+        <source>Anonymous (zXCRC Stake)</source>
+        <translation>Anonyme (zXCRC Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4343,12 +4343,12 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Une erreur est survenue lors de la tentative de sauvegarde de l'historique de transaction vers %1.</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>CRyptoCrowd reçu depuis zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>CRyptoCrowd reçu depuis zXCRC</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zBWK</source>
-        <translation>Dépense Zerocoin, monnaie rendue en zBWK</translation>
+        <source>Zerocoin Spend, Change in zXCRC</source>
+        <translation>Dépense Zerocoin, monnaie rendue en zXCRC</translation>
     </message>
     </context>
 <context>
@@ -4388,7 +4388,7 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
     </message>
 </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
         <source>Quantity</source>
         <translation>Quantité </translation>
@@ -4398,8 +4398,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     </context>
 <context>
@@ -4409,8 +4409,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Active ou désactive la fonctionnalité de staking pour les entrées CRyptoCrowd (0-1, par défaut: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
-        <translation>Active ou désactive la fonctionnalité de staking pour les entrées zBWK (0-1, par défaut: %u)</translation>
+        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>
+        <translation>Active ou désactive la fonctionnalité de staking pour les entrées zXCRC (0-1, par défaut: %u)</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -4880,8 +4880,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Synchronisation des sporks ...</translation>
     </message>
     <message>
-        <source>Syncing zBWK wallet...</source>
-        <translation>Synchronisation du portefeuille zBWK ...</translation>
+        <source>Syncing zXCRC wallet...</source>
+        <translation>Synchronisation du portefeuille zXCRC ...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -5028,8 +5028,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Nom d'utilisateur pour les connections JSON-RPC</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zBWK</source>
-        <translation>La valeur est inférieure à la plus petite dénomination disponible (= 1) de zBWK</translation>
+        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>
+        <translation>La valeur est inférieure à la plus petite dénomination disponible (= 1) de zXCRC</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -5044,8 +5044,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Vérification du portefeuille...</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>La version 1 de zBWK requiert un niveau de sécurité de 100 pour les dépenser.
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>La version 1 de zXCRC requiert un niveau de sécurité de 100 pour les dépenser.
 </translation>
     </message>
     <message>

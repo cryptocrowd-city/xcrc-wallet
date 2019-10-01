@@ -57,7 +57,7 @@ class OverviewPage : public QWidget {
     CAmount currentWatchUnconfBalance;
     CAmount currentWatchImmatureBalance;
     int nDisplayUnit;
-    void getPercentage(CAmount nTotalBalance, CAmount nZerocoinBalance, QString& sBWKPercentage, QString& szBWKPercentage);
+    void getPercentage(CAmount nTotalBalance, CAmount nZerocoinBalance, QString& sXCRCPercentage, QString& szXCRCPercentage);
 
     TxViewDelegate* txdelegate;
     TransactionFilterProxy* filter;

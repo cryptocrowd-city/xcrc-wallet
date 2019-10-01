@@ -172,7 +172,7 @@
         <translation>Potvrdit zašifrování peněženky</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd se teď zavře pro dokončení šifrovacího procesu. Prosím, vemte na vědomí, že zašifrování Vaší peněženky plně neochrání Vaše Bulwarky před krádží, pokud je Váš počítač infikován malwarem.</translation>
     </message>
     <message>
@@ -397,8 +397,8 @@
         <translation>Procházet historii transakcí</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Řešení soukromí pro zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Řešení soukromí pro zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -2395,7 +2395,7 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>

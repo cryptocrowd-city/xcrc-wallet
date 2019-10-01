@@ -533,7 +533,7 @@
                      <widget class="QLabel" name="labelzBalanceMatureText">
                       <property name="toolTip">
                        <string>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</string>
+These zXCRC are spendable.</string>
                       </property>
                       <property name="text">
                        <string>Mature:</string>
@@ -552,7 +552,7 @@ These zBWK are spendable.</string>
                        <cursorShape>IBeamCursor</cursorShape>
                       </property>
                       <property name="toolTip">
-                       <string>All available zBWK, unconfirmed and immature zBWK included.</string>
+                       <string>All available zXCRC, unconfirmed and immature zXCRC included.</string>
                       </property>
                       <property name="text">
                        <string notr="true">0.000 000 00 XCRC</string>
@@ -568,7 +568,7 @@ These zBWK are spendable.</string>
                     <item row="1" column="0">
                      <widget class="QLabel" name="labelzBalanceText">
                       <property name="toolTip">
-                       <string>All available zBWK, unconfirmed and immature zBWK included.</string>
+                       <string>All available zXCRC, unconfirmed and immature zXCRC included.</string>
                       </property>
                       <property name="text">
                        <string>Total:</string>
@@ -611,7 +611,7 @@ These zBWK are spendable.</string>
                       </property>
                       <property name="toolTip">
                        <string>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</string>
+These zXCRC are spendable.</string>
                       </property>
                       <property name="text">
                        <string>0.000 000 00 XCRC</string>
@@ -901,14 +901,14 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
                        <string/>
                       </property>
                       <property name="text">
-                       <string>zBWK:</string>
+                       <string>zXCRC:</string>
                       </property>
                      </widget>
                     </item>
                     <item row="4" column="2">
-                     <widget class="QLabel" name="labelzBWKPercent">
+                     <widget class="QLabel" name="labelzXCRCPercent">
                       <property name="toolTip">
-                       <string>Current percentage of zBWK.
+                       <string>Current percentage of zXCRC.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 0%)</string>
                       </property>
                       <property name="text">
@@ -932,7 +932,7 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
                     <item row="2" column="1">
                      <widget class="QLabel" name="labelLockedBalance">
                       <property name="toolTip">
-                       <string>Locked XCRC or Masternode collaterals. These are excluded from zBWK minting.</string>
+                       <string>Locked XCRC or Masternode collaterals. These are excluded from zXCRC minting.</string>
                       </property>
                       <property name="text">
                        <string>0.000 000 00 XCRC</string>
@@ -945,7 +945,7 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
                     <item row="2" column="0">
                      <widget class="QLabel" name="labelLockedBalanceText">
                       <property name="toolTip">
-                       <string>Locked XCRC or Masternode collaterals. These are excluded from zBWK minting.</string>
+                       <string>Locked XCRC or Masternode collaterals. These are excluded from zXCRC minting.</string>
                       </property>
                       <property name="text">
                        <string>Locked:</string>
@@ -955,7 +955,7 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
                     <item row="3" column="0">
                      <widget class="QLabel" name="labelUnLockedBalanceText">
                       <property name="toolTip">
-                       <string>Unlocked BWKs. These can be used for zBWK minting.</string>
+                       <string>Unlocked XCRCs. These can be used for zXCRC minting.</string>
                       </property>
                       <property name="text">
                        <string>Unlocked:</string>
@@ -965,7 +965,7 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
                     <item row="3" column="1">
                      <widget class="QLabel" name="labelUnLockedBalance">
                       <property name="toolTip">
-                       <string>Unlocked BWKs. These can be used for zBWK minting.</string>
+                       <string>Unlocked XCRCs. These can be used for zXCRC minting.</string>
                       </property>
                       <property name="text">
                        <string>0.000 000 00 XCRC</string>
@@ -976,7 +976,7 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
                      </widget>
                     </item>
                     <item row="3" column="2">
-                     <widget class="QLabel" name="labelBWKPercent">
+                     <widget class="QLabel" name="labelXCRCPercent">
                       <property name="text">
                        <string>0 %</string>
                       </property>

@@ -176,7 +176,7 @@
         <translation>Bekræft, og tegnebogen krypteres.</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd vil lukke ned for at færdiggøre kryptograferingsprocesserne. Husk at kryptering alene ikke sikrer mod tyveri af mønterne fra malware eller virus på computeren.</translation>
     </message>
     <message>
@@ -433,8 +433,8 @@
         <translation>Vis transaktionshistorik</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Beskyttelse af personlige oplysninger for zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Beskyttelse af personlige oplysninger for zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1948,28 +1948,28 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>MAP port ved hjælp af UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
-        <translation>Aktivér automatisk mintning af Bulwark-enheder til zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>Aktivér automatisk mintning af Bulwark-enheder til zXCRC</translation>
     </message>
     <message>
-        <source>Enable zBWK Automint</source>
-        <translation>Aktivér zBWK Automint</translation>
+        <source>Enable zXCRC Automint</source>
+        <translation>Aktivér zXCRC Automint</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procentdelen af indkommende CRyptoCrowd, som automatisk konverteres til zBWK via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procentdelen af indkommende CRyptoCrowd, som automatisk konverteres til zXCRC via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBWK</source>
-        <translation>Procentdel af automatiseret zBWK</translation>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>Procentdel af automatiseret zXCRC</translation>
     </message>
     <message>
         <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
         <translation>Vent med automatisk konvertering til Zerocoin, indtil nok CRyptoCrowd til denne betegnelse er tilgængelig</translation>
     </message>
     <message>
-        <source>Preferred Automint zBWK Denomination</source>
-        <translation>Foretrukket Automint zBWK Denomination</translation>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>Foretrukket Automint zXCRC Denomination</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
@@ -2159,14 +2159,14 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Din nuværende Bulwark-saldo, ubekræftede og umodne transaktioner inkluderet</translation>
     </message>
     <message>
-        <source>zBWK Balance</source>
-        <translation>zBWK-saldo</translation>
+        <source>zXCRC Balance</source>
+        <translation>zXCRC-saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</source>
+These zXCRC are spendable.</source>
         <translation>Ældre: mere end 20 bekræftelser og mere end 1 minutter med samme betegnelse, efter at den blev minted
-Disse zBWK kan bruges.</translation>
+Disse zXCRC kan bruges.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2219,8 +2219,8 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
         <translation>Brugbare:</translation>
     </message>
     <message>
-        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Låste CRyptoCrowd eller Masternode collaterals. Disse er udelukket fra zBWK-mintning.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>Låste CRyptoCrowd eller Masternode collaterals. Disse er udelukket fra zXCRC-mintning.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2231,8 +2231,8 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
         <translation>Ubekræftet:</translation>
     </message>
     <message>
-        <source>Your current zBWK balance, unconfirmed and immature zBWK included.</source>
-        <translation>Din nuværende zBWK-saldo, ubekræftede og umodne zBWK inkluderet.</translation>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
+        <translation>Din nuværende zXCRC-saldo, ubekræftede og umodne zXCRC inkluderet.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2243,10 +2243,10 @@ Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at d
         <translation>Ude af synk</translation>
     </message>
     <message>
-        <source>Current percentage of zBWK.
+        <source>Current percentage of zXCRC.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Nuværende procentdel af zBWK
+        <translation>Nuværende procentdel af zXCRC
 Hvis AutoMint er aktiveret, vil denne procentdel sætte sig omkring den konfigurerede AutoMint-procent (default = 10%)</translation>
     </message>
     <message>
@@ -2389,8 +2389,8 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2441,16 +2441,16 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>PRIVATLIV</translation>
     </message>
     <message>
-        <source>Enter an amount of XCRC to convert to zBWK</source>
-        <translation>Indtast en mængde CRyptoCrowd for at konvertere til zBWK</translation>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
+        <translation>Indtast en mængde CRyptoCrowd for at konvertere til zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Control</source>
-        <translation>zBWK Control</translation>
+        <source>zXCRC Control</source>
+        <translation>zXCRC Control</translation>
     </message>
     <message>
-        <source>zBWK Selected:</source>
-        <translation>zBWK Selected:</translation>
+        <source>zXCRC Selected:</source>
+        <translation>zXCRC Selected:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2465,24 +2465,24 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>Tilbring Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending</source>
-        <translation>Tilgængelig (moden og brugt) zBWK for udgifter</translation>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>Tilgængelig (moden og brugt) zXCRC for udgifter</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Disponibel saldo:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending
+        <source>Available (mature and spendable) zXCRC for spending
 
-zBWK are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Tilgængelig (moden og brugt) zBWK for spending
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Tilgængelig (moden og brugt) zXCRC for spending
 
-zBWK er modne, når de har mere end 20 bekræftelser OG mere end 2 minutter med samme betegnelse, efter at de blev præsenteret</translation>
+zXCRC er modne, når de har mere end 20 bekræftelser OG mere end 2 minutter med samme betegnelse, efter at de blev præsenteret</translation>
     </message>
     <message>
-        <source>0 zBWK</source>
-        <translation>0 zBWK</translation>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2553,8 +2553,8 @@ zBWK er modne, når de har mere end 20 bekræftelser OG mere end 2 minutter med 
         <translation>Zerocoin Stats:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
-        <translation>Samlet saldo inklusive ubekræftede og umodne zBWK</translation>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Samlet saldo inklusive ubekræftede og umodne zXCRC</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2575,24 +2575,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Uplettet: bekræftet, men mindre end 1 minutter med samme betegnelse, efter at den blev mønnet</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zBWK minting.
+        <source>Show the current status of automatic zXCRC minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to cryptocrowd.conf
 - disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
 
 </source>
-        <translation>Vis den aktuelle status for automatisk zBWK minting.øj
+        <translation>Vis den aktuelle status for automatisk zXCRC minting.øj
 
 For at ændre status (genstart kræves):.
 - aktiver: tilføj 'enablezeromint = 1' til cryptocrowd.conf
 - deaktiver: tilføj 'enablezeromint = 0' til cryptocrowd.conf
 
 For at ændre procentdelen (ingen genstart kræves):.
-- menu Indstillinger-&gt; Indstillinger-&gt; Procentdel af automatiseret zBWK
+- menu Indstillinger-&gt; Indstillinger-&gt; Procentdel af automatiseret zXCRC
 </translation>
     </message>
     <message>
@@ -2788,12 +2788,12 @@ Maximum allowed: </source>
 Maksimum tilladt:</translation>
     </message>
     <message>
-        <source>zBWK Spend #: </source>
-        <translation>zBWK Spend #: </translation>
+        <source>zXCRC Spend #: </source>
+        <translation>zXCRC Spend #: </translation>
     </message>
     <message>
-        <source>zBWK Mint</source>
-        <translation>zBWK Mint</translation>
+        <source>zXCRC Mint</source>
+        <translation>zXCRC Mint</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2808,12 +2808,12 @@ Maksimum tilladt:</translation>
         <translation>Konfigureret målprocent:&lt;b&gt;</translation>
     </message>
     <message>
-        <source>zBWK is currently disabled due to maintenance.</source>
-        <translation>zBWK er i øjeblikket deaktiveret på grund af vedligeholdelse.</translation>
+        <source>zXCRC is currently disabled due to maintenance.</source>
+        <translation>zXCRC er i øjeblikket deaktiveret på grund af vedligeholdelse.</translation>
     </message>
     <message>
-        <source>zBWK is currently undergoing maintenance.</source>
-        <translation>zBWK er i øjeblikket under opretholdelse.</translation>
+        <source>zXCRC is currently undergoing maintenance.</source>
+        <translation>zXCRC er i øjeblikket under opretholdelse.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2900,8 +2900,8 @@ Maksimum tilladt:</translation>
         <translation>Mynt succesfuldt</translation>
     </message>
     <message>
-        <source> zBWK in </source>
-        <translation> zBWK i</translation>
+        <source> zXCRC in </source>
+        <translation> zXCRC i</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2960,12 +2960,12 @@ Maksimum tilladt:</translation>
         <translation>Bekræft at De vil sende mønter</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zBWK kræver et sikkerhedsniveau på 100 til succes.</translation>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zXCRC kræver et sikkerhedsniveau på 100 til succes.</translation>
     </message>
     <message>
-        <source>Failed to spend zBWK</source>
-        <translation>Kunne ikke bruge zBWK</translation>
+        <source>Failed to spend zXCRC</source>
+        <translation>Kunne ikke bruge zXCRC</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2987,7 +2987,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of XCRC to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zXCRC</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3304,8 +3304,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Brugerdefineret Backup-sti:</translation>
     </message>
     <message>
-        <source>Custom zBWK Backup Path:</source>
-        <translation>Brugerdefineret zBWK Backup-sti:</translation>
+        <source>Custom zXCRC Backup Path:</source>
+        <translation>Brugerdefineret zXCRC Backup-sti:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3804,12 +3804,12 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Mønter vælges automatisk</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uBWKs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBulwark i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uBWKs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uXCRCs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBulwark i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uXCRCs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "total at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uBWKs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBulwark i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uBWKs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uXCRCs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBulwark i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uXCRCs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
@@ -4528,8 +4528,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>CRyptoCrowd Stake</translation>
     </message>
     <message>
-        <source>zBWK Stake</source>
-        <translation>zBWK Stake</translation>
+        <source>zXCRC Stake</source>
+        <translation>zXCRC Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4548,32 +4548,32 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Opret tilsløret designering</translation>
     </message>
     <message>
-        <source>Converted CRyptoCrowd to zBWK</source>
-        <translation>Konverteret CRyptoCrowd til zBWK</translation>
+        <source>Converted CRyptoCrowd to zXCRC</source>
+        <translation>Konverteret CRyptoCrowd til zXCRC</translation>
     </message>
     <message>
-        <source>Spent zBWK</source>
-        <translation>Brugt zBWK</translation>
+        <source>Spent zXCRC</source>
+        <translation>Brugt zXCRC</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>Modtaget CRyptoCrowd fra zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Modtaget CRyptoCrowd fra zXCRC</translation>
     </message>
     <message>
-        <source>Minted Change as zBWK from zBWK Spend</source>
-        <translation>Minted Change som zBWK fra zBWK Spend</translation>
+        <source>Minted Change as zXCRC from zXCRC Spend</source>
+        <translation>Minted Change som zXCRC fra zXCRC Spend</translation>
     </message>
     <message>
-        <source>Converted zBWK to CRyptoCrowd</source>
-        <translation>Konverteret CRyptoCrowd til zBWK</translation>
+        <source>Converted zXCRC to CRyptoCrowd</source>
+        <translation>Konverteret CRyptoCrowd til zXCRC</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Transaction)</source>
-        <translation>Anonym (zBWK Transaction)</translation>
+        <source>Anonymous (zXCRC Transaction)</source>
+        <translation>Anonym (zXCRC Transaction)</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Stake)</source>
-        <translation>Anonym (zBWK Stake)</translation>
+        <source>Anonymous (zXCRC Stake)</source>
+        <translation>Anonym (zXCRC Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4783,12 +4783,12 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Eksporteret!</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>Modtaget CRyptoCrowd fra zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Modtaget CRyptoCrowd fra zXCRC</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zBWK</source>
-        <translation>Zerocoin Spend, Ændring i zBWK</translation>
+        <source>Zerocoin Spend, Change in zXCRC</source>
+        <translation>Zerocoin Spend, Ændring i zXCRC</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4856,10 +4856,10 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
 </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
-        <source>Select zBWK to Spend</source>
-        <translation>Vælg zBWK for at bruge</translation>
+        <source>Select zXCRC to Spend</source>
+        <translation>Vælg zXCRC for at bruge</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4870,8 +4870,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4938,16 +4938,16 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 &lt;http://www.opensource.org/licenses/mit-license.php&gt;. </translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zBWK minting (0-1, default: %u)</source>
-        <translation>Aktivér automatiske wallet-sikkerhedskopier udløst efter hver zBWK-mintning (0-1, standard: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</source>
+        <translation>Aktivér automatiske wallet-sikkerhedskopier udløst efter hver zXCRC-mintning (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
         <translation>Aktiver eller deaktiver staking-funktionalitet for Bulwark-indgange (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
-        <translation>Aktiver eller deaktiver staking-funktionalitet for zBWK-indgange (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>
+        <translation>Aktiver eller deaktiver staking-funktionalitet for zXCRC-indgange (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -5542,8 +5542,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Procentdel af automatisk mintede Zerocoin (10-100, standard: %u)</translation>
     </message>
     <message>
-        <source>Reindex the CRyptoCrowd and zBWK money supply statistics</source>
-        <translation>Reindex CRyptoCrowd og zBWK pengemængde statistikker</translation>
+        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>
+        <translation>Reindex CRyptoCrowd og zXCRC pengemængde statistikker</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5618,8 +5618,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Foretrukken Betegnelse for automatisk mintede Zerocoin (1/5/10/50/100/500/1000/5000), 0 uden præference. standard: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zBWK backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Angiv brugerdefineret backup-vej for at tilføje en kopi af enhver zBWK-backup. Hvis det er angivet som dig, genererer hver backup en tidsstempelet fil. Hvis den er angivet som fil, ønsker man at omskrive til den pågældende fil hver backup. Hvis backupath er indstillet, vil der ske 4 sikkerhedskopier</translation>
+        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Angiv brugerdefineret backup-vej for at tilføje en kopi af enhver zXCRC-backup. Hvis det er angivet som dig, genererer hver backup en tidsstempelet fil. Hvis den er angivet som fil, ønsker man at omskrive til den pågældende fil hver backup. Hvis backupath er indstillet, vil der ske 4 sikkerhedskopier</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6118,8 +6118,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Synkroniserer sporks...</translation>
     </message>
     <message>
-        <source>Syncing zBWK wallet...</source>
-        <translation>Syncing zBWK wallet ..</translation>
+        <source>Syncing zXCRC wallet...</source>
+        <translation>Syncing zXCRC wallet ..</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6266,8 +6266,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Brugernavn til JSON-RPC forbindelser</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zBWK</source>
-        <translation>Værdien er under den mindste tilgængelige værdi (= 1) for zBWK</translation>
+        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>
+        <translation>Værdien er under den mindste tilgængelige værdi (= 1) for zXCRC</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6282,8 +6282,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Verificerer  tegnebog</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zBWK kræver et sikkerhedsniveau på 100 til succes.</translation>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zXCRC kræver et sikkerhedsniveau på 100 til succes.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>

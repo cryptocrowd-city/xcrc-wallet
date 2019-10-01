@@ -2,8 +2,8 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#include "zbwkcontroldialog.h"
-#include "ui_zbwkcontroldialog.h"
+#include "zxcrccontroldialog.h"
+#include "ui_zxcrccontroldialog.h"
 
 #include "main.h"
 #include "walletmodel.h"

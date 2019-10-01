@@ -135,10 +135,10 @@
          <item>
           <widget class="QLabel" name="percentage_label">
            <property name="toolTip">
-            <string>Percentage of incoming XCRC which get automatically converted to zBWK via Zerocoin Protocol</string>
+            <string>Percentage of incoming XCRC which get automatically converted to zXCRC via Zerocoin Protocol</string>
            </property>
            <property name="text">
-            <string>Percentage of autominted zBWK</string>
+            <string>Percentage of autominted zXCRC</string>
            </property>
           </widget>
          </item>
@@ -171,7 +171,7 @@
             <string>Wait with automatic conversion to Zerocoin until enough XCRC for this denomination is available</string>
            </property>
            <property name="text">
-            <string>Preferred Automint zBWK Denomination</string>
+            <string>Preferred Automint zXCRC Denomination</string>
            </property>
           </widget>
          </item>

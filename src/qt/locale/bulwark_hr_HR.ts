@@ -176,7 +176,7 @@
         <translation>Potvrdi šifriranje novčanika</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše CRyptoCrowd od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
@@ -433,8 +433,8 @@
         <translation>Pregled povijesti transakcija</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Postavke privatnosti za zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Postavke privatnosti za zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1948,28 +1948,28 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
 </translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
-        <translation>Omogućite automint CRyptoCrowd jedinica na zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>Omogućite automint CRyptoCrowd jedinica na zXCRC</translation>
     </message>
     <message>
-        <source>Enable zBWK Automint</source>
-        <translation>Omogući zBWK Automint</translation>
+        <source>Enable zXCRC Automint</source>
+        <translation>Omogući zXCRC Automint</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Postotak dolaznih CRyptoCrowd koji se automatski pretvara u zBWK putem protokola Zerocoin (min: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>Postotak dolaznih CRyptoCrowd koji se automatski pretvara u zXCRC putem protokola Zerocoin (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBWK</source>
-        <translation>Postotak automatiziranog zBWK</translation>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>Postotak automatiziranog zXCRC</translation>
     </message>
     <message>
         <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
         <translation>Pričekajte s automatskom pretvorbom u Zerocoin dok ne bude dostupno dovoljno CRyptoCrowd za apoen</translation>
     </message>
     <message>
-        <source>Preferred Automint zBWK Denomination</source>
-        <translation>Preferirana Automint zBWK denominacijad</translation>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>Preferirana Automint zXCRC denominacijad</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
@@ -2159,14 +2159,14 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Uključena je vaša trenutna bilanca CRyptoCrowd, nepotvrđene i nezrele transakcije</translation>
     </message>
     <message>
-        <source>zBWK Balance</source>
-        <translation>zBWK Bilanca</translation>
+        <source>zXCRC Balance</source>
+        <translation>zXCRC Bilanca</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</source>
+These zXCRC are spendable.</source>
         <translation>Mature: više od 20 potvrda i više od 1 mint od iste denominacije nakon što je mintan.
-Ti zBWKs se mogu potrošiti.</translation>
+Ti zXCRCs se mogu potrošiti.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2219,8 +2219,8 @@ Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</tran
         <translation>Po potrošiti:</translation>
     </message>
     <message>
-        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Zaključani CRyptoCrowd ili Masternode kolateral. Oni su isključeni iz zBWK kovanja.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>Zaključani CRyptoCrowd ili Masternode kolateral. Oni su isključeni iz zXCRC kovanja.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2231,8 +2231,8 @@ Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</tran
         <translation>Nepotvrđeno:</translation>
     </message>
     <message>
-        <source>Your current zBWK balance, unconfirmed and immature zBWK included.</source>
-        <translation>Vaša trenutačna zBWK bilanca, nepotvrđena i nezrela zBWK.</translation>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
+        <translation>Vaša trenutačna zXCRC bilanca, nepotvrđena i nezrela zXCRC.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2243,10 +2243,10 @@ Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</tran
         <translation>nije sinkronizirano</translation>
     </message>
     <message>
-        <source>Current percentage of zBWK.
+        <source>Current percentage of zXCRC.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Trenutni postotak zBWK.
+        <translation>Trenutni postotak zXCRC.
 Ako je omogućeno automatsko navođenje, ovaj postotak će se podmiriti oko konfiguriranog postotka automatskog navođenja (zadano = 10%).
 </translation>
     </message>
@@ -2390,8 +2390,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2442,16 +2442,16 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>PRIVATNOST</translation>
     </message>
     <message>
-        <source>Enter an amount of XCRC to convert to zBWK</source>
-        <translation>Unesite iznos CRyptoCrowd za pretvorbu u zBWK</translation>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
+        <translation>Unesite iznos CRyptoCrowd za pretvorbu u zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Control</source>
-        <translation>Upravljanje zBWK</translation>
+        <source>zXCRC Control</source>
+        <translation>Upravljanje zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Selected:</source>
-        <translation>zBWK Odabrani:</translation>
+        <source>zXCRC Selected:</source>
+        <translation>zXCRC Odabrani:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2466,24 +2466,24 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Potroši Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending</source>
-        <translation>Dostupni (zreli) zBWK za potrošnju</translation>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>Dostupni (zreli) zXCRC za potrošnju</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Dostupna Bilanca:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending
+        <source>Available (mature and spendable) zXCRC for spending
 
-zBWK are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Dostupni (zreli) zBWK za potrošnju
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Dostupni (zreli) zXCRC za potrošnju
 
-zBWK su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denominacije nakon što su bili mintani</translation>
+zXCRC su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denominacije nakon što su bili mintani</translation>
     </message>
     <message>
-        <source>0 zBWK</source>
-        <translation>0 zBWK</translation>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2554,8 +2554,8 @@ zBWK su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denominac
         <translation>Statistike Zerocoina:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
-        <translation>Ukupni saldo uključujući nepotvrđeni i nedovršeni zBWK</translation>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Ukupni saldo uključujući nepotvrđeni i nedovršeni zXCRC</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2576,24 +2576,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zBWK minting.
+        <source>Show the current status of automatic zXCRC minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to cryptocrowd.conf
 - disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
 
 </source>
-        <translation>Pokažite trenutačni status automatskog zBWK mintanja.
+        <translation>Pokažite trenutačni status automatskog zXCRC mintanja.
 
 Da biste promijenili status (potrebno je ponovno pokretanje):
 - omogući: dodajte 'enablezeromint = 1' u cryptocrowd.conf
 - onemogućiti: dodajte 'enablezeromint = 0' na cryptocrowd.conf
 
 Promjena postotka (nije potrebno ponovno pokretanje):
-- izbornik Postavke-&gt; Opcije-&gt; Postotak zBWK</translation>
+- izbornik Postavke-&gt; Opcije-&gt; Postotak zXCRC</translation>
     </message>
     <message>
         <source>AutoMint Status</source>
@@ -2787,12 +2787,12 @@ Maximum allowed: </source>
 Maksimalno dopušteno:</translation>
     </message>
     <message>
-        <source>zBWK Spend #: </source>
-        <translation>zBWK utrošeno #: </translation>
+        <source>zXCRC Spend #: </source>
+        <translation>zXCRC utrošeno #: </translation>
     </message>
     <message>
-        <source>zBWK Mint</source>
-        <translation>zBWK Mint</translation>
+        <source>zXCRC Mint</source>
+        <translation>zXCRC Mint</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2807,12 +2807,12 @@ Maksimalno dopušteno:</translation>
         <translation> Konfigirani ciljani postotak: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zBWK is currently disabled due to maintenance.</source>
-        <translation>Zbog održavanja zBWK je trenutačno onemogućen.</translation>
+        <source>zXCRC is currently disabled due to maintenance.</source>
+        <translation>Zbog održavanja zXCRC je trenutačno onemogućen.</translation>
     </message>
     <message>
-        <source>zBWK is currently undergoing maintenance.</source>
-        <translation>Radovi u tijeku na zBWK.</translation>
+        <source>zXCRC is currently undergoing maintenance.</source>
+        <translation>Radovi u tijeku na zXCRC.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2899,8 +2899,8 @@ Maksimalno dopušteno:</translation>
         <translation>Uspješno mintano</translation>
     </message>
     <message>
-        <source> zBWK in </source>
-        <translation> ulazni zBWK </translation>
+        <source> zXCRC in </source>
+        <translation> ulazni zXCRC </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2958,12 +2958,12 @@ Maksimalno dopušteno:</translation>
         <translation>Potvrdite slanje novca</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>Verzija 1 zBWK zahtjeva sigurnosnu razinu 100 da se uspješno utroši.</translation>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Verzija 1 zXCRC zahtjeva sigurnosnu razinu 100 da se uspješno utroši.</translation>
     </message>
     <message>
-        <source>Failed to spend zBWK</source>
-        <translation>Neuspjelo trošenje zBWK</translation>
+        <source>Failed to spend zXCRC</source>
+        <translation>Neuspjelo trošenje zXCRC</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2984,7 +2984,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of XCRC to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zXCRC</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3302,8 +3302,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Put prilagođenog sigurnosnog kopiranja:</translation>
     </message>
     <message>
-        <source>Custom zBWK Backup Path:</source>
-        <translation>Prilagođeni put zBWK sigurnosne kopije:</translation>
+        <source>Custom zXCRC Backup Path:</source>
+        <translation>Prilagođeni put zXCRC sigurnosne kopije:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3805,11 +3805,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Kovanice se automatski odabiru</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation>Ako je prilagođena naknada postavljena na 1000 uBulwark-ova, a transakcija je samo 250 bajta, tada "po kilobajtu" se plaća samo 250 uBulwark-a, dok se "barem" plaća 1000 uBulwark-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "total at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation>Ako je prilagođena naknada postavljena na 1000 uBulwark, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 uBulwark-ova, a "ukupno barem" plaća 1000 uBulwark-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
@@ -4530,8 +4530,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>CRyptoCrowd Stake</translation>
     </message>
     <message>
-        <source>zBWK Stake</source>
-        <translation>zBWK Stake</translation>
+        <source>zXCRC Stake</source>
+        <translation>zXCRC Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4550,32 +4550,32 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Prikrivanje Stvara Denominacije</translation>
     </message>
     <message>
-        <source>Converted CRyptoCrowd to zBWK</source>
-        <translation>Pretvoreni CRyptoCrowd u zBWK</translation>
+        <source>Converted CRyptoCrowd to zXCRC</source>
+        <translation>Pretvoreni CRyptoCrowd u zXCRC</translation>
     </message>
     <message>
-        <source>Spent zBWK</source>
-        <translation>Utrošeni zBWK</translation>
+        <source>Spent zXCRC</source>
+        <translation>Utrošeni zXCRC</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>Primljeni CRyptoCrowd od zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Primljeni CRyptoCrowd od zXCRC</translation>
     </message>
     <message>
-        <source>Minted Change as zBWK from zBWK Spend</source>
-        <translation>Mintana razlika zBWK od zBWK Utroška</translation>
+        <source>Minted Change as zXCRC from zXCRC Spend</source>
+        <translation>Mintana razlika zXCRC od zXCRC Utroška</translation>
     </message>
     <message>
-        <source>Converted zBWK to CRyptoCrowd</source>
-        <translation>Pretvoreni zBWK u CRyptoCrowd</translation>
+        <source>Converted zXCRC to CRyptoCrowd</source>
+        <translation>Pretvoreni zXCRC u CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Transaction)</source>
-        <translation>Anonimno (zBWK Transakcija)</translation>
+        <source>Anonymous (zXCRC Transaction)</source>
+        <translation>Anonimno (zXCRC Transakcija)</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Stake)</source>
-        <translation>Anonimno (zBWK Stake)</translation>
+        <source>Anonymous (zXCRC Stake)</source>
+        <translation>Anonimno (zXCRC Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4785,12 +4785,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izvoz uspješan</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>Primljeni CRyptoCrowd od zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Primljeni CRyptoCrowd od zXCRC</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zBWK</source>
-        <translation>Zerocoin Utrošeno, Razlika (ostatak) u zBWK</translation>
+        <source>Zerocoin Spend, Change in zXCRC</source>
+        <translation>Zerocoin Utrošeno, Razlika (ostatak) u zXCRC</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4858,10 +4858,10 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
-        <source>Select zBWK to Spend</source>
-        <translation>Odabrani zBWK za utrošiti</translation>
+        <source>Select zXCRC to Spend</source>
+        <translation>Odabrani zXCRC za utrošiti</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4872,8 +4872,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4939,16 +4939,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Distribuirano pod MIT softverskom licencom, pogledajte priloženu datoteku COPYING ili &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zBWK minting (0-1, default: %u)</source>
-        <translation>Omogući automatsko sigurnosno kopiranje novčanika nakon svakog zBWK mintanja (0-1, default: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</source>
+        <translation>Omogući automatsko sigurnosno kopiranje novčanika nakon svakog zXCRC mintanja (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
         <translation>Omogući ili onemogući staking funkcionalnosti za CRyptoCrowd unose (0-1, default: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
-        <translation>Omogući ili onemogući staking funkcionalnosti za zBWK unose (0-1, default: %u)</translation>
+        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>
+        <translation>Omogući ili onemogući staking funkcionalnosti za zXCRC unose (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -5544,8 +5544,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Postotak automatskog kovanog Zerocoina (1-100, zadano: %u)</translation>
     </message>
     <message>
-        <source>Reindex the CRyptoCrowd and zBWK money supply statistics</source>
-        <translation>Ponovno indeksirati statistiku CRyptoCrowd i zBWK ponude novca</translation>
+        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>
+        <translation>Ponovno indeksirati statistiku CRyptoCrowd i zXCRC ponude novca</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5619,8 +5619,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Preferirana denominacija za automatski ovjereni Zerocoin (1/5/10/50/100/500/1000/5000), 0 bez preferencije. zadana vrijednost: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zBWK backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Navedite put prilagođenog sigurnosnog kopiranja da biste dodali kopiju bilo koje automatske zBWK sigurnosne kopije. Ako je postavljeno kao dir, svaka sigurnosna kopija generira vremensku datoteku. Ako je postavljen kao datoteka, prepisat će na tu datoteku svaku kopiju. Ako je postavljen backuppath, dogodit će se 4 sigurnosne kopije</translation>
+        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Navedite put prilagođenog sigurnosnog kopiranja da biste dodali kopiju bilo koje automatske zXCRC sigurnosne kopije. Ako je postavljeno kao dir, svaka sigurnosna kopija generira vremensku datoteku. Ako je postavljen kao datoteka, prepisat će na tu datoteku svaku kopiju. Ako je postavljen backuppath, dogodit će se 4 sigurnosne kopije</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6119,8 +6119,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Sinkronizacija sporka...</translation>
     </message>
     <message>
-        <source>Syncing zBWK wallet...</source>
-        <translation>Sinkronizacija zBWK novčanika...</translation>
+        <source>Syncing zXCRC wallet...</source>
+        <translation>Sinkronizacija zXCRC novčanika...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6267,8 +6267,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Korisničko ime za JSON-RPC veze</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zBWK</source>
-        <translation>Vrijednost je niža od najmanje dostupne denominacije (= 1) zBWK-a</translation>
+        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>
+        <translation>Vrijednost je niža od najmanje dostupne denominacije (= 1) zXCRC-a</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6283,8 +6283,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Provjera novčanika...</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>Verzija 1 zBWK zahtjeva sigurnosnu razinu 100 da se uspješno utroši.</translation>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Verzija 1 zXCRC zahtjeva sigurnosnu razinu 100 da se uspješno utroši.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>

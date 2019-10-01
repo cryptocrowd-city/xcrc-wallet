@@ -109,8 +109,8 @@ inside [ and ].
 | `autocombinerewards` |  [threshold] | Wallet will automatically monitor for any coins with value below the threshold amount, and combine them if they reside with the same xcrc address. | Y |
 | `backupwallet` |  | Safely copies wallet.dat to destination, which can be a directory or a path with filename. | N |
 | `bip38decrypt` |   | Decrypts and then imports password protected private key. | Y |
-| `bip38encrypt` |   | Encrypts a private key corresponding to 'bwkaddress'. | Y |
-| `dumpprivkey` |  | Reveals the private key corresponding to 'bwkaddress'. | Y |
+| `bip38encrypt` |   | Encrypts a private key corresponding to 'xcrcaddress'. | Y |
+| `dumpprivkey` |  | Reveals the private key corresponding to 'xcrcaddress'. | Y |
 | `dumpwallet` |  | Dumps all wallet keys in a human-readable format. | Y |
 | `encryptwallet` |  | Encrypts the wallet with . | N |
 | `getaccount` |  | Returns the account associated with the given address. | N |
@@ -161,8 +161,8 @@ If [account] is specified, returns the balance in the account. | N |
 | `listmintedzerocoins` |   | Return an array of zerocoin mints. | Y |
 | `listspentzerocoins` |   | Return an array of spent zerocoins. | Y |
 | `listzerocoinamounts` |   | List the denomination amounts held in this wallet. | Y |
-| `mintzerocoin` |  | Mint given amount from PIV to zBWK. | Y |
-| `reconsiderzerocoins` |   | Check archived zBWK list to see if any mints were added to the blockchain.. | Y |
+| `mintzerocoin` |  | Mint given amount from PIV to zXCRC. | Y |
+| `reconsiderzerocoins` |   | Check archived zXCRC list to see if any mints were added to the blockchain.. | Y |
 | `resetmintzerocoin` | [extended_search] | Scan the blockchain for all of the zerocoins that are held in the wallet.dat. Update any meta-data that is incorrect. | Y |
 | `resetspentzerocoin` |   | Scan the blockchain for all of the zerocoins that are held in the wallet.dat. Reset mints that are considered spent that did not make it into the blockchain. | Y |
-| `spendzerocoin` |      | Spend zBWK to given address with optional reminting of change. | Y |
+| `spendzerocoin` |      | Spend zXCRC to given address with optional reminting of change. | Y |

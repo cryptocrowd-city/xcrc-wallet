@@ -64,7 +64,7 @@ QT_FORMS_UI = \
   qt/forms/sendcoinsentry.ui \
   qt/forms/signverifymessagedialog.ui \
   qt/forms/transactiondescdialog.ui \
-  qt/forms/zbwkcontroldialog.ui
+  qt/forms/zxcrccontroldialog.ui
 
 QT_MOC_CPP = \
   qt/moc_addressbookpage.cpp \
@@ -129,7 +129,7 @@ QT_MOC_CPP = \
   qt/moc_walletframe.cpp \
   qt/moc_walletmodel.cpp \
   qt/moc_walletview.cpp \
-  qt/moc_zbwkcontroldialog.cpp \
+  qt/moc_zxcrccontroldialog.cpp \
   qt/moc_qtmaterialcheckable.cpp \
   qt/moc_qtmaterialcheckable_internal.cpp \
   qt/moc_qtmaterialoverlaywidget.cpp \
@@ -236,7 +236,7 @@ BITCOIN_QT_H = \
   qt/walletmodeltransaction.h \
   qt/walletview.h \
   qt/winshutdownmonitor.h \
-  qt/zbwkcontroldialog.h \
+  qt/zxcrccontroldialog.h \
   qt/qtmaterialcheckable.h \
   qt/qtmaterialcheckable_internal.h \
   qt/qtmaterialcheckable_p.h \
@@ -410,7 +410,7 @@ BITCOIN_QT_CPP += \
   qt/walletmodel.cpp \
   qt/walletmodeltransaction.cpp \
   qt/walletview.cpp \
-  qt/zbwkcontroldialog.cpp
+  qt/zxcrccontroldialog.cpp
 
 endif
 

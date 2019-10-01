@@ -1,8 +1,8 @@
 // Copyright (c) 2017 The PIVX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-#ifndef BWK_ZEROCOIN_H
-#define BWK_ZEROCOIN_H
+#ifndef XCRC_ZEROCOIN_H
+#define XCRC_ZEROCOIN_H
 
 #include <amount.h>
 #include <limits.h>
@@ -227,4 +227,4 @@ class CZerocoinSpendReceipt {
     int GetNeededSpends();
 };
 
-#endif //BWK_ZEROCOIN_H
+#endif //XCRC_ZEROCOIN_H

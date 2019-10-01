@@ -19,16 +19,16 @@ BitcoinUnits::BitcoinUnits(QObject* parent) : QAbstractListModel(parent),
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits() {
     QList<BitcoinUnits::Unit> unitlist;
     unitlist.append(XCRC);
-    unitlist.append(mBWK);
-    unitlist.append(uBWK);
+    unitlist.append(mXCRC);
+    unitlist.append(uXCRC);
     return unitlist;
 }
 
 bool BitcoinUnits::valid(int unit) {
     switch (unit) {
     case XCRC:
-    case mBWK:
-    case uBWK:
+    case mXCRC:
+    case uXCRC:
         return true;
     default:
         return false;
@@ -39,9 +39,9 @@ QString BitcoinUnits::id(int unit) {
     switch (unit) {
     case XCRC:
         return QString("cryptocrowd");
-    case mBWK:
+    case mXCRC:
         return QString("mbulwark");
-    case uBWK:
+    case uXCRC:
         return QString::fromUtf8("ubulwark");
     default:
         return QString("???");
@@ -53,21 +53,21 @@ QString BitcoinUnits::name(int unit) {
         switch (unit) {
         case XCRC:
             return QString("XCRC");
-        case mBWK:
-            return QString("mBWK");
-        case uBWK:
-            return QString::fromUtf8("μBWK");
+        case mXCRC:
+            return QString("mXCRC");
+        case uXCRC:
+            return QString::fromUtf8("μXCRC");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
         case XCRC:
-            return QString("tBWK");
-        case mBWK:
-            return QString("mtBWK");
-        case uBWK:
-            return QString::fromUtf8("μtBWK");
+            return QString("tXCRC");
+        case mXCRC:
+            return QString("mtXCRC");
+        case uXCRC:
+            return QString::fromUtf8("μtXCRC");
         default:
             return QString("???");
         }
@@ -79,21 +79,21 @@ QString BitcoinUnits::description(int unit) {
         switch (unit) {
         case XCRC:
             return QString("XCRC");
-        case mBWK:
-            return QString("Milli-BWK (1 / 1" THIN_SP_UTF8 "000)");
-        case uBWK:
-            return QString("Micro-BWK (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case mXCRC:
+            return QString("Milli-XCRC (1 / 1" THIN_SP_UTF8 "000)");
+        case uXCRC:
+            return QString("Micro-XCRC (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
         case XCRC:
-            return QString("TestBWKs");
-        case mBWK:
-            return QString("Milli-TestBWK (1 / 1" THIN_SP_UTF8 "000)");
-        case uBWK:
-            return QString("Micro-TestBWK (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            return QString("TestXCRCs");
+        case mXCRC:
+            return QString("Milli-TestXCRC (1 / 1" THIN_SP_UTF8 "000)");
+        case uXCRC:
+            return QString("Micro-TestXCRC (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
@@ -104,9 +104,9 @@ qint64 BitcoinUnits::factor(int unit) {
     switch (unit) {
     case XCRC:
         return 100000000;
-    case mBWK:
+    case mXCRC:
         return 100000;
-    case uBWK:
+    case uXCRC:
         return 100;
     default:
         return 100000000;
@@ -117,9 +117,9 @@ int BitcoinUnits::decimals(int unit) {
     switch (unit) {
     case XCRC:
         return 8;
-    case mBWK:
+    case mXCRC:
         return 5;
-    case uBWK:
+    case uXCRC:
         return 2;
     default:
         return 0;

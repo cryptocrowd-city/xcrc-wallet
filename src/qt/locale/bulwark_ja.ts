@@ -269,7 +269,7 @@
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     </context>
 <context>
     <name>bulwark-core</name>

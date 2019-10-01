@@ -176,7 +176,7 @@
         <translation>Потвърдете шифрирането на портфейла</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd сега ще се затвори, за да довърши процеса по шифриране. Запомнете, че шифрирането на вашия портфейл не може напълно да защити вашия CRyptoCrowd от това, да бъде откраднат чрез злонамерен софутуер, инфектирал вашия компютър.</translation>
     </message>
     <message>
@@ -433,8 +433,8 @@
         <translation>История на транзакциите</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Поверителни Действия за zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Поверителни Действия за zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1944,28 +1944,28 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Картографирай портовете използвайки UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
-        <translation>Включи автоматичното емитиране на CRyptoCrowd единици в zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>Включи автоматичното емитиране на CRyptoCrowd единици в zXCRC</translation>
     </message>
     <message>
-        <source>Enable zBWK Automint</source>
-        <translation>Включи Автоматично емитиране на zBWK</translation>
+        <source>Enable zXCRC Automint</source>
+        <translation>Включи Автоматично емитиране на zXCRC</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Процент от входящите CRyptoCrowd, който автоматично да се конвертира в zBWK посредтвом Zerocoin Протокола (мин: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент от входящите CRyptoCrowd, който автоматично да се конвертира в zXCRC посредтвом Zerocoin Протокола (мин: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBWK</source>
-        <translation>Процент автоматично сечени zBWK</translation>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>Процент автоматично сечени zXCRC</translation>
     </message>
     <message>
         <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
-        <translation>Не бързай с автоматичното конвертиране в zBWK докато не се съберат достатъчно CRyptoCrowd за тази деноминация</translation>
+        <translation>Не бързай с автоматичното конвертиране в zXCRC докато не се съберат достатъчно CRyptoCrowd за тази деноминация</translation>
     </message>
     <message>
-        <source>Preferred Automint zBWK Denomination</source>
-        <translation>Предпочитани деноминации, в които да се сече автоматичен zBWK</translation>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>Предпочитани деноминации, в които да се сече автоматичен zXCRC</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
@@ -2155,14 +2155,14 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Вашите CRyptoCrowd наличности, включително непотвърдените и неузрели преводи</translation>
     </message>
     <message>
-        <source>zBWK Balance</source>
-        <translation>zBWK Наличности</translation>
+        <source>zXCRC Balance</source>
+        <translation>zXCRC Наличности</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</source>
+These zXCRC are spendable.</source>
         <translation>Узрели: повече от 20 потвърждения и повече от 1 емисии от същата деноминация след като е била емитирана.
-Тези zBWK могат да се похарчат.</translation>
+Тези zXCRC могат да се похарчат.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2215,8 +2215,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <translation>Налични за харчене:</translation>
     </message>
     <message>
-        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Заключен CRyptoCrowd или допълнителни гаранции в Главни Възли. Тези не са включени в zBWK емитирането.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>Заключен CRyptoCrowd или допълнителни гаранции в Главни Възли. Тези не са включени в zXCRC емитирането.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2227,8 +2227,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <translation>Непотвърден</translation>
     </message>
     <message>
-        <source>Your current zBWK balance, unconfirmed and immature zBWK included.</source>
-        <translation>Вашите zBWK наличности, включеително непотвърдените и неузрелите zBWK.</translation>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
+        <translation>Вашите zXCRC наличности, включеително непотвърдените и неузрелите zXCRC.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2378,8 +2378,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2430,16 +2430,16 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>КОНФИДЕНЦИАЛНОСТ</translation>
     </message>
     <message>
-        <source>Enter an amount of XCRC to convert to zBWK</source>
-        <translation>Въведете колко CRyptoCrowd  да се конвертират в zBWK</translation>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
+        <translation>Въведете колко CRyptoCrowd  да се конвертират в zXCRC</translation>
     </message>
     <message>
-        <source>zBWK Control</source>
-        <translation>zBWK Контрол</translation>
+        <source>zXCRC Control</source>
+        <translation>zXCRC Контрол</translation>
     </message>
     <message>
-        <source>zBWK Selected:</source>
-        <translation>Избрани zBWK:</translation>
+        <source>zXCRC Selected:</source>
+        <translation>Избрани zXCRC:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2454,24 +2454,24 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>Похарчи Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending</source>
-        <translation>Налични (узрели и готови за харчене) zBWK за употреба</translation>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>Налични (узрели и готови за харчене) zXCRC за употреба</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Налични:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending
+        <source>Available (mature and spendable) zXCRC for spending
 
-zBWK are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Налични (узрели и готови за харчене) zBWK за употреба
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Налични (узрели и готови за харчене) zXCRC за употреба
 
-zBWK са узрели, тогава когато имат повече от 20 потвърждения И повече от 2 емисии от същата деноминация след като са биле емитирани</translation>
+zXCRC са узрели, тогава когато имат повече от 20 потвърждения И повече от 2 емисии от същата деноминация след като са биле емитирани</translation>
     </message>
     <message>
-        <source>0 zBWK</source>
-        <translation>0 zBWK</translation>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2523,7 +2523,7 @@ zBWK са узрели, тогава когато имат повече от 20 
     </message>
     <message>
         <source>Convert Change to Zerocoin (might cost additional fees)</source>
-        <translation>Изсечи zBWK от рестото (ще струва допълнително заради таксите)</translation>
+        <translation>Изсечи zXCRC от рестото (ще струва допълнително заради таксите)</translation>
     </message>
     <message>
         <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
@@ -2542,8 +2542,8 @@ zBWK са узрели, тогава когато имат повече от 20 
         <translation>Zerocoin статистика:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
-        <translation>Обща Наличност включеително непотвърдените и неузрели zBWK</translation>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Обща Наличност включеително непотвърдените и неузрели zXCRC</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2564,24 +2564,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Неузрели: потвърдени, но с по-малко от 1 емисии от същата деноминация след като са биле емитирани</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zBWK minting.
+        <source>Show the current status of automatic zXCRC minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to cryptocrowd.conf
 - disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
 
 </source>
-        <translation>Покажи състоянието на автоматичното zBWK емитиране.
+        <translation>Покажи състоянието на автоматичното zXCRC емитиране.
 
 За да пормените състоянието (изисква рестарт):
 - вклчване: добавете 'enablezeromint=1' в cryptocrowd.conf
 - изключване: добавете 'enablezeromint=0' в cryptocrowd.conf
 
 За промяна в процентите (не изисква рестарт):
-- меню Настройки -&gt; Опции -&gt; Процент на автоемитиран zBWK
+- меню Настройки -&gt; Опции -&gt; Процент на автоемитиран zXCRC
 </translation>
     </message>
     <message>
@@ -2777,12 +2777,12 @@ Maximum allowed: </source>
 Максимум позволени:</translation>
     </message>
     <message>
-        <source>zBWK Spend #: </source>
-        <translation>zBWK Похарчени #:</translation>
+        <source>zXCRC Spend #: </source>
+        <translation>zXCRC Похарчени #:</translation>
     </message>
     <message>
-        <source>zBWK Mint</source>
-        <translation>Сечене на zBWK</translation>
+        <source>zXCRC Mint</source>
+        <translation>Сечене на zXCRC</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2797,12 +2797,12 @@ Maximum allowed: </source>
         <translation>Конфигуриран целеви процент: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zBWK is currently disabled due to maintenance.</source>
-        <translation>В момента zBWK не работи поради ремонт.</translation>
+        <source>zXCRC is currently disabled due to maintenance.</source>
+        <translation>В момента zXCRC не работи поради ремонт.</translation>
     </message>
     <message>
-        <source>zBWK is currently undergoing maintenance.</source>
-        <translation>В момента zBWK е в ремонт.</translation>
+        <source>zXCRC is currently undergoing maintenance.</source>
+        <translation>В момента zXCRC е в ремонт.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2889,8 +2889,8 @@ Maximum allowed: </source>
         <translation>Успешно изсечени</translation>
     </message>
     <message>
-        <source> zBWK in </source>
-        <translation>zBWK в</translation>
+        <source> zXCRC in </source>
+        <translation>zXCRC в</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2949,12 +2949,12 @@ Maximum allowed: </source>
         <translation>Потвърждаване на изпращането</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>Версия 1 zBWK изисква ниво на сигурност от 100 за успешно изразходване.</translation>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Версия 1 zXCRC изисква ниво на сигурност от 100 за успешно изразходване.</translation>
     </message>
     <message>
-        <source>Failed to spend zBWK</source>
-        <translation>Неуспешно изразходване на zBWK</translation>
+        <source>Failed to spend zXCRC</source>
+        <translation>Неуспешно изразходване на zXCRC</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2976,7 +2976,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of XCRC to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zXCRC</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3293,8 +3293,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Персонален резервен път:</translation>
     </message>
     <message>
-        <source>Custom zBWK Backup Path:</source>
-        <translation>Персонализиран zBWK резервен път:</translation>
+        <source>Custom zXCRC Backup Path:</source>
+        <translation>Персонализиран zXCRC резервен път:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3793,11 +3793,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Автоматично избрани монети</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation>Ако собствената такса е настроена на 1000 uBulwark и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uBulwark входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uBulwark. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "total at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation>Ако собствената такса е настроена на 1000 uBulwark и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uBulwark входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uBulwark. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
@@ -4517,8 +4517,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>CRyptoCrowd Stake</translation>
     </message>
     <message>
-        <source>zBWK Stake</source>
-        <translation>zBWK Stake</translation>
+        <source>zXCRC Stake</source>
+        <translation>zXCRC Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4537,32 +4537,32 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Обфускация и направа на Деноминации</translation>
     </message>
     <message>
-        <source>Converted CRyptoCrowd to zBWK</source>
-        <translation>Конвертиран CRyptoCrowd във zBWK</translation>
+        <source>Converted CRyptoCrowd to zXCRC</source>
+        <translation>Конвертиран CRyptoCrowd във zXCRC</translation>
     </message>
     <message>
-        <source>Spent zBWK</source>
-        <translation>Похарчени zBWK</translation>
+        <source>Spent zXCRC</source>
+        <translation>Похарчени zXCRC</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>Получен CRyptoCrowd от zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Получен CRyptoCrowd от zXCRC</translation>
     </message>
     <message>
-        <source>Minted Change as zBWK from zBWK Spend</source>
-        <translation>Исечено ресто като zBWK от похарчените zBWK</translation>
+        <source>Minted Change as zXCRC from zXCRC Spend</source>
+        <translation>Исечено ресто като zXCRC от похарчените zXCRC</translation>
     </message>
     <message>
-        <source>Converted zBWK to CRyptoCrowd</source>
-        <translation>Конвертиран zBWK във CRyptoCrowd</translation>
+        <source>Converted zXCRC to CRyptoCrowd</source>
+        <translation>Конвертиран zXCRC във CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Transaction)</source>
-        <translation>Анонимен (транзакция zBWK)</translation>
+        <source>Anonymous (zXCRC Transaction)</source>
+        <translation>Анонимен (транзакция zXCRC)</translation>
     </message>
     <message>
-        <source>Anonymous (zBWK Stake)</source>
-        <translation>Анонимен (zBWK Stake)</translation>
+        <source>Anonymous (zXCRC Stake)</source>
+        <translation>Анонимен (zXCRC Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4772,12 +4772,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Експортирането Успешно</translation>
     </message>
     <message>
-        <source>Received CRyptoCrowd from zBWK</source>
-        <translation>Получен CRyptoCrowd от zBWK</translation>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Получен CRyptoCrowd от zXCRC</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zBWK</source>
-        <translation>Харчене на Zerocoin, Ресто в zBWK</translation>
+        <source>Zerocoin Spend, Change in zXCRC</source>
+        <translation>Харчене на Zerocoin, Ресто в zXCRC</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4845,10 +4845,10 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
-        <source>Select zBWK to Spend</source>
-        <translation>Изберете zBWK за Изпращане</translation>
+        <source>Select zXCRC to Spend</source>
+        <translation>Изберете zXCRC за Изпращане</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4859,8 +4859,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4930,8 +4930,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Активиране или деактивиране на функцията за зареждане за CRyptoCrowd входове (0-1, по подразбиране: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
-        <translation>Активиране или деактивиране на функцията за зареждане за zBWK входове (0-1, по подразбиране: %u)</translation>
+        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>
+        <translation>Активиране или деактивиране на функцията за зареждане за zXCRC входове (0-1, по подразбиране: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -5526,8 +5526,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Процент автоматично емитирани Zerocoin (1-100, по подразбиране: %u)</translation>
     </message>
     <message>
-        <source>Reindex the CRyptoCrowd and zBWK money supply statistics</source>
-        <translation>Индексирай наново CRyptoCrowd и zBWK данните по наличности</translation>
+        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>
+        <translation>Индексирай наново CRyptoCrowd и zXCRC данните по наличности</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5602,8 +5602,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Предпочитани деноминации за автоматично изсечените Zerocoin (1/5/10/50/100/500/1000/5000), 0 за каквито и да е. (По подразбиране: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zBWK backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Посочете персонализиран път за архивиране, за да добавите копие на всяко автоматично архивиране zBWK. Ако е зададено като реж., Всеки архив генерира файл с времева маркировка. Ако е зададен като файл, ще пренапише към този файл всеки архив. Ако е зададено и резервно копие, ще се случат 4 архиви</translation>
+        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Посочете персонализиран път за архивиране, за да добавите копие на всяко автоматично архивиране zXCRC. Ако е зададено като реж., Всеки архив генерира файл с времева маркировка. Ако е зададен като файл, ще пренапише към този файл всеки архив. Ако е зададено и резервно копие, ще се случат 4 архиви</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6102,8 +6102,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Синхронизиране на вилицо-лъжиците...</translation>
     </message>
     <message>
-        <source>Syncing zBWK wallet...</source>
-        <translation>Синхронизиране на zBWK портфейла ...</translation>
+        <source>Syncing zXCRC wallet...</source>
+        <translation>Синхронизиране на zXCRC портфейла ...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6250,8 +6250,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Потребителско име за JSON-RPC свръзките</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zBWK</source>
-        <translation>Стойността е под най-малката налична деноминация (= 1) в zBWK</translation>
+        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>
+        <translation>Стойността е под най-малката налична деноминация (= 1) в zXCRC</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6266,8 +6266,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Проверява портфейла...</translation>
     </message>
     <message>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
-        <translation>Версия 1 zBWK изисква ниво на сигурност от 100 за успешно изразходване.</translation>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Версия 1 zXCRC изисква ниво на сигурност от 100 за успешно изразходване.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>

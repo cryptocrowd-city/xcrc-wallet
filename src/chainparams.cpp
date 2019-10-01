@@ -166,17 +166,17 @@ class CMainParams : public CChainParams {
         assert(hashGenesisBlock == uint256("0x0000068e7ab8e264f6759d2d81b29e8b917c10b04db47a9a0bb3cba3fba5d574"));
         assert(genesis.hashMerkleRoot == uint256("0x77976d6bd593c84063ac3937525bc15e25188d96871b13d4451ffc382999f64f"));
 
-        vSeeds.push_back(CDNSSeedData("bwkseed.mempool.pw", "bwkseed.mempool.pw"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed1.cryptocrowd.city", "bwkseed1.cryptocrowd.city"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed2.cryptocrowd.city", "bwkseed2.cryptocrowd.city")); 	 // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed3.cryptocrowd.city", "bwkseed3.cryptocrowd.city"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed4.cryptocrowd.city", "bwkseed4.cryptocrowd.city"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed5.cryptocrowd.city", "bwkseed5.cryptocrowd.city"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed1.bulwarkcrypto.site", "bwkseed1.bulwarkcrypto.site"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed2.bulwarkcrypto.site", "bwkseed2.bulwarkcrypto.site")); 	 // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed3.bulwarkcrypto.site", "bwkseed3.bulwarkcrypto.site"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed4.bulwarkcrypto.site", "bwkseed4.bulwarkcrypto.site"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed5.bulwarkcrypto.site", "bwkseed5.bulwarkcrypto.site"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed.mempool.pw", "xcrcseed.mempool.pw"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed1.cryptocrowd.city", "xcrcseed1.cryptocrowd.city"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed2.cryptocrowd.city", "xcrcseed2.cryptocrowd.city")); 	 // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed3.cryptocrowd.city", "xcrcseed3.cryptocrowd.city"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed4.cryptocrowd.city", "xcrcseed4.cryptocrowd.city"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed5.cryptocrowd.city", "xcrcseed5.cryptocrowd.city"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed1.bulwarkcrypto.site", "xcrcseed1.bulwarkcrypto.site"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed2.bulwarkcrypto.site", "xcrcseed2.bulwarkcrypto.site")); 	 // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed3.bulwarkcrypto.site", "xcrcseed3.bulwarkcrypto.site"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed4.bulwarkcrypto.site", "xcrcseed4.bulwarkcrypto.site"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("xcrcseed5.bulwarkcrypto.site", "xcrcseed5.bulwarkcrypto.site"));      // Single node address
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 85); // b
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 18);

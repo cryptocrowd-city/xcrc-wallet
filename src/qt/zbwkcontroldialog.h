@@ -2,8 +2,8 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef ZBWKCONTROLDIALOG_H
-#define ZBWKCONTROLDIALOG_H
+#ifndef ZXCRCCONTROLDIALOG_H
+#define ZXCRCCONTROLDIALOG_H
 
 #include <QDialog>
 #include <QTreeWidgetItem>
@@ -51,4 +51,4 @@ class ZBwkControlDialog : public QDialog {
     void ButtonAllClicked();
 };
 
-#endif // ZBWKCONTROLDIALOG_H
+#endif // ZXCRCCONTROLDIALOG_H

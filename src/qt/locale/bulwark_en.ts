@@ -221,7 +221,7 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -557,7 +557,7 @@
     </message>
     <message>
         <location line="+11"/>
-        <source>Privacy Actions for zBWK</source>
+        <source>Privacy Actions for zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2501,22 +2501,22 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
     </message>
     <message>
         <location line="-169"/>
-        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Enable zBWK Automint</source>
+        <source>Enable zXCRC Automint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Percentage of autominted zBWK</source>
+        <source>Percentage of autominted zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2527,7 +2527,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
     </message>
     <message>
         <location line="-13"/>
-        <source>Preferred Automint zBWK Denomination</source>
+        <source>Preferred Automint zXCRC Denomination</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2783,14 +2783,14 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
     </message>
     <message>
         <location line="+96"/>
-        <source>zBWK Balance</source>
+        <source>zXCRC Balance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+53"/>
         <location line="+17"/>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</source>
+These zXCRC are spendable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2863,7 +2863,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     <message>
         <location line="+191"/>
         <location line="+19"/>
-        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2879,7 +2879,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     <message>
         <location line="+58"/>
         <location line="+19"/>
-        <source>Your current zBWK balance, unconfirmed and immature zBWK included.</source>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2895,7 +2895,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     </message>
     <message>
         <location line="+111"/>
-        <source>Current percentage of zBWK.
+        <source>Current percentage of zXCRC.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
         <translation type="unfinished"></translation>
@@ -3086,7 +3086,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="-371"/>
         <location line="+651"/>
-        <source>zBWK</source>
+        <source>zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3152,17 +3152,17 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="+308"/>
         <location line="+52"/>
-        <source>Enter an amount of XCRC to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+301"/>
-        <source>zBWK Control</source>
+        <source>zXCRC Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>zBWK Selected:</source>
+        <source>zXCRC Selected:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3190,7 +3190,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+7"/>
-        <source>Available (mature and spendable) zBWK for spending</source>
+        <source>Available (mature and spendable) zXCRC for spending</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3200,9 +3200,9 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+16"/>
-        <source>Available (mature and spendable) zBWK for spending
+        <source>Available (mature and spendable) zXCRC for spending
 
-zBWK are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3219,7 +3219,7 @@ zBWK are mature when they have more than 20 confirmations AND more than 2 mints 
         <location line="+31"/>
         <location line="+31"/>
         <location line="+31"/>
-        <source>0 zBWK</source>
+        <source>0 zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3312,7 +3312,7 @@ zBWK are mature when they have more than 20 confirmations AND more than 2 mints 
         <location line="+25"/>
         <location line="+936"/>
         <location line="+38"/>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3346,14 +3346,14 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     </message>
     <message>
         <location line="+40"/>
-        <source>Show the current status of automatic zBWK minting.
+        <source>Show the current status of automatic zXCRC minting.
 
 To change the status (restart required):
 - enable: add &apos;enablezeromint=1&apos; to cryptocrowd.conf
 - disable: add &apos;enablezeromint=0&apos; to cryptocrowd.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
 
 </source>
         <translation type="unfinished"></translation>
@@ -3423,7 +3423,7 @@ To change the percentage (no restart required):
     </message>
     <message>
         <location line="-1324"/>
-        <source>Show zBWK denominations list</source>
+        <source>Show zXCRC denominations list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3622,12 +3622,12 @@ Maximum allowed: </source>
     </message>
     <message>
         <location line="+34"/>
-        <source>zBWK Spend #: </source>
+        <source>zXCRC Spend #: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>zBWK Mint</source>
+        <source>zXCRC Mint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3648,13 +3648,13 @@ Maximum allowed: </source>
     <message>
         <location line="+12"/>
         <location line="+4"/>
-        <source>zBWK is currently disabled due to maintenance.</source>
+        <source>zXCRC is currently disabled due to maintenance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-666"/>
         <location line="+112"/>
-        <source>zBWK is currently undergoing maintenance.</source>
+        <source>zXCRC is currently undergoing maintenance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3765,7 +3765,7 @@ Maximum allowed: </source>
     </message>
     <message>
         <location line="+0"/>
-        <source> zBWK in </source>
+        <source> zXCRC in </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3842,13 +3842,13 @@ Maximum allowed: </source>
     <message>
         <location line="+24"/>
         <location line="+32"/>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-31"/>
         <location line="+32"/>
-        <source>Failed to spend zBWK</source>
+        <source>Failed to spend zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3876,7 +3876,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <message numerus="yes">
         <location line="+362"/>
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of XCRC to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zXCRC</comment>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -4307,7 +4307,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+29"/>
-        <source>Custom zBWK Backup Path:</source>
+        <source>Custom zXCRC Backup Path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4975,12 +4975,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1062"/>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uBWKs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uXCRCs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uBWKs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uXCRCs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5931,7 +5931,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+2"/>
-        <source>zBWK Stake</source>
+        <source>zXCRC Stake</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5956,37 +5956,37 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+4"/>
-        <source>Converted CRyptoCrowd to zBWK</source>
+        <source>Converted CRyptoCrowd to zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Spent zBWK</source>
+        <source>Spent zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Received CRyptoCrowd from zBWK</source>
+        <source>Received CRyptoCrowd from zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Minted Change as zBWK from zBWK Spend</source>
+        <source>Minted Change as zXCRC from zXCRC Spend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Converted zBWK to CRyptoCrowd</source>
+        <source>Converted zXCRC to CRyptoCrowd</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+56"/>
-        <source>Anonymous (zBWK Transaction)</source>
+        <source>Anonymous (zXCRC Transaction)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Anonymous (zBWK Stake)</source>
+        <source>Anonymous (zXCRC Stake)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6255,12 +6255,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-310"/>
-        <source>Received CRyptoCrowd from zBWK</source>
+        <source>Received CRyptoCrowd from zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Zerocoin Spend, Change in zBWK</source>
+        <source>Zerocoin Spend, Change in zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6345,10 +6345,10 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
-        <location filename="../forms/zBWKcontroldialog.ui" line="+20"/>
-        <source>Select zBWK to Spend</source>
+        <location filename="../forms/zXCRCcontroldialog.ui" line="+20"/>
+        <source>Select zXCRC to Spend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6364,7 +6364,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-7"/>
-        <source>zBWK</source>
+        <source>zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6447,7 +6447,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+5"/>
-        <source>Enable automatic wallet backups triggered after each zBWK minting (0-1, default: %u)</source>
+        <source>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6457,7 +6457,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+2"/>
-        <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
+        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7222,7 +7222,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+9"/>
-        <source>Reindex the CRyptoCrowd and zBWK money supply statistics</source>
+        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7314,7 +7314,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify custom backup path to add a copy of any automatic zBWK backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7939,7 +7939,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Syncing zBWK wallet...</source>
+        <source>Syncing zXCRC wallet...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8129,7 +8129,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Value is below the smallest available denomination (= 1) of zBWK</source>
+        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8149,7 +8149,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Version 1 zBWK require a security level of 100 to successfully spend.</source>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

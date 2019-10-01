@@ -176,7 +176,7 @@
         <translation>Patvirtinkite piniginės užšifravimą.</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>Dabar CRyptoCrowd išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų CRyptoCrowd nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
     </message>
     <message>
@@ -433,8 +433,8 @@
         <translation>Naršyti pavedimų istoriją</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>zBWK Saugumo Veiksmai </translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>zXCRC Saugumo Veiksmai </translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1890,24 +1890,24 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Įrašyti prievadą naudojant UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
-        <translation>Įgalinti automatinį konvertavimą iš CRyptoCrowd į zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>Įgalinti automatinį konvertavimą iš CRyptoCrowd į zXCRC</translation>
     </message>
     <message>
-        <source>Enable zBWK Automint</source>
-        <translation>Įgalinti zBWK Automatinį nukaldinima</translation>
+        <source>Enable zXCRC Automint</source>
+        <translation>Įgalinti zXCRC Automatinį nukaldinima</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procentas gauto CRyptoCrowd, kuris automatiškai bus konvertuotas į zBWK naudojant Zerocoin Protokolą (min: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procentas gauto CRyptoCrowd, kuris automatiškai bus konvertuotas į zXCRC naudojant Zerocoin Protokolą (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zBWK</source>
-        <translation>Automatiškai sukurtų zBWK procentas</translation>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>Automatiškai sukurtų zXCRC procentas</translation>
     </message>
     <message>
-        <source>Preferred Automint zBWK Denomination</source>
-        <translation>Pageidautinas zBWK Automatinio Nukaldinimo Nominalas</translation>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>Pageidautinas zXCRC Automatinio Nukaldinimo Nominalas</translation>
     </message>
     <message>
         <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
@@ -2057,14 +2057,14 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Jūsų dabartinis CRyptoCrowd balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
     </message>
     <message>
-        <source>zBWK Balance</source>
-        <translation>zBWK Balansas</translation>
+        <source>zXCRC Balance</source>
+        <translation>zXCRC Balansas</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zBWK are spendable.</source>
+These zXCRC are spendable.</source>
         <translation>Subrendę: daugiau nei 20 patvirtinimų ir daugiau nei 1 konvertacija to pačio nominalo, kai jis jau buvo konvertuotas.
-Šiuos zBWK galima išleisti.</translation>
+Šiuos zXCRC galima išleisti.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2117,8 +2117,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prienamas išleidimui:</translation>
     </message>
     <message>
-        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Užrakinti CRyptoCrowd arba Masternode užstatai. Jie yra neįtraukti į zBWK kalimą.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>Užrakinti CRyptoCrowd arba Masternode užstatai. Jie yra neįtraukti į zXCRC kalimą.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2222,8 +2222,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2266,12 +2266,12 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>PRIVATUMAS</translation>
     </message>
     <message>
-        <source>zBWK Control</source>
-        <translation>zBWK Kontrolė</translation>
+        <source>zXCRC Control</source>
+        <translation>zXCRC Kontrolė</translation>
     </message>
     <message>
-        <source>zBWK Selected:</source>
-        <translation>Pasirinkta zBWK:</translation>
+        <source>zXCRC Selected:</source>
+        <translation>Pasirinkta zXCRC:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2290,8 +2290,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prieinamas Balansas: </translation>
     </message>
     <message>
-        <source>0 zBWK</source>
-        <translation>0 zBWK</translation>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
     </message>
     <message>
         <source>Security Level:</source>
@@ -2338,8 +2338,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Zerocoin Statistika:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
-        <translation>Bendras balansas, įskaitant nepatvirtintą ir nesubrendusį zBWK</translation>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Bendras balansas, įskaitant nepatvirtintą ir nesubrendusį zXCRC</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2516,12 +2516,12 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Kopijuoti sumą</translation>
     </message>
     <message>
-        <source>zBWK Spend #: </source>
-        <translation>zBWK Išleidimas #:</translation>
+        <source>zXCRC Spend #: </source>
+        <translation>zXCRC Išleidimas #:</translation>
     </message>
     <message>
-        <source>zBWK Mint</source>
-        <translation>zBWK Konvertavimas</translation>
+        <source>zXCRC Mint</source>
+        <translation>zXCRC Konvertavimas</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2628,8 +2628,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>su Saugumo Lygmeniu</translation>
     </message>
     <message>
-        <source>Failed to spend zBWK</source>
-        <translation>Nepavyko išleisti zBWK</translation>
+        <source>Failed to spend zXCRC</source>
+        <translation>Nepavyko išleisti zXCRC</translation>
     </message>
     <message>
         <source>serial: </source>
@@ -3449,14 +3449,14 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     </context>
 <context>

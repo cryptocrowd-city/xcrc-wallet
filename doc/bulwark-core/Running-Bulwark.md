@@ -213,7 +213,7 @@ Reindex the accumulator database on startup
 -reindexmoneysupply
 </td>
 <td>
-Reindex the XCRC and zBWK money supply statistics on startup
+Reindex the XCRC and zXCRC money supply statistics on startup
 </td>
 </tr>
 <tr>

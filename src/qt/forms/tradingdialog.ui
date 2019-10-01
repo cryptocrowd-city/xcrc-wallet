@@ -181,7 +181,7 @@
       <string>Asks</string>
      </property>
     </widget>
-    <widget class="QLabel" name="BWKSupply">
+    <widget class="QLabel" name="XCRCSupply">
      <property name="geometry">
       <rect>
        <x>540</x>
@@ -197,7 +197,7 @@
       <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
      </property>
     </widget>
-    <widget class="QLabel" name="BWKDemand">
+    <widget class="QLabel" name="XCRCDemand">
      <property name="geometry">
       <rect>
        <x>160</x>
@@ -432,7 +432,7 @@
     <attribute name="title">
      <string>Buy</string>
     </attribute>
-    <widget class="QtMaterialFlatButton" name="BuyBWK" native="true">
+    <widget class="QtMaterialFlatButton" name="BuyXCRC" native="true">
      <property name="geometry">
       <rect>
        <x>30</x>
@@ -1707,7 +1707,7 @@
       <string>XCRC</string>
      </property>
     </widget>
-    <widget class="QLineEdit" name="UnitsInputBWK">
+    <widget class="QLineEdit" name="UnitsInputXCRC">
      <property name="geometry">
       <rect>
        <x>310</x>
@@ -1741,7 +1741,7 @@
       </font>
      </property>
     </widget>
-    <widget class="QtMaterialFlatButton" name="SellBWKBTN" native="true">
+    <widget class="QtMaterialFlatButton" name="SellXCRCBTN" native="true">
      <property name="geometry">
       <rect>
        <x>30</x>
@@ -1782,7 +1782,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QLabel" name="BWKAvailableLabel">
+       <widget class="QLabel" name="XCRCAvailableLabel">
         <property name="palette">
          <palette>
           <active>
@@ -2213,7 +2213,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QLabel" name="labelBWK">
+       <widget class="QLabel" name="labelXCRC">
         <property name="font">
          <font>
           <weight>75</weight>
@@ -2733,7 +2733,7 @@
       <string>TextLabel</string>
      </property>
     </widget>
-    <widget class="QLabel" name="BWKBalanceLabel">
+    <widget class="QLabel" name="XCRCBalanceLabel">
      <property name="geometry">
       <rect>
        <x>150</x>
@@ -2784,7 +2784,7 @@
       <string>BTC Balance:</string>
      </property>
     </widget>
-    <widget class="QLabel" name="BWKAvailableLabel_2">
+    <widget class="QLabel" name="XCRCAvailableLabel_2">
      <property name="geometry">
       <rect>
        <x>150</x>
@@ -2835,7 +2835,7 @@
       <string>XCRC Pending:</string>
      </property>
     </widget>
-    <widget class="QLabel" name="BWKPendingLabel">
+    <widget class="QLabel" name="XCRCPendingLabel">
      <property name="geometry">
       <rect>
        <x>150</x>

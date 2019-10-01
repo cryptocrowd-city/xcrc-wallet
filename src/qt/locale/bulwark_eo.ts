@@ -176,7 +176,7 @@
         <translation>Konfirmi monerĉifrado</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn Bulwarks de esti ŝtelita per malware infektanta vian komputilon.</translation>
     </message>
     <message>
@@ -433,8 +433,8 @@
         <translation>Foliumi transakcio historio</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Privataj agoj por zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Privataj agoj por zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1799,8 +1799,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Via aktuala CRyptoCrowd totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
     </message>
     <message>
-        <source>zBWK Balance</source>
-        <translation>zBWK kvanto</translation>
+        <source>zXCRC Balance</source>
+        <translation>zXCRC kvanto</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -1870,8 +1870,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>0.000 000 00 XCRC</source>
@@ -1890,12 +1890,12 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Kvanto</translation>
     </message>
     <message>
-        <source>zBWK Control</source>
-        <translation>zBWK kontrolu</translation>
+        <source>zXCRC Control</source>
+        <translation>zXCRC kontrolu</translation>
     </message>
     <message>
-        <source>zBWK Selected:</source>
-        <translation>Elektita zBWK</translation>
+        <source>zXCRC Selected:</source>
+        <translation>Elektita zXCRC</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -1906,12 +1906,12 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Elspezi zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zBWK for spending</source>
-        <translation>Havebla (matura kaj elspezebla) zBWK por elspezi</translation>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>Havebla (matura kaj elspezebla) zXCRC por elspezi</translation>
     </message>
     <message>
-        <source>0 zBWK</source>
-        <translation>0 zBWK</translation>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2649,14 +2649,14 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Is Spendable</source>

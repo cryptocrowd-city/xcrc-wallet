@@ -176,7 +176,7 @@
         <translation>Confirmar criptografia de carteira</translation>
     </message>
     <message>
-        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
         <translation>CRyptoCrowd vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas Bulwarks de serem roubadas por malwares infectando seu computador.</translation>
     </message>
     <message>
@@ -409,8 +409,8 @@
         <translation>Olhar histórico de transação</translation>
     </message>
     <message>
-        <source>Privacy Actions for zBWK</source>
-        <translation>Ações privadas para zBWK</translation>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Ações privadas para zXCRC</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -1958,8 +1958,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>0.000 000 00 XCRC</source>
@@ -2038,8 +2038,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Estatísticas zerocoin:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zBWK</source>
-        <translation>Balanço Total incluindo não confirmadas e imaturas zBWK</translation>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Balanço Total incluindo não confirmadas e imaturas zXCRC</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2731,8 +2731,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Tempo de confirmação:</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uBWKs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uBWKs in fee,&lt;br /&gt;while "at least" pays 1000 uBWKs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Se a taxa padrão estiver definida para 1000 uBWKs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 uBWKs em taxa,&lt;br /&gt; pagará pelo menos 1000 uBWKs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Se a taxa padrão estiver definida para 1000 uXCRCs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 uXCRCs em taxa,&lt;br /&gt; pagará pelo menos 1000 uXCRCs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
@@ -3635,7 +3635,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
 </context>
 <context>
-    <name>zBWKControlDialog</name>
+    <name>zXCRCControlDialog</name>
     <message>
         <source>Quantity</source>
         <translation>Quantia</translation>
@@ -3645,8 +3645,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>0</translation>
     </message>
     <message>
-        <source>zBWK</source>
-        <translation>zBWK</translation>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
