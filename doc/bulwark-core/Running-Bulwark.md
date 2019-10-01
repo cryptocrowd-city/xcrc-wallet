@@ -213,7 +213,7 @@ Reindex the accumulator database on startup
 -reindexmoneysupply
 </td>
 <td>
-Reindex the BWK and zBWK money supply statistics on startup
+Reindex the XCRC and zBWK money supply statistics on startup
 </td>
 </tr>
 <tr>
@@ -626,7 +626,7 @@ Set key pool size to &lt;n&gt;&lt;/n&gt; (default: 1000)
 -paytxfee=&lt;amt&gt;
 </td>
 <td>
-Fee (in BWK/kB) to add to transactions you send (default: 0.0001)
+Fee (in XCRC/kB) to add to transactions you send (default: 0.0001)
 </td>
 </tr>
 <tr>
@@ -907,7 +907,7 @@ Prepend debug output with timestamp (default: 1)
 -minrelaytxfee=&lt;amt&gt;
 </td>
 <td>
-Fees (in BWK/Kb) smaller than this are considered zero fee for relaying (default: 0.0001)
+Fees (in XCRC/Kb) smaller than this are considered zero fee for relaying (default: 0.0001)
 </td>
 </tr>
 <tr>

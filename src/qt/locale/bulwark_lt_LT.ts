@@ -2234,8 +2234,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prieinama Konvertavimui:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2604,7 +2604,7 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Klaida: jūsų piniginė užrakinta. Pirmiausia įveskite piniginės slaptažodį.</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>Netinkamas CRyptoCrowd Adresas</translation>
     </message>
     <message>

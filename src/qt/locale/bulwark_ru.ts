@@ -2291,7 +2291,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>Не удалось запустить CRyptoCrowd: обработчик click-to-pay </translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>URI не интерпретируется! Причиной этому может быть неверный CRyptoCrowd адрес или неверные параметеры URI.</translation>
     </message>
     <message>
@@ -2401,8 +2401,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>Доступный для чеканки</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2441,7 +2441,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>КОНФИДЕНЦИАЛЬНОСТЬ</translation>
     </message>
     <message>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation>Введите сумму в CRyptoCrowd для  конвертации в zBWK</translation>
     </message>
     <message>
@@ -2927,7 +2927,7 @@ Maximum allowed: </source>
         <translation>Не предоставляется адрес «Pay To», создающий местный платеж</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>неправильный CRyptoCrowd адрес</translation>
     </message>
     <message>
@@ -2986,7 +2986,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BWK to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zBWK</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3860,7 +3860,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Добавить Получателя</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>Анонимный CRyptoCrowd</translation>
     </message>
     <message>
@@ -3908,7 +3908,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Инструмент разделения блоков не работает с несколькими адресами. Попробуй еще раз.</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Предупреждение: неправильный CRyptoCrowd адрес</translation>
     </message>
     <message>
@@ -4981,11 +4981,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Выполнить команду, когда лучший блок изменяется (%s в cmd заменяется блочным хэшем)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
         <translation>Тарифы (в CRyptoCrowd / Kb), меньшие, чем это, считаются нулевой комиссией за ретрансляцию (по умолчанию: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
         <translation>Плата (в CRyptoCrowd / Kb) меньше этого считается нулевой комиссией за создание транзакции (по умолчанию: %s)</translation>
     </message>
     <message>
@@ -5409,7 +5409,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Не удалось прочитать блок</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
         <translation>Плата (в CRyptoCrowd / kB) для добавления к транзакциям, которые вы отправляете (по умолчанию: %s)</translation>
     </message>
     <message>

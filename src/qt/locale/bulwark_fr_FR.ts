@@ -2226,7 +2226,7 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>Impossible de démarrer CRyptoCrowd: gestionnaire click-to-pay</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>L'URI ne peut pas être analysée! Cela peut être dû à une adresse CRyptoCrowd invalide ou à des paramètres URI incorrectes.</translation>
     </message>
     <message>
@@ -2336,8 +2336,8 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>Disponible pour Monnayage:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2376,7 +2376,7 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>CONFIDENTIALITÉ</translation>
     </message>
     <message>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation>Entrez un montant de CRyptoCrowd à convertir en zBWK</translation>
     </message>
     <message>
@@ -2860,7 +2860,7 @@ Maximum autorisé:</translation>
         <translation>Aucune adresse 'Payer à' de fournie, création d'un paiement local</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>Adresse CRyptoCrowd incorrecte</translation>
     </message>
     <message>
@@ -3776,7 +3776,7 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Ajouter un destinataire</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>CRyptoCrowd anonymisé</translation>
     </message>
     <message>
@@ -3824,7 +3824,7 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>L'outil de séparation de bloc ne fonctionne pas avec les adresses multiples. Réessayez.</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Attention: adresse CRyptoCrowd invalide</translation>
     </message>
     <message>

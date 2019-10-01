@@ -2292,7 +2292,7 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Ne može se pokrenuti CRyptoCrowd: clik-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom CRyptoCrowd adresom ili nepravilnim URI parametrima.</translation>
     </message>
     <message>
@@ -2402,8 +2402,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Dostupno za Minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2442,7 +2442,7 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>PRIVATNOST</translation>
     </message>
     <message>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation>Unesite iznos CRyptoCrowd za pretvorbu u zBWK</translation>
     </message>
     <message>
@@ -2926,7 +2926,7 @@ Maksimalno dopušteno:</translation>
         <translation>Nije dodijeljena adresa "Plati", stvarajući lokalnu uplatu</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>Nevažeća CRyptoCrowd Adresa</translation>
     </message>
     <message>
@@ -2984,7 +2984,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BWK to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zBWK</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3861,7 +3861,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dodaj primatelja</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>Anonimiziran CRyptoCrowd</translation>
     </message>
     <message>
@@ -3909,7 +3909,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Alat za podjelu blocka ne funkcionira s više adresa. Pokušajte ponovo.</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Upozorenje: Nevažeća CRyptoCrowd adresa</translation>
     </message>
     <message>
@@ -4983,11 +4983,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izvrši naredbu kada se promijeni najbolji blok (%s u cmd zamjenjuje se blokovskim raspršivanjem)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
         <translation>Naknade (u CRyptoCrowd / Kb) manje od toga smatraju se nulom naknadom za prosljeđivanje (zadano: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
         <translation>Naknade (u CRyptoCrowd / Kb) manje od toga smatraju se nulom naknadom za izradu transakcija (zadano: %s)</translation>
     </message>
     <message>
@@ -5412,7 +5412,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Greška čitanja bloka</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
         <translation>Naknada (u CRyptoCrowd / kB) za dodavanje transakcija koje šaljete (zadano: %s)</translation>
     </message>
     <message>

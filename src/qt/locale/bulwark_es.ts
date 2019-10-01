@@ -2292,7 +2292,7 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en cr
         <translation>No se puede iniciar CRyptoCrowd: módulo click-to-pay</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>¡El identificador de la dirección no puede ser analizado! Esto puede ser causado por una dirección CRyptoCrowd inválida o parámetros del identificador malformados.</translation>
     </message>
     <message>
@@ -2402,7 +2402,7 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en cr
         <translation>Disponible para minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
+        <source>0.000 000 00 XCRC</source>
         <translation>0.000 000 00 CRyptoCrowd</translation>
     </message>
     <message>
@@ -2442,7 +2442,7 @@ Para habilitar AutoMint cambie 'enablezeromint = 0' a 'enablezeromint = 1' en cr
         <translation>PRIVACIDAD</translation>
     </message>
     <message>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation>Introduzca la cantidad de CRyptoCrowd que desea convertir a zBWK</translation>
     </message>
     <message>
@@ -2929,7 +2929,7 @@ Máximo permitido:</translation>
         <translation>No se especificó drección 'Pagar A', por lo que asumimos un pago local</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>Dirección CRyptoCrowd Inválida</translation>
     </message>
     <message>
@@ -2988,7 +2988,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BWK to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zBWK</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3861,7 +3861,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Añadir Destinatario</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>CRyptoCrowd anonimizados</translation>
     </message>
     <message>
@@ -3909,7 +3909,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>La herramienta de división de bloques no funciona con varias direcciones. Inténtelo otra vez.</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Advertencia: Direcciones CRyptoCrowd inválidas</translation>
     </message>
     <message>
@@ -4982,12 +4982,12 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Ejecutar comando cuando el mejor bloque cambie (%s en cmd es reemplazado por el block hash)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Comisiones (en BWK/kB) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Comisiones (en XCRC/kB) menores a esta son consideradas gratuitas para la propagación de la transacción (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Comisiones (en BWK/kB) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Comisiones (en XCRC/kB) menores a esta son consideradas gratuitas para la creación de la transacción (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5410,8 +5410,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Falló al leer el bloque</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Comisión (en BWK/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Comisión (en XCRC/kB) para agregar a la transacción que envías (predeterminado: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

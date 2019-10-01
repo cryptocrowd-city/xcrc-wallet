@@ -5,7 +5,7 @@ CRyptoCrowd Cryptocurrency
 [![GitHub license](https://img.shields.io/github/license/bulwark-crypto/CRyptoCrowd.svg)](https://github.com/bulwark-crypto/CRyptoCrowd/blob/master/COPYING) [![GitHub version](https://badge.fury.io/gh/bulwark-crypto%2FBulwark.svg)](https://badge.fury.io/gh/bulwark-crypto%2FBulwark) [![Discord](https://img.shields.io/discord/374271866308919296.svg)](https://discord.me/bulwarkcrypto)
 =====
 
-CRyptoCrowd (BWK) is a privacy oriented digital currency with Masternodes implemented.
+CRyptoCrowd (XCRC) is a privacy oriented digital currency with Masternodes implemented.
 CRyptoCrowd offers both SwiftTX and Obfuscation to enable speedy transactions with a Seesaw Staking / Masternode reward balancing mechanism to promote strong network security after the Proof of Work phase.
 
 __Note: The `master` branch may contain development that is in progress, it is recommended to use the latest tagged version or a binary release.__
@@ -20,7 +20,7 @@ __Note: The `master` branch may contain development that is in progress, it is r
 
 | Specification         | Descriptor                              |
 |-----------------------|-----------------------------------------|
-| Ticker                | BWK                                     |
+| Ticker                | XCRC                                     |
 | Algorithm             | NIST5                                   |
 | RPC Port              | 52541                                   |
 | P2P Port              | 52543                                   |
@@ -29,9 +29,9 @@ __Note: The `master` branch may contain development that is in progress, it is r
 | Block Size            | 1MB                                     |
 | Mined/Minted Maturity | 67 Blocks (~100 Minutes)                |
 | Confirmation          | 6 Blocks (~9 Minutes)                   |
-| Circulation (1 Year)  | 14,505,720 BWK                          |
-| Circulation (5 Years) | 27,668,220 BWK                          |
-| Governance Funds (Max)| 1,388,250 BWK                          |
+| Circulation (1 Year)  | 14,505,720 XCRC                          |
+| Circulation (5 Years) | 27,668,220 XCRC                          |
+| Governance Funds (Max)| 1,388,250 XCRC                          |
 | PoW Period            | nHeight ≤ 182,700                       |
 | PoS Period            | nHeight ≥ 182,701                       |
 | Protocol Support      | IPV4, IPV6, TOR, I2P                    |
@@ -43,7 +43,7 @@ __Note: The `master` branch may contain development that is in progress, it is r
 | Requirement   | Details              |
 |---------------|----------------------|
 | Confirmations | 475 Blocks           |
-| Amount        | 100 BWK (Per Input)  |
+| Amount        | 100 XCRC (Per Input)  |
 | Wallet        | Unlocked for Staking |
 
 <a name="pos-block-rewards"></a>

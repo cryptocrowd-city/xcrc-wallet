@@ -2292,7 +2292,7 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Kan CRyptoCrowd niet starten: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig CRyptoCrowd adres of misvormde URL parameters.</translation>
     </message>
     <message>
@@ -2402,8 +2402,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Beschikbaar voor minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2442,7 +2442,7 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation>Vul het aantal CRyptoCrowd in om te converteren naar zBWK</translation>
     </message>
     <message>
@@ -2929,7 +2929,7 @@ Maximaal toegestaan:</translation>
         <translation>Geen 'Betaal aan' adres verstrekt, lokale betaling wordt gemaakt</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>Ongeldig CRyptoCrowd addres</translation>
     </message>
     <message>
@@ -2988,7 +2988,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BWK to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zBWK</comment>
         <translation><numerusform>PrivacyDialoog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3861,7 +3861,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Voeg ontvanger toe</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>Geanonimiseerde CRyptoCrowd</translation>
     </message>
     <message>
@@ -3909,7 +3909,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het split block tool werkt niet met meerdere adressen. Probeer het nog eens.</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Waarschuwing: Ongeldig CRyptoCrowd adres</translation>
     </message>
     <message>
@@ -4982,12 +4982,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Uitvoeren commando wanneer het beste blok verandert (%s in cmd is vervangen door block hash)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Kosten (in BWK/kB) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Kosten (in XCRC/kB) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Kosten (in BWK/kB) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Kosten (in XCRC/kB) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5410,8 +5410,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Mislukt om block te lezen</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in BWK/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in XCRC/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

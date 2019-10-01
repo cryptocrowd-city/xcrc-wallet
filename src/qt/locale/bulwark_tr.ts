@@ -2223,7 +2223,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>CRyptoCrowd başlatılamıyor: tıkla ve ödeme işleyicisi</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>URI ayrıştırılamaz! Bunun nedeni, geçersiz bir CRyptoCrowd adresi veya hatalı biçimlendirilmiş URI parametrelerinden kaynaklanabilir.</translation>
     </message>
     <message>
@@ -2333,8 +2333,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>Mintinge hazır</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2705,7 +2705,7 @@ Maksimum bırakılan: </translation>
         <translation>Sağlanan 'Ödeme Yapmak İçin' adresi yok, yerel ödeme oluşturun</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>Geçersiz CRyptoCrowd Adresi</translation>
     </message>
     <message>
@@ -3540,7 +3540,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Alıcı ekle</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>anonim edilmiş CRyptoCrowd</translation>
     </message>
     <message>
@@ -3588,7 +3588,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Bloğu böl aygıtı multipl adresle çalışmaz Tekrar deneyin</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Uyarı: Geçersiz CRyptoCrowd adresi</translation>
     </message>
     <message>
@@ -4565,11 +4565,11 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>En iyi blok değiştirildiğinde komutu yürütün (cmd'deki %s yerine blok karması verilir)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
         <translation>Bundan daha küçük ücretler (CRyptoCrowd / Kb cinsinden), aktarma için sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
         <translation>Bundan daha küçük ücretler (CRyptoCrowd / Kb cinsinden), işlem yaratmada sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>

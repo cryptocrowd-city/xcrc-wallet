@@ -2291,7 +2291,7 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>Kan ikke starte CRyptoCrowd "klik for at betale" systemet</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>URl kan ikke fortolkes! Det kan skyldes en ugyldig adresse, eller forkerte URl parametre.</translation>
     </message>
     <message>
@@ -2401,8 +2401,8 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>Til rådighed til Minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2441,7 +2441,7 @@ For at aktivere AutoMint-ændring 'enablezeromint = 0' til 'enablezeromint = 1' 
         <translation>PRIVATLIV</translation>
     </message>
     <message>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation>Indtast en mængde CRyptoCrowd for at konvertere til zBWK</translation>
     </message>
     <message>
@@ -2928,7 +2928,7 @@ Maksimum tilladt:</translation>
         <translation>Ingen 'Betal til' adresse, der er oprettet, skaber lokal betaling</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation> Ugyldig CRyptoCrowd adresse</translation>
     </message>
     <message>
@@ -2987,7 +2987,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BWK to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zBWK</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3860,7 +3860,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Tilføj Modtager</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>Tilsløret CRyptoCrowd</translation>
     </message>
     <message>
@@ -3908,7 +3908,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Split blok værktøjet virker ikke med flere adresser. Prøv igen</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Advarsel! Ugyldig CRyptoCrowd adresse</translation>
     </message>
     <message>
@@ -4982,12 +4982,12 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Udfør en kommando når den bedste blok ændres (%s in cmd erstattes med blok hashen)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Gebyrer (in BWK/kB) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Gebyrer (in XCRC/kB) lavere end dette betragtes som et nul-gebyr for at videresende (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Gebyrer (in BWK/kB) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Gebyrer (in XCRC/kB) lavere end dette betragtes som et nul-gebyr for at oprette en transaktion (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5410,8 +5410,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Læsning af blokken mislykkedes</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Gebyr (i BWK/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Gebyr (i XCRC/kB) som skal tilføjes transaktionen der sendes (default: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

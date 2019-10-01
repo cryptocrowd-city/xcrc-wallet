@@ -30,7 +30,7 @@ QT_TRANSLATE_NOOP("bulwark-core", ""
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Calculated accumulator checkpoint is not what is recorded by block index"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
-"Cannot obtain a lock on data directory %s. BWK Core is probably already "
+"Cannot obtain a lock on data directory %s. XCRC Core is probably already "
 "running."),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Change automatic finalized budget voting behavior. mode=auto: Vote for only "
@@ -48,7 +48,7 @@ QT_TRANSLATE_NOOP("bulwark-core", ""
 "Delete all zerocoin spends and mints that have been recorded to the "
 "blockchain database and reindex them (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
-"Disable all BWK specific functionality (Masternodes, Zerocoin, SwiftX, "
+"Disable all XCRC specific functionality (Masternodes, Zerocoin, SwiftX, "
 "Budgeting) (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Distributed under the MIT software license, see the accompanying file "
@@ -59,7 +59,7 @@ QT_TRANSLATE_NOOP("bulwark-core", ""
 "Enable automatic wallet backups triggered after each zBWK minting (0-1, "
 "default: %u)"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
-"Enable or disable staking functionality for BWK inputs (0-1, default: %u)"),
+"Enable or disable staking functionality for XCRC inputs (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Enable or disable staking functionality for zBWK inputs (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
@@ -98,10 +98,10 @@ QT_TRANSLATE_NOOP("bulwark-core", ""
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Failed to find coin set amongst held coins with less than maxNumber of Spends"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
-"Fees (in BWK/Kb) smaller than this are considered zero fee for relaying "
+"Fees (in XCRC/Kb) smaller than this are considered zero fee for relaying "
 "(default: %s)"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
-"Fees (in BWK/Kb) smaller than this are considered zero fee for transaction "
+"Fees (in XCRC/Kb) smaller than this are considered zero fee for transaction "
 "creation (default: %s)"),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Flush database activity from memory pool to disk log every <n> megabytes "
@@ -193,15 +193,15 @@ QT_TRANSLATE_NOOP("bulwark-core", ""
 "Total length of network version string (%i) exceeds maximum length (%i). "
 "Reduce the number or size of uacomments."),
 QT_TRANSLATE_NOOP("bulwark-core", ""
-"Unable to bind to %s on this computer. BWK Core is probably already running."),
+"Unable to bind to %s on this computer. XCRC Core is probably already running."),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Unable to locate enough Obfuscation denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Unable to locate enough Obfuscation non-denominated funds for this "
-"transaction that are not equal 10000 BWK."),
+"transaction that are not equal 10000 XCRC."),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Unable to locate enough funds for this transaction that are not equal 10000 "
-"BWK."),
+"XCRC."),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: "
 "%s)"),
@@ -213,7 +213,7 @@ QT_TRANSLATE_NOOP("bulwark-core", ""
 "pay if you send a transaction."),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Warning: Please check that your computer's date and time are correct! If "
-"your clock is wrong BWK Core will not work properly."),
+"your clock is wrong XCRC Core will not work properly."),
 QT_TRANSLATE_NOOP("bulwark-core", ""
 "Warning: The network does not appear to fully agree! Some miners appear to "
 "be experiencing issues."),
@@ -270,7 +270,7 @@ QT_TRANSLATE_NOOP("bulwark-core", "Connect to a node to retrieve peer addresses,
 QT_TRANSLATE_NOOP("bulwark-core", "Connection options:"),
 QT_TRANSLATE_NOOP("bulwark-core", "Copyright (C) 2009-%i The Bitcoin Core Developers"),
 QT_TRANSLATE_NOOP("bulwark-core", "Copyright (C) 2014-%i The Dash Core Developers"),
-QT_TRANSLATE_NOOP("bulwark-core", "Copyright (C) 2015-%i The BWK Core Developers"),
+QT_TRANSLATE_NOOP("bulwark-core", "Copyright (C) 2015-%i The XCRC Core Developers"),
 QT_TRANSLATE_NOOP("bulwark-core", "Corrupted block database detected"),
 QT_TRANSLATE_NOOP("bulwark-core", "Could not parse masternode.conf"),
 QT_TRANSLATE_NOOP("bulwark-core", "Debugging/Testing options:"),
@@ -299,7 +299,7 @@ QT_TRANSLATE_NOOP("bulwark-core", "Error initializing wallet database environmen
 QT_TRANSLATE_NOOP("bulwark-core", "Error loading block database"),
 QT_TRANSLATE_NOOP("bulwark-core", "Error loading wallet.dat"),
 QT_TRANSLATE_NOOP("bulwark-core", "Error loading wallet.dat: Wallet corrupted"),
-QT_TRANSLATE_NOOP("bulwark-core", "Error loading wallet.dat: Wallet requires newer version of BWK Core"),
+QT_TRANSLATE_NOOP("bulwark-core", "Error loading wallet.dat: Wallet requires newer version of XCRC Core"),
 QT_TRANSLATE_NOOP("bulwark-core", "Error opening block database"),
 QT_TRANSLATE_NOOP("bulwark-core", "Error reading from database, shutting down."),
 QT_TRANSLATE_NOOP("bulwark-core", "Error recovering public key."),
@@ -323,7 +323,7 @@ QT_TRANSLATE_NOOP("bulwark-core", "Failed to read block"),
 QT_TRANSLATE_NOOP("bulwark-core", "Failed to select a zerocoin"),
 QT_TRANSLATE_NOOP("bulwark-core", "Failed to wipe zerocoinDB"),
 QT_TRANSLATE_NOOP("bulwark-core", "Failed to write coin serial number into wallet"),
-QT_TRANSLATE_NOOP("bulwark-core", "Fee (in BWK/kB) to add to transactions you send (default: %s)"),
+QT_TRANSLATE_NOOP("bulwark-core", "Fee (in XCRC/kB) to add to transactions you send (default: %s)"),
 QT_TRANSLATE_NOOP("bulwark-core", "Finalizing transaction."),
 QT_TRANSLATE_NOOP("bulwark-core", "Force safe mode (default: %u)"),
 QT_TRANSLATE_NOOP("bulwark-core", "Found enough users, signing ( waiting %s )"),
@@ -338,7 +338,7 @@ QT_TRANSLATE_NOOP("bulwark-core", "Incompatible mode."),
 QT_TRANSLATE_NOOP("bulwark-core", "Incompatible version."),
 QT_TRANSLATE_NOOP("bulwark-core", "Incorrect or no genesis block found. Wrong datadir for network?"),
 QT_TRANSLATE_NOOP("bulwark-core", "Information"),
-QT_TRANSLATE_NOOP("bulwark-core", "Initialization sanity check failed. BWK Core is shutting down."),
+QT_TRANSLATE_NOOP("bulwark-core", "Initialization sanity check failed. XCRC Core is shutting down."),
 QT_TRANSLATE_NOOP("bulwark-core", "Input is not valid."),
 QT_TRANSLATE_NOOP("bulwark-core", "Insufficient funds"),
 QT_TRANSLATE_NOOP("bulwark-core", "Insufficient funds."),
@@ -412,7 +412,7 @@ QT_TRANSLATE_NOOP("bulwark-core", "Randomly drop 1 of every <n> network messages
 QT_TRANSLATE_NOOP("bulwark-core", "Randomly fuzz 1 of every <n> network messages"),
 QT_TRANSLATE_NOOP("bulwark-core", "Rebuild block chain index from current blk000??.dat files"),
 QT_TRANSLATE_NOOP("bulwark-core", "Receive and display P2P network alerts (default: %u)"),
-QT_TRANSLATE_NOOP("bulwark-core", "Reindex the BWK and zBWK money supply statistics"),
+QT_TRANSLATE_NOOP("bulwark-core", "Reindex the XCRC and zBWK money supply statistics"),
 QT_TRANSLATE_NOOP("bulwark-core", "Reindex the accumulator database"),
 QT_TRANSLATE_NOOP("bulwark-core", "Reindexing zerocoin database..."),
 QT_TRANSLATE_NOOP("bulwark-core", "Reindexing zerocoin failed"),
@@ -509,7 +509,7 @@ QT_TRANSLATE_NOOP("bulwark-core", "Verifying wallet..."),
 QT_TRANSLATE_NOOP("bulwark-core", "Version 1 zBWK require a security level of 100 to successfully spend."),
 QT_TRANSLATE_NOOP("bulwark-core", "Wallet %s resides outside data directory %s"),
 QT_TRANSLATE_NOOP("bulwark-core", "Wallet is locked."),
-QT_TRANSLATE_NOOP("bulwark-core", "Wallet needed to be rewritten: restart BWK Core to complete"),
+QT_TRANSLATE_NOOP("bulwark-core", "Wallet needed to be rewritten: restart XCRC Core to complete"),
 QT_TRANSLATE_NOOP("bulwark-core", "Wallet options:"),
 QT_TRANSLATE_NOOP("bulwark-core", "Wallet window title"),
 QT_TRANSLATE_NOOP("bulwark-core", "Warning"),

@@ -2096,8 +2096,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Cannot start CRyptoCrowd: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
-        <translation>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
+        <translation>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2952,8 +2952,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>anonymous funds</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
-        <translation>Warning: Invalid BWK address</translation>
+        <source>Warning: Invalid XCRC address</source>
+        <translation>Warning: Invalid XCRC address</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3974,12 +3974,12 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Execute command when the best block changes (%s in cmd is replaced by block hash)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -4406,8 +4406,8 @@ for example: alertnotify=echo %%s | mail -s "CRyptoCrowd Alert" admin@foo.com
         <translation>Failed to read block</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in BWK/kB) to add to transactions you send (default: %s)</translation>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in XCRC/kB) to add to transactions you send (default: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

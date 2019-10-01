@@ -2291,7 +2291,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>Bulwark을 시작할 수 없습니다: 결제하기 위한 클릭 처리</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>URI를 분석할 수 없습니다! 이는 잘못된 CRyptoCrowd 주소 또는 URI 매개변수 손상으로 인해 발생할 수 있습니다.</translation>
     </message>
     <message>
@@ -2401,8 +2401,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>생성 가능한 수량:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2441,7 +2441,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
         <translation>프라이버시</translation>
     </message>
     <message>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation>zBWK로 변환할 CRyptoCrowd 수량을 입력하세요.</translation>
     </message>
     <message>
@@ -2929,7 +2929,7 @@ Maximum allowed: </source>
         <translation>주소를 입력하지 않아, 신규 주소를 생성합니다.</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>잘못된 CRyptoCrowd 주소</translation>
     </message>
     <message>
@@ -2987,7 +2987,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BWK to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zBWK</comment>
         <translation><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3861,7 +3861,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>받는 사람 추가</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>익명화된 CRyptoCrowd</translation>
     </message>
     <message>
@@ -3909,7 +3909,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>분할 블록 도구는 여러 주소에서 작동하지 않습니다. 다시 시도하십시오.</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>경고: 잘못된 CRyptoCrowd 주소</translation>
     </message>
     <message>
@@ -4983,12 +4983,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>최고 블록이 변경될 경우 명령을 실행하십시오 (명령 내 %s 는 블록 해시로 대체 되었습니다)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>이것보다 작은 수수료 (BWK/kB)는 중계 수수료가 없는 것으로 간주됩니다 (기본값: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>이것보다 작은 수수료 (XCRC/kB)는 중계 수수료가 없는 것으로 간주됩니다 (기본값: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>이것보다 작은 수수료 (BWK/kB)는 트랜잭션 생성 수수료가 없는 것으로 간주됩니다 (기본값: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>이것보다 작은 수수료 (XCRC/kB)는 트랜잭션 생성 수수료가 없는 것으로 간주됩니다 (기본값: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5411,8 +5411,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>블록을 받아오는데 실패했습니다.</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
-        <translation>당신이 보내는 트랜잭션에 추가 할 수수료 (BWK/kB) (기본값: %s)</translation>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>당신이 보내는 트랜잭션에 추가 할 수수료 (XCRC/kB) (기본값: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

@@ -18,7 +18,7 @@ BitcoinUnits::BitcoinUnits(QObject* parent) : QAbstractListModel(parent),
 
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits() {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(BWK);
+    unitlist.append(XCRC);
     unitlist.append(mBWK);
     unitlist.append(uBWK);
     return unitlist;
@@ -26,7 +26,7 @@ QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits() {
 
 bool BitcoinUnits::valid(int unit) {
     switch (unit) {
-    case BWK:
+    case XCRC:
     case mBWK:
     case uBWK:
         return true;
@@ -37,7 +37,7 @@ bool BitcoinUnits::valid(int unit) {
 
 QString BitcoinUnits::id(int unit) {
     switch (unit) {
-    case BWK:
+    case XCRC:
         return QString("cryptocrowd");
     case mBWK:
         return QString("mbulwark");
@@ -51,8 +51,8 @@ QString BitcoinUnits::id(int unit) {
 QString BitcoinUnits::name(int unit) {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case BWK:
-            return QString("BWK");
+        case XCRC:
+            return QString("XCRC");
         case mBWK:
             return QString("mBWK");
         case uBWK:
@@ -62,7 +62,7 @@ QString BitcoinUnits::name(int unit) {
         }
     } else {
         switch (unit) {
-        case BWK:
+        case XCRC:
             return QString("tBWK");
         case mBWK:
             return QString("mtBWK");
@@ -77,8 +77,8 @@ QString BitcoinUnits::name(int unit) {
 QString BitcoinUnits::description(int unit) {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case BWK:
-            return QString("BWK");
+        case XCRC:
+            return QString("XCRC");
         case mBWK:
             return QString("Milli-BWK (1 / 1" THIN_SP_UTF8 "000)");
         case uBWK:
@@ -88,7 +88,7 @@ QString BitcoinUnits::description(int unit) {
         }
     } else {
         switch (unit) {
-        case BWK:
+        case XCRC:
             return QString("TestBWKs");
         case mBWK:
             return QString("Milli-TestBWK (1 / 1" THIN_SP_UTF8 "000)");
@@ -102,7 +102,7 @@ QString BitcoinUnits::description(int unit) {
 
 qint64 BitcoinUnits::factor(int unit) {
     switch (unit) {
-    case BWK:
+    case XCRC:
         return 100000000;
     case mBWK:
         return 100000;
@@ -115,7 +115,7 @@ qint64 BitcoinUnits::factor(int unit) {
 
 int BitcoinUnits::decimals(int unit) {
     switch (unit) {
-    case BWK:
+    case XCRC:
         return 8;
     case mBWK:
         return 5;

@@ -326,7 +326,7 @@ void PrivacyDialog::sendzBWK() {
 
     if(!fWholeNumber && fMintChange) {
         QString strFeeWarning = "You've entered an amount with fractional digits and want the change to be converted to Zerocoin.<br /><br /><b>";
-        strFeeWarning += QString::number(dzFee, 'f', 8) + " BWK </b>will be added to the standard transaction fees!<br />";
+        strFeeWarning += QString::number(dzFee, 'f', 8) + " XCRC </b>will be added to the standard transaction fees!<br />";
         QMessageBox::StandardButton retval = QMessageBox::question(this, tr("Confirm additional Fees"),
                                              strFeeWarning,
                                              QMessageBox::Yes | QMessageBox::Cancel,
@@ -432,7 +432,7 @@ void PrivacyDialog::sendzBWK() {
 
     CAmount nValueOut = 0;
     for (const CTxOut& txout: wtxNew.vout) {
-        strStats += tr("value out: ") + FormatMoney(txout.nValue).c_str() + " BWK, ";
+        strStats += tr("value out: ") + FormatMoney(txout.nValue).c_str() + " XCRC, ";
         nValueOut += txout.nValue;
 
         strStats += tr("address: ");

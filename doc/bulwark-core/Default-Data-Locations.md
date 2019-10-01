@@ -59,7 +59,7 @@ An overview of these is in [https://github.com/bulwark-crypto/cryptocrowd/blob/m
 * debug.log
     *cryptocrowd's verbose log file. Automatically trimmed from time to time.
 * wallet.dat
-    *Storage for keys, transactions, metadata, and options. <span style="color:red">Please be sure to make backups of this file.  It contains the keys necessary for spending your BWK.</span>
+    *Storage for keys, transactions, metadata, and options. <span style="color:red">Please be sure to make backups of this file.  It contains the keys necessary for spending your XCRC.</span>
 * peers.dat
     * Storage for peer information to make a reconnect easier.  This file uses a bitcoin-standard file format, unrelated to any database system<ref>[Ultraprune merged in mainline](http://bitcointalk.org/index.php?topic=119525.msg1287284#msg1287284)</ref>.
 * fee_estimates.dat
@@ -105,7 +105,7 @@ A LevelDB database containing information pertaining to the various sporks and t
 This section may be of use to you if you wish to send a friend the blockchain, avoiding them a hefty download.
 
 *wallet.dat
-    *Contains addresses and transactions linked to them. <span style="color:red">Please be sure to make backups of this file.  It contains the keys necessary for spending your BWK.</span> You should not transfer this file to any third party or they may be able to access your BWK.
+    *Contains addresses and transactions linked to them. <span style="color:red">Please be sure to make backups of this file.  It contains the keys necessary for spending your XCRC.</span> You should not transfer this file to any third party or they may be able to access your XCRC.
 *db.log
     *May contain information pertaining to your wallet. It may be safely deleted.
 *debug.log
@@ -119,7 +119,7 @@ Other files and folders (blocks, blocks/index, chainstate, sporks, zerocoin) may
 
 # Transferability
 
-The database files in the "blocks", "chainstate", "sporks", and "zerocoin" directories are cross-platform, and can be copied between different installations. These files, known collectively as a node's "block database", represent all of the information downloaded by a node during the syncing process. In other words, if you copy installation A's block database into installation B, installation B will then have the same syncing percentage as installation A. This is usually ''far'' faster than doing the normal initial sync over again. However, when you copy someone's database in this way, you are trusting them '''absolutely'''. cryptocrowd Core treats its block database files as 100% accurate and trustworthy, whereas during the normal initial sync it treats each block offered by a peer as invalid until proven otherwise. If an attacker is able to modify your block database files, then they can do all sorts of evil things which could cause you to lose BWK. Therefore, you should only copy block databases from cryptocrowd installations under your personal control, and only over a secure connection.
+The database files in the "blocks", "chainstate", "sporks", and "zerocoin" directories are cross-platform, and can be copied between different installations. These files, known collectively as a node's "block database", represent all of the information downloaded by a node during the syncing process. In other words, if you copy installation A's block database into installation B, installation B will then have the same syncing percentage as installation A. This is usually ''far'' faster than doing the normal initial sync over again. However, when you copy someone's database in this way, you are trusting them '''absolutely'''. cryptocrowd Core treats its block database files as 100% accurate and trustworthy, whereas during the normal initial sync it treats each block offered by a peer as invalid until proven otherwise. If an attacker is able to modify your block database files, then they can do all sorts of evil things which could cause you to lose XCRC. Therefore, you should only copy block databases from cryptocrowd installations under your personal control, and only over a secure connection.
 
 Each node has a unique block database, and all of the files are highly connected. So if you copy just a few files from one installation's "blocks", "chainstate", "sporks", or "zerocoin" directories into another installation, this will almost certainly cause the second node to crash or get stuck at some random point in the future. If you want to copy a block database from one installation to another, you have to delete the old database and copy ''all'' of the files at once. Both nodes have to be shut down while copying.
 

@@ -1963,7 +1963,7 @@ Please check the address and try again.</source>
         <translation>Kopioi taksa</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Varoitus: Virheellinen CRyptoCrowd osoite</translation>
     </message>
     <message>

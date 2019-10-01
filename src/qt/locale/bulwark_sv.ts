@@ -2267,7 +2267,7 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>Kan ej starta CRyptoCrowd: klicka-för-att-betala hanterare</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig CRyptoCrowd adress eller felproducerade URI parametrar.</translation>
     </message>
     <message>
@@ -2377,7 +2377,7 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>Tillgängligt att prägla:</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
+        <source>0.000 000 00 XCRC</source>
         <translation>0.000 000 00 CRyptoCrowd</translation>
     </message>
     <message>
@@ -2417,7 +2417,7 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>SEKRETESS</translation>
     </message>
     <message>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation>Mata in en mängd CRyptoCrowd att konvertera till zBWK</translation>
     </message>
     <message>
@@ -2905,7 +2905,7 @@ Högsta tillåtna:</translation>
         <translation>Ingen 'Betala Till' adress inmatad, skapar lokal betalning</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>Ogiltig CRyptoCrowd Adress</translation>
     </message>
     <message>
@@ -2964,7 +2964,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BWK to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zBWK</comment>
         <translation><numerusform>SekretessRuta</numerusform><numerusform>SekretessDialog</numerusform></translation>
     </message>
     <message>
@@ -3777,7 +3777,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka till flera mottagare på en gång</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>Anonymiserade CRyptoCrowd</translation>
     </message>
     <message>
@@ -3825,7 +3825,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Split block verktyget fungerar inte med flera adresser. Försök igen.</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Varning: Ogiltig CRyptoCrowd adress</translation>
     </message>
     <message>
@@ -4898,12 +4898,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exekvera kommando när den bästa block ändras (%s i cmd är utbytt mot block hash)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Avgifter (i BWK/kB) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Avgifter (i XCRC/kB) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Avgifter (i BWK/kB) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Avgifter (i XCRC/kB) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5326,8 +5326,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Misslyckades läsa block</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Avgift (i BWK/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Avgift (i XCRC/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

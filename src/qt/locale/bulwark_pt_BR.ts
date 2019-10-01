@@ -1962,8 +1962,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>zBWK</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 BWK</translation>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -2783,7 +2783,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Adicionar Recipiente</translation>
     </message>
     <message>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation>CRyptoCrowd anonimizadas</translation>
     </message>
     <message>
@@ -2819,7 +2819,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Copiar troco</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Aviso: endereço CRyptoCrowd inválido</translation>
     </message>
     <message>
@@ -3672,12 +3672,12 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Executar o comando quando uma transação da carteira mudar (%s no cmd será substituído pela TxID)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Taxas (em BWK/kB) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Taxas (em XCRC/kB) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
     </message>
     <message>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Taxas (em BWK/kB) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Taxas (em XCRC/kB) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
     </message>
     <message>
         <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
@@ -3896,8 +3896,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Falhou em ler o bloco</translation>
     </message>
     <message>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Taxa (em BWK/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Taxa (em XCRC/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

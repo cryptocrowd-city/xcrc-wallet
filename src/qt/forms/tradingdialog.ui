@@ -442,7 +442,7 @@
       </rect>
      </property>
      <property name="text" stdset="0">
-      <string>Buy BWK</string>
+      <string>Buy XCRC</string>
      </property>
      <property name="icon" stdset="0">
       <iconset resource="../cryptocrowd.qrc">
@@ -512,7 +512,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>BWK</string>
+      <string>XCRC</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_5">
@@ -1704,7 +1704,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>BWK</string>
+      <string>XCRC</string>
      </property>
     </widget>
     <widget class="QLineEdit" name="UnitsInputBWK">
@@ -1751,7 +1751,7 @@
       </rect>
      </property>
      <property name="text" stdset="0">
-      <string>Sell BWK</string>
+      <string>Sell XCRC</string>
      </property>
      <property name="icon" stdset="0">
       <iconset resource="../cryptocrowd.qrc">
@@ -1777,7 +1777,7 @@
          </font>
         </property>
         <property name="text">
-         <string>BWK Available:</string>
+         <string>XCRC Available:</string>
         </property>
        </widget>
       </item>
@@ -2221,7 +2221,7 @@
          </font>
         </property>
         <property name="text">
-         <string>BWK</string>
+         <string>XCRC</string>
         </property>
        </widget>
       </item>
@@ -2762,7 +2762,7 @@
       </font>
      </property>
      <property name="text">
-      <string>BWK Balance:</string>
+      <string>XCRC Balance:</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_12">
@@ -2813,7 +2813,7 @@
       </font>
      </property>
      <property name="text">
-      <string>BWK Available:</string>
+      <string>XCRC Available:</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_14">
@@ -2832,7 +2832,7 @@
       </font>
      </property>
      <property name="text">
-      <string>BWK Pending:</string>
+      <string>XCRC Pending:</string>
      </property>
     </widget>
     <widget class="QLabel" name="BWKPendingLabel">
@@ -2928,7 +2928,7 @@
       </font>
      </property>
      <property name="text">
-      <string>Bittrex BWK Deposit Address:</string>
+      <string>Bittrex XCRC Deposit Address:</string>
      </property>
     </widget>
     <widget class="QtMaterialFlatButton" name="GenDepositBTN" native="true">

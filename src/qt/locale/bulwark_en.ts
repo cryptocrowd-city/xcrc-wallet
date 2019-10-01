@@ -2958,7 +2958,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+110"/>
-        <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3101,7 +3101,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+19"/>
-        <source>0.000?000?00 BWK</source>
+        <source>0.000?000?00 XCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3152,7 +3152,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="+308"/>
         <location line="+52"/>
-        <source>Enter an amount of BWK to convert to zBWK</source>
+        <source>Enter an amount of XCRC to convert to zBWK</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3801,7 +3801,7 @@ Maximum allowed: </source>
     </message>
     <message>
         <location line="+4"/>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3876,7 +3876,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <message numerus="yes">
         <location line="+362"/>
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of BWK to convert to zBWK</comment>
+        <comment>Enter an amount of XCRC to convert to zBWK</comment>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -4905,7 +4905,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+167"/>
-        <source>SwiftX technology allows for near instant transactions - A flat fee of 0.01 BWK applies</source>
+        <source>SwiftX technology allows for near instant transactions - A flat fee of 0.01 XCRC applies</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5046,7 +5046,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+35"/>
-        <source>Anonymized BWK</source>
+        <source>Anonymized XCRC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5106,7 +5106,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+653"/>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6502,12 +6502,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+8"/>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7057,7 +7057,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+4"/>
-        <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

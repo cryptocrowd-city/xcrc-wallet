@@ -3452,7 +3452,7 @@ void FlushStateToDisk() {
 void static UpdateTip(CBlockIndex* pindexNew) {
     chainActive.SetTip(pindexNew);
 
-    // If turned on AutoZeromint will automatically convert BWK to zBWK
+    // If turned on AutoZeromint will automatically convert XCRC to zBWK
     if (pwalletMain->isZeromintEnabled ())
         pwalletMain->AutoZeromint ();
 

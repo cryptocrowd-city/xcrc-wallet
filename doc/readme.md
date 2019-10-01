@@ -22,11 +22,11 @@ CRyptoCrowd Core Documentation
 
 Setup
 ---------------------
-[CRyptoCrowd Core](http://cryptocrowd.city.org/#downloads) is the original CRyptoCrowd client and it builds the backbone of the network. However, it downloads and stores the entire history of BWK transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[CRyptoCrowd Core](http://cryptocrowd.city.org/#downloads) is the original CRyptoCrowd client and it builds the backbone of the network. However, it downloads and stores the entire history of XCRC transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run bwk on your native platform.
+The following are some helpful notes on how to run xcrc on your native platform.
 
 ### Unix
 
@@ -54,7 +54,7 @@ Drag Bulwark-Qt to your applications folder, and then run Bulwark-Qt.
 
 Building
 ---------------------
-The following are developer notes on how to build bwk on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build xcrc on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Unix Build Notes](building/Linux-Build-Guide.md)
 - [MacOS Build Notes](building/MacOS-Build-Guide.md)

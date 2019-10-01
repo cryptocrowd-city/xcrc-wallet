@@ -1874,7 +1874,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>zBWK</translation>
     </message>
     <message>
-        <source>0.000 000 00 BWK</source>
+        <source>0.000 000 00 XCRC</source>
         <translation>0.000 000 00 CRyptoCrowd</translation>
     </message>
     <message>
@@ -2004,7 +2004,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Mesaĝo: eniri kvanto &gt; 0.</translation>
     </message>
     <message>
-        <source>Invalid BWK address</source>
+        <source>Invalid XCRC address</source>
         <translation>Nevalida CRyptoCrowd adreso</translation>
     </message>
     <message>
@@ -2345,7 +2345,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Kopi ŝanĝo</translation>
     </message>
     <message>
-        <source>Warning: Invalid BWK address</source>
+        <source>Warning: Invalid XCRC address</source>
         <translation>Averto: nevalida CRyptoCrowd adreson</translation>
     </message>
     <message>
