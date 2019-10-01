@@ -52,7 +52,7 @@ addons:
     - zlib1g-dev
 env:
   global:
-  - BULWARK_VERSION=2.1.0.0
+  - CRYPTOCROWD_VERSION=2.1.0.0
   - CCACHE_COMPRESS=1
   - CCACHE_SIZE=2500M
   - CCACHE_CPP2=1
@@ -67,7 +67,7 @@ matrix:
 #        - g++-arm-linux-gnueabihf
 #        - binutils-arm-linux-gnueabihf
 #   env:
-#    - BULWARK_CONFIG="--enable-glibc-back-compat --with-gui=no"
+#    - CRYPTOCROWD_CONFIG="--enable-glibc-back-compat --with-gui=no"
 #    - HOST=arm-linux-gnueabihf
 #    - LABEL=ARM
 #    os: linux
@@ -82,7 +82,7 @@ matrix:
 #        - python3-zmq
 #        - qtdeclarative5-dev
 #   env:
-#    - BULWARK_CONFIG="--enable-zmq --enable-glibc-back-compat
+#    - CRYPTOCROWD_CONFIG="--enable-zmq --enable-glibc-back-compat
 #      --with-gui=qt5 LDFLAGS=-static-libstdc++"
 #    - HOST=i686-pc-linux-gnu
 #    - LABEL=linux32
@@ -98,7 +98,7 @@ matrix:
         - python3-zmq
         - qtdeclarative5-dev
     env:
-    - BULWARK_CONFIG="--enable-zmq --enable-glibc-back-compat
+    - CRYPTOCROWD_CONFIG="--enable-zmq --enable-glibc-back-compat
       --with-gui=qt5 LDFLAGS=-static-libstdc++"
     - CPPFLAGS="-DDEBUG_LOCKORDER -DENABLE_DASH_DEBUG"
     - HOST=x86_64-pc-linux-gnu
@@ -117,7 +117,7 @@ matrix:
         - python3
         - qtdeclarative5-dev
     env:
-    - BULWARK_CONFIG="--with-gui=qt5"
+    - CRYPTOCROWD_CONFIG="--with-gui=qt5"
     - HOST=i686-w64-mingw32
     - LABEL=win32
     os: linux
@@ -134,7 +134,7 @@ matrix:
 #        - python3
 #        - qtdeclarative5-dev
 #    env:
-#    - BULWARK_CONFIG="--with-gui=qt5 LDFLAGS=-Wa,-mbig-obj"
+#    - CRYPTOCROWD_CONFIG="--with-gui=qt5 LDFLAGS=-Wa,-mbig-obj"
 #    - HOST=x86_64-w64-mingw32
 #    - LABEL=win64
 #    os: linux
@@ -164,7 +164,7 @@ before_script:
 script:
 - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then make $MAKEJOBS -C depends HOST="$HOST";
   depends/$HOST/native/bin/ccache --max-size=$CCACHE_SIZE; sh ./autogen.sh; ./configure
-  --cache-file=config.cache $GLOBAL_CONFIG $BULWARK_CONFIG; make $MAKEJOBS; fi
+  --cache-file=config.cache $GLOBAL_CONFIG $CRYPTOCROWD_CONFIG; make $MAKEJOBS; fi
 - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then sh ./autogen.sh; ./configure --enable-reduce-exports;
   make deploy; fi
 before_deploy:
