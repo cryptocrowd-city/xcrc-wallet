@@ -1,6 +1,6 @@
-# TOR Support In Bulwark
+# TOR Support In CRyptoCrowd
 
-It is possible to run Bulwark as a Tor hidden service, and connect to such services.
+It is possible to run CRyptoCrowd as a Tor hidden service, and connect to such services.
 
 The following directions assume you have a Tor proxy running on port 9050. Many
 distributions default to having a SOCKS proxy listening on port 9050, but others
@@ -9,9 +9,9 @@ port. See [Tor Project FAQ:TBBSocksPort](https://www.torproject.org/docs/faq.htm
 for how to properly configure Tor.
 
 
-## Run Bulwark behind a Tor proxy
+## Run CRyptoCrowd behind a Tor proxy
 
-The first step is running Bulwark behind a Tor proxy. This will already make all
+The first step is running CRyptoCrowd behind a Tor proxy. This will already make all
 outgoing connections be anonymized, but more is possible.
 
 ```
@@ -47,7 +47,7 @@ In a typical situation, this suffices to run behind a Tor proxy:
 ./bulwarkd -proxy=127.0.0.1:9050
 ```
 
-## Run a Bulwark hidden server
+## Run a CRyptoCrowd hidden server
 
 If you configure your Tor system accordingly, it is possible to make your node also
 reachable from the Tor network. Add these lines to your /etc/tor/torrc (or equivalent
@@ -59,7 +59,7 @@ config file):
 	SOCKSPolicy accept 127.0.0.1/8
 	Log notice file /var/log/tor/notices.log
 	ControlPort 9051
-	HiddenServiceDir /var/lib/tor/bulwark/
+	HiddenServiceDir /var/lib/tor/cryptocrowd/
 	HiddenServicePort 989 127.0.0.1:51472
 	HiddenServiceStatistics 0
 	ORPort 9001
@@ -73,7 +73,7 @@ The directory can be different of course, but (both) port numbers should be equa
 your bulwarkd's P2P listen port (52541 by default).
 
 ```
--externalip=X   You can tell bulwark about its publicly reachable address using
+-externalip=X   You can tell cryptocrowd about its publicly reachable address using
                 this option, and this can be a .onion address. Given the above
                 configuration, you can find your onion address in
                 /var/lib/tor/bulwark-service/hostname. Onion addresses are given
@@ -115,7 +115,7 @@ for normal IPv4/IPv6 communication, use:
 ./bulwarkd -onion=127.0.0.1:9050 -externalip=FIXME_ADDRESS_TOR -discover
 ```
 
-## List of known Bulwark Tor relays
+## List of known CRyptoCrowd Tor relays
 
 ```
 FIXME_ADDRESS_TOR

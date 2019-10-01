@@ -62,12 +62,12 @@
         <translation>接收的位址</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>這是你用來付款的 Bulwark 位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>這是你用來付款的 CRyptoCrowd 位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>這是你用來接收款項的 Bulwark 位址, 建議你每次付款都使用新的位址.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>這是你用來接收款項的 CRyptoCrowd 位址, 建議你每次付款都使用新的位址.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -164,16 +164,16 @@
         <translation>錢包確認加密</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark 現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 Bulwark 幣被可疑軟體或病毒偷走的風險.</translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd 現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 CRyptoCrowd 幣被可疑軟體或病毒偷走的風險.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>確定要加密你的錢包?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
-        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(Bulwark)&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(CRyptoCrowd)&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -557,16 +557,16 @@
         <translation>Tabs 工具列</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>送出錢幣到 Bulwark 地址</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>送出錢幣到 CRyptoCrowd 地址</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>請求付款 (會產生 QR Code跟 Bulwark 位址)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>請求付款 (會產生 QR Code跟 CRyptoCrowd 位址)</translation>
     </message>
     <message>
         <source>Masternodes</source>
@@ -577,24 +577,24 @@
         <translation>瀏覽 Masternodes</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>關於 Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>關於 CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>顯示 Bulwark Core 相關資訊</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>顯示 CRyptoCrowd Core 相關資訊</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>修改 Bulwark 設定</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>修改 CRyptoCrowd 設定</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>使用你的 Bulwark 位址對訊息簽章, 來證明你是擁有者</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>使用你的 CRyptoCrowd 位址對訊息簽章, 來證明你是擁有者</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>驗證訊息簽章與 Bulwark 位址吻合</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>驗證訊息簽章與 CRyptoCrowd 位址吻合</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -625,7 +625,7 @@
         <translation>打開Masternode設定檔</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
         <translation>打開Bulwark: 位址或付款請求 </translation>
     </message>
     <message>
@@ -637,12 +637,12 @@
         <translation>區塊鏈瀏覽視窗</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>顯示 Bulwark Core 幫助訊息以取得 Bulwark 命令列表選項</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>顯示 CRyptoCrowd Core 幫助訊息以取得 CRyptoCrowd 命令列表選項</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Core 客戶端</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core 客戶端</translation>
     </message>
     </context>
 <context>
@@ -671,15 +671,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     </context>
 <context>
@@ -822,8 +822,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Bulwark address to sign the message with</source>
-        <translation>對訊息簽名的 Bulwark 位址</translation>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>對訊息簽名的 CRyptoCrowd 位址</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -846,16 +846,16 @@
         <translation>拷貝目前的簽章到系統剪貼簿</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>使用簽章來證明你是該  Bulwark 位址的擁有者,</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>使用簽章來證明你是該  CRyptoCrowd 位址的擁有者,</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
-        <translation>此訊息之 Bulwark 位址已簽章於</translation>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>此訊息之 CRyptoCrowd 位址已簽章於</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
-        <translation>驗證訊息以確保該  Bulwark 位址已被簽章</translation>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>驗證訊息以確保該  CRyptoCrowd 位址已被簽章</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -893,8 +893,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     </context>
 <context>

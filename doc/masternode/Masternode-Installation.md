@@ -41,16 +41,16 @@ masternode outputs
 
 Copy both the key and output information to a text file.
 
-Close your wallet and open the Bulwark Appdata folder. Its location depends on your OS.
+Close your wallet and open the CRyptoCrowd Appdata folder. Its location depends on your OS.
 
-* **Windows:** %APPDATA%\\Roaming\\Bulwark
+* **Windows:** %APPDATA%\\Roaming\\CRyptoCrowd
 _Press Windows+R and write %appdata%_
 
-* **Linux:** ~/.bulwark/
-_Navigate to the .bulwark folder in your home directory_
+* **Linux:** ~/.cryptocrowd/
+_Navigate to the .cryptocrowd folder in your home directory_
 
-* **macOS:** ~/Library/Application Support/Bulwark
-_Press Cmd+Space, type ~/Library/Application Support/Bulwark and press Enter._
+* **macOS:** ~/Library/Application Support/CRyptoCrowd
+_Press Cmd+Space, type ~/Library/Application Support/CRyptoCrowd and press Enter._
 
 In your appdata folder, open masternode.conf with a text editor and add a new line in this format to the bottom of the file:
 
@@ -83,7 +83,7 @@ When the script asks, confirm your VPS IP Address and paste your masternode key.
 
 The installer will then present you with a few options.
 
-**PLEASE NOTE**: Do not choose the advanced installation option unless you have experience with Linux and know what you are doing. Advanced mode  will install your masternode under a non-root user called "bulwark" instead of root, so you need to know what that means and how to log in as a different user under Linux. If you don't, things will not work as expected and the Bulwark team CANNOT help you - you will have to restart the installation.
+**PLEASE NOTE**: Do not choose the advanced installation option unless you have experience with Linux and know what you are doing. Advanced mode  will install your masternode under a non-root user called "cryptocrowd" instead of root, so you need to know what that means and how to log in as a different user under Linux. If you don't, things will not work as expected and the CRyptoCrowd team CANNOT help you - you will have to restart the installation.
 
 Follow the instructions on screen.
 

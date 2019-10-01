@@ -62,12 +62,12 @@
         <translation>Ontvangstadressen</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Bulwark adressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden van geld.</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw CRyptoCrowd adressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden van geld.</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw Bulwark adressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw CRyptoCrowd adressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Bevestig versleuteling van de portemonnee</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw Bulwark's kunnen stelen.</translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw CRyptoCrowd's kunnen stelen.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Weet u zeker dat u uw portemonnee wilt versleutelen?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW Bulwark VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW CRyptoCrowd VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adres:</translation>
     </message>
     <message>
-        <source>Enter a Bulwark Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Voer een Bulwark adres in dat u wilt coderen met BIP 38. Voer een wachtwoordzin in in het middelste vak. Druk op versleutelen om de versleutelde privé sleutel te berekenen.</translation>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Voer een CRyptoCrowd adres in dat u wilt coderen met BIP 38. Voer een wachtwoordzin in in het middelste vak. Druk op versleutelen om de versleutelde privé sleutel te berekenen.</translation>
     </message>
     <message>
-        <source>The Bulwark address to encrypt</source>
-        <translation>Het Bulwark adres om te versleutelen</translation>
+        <source>The CRyptoCrowd address to encrypt</source>
+        <translation>Het CRyptoCrowd adres om te versleutelen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Bulwark address</source>
-        <translation>Versleutel de privé sleutel voor dit Bulwark adres</translation>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>Versleutel de privé sleutel voor dit CRyptoCrowd adres</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,16 +645,16 @@
         <translation>Tabblad werkbalk</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Verstuur munten naar een Bulwark adres</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Verstuur munten naar een CRyptoCrowd adres</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>Vraag betaling aan (genereert QR codes en Bulwark: URI's)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Vraag betaling aan (genereert QR codes en CRyptoCrowd: URI's)</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Bekijk masternodes</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Over Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>Over CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>Toon informatie over Bulwark Kern</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>Toon informatie over CRyptoCrowd Kern</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>Wijzig Bulwark configuratie opties</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>Wijzig CRyptoCrowd configuratie opties</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Bulwark adressen om te bewijzen dat deze adressen in uw bezit zijn</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw CRyptoCrowd adressen om te bewijzen dat deze adressen in uw bezit zijn</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>Controleer berichten om te verzekeren dat deze ondertekend zijn met de gespecificeerde Bulwark adressen</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Controleer berichten om te verzekeren dat deze ondertekend zijn met de gespecificeerde CRyptoCrowd adressen</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Open Masternode configuratiebestand</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
-        <translation>Open een Bulwark: URI of betaalverzoek</translation>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>Open een CRyptoCrowd: URI of betaalverzoek</translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Block verkenner venster</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>Toon het Bulwark Core help bericht om een ​​lijst te krijgen met mogelijke Bulwark command line opties</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>Toon het CRyptoCrowd Core help bericht om een ​​lijst te krijgen met mogelijke CRyptoCrowd command line opties</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Core client</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bulwark network</source>
-        <translation><numerusform>%n actieve verbindingen met het Bulwark netwerk</numerusform><numerusform>%n actieve connectie(s) naar Bulwark netwerk</numerusform></translation>
+        <source>%n active connection(s) to CRyptoCrowd network</source>
+        <translation><numerusform>%n actieve verbindingen met het CRyptoCrowd netwerk</numerusform><numerusform>%n actieve connectie(s) naar CRyptoCrowd netwerk</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bulwark.conf).</source>
-        <translation>Niet alle transacties zullen worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (bulwark.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>Niet alle transacties zullen worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (cryptocrowd.conf).</translation>
     </message>
 </context>
 <context>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Wijzig verzend adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bulwark address.</source>
-        <translation>Het ingevoerde adres: "%1" is geen geldig Bulwark adres.</translation>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>Het ingevoerde adres: "%1" is geen geldig CRyptoCrowd adres.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>versie</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Over Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>Over CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Welkom</translation>
     </message>
     <message>
-        <source>Welcome to Bulwark Core.</source>
-        <translation>Welkom bij Bulwark Core.</translation>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>Welkom bij CRyptoCrowd Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bulwark Core will store its data.</source>
-        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar Bulwark Core zijn data opslaat.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar CRyptoCrowd Core zijn data opslaat.</translation>
     </message>
     <message>
-        <source>Bulwark Core will download and store a copy of the Bulwark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bulwark Core zal een kopie van de Bulwark blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd Core zal een kopie van de CRyptoCrowd blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Gebruik een aangepaste data directory:</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Vul het adres in om naar te verzenden</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bulwark addresses after it matures.
-To Add: enter percentage to give and Bulwark address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.
+To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend stelt je in staat om automatisch tot 100% van uw stake of masternode beloning automatisch te verzenden naar een lijst van andere Bulwark adressen nadat het volwassen is. 
-Toevoegen: voer het te geven percentage in en Bulwark adres om toe te voegen aan de MultiSend vector.
+        <translation>MultiSend stelt je in staat om automatisch tot 100% van uw stake of masternode beloning automatisch te verzenden naar een lijst van andere CRyptoCrowd adressen nadat het volwassen is. 
+Toevoegen: voer het te geven percentage in en CRyptoCrowd adres om toe te voegen aan de MultiSend vector.
 Verwijderen: Voer adres in om te verwijderen en druk op delete.
 MultiSend zal niet worden geactiveerd tenzij je op Activeer hebt geklikt</translation>
     </message>
@@ -1681,8 +1681,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Adres / Bedrag:</translation>
     </message>
     <message>
-        <source>Add destinations to send Bulwark to</source>
-        <translation>Voeg bestemmingen toe om Bulwark naar te verzenden</translation>
+        <source>Add destinations to send CRyptoCrowd to</source>
+        <translation>Voeg bestemmingen toe om CRyptoCrowd naar te verzenden</translation>
     </message>
     <message>
         <source>Add Destination</source>
@@ -1780,48 +1780,48 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Selecteer de privacy level.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 Bulwark</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 Bulwark</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Gebruik 16 aparte masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Deze optie is het snelst en kost ongeveer ~0,025 Bulwark om 10000 Bulwark te anonimiseren</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Deze optie is het snelst en kost ongeveer ~0,025 CRyptoCrowd om 10000 CRyptoCrowd te anonimiseren</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 Bulwark om 10000 Bulwark te anonimiseren</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 CRyptoCrowd om 10000 CRyptoCrowd te anonimiseren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Dit is de langzaamste en veiligste optie. Het gebruik van maximale anonimiteit kost</translation>
     </message>
     <message>
-        <source>0.1 Bulwark per 10000 Bulwark you anonymize.</source>
-        <translation>je anonimiseert 0,1 Bulwark per 10000 Bulwark.</translation>
+        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>
+        <translation>je anonimiseert 0,1 CRyptoCrowd per 10000 CRyptoCrowd.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Verduistering configuratie</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Bulwark te openen.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRyptoCrowd te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Bulwark te openen.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRyptoCrowd te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Bulwark te openen.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRyptoCrowd te openen.</translation>
     </message>
 </context>
 <context>
@@ -1882,8 +1882,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Als je de uitgaven van onbevestigde wijzigingen uitschakelt, de wijziging van een transactie&lt;br/&gt;kan niet worden gebruikt tot die transactie tenminste één bevestiging heeft.&lt;br/&gt;Dit beïnvloedt ook hoe uw saldo is berekend.</translation>
     </message>
     <message>
-        <source>Automatically open the Bulwark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Bulwark client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de CRyptoCrowd client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1902,12 +1902,12 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Bulwark after logging in to the system.</source>
-        <translation>Bulwark automatisch opstarten na inloggen op het systeem.</translation>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
+        <translation>CRyptoCrowd automatisch opstarten na inloggen op het systeem.</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
-        <translation>Bulwark starten bij systeemlogin</translation>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>CRyptoCrowd starten bij systeemlogin</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1934,8 +1934,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Netwerk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bulwark.</source>
-        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van Bulwark.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
+        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van CRyptoCrowd.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1948,7 +1948,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Map poort gebruikt UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of Bulwark units to zBWK</source>
+        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
         <translation>Schakel automatisch slaan van Bulwark-eenheden in op zBWK</translation>
     </message>
     <message>
@@ -1956,16 +1956,16 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Schakel zBWK Automint in</translation>
     </message>
     <message>
-        <source>Percentage of incoming Bulwark which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentage inkomende Bulwark die automatisch wordt omgezet naar zBWK via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentage inkomende CRyptoCrowd die automatisch wordt omgezet naar zBWK via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBWK</source>
         <translation>Percentage autominted zBWK</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough Bulwark for this denomination is available</source>
-        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg Bulwark voor deze denominatie beschikbaar is</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
+        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg CRyptoCrowd voor deze denominatie beschikbaar is</translation>
     </message>
     <message>
         <source>Preferred Automint zBWK Denomination</source>
@@ -1976,8 +1976,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Inzet splitdrempel:</translation>
     </message>
     <message>
-        <source>Connect to the Bulwark network through a SOCKS5 proxy.</source>
-        <translation>Maak verbinding met het Bulwark netwerk via een SOCKS5 proxy.</translation>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>Maak verbinding met het CRyptoCrowd netwerk via een SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Totaal saldo, inclusief alle niet-beschikbare munten.</translation>
     </message>
     <message>
-        <source>Bulwark Balance</source>
-        <translation>Bulwark Saldi</translation>
+        <source>CRyptoCrowd Balance</source>
+        <translation>CRyptoCrowd Saldi</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,7 +2155,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Huidige vergrendelde balans in alleen-lezen-adressen</translation>
     </message>
     <message>
-        <source>Your current Bulwark balance, unconfirmed and immature transactions included</source>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
         <translation>Uw huidige Bulwark-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
     </message>
     <message>
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat het gemint was.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het Bulwark netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het CRyptoCrowd netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2219,8 +2219,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>Uitgeefbaar:</translation>
     </message>
     <message>
-        <source>Locked Bulwark or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Vergrendelde Bulwark of Masternode onderpanden. Deze zijn uitgesloten van de zBWK muntage.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
+        <translation>Vergrendelde CRyptoCrowd of Masternode onderpanden. Deze zijn uitgesloten van de zBWK muntage.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2255,14 +2255,14 @@ Als AutoMint ingeschakeld is zal deze percentage afhangen van de geconfigureerde
         <translation>AutoMint is momenteel ingeschakeld en ingesteld op</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in bulwark.conf.</source>
-        <translation>Om AutoMint uit te schakelen, voeg je 'enablezeromint=0' toe aan bulwark.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>
+        <translation>Om AutoMint uit te schakelen, voeg je 'enablezeromint=0' toe aan cryptocrowd.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>
         <translation>AutoMint is momenteel uitgeschakeld.
-Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint=1' in bulwark.conf</translation>
+Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint=1' in cryptocrowd.conf</translation>
     </message>
 </context>
 <context>
@@ -2288,12 +2288,12 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Ongeldig betalingsadres %1</translation>
     </message>
     <message>
-        <source>Cannot start Bulwark: click-to-pay handler</source>
-        <translation>Kan Bulwark niet starten: click-to-pay handler</translation>
+        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
+        <translation>Kan CRyptoCrowd niet starten: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
-        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig Bulwark adres of misvormde URL parameters.</translation>
+        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig CRyptoCrowd adres of misvormde URL parameters.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2378,8 +2378,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Zerocoin Acties:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het Bulwark netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het CRyptoCrowd netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2443,7 +2443,7 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
     </message>
     <message>
         <source>Enter an amount of BWK to convert to zBWK</source>
-        <translation>Vul het aantal Bulwark in om te converteren naar zBWK</translation>
+        <translation>Vul het aantal CRyptoCrowd in om te converteren naar zBWK</translation>
     </message>
     <message>
         <source>zBWK Control</source>
@@ -2502,8 +2502,8 @@ zBWK zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 m
         <translation>Betaal Naar:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Het Bulwark adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
+        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Het CRyptoCrowd adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2579,8 +2579,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <source>Show the current status of automatic zBWK minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to bulwark.conf
-- disable: add 'enablezeromint=0' to bulwark.conf
+- enable: add 'enablezeromint=1' to cryptocrowd.conf
+- disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
@@ -2589,8 +2589,8 @@ To change the percentage (no restart required):
         <translation>Toon de huidige status van automatische zBWK-markering.
 
 Om de status te wijzigen (opnieuw opstarten vereist): 
-- enable: voeg 'enablezeromint = 1' toe aan bulwark.conf
-- uitschakelen: voeg 'enablezeromint = 0' toe aan bulwark.conf
+- enable: voeg 'enablezeromint = 1' toe aan cryptocrowd.conf
+- uitschakelen: voeg 'enablezeromint = 0' toe aan cryptocrowd.conf
 
 Om het percentage te wijzigen (geen herstart vereist): 
 - menu Instellingen-&gt; Opties-&gt; Percentage van geautomatiseerde zBWK
@@ -2930,7 +2930,7 @@ Maximaal toegestaan:</translation>
     </message>
     <message>
         <source>Invalid BWK address</source>
-        <translation>Ongeldig Bulwark addres</translation>
+        <translation>Ongeldig CRyptoCrowd addres</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -3031,8 +3031,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Hoeveelheid</translation>
     </message>
     <message>
-        <source>Enter a Bulwark address (e.g. %1)</source>
-        <translation>Voer een Bulwark adres in (b.v. %1)</translation>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>Voer een CRyptoCrowd adres in (b.v. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3169,8 +3169,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the Bulwark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Bulwark debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
+        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het CRyptoCrowd debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3385,8 +3385,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Uit:</translation>
     </message>
     <message>
-        <source>Welcome to the Bulwark RPC console.</source>
-        <translation>Welkom bij de Bulwark RPC console.</translation>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>Welkom bij de CRyptoCrowd RPC console.</translation>
     </message>
     <message>
         <source>Disconnect Node</source>
@@ -3512,16 +3512,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Een optioneel label om te associëren met het nieuwe ontvangstadres.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het Bulwark netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het CRyptoCrowd netwerk.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ontvangen</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het Bulwark netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het CRyptoCrowd netwerk.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3749,8 +3749,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>UTXO grootte:</translation>
     </message>
     <message>
-        <source>0 Bulwark</source>
-        <translation>0 Bulwark</translation>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3813,8 +3813,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Als de aangepaste vergoeding is ingesteld op 1000 uBWKs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uBulwark's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uBulwark's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bulwark transactions than the network can process.</source>
-        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar Bulwark transacties dan het netwerk kan verwerken.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
+        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar CRyptoCrowd transacties dan het netwerk kan verwerken.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3862,7 +3862,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message>
         <source>Anonymized BWK</source>
-        <translation>Geanonimiseerde Bulwark</translation>
+        <translation>Geanonimiseerde CRyptoCrowd</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3910,7 +3910,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message>
         <source>Warning: Invalid BWK address</source>
-        <translation>Waarschuwing: Ongeldig Bulwark adres</translation>
+        <translation>Waarschuwing: Ongeldig CRyptoCrowd adres</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Betaal Naar:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to</source>
-        <translation>Het Bulwark adres om de betaling naar te verzenden</translation>
+        <source>The CRyptoCrowd address to send the payment to</source>
+        <translation>Het CRyptoCrowd adres om de betaling naar te verzenden</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Bericht:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Bulwark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bulwark network.</source>
-        <translation>Een bericht dat is gehecht aan de Bulwark: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het Bulwark netwerk.</translation>
+        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>
+        <translation>Een bericht dat is gehecht aan de CRyptoCrowd: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het CRyptoCrowd netwerk.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bulwark Core is shutting down...</source>
-        <translation>Bulwark Core is aan het afsluiten...</translation>
+        <source>CRyptoCrowd Core is shutting down...</source>
+        <translation>CRyptoCrowd Core is aan het afsluiten...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Je kunt berichten met je adressen ondertekenen om te bewijzen dat je ze bezit. Wees voorzichtig om niets vaags te ondertekenen, omdat phishing aanvallen je misschien kunnen proberen om je identiteit over te geven. Teken alleen volledig gedetailleerde verklaringen aan waar je mee akkoord gaat.</translation>
     </message>
     <message>
-        <source>The Bulwark address to sign the message with</source>
-        <translation>Het Bulwark adres om het bericht met te ondertekenen</translation>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>Het CRyptoCrowd adres om het bericht met te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>Onderteken het bericht om te bewijzen dat u het Bulwark adres bezit</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>Onderteken het bericht om te bewijzen dat u het CRyptoCrowd adres bezit</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
-        <translation>Het Bulwark adres waarmee het bericht was ondertekend</translation>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>Het CRyptoCrowd adres waarmee het bericht was ondertekend</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
-        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde Bulwark adres</translation>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde CRyptoCrowd adres</translation>
     </message>
     <message>
         <source>Sign Message</source>
@@ -4229,8 +4229,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Kern</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Kern</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>De Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>The Bulwark Core developers</source>
-        <translation>De Bulwark Kernontwikkelaars</translation>
+        <source>The CRyptoCrowd Core developers</source>
+        <translation>De CRyptoCrowd Kernontwikkelaars</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4525,8 +4525,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verkregen via verduistering</translation>
     </message>
     <message>
-        <source>Bulwark Stake</source>
-        <translation>Bulwark Stake</translation>
+        <source>CRyptoCrowd Stake</source>
+        <translation>CRyptoCrowd Stake</translation>
     </message>
     <message>
         <source>zBWK Stake</source>
@@ -4549,24 +4549,24 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verduistering creëert denominaties</translation>
     </message>
     <message>
-        <source>Converted Bulwark to zBWK</source>
-        <translation>Geconverteerde Bulwark naar zBWK</translation>
+        <source>Converted CRyptoCrowd to zBWK</source>
+        <translation>Geconverteerde CRyptoCrowd naar zBWK</translation>
     </message>
     <message>
         <source>Spent zBWK</source>
         <translation>Bestede zBWK</translation>
     </message>
     <message>
-        <source>Received Bulwark from zBWK</source>
-        <translation>Ontvangen Bulwark van zBWK</translation>
+        <source>Received CRyptoCrowd from zBWK</source>
+        <translation>Ontvangen CRyptoCrowd van zBWK</translation>
     </message>
     <message>
         <source>Minted Change as zBWK from zBWK Spend</source>
         <translation>Gemint wisselgeld als zBWK van bestede zBWK</translation>
     </message>
     <message>
-        <source>Converted zBWK to Bulwark</source>
-        <translation>Geconverteerde zBWK naar Bulwark</translation>
+        <source>Converted zBWK to CRyptoCrowd</source>
+        <translation>Geconverteerde zBWK naar CRyptoCrowd</translation>
     </message>
     <message>
         <source>Anonymous (zBWK Transaction)</source>
@@ -4784,8 +4784,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Exporteren succesvol</translation>
     </message>
     <message>
-        <source>Received Bulwark from zBWK</source>
-        <translation>Ontvangen Bulwark van zBWK</translation>
+        <source>Received CRyptoCrowd from zBWK</source>
+        <translation>Ontvangen CRyptoCrowd van zBWK</translation>
     </message>
     <message>
         <source>Zerocoin Spend, Change in zBWK</source>
@@ -4825,8 +4825,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verzend Munten</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 Bulwark.</source>
-        <translation>SwiftTX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 Bulwark.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>
+        <translation>SwiftTX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 CRyptoCrowd.</translation>
     </message>
 </context>
 <context>
@@ -4910,8 +4910,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het berekende accumulatie controlepunt is niet wat wordt geregistreerd door de blokindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bulwark Core is probably already running.</source>
-        <translation>Kan geen vergrendeling op data directory %s verkrijgen. Bulwark Core loopt waarschijnlijk al.</translation>
+        <source>Cannot obtain a lock on data directory %s. CRyptoCrowd Core is probably already running.</source>
+        <translation>Kan geen vergrendeling op data directory %s verkrijgen. CRyptoCrowd Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4942,8 +4942,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Schakel automatische portemonnee back-ups in geactiveerd na elke geminte zBWK (0-1, standaard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for Bulwark inputs (0-1, default: %u)</source>
-        <translation>In- of uitschakelen staking functionaliteit voor Bulwark inputs (0-1, standaard: %u)</translation>
+        <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
+        <translation>In- of uitschakelen staking functionaliteit voor CRyptoCrowd inputs (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
@@ -5086,20 +5086,20 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in de OpenSSL Toolkit &lt;https://www.openssl.org/&gt; en cryptografische software geschreven door Eric Young en UPnP software geschreven door Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bulwark Core is probably already running.</source>
-        <translation>Niet mogelijk te binden aan %s op deze computer. Bulwark Core loopt waarschijnlijk al.</translation>
+        <source>Unable to bind to %s on this computer. CRyptoCrowd Core is probably already running.</source>
+        <translation>Niet mogelijk te binden aan %s op deze computer. CRyptoCrowd Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Kan niet genoeg verduistering gedenomineerde fondsen voor deze transactie vinden.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 Bulwark.</source>
-        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 Bulwark.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
+        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 CRyptoCrowd.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 Bulwark.</source>
-        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 Bulwark.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
+        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 CRyptoCrowd.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5114,8 +5114,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Waarschuwing: -paytxfee is zeer hoog ingesteld! Dit zijn de transactie kosten die je betaalt als je een transactie verstuurt.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bulwark Core will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt Bulwark Core niet goed.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRyptoCrowd Core will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt CRyptoCrowd Core niet goed.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5266,8 +5266,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Copyright (C) 2014-%i The Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Bulwark Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Bulwark Kernontwikkelaars</translation>
+        <source>Copyright (C) 2015-%i The CRyptoCrowd Core Developers</source>
+        <translation>Copyright (C) 2015-%i The CRyptoCrowd Kernontwikkelaars</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5354,8 +5354,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Error tijdens het laden van wallet.dat: Portemonnee corrupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bulwark Core</source>
-        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van Bulwark Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>
+        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5470,8 +5470,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Informatie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bulwark Core is shutting down.</source>
-        <translation>Initialisatie saniteitscontrole mislukt. Bulwark Core wordt afgesloten.</translation>
+        <source>Initialization sanity check failed. CRyptoCrowd Core is shutting down.</source>
+        <translation>Initialisatie saniteitscontrole mislukt. CRyptoCrowd Core wordt afgesloten.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5542,7 +5542,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Percentage automatisch geminte Zerocoin (10-100, standaard: %u)</translation>
     </message>
     <message>
-        <source>Reindex the Bulwark and zBWK money supply statistics</source>
+        <source>Reindex the CRyptoCrowd and zBWK money supply statistics</source>
         <translation>Indexeer de Bulwark- en zBWK-geldvoorraadstatistieken opnieuw</translation>
     </message>
     <message>
@@ -5582,8 +5582,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 </translation>
     </message>
     <message>
-        <source>Disable all Bulwark specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Schakel alle specifieke Bulwark functionaliteit uit (Masternodes, Zerocoin, SwiftTX, Budgeting) (0-1, standaard: %u)</translation>
+        <source>Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Schakel alle specifieke CRyptoCrowd functionaliteit uit (Masternodes, Zerocoin, SwiftTX, Budgeting) (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -6294,8 +6294,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Portemonnee is vergrendeld.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bulwark Core to complete</source>
-        <translation>Wallet moest worden herschreven: start Bulwark Core opnieuw om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>
+        <translation>Wallet moest worden herschreven: start CRyptoCrowd Core opnieuw om te voltooien</translation>
     </message>
     <message>
         <source>Wallet options:</source>

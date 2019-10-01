@@ -62,11 +62,11 @@
         <translation>接收地址</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>这是用于发送Bulwark的地址。在发送Bulwark之前，请认真核查发送金额和接收地址。</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>这是用于接收Bulwark的钱包地址。建议每一笔交易都使用一个新的钱包地址。</translation>
     </message>
     <message>
@@ -172,7 +172,7 @@
         <translation>确认钱包加密</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
         <translation>Bulwark将关闭以完成加密过程。但是，仅仅加密您的钱包是不够的，因为它并不能阻止恶意软件从您的电脑里面偷取Bulwarks。</translation>
     </message>
     <message>
@@ -180,7 +180,7 @@
         <translation>您确定加密您的钱包吗？</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
         <translation>注意：请妥善保管好你的密码，因为在加密后，没有密码将无法打开钱包。这将会让您&lt;b&gt;损失钱包中所有的Bulwark&lt;/b&gt;！</translation>
     </message>
     <message>
@@ -569,15 +569,15 @@
         <translation>标签工具栏</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
+        <source>Send coins to a CRyptoCrowd address</source>
         <translation>发送数字货币到Bulwark地址</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
         <translation>请求支付（生成二维码和Bulwark：URIs）</translation>
     </message>
     <message>
@@ -593,23 +593,23 @@
         <translation>浏览主节点</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
+        <source>About CRyptoCrowd Core</source>
         <translation>A关于Bulwark Core</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
+        <source>Show information about CRyptoCrowd Core</source>
         <translation>显示Bulwark  Core的相关信息</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
+        <source>Modify configuration options for CRyptoCrowd</source>
         <translation>修改Bulwark的配置选项</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
         <translation>使用您的Bulwark地址验证消息，以证明您拥有他们</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
         <translation>验证消息确保它已使用指定的Bulwark地址进行签名</translation>
     </message>
     <message>
@@ -641,7 +641,7 @@
         <translation>打开主节点配置文件</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
         <translation>打开Bulwark：URI或付款请求</translation>
     </message>
     <message>
@@ -653,12 +653,12 @@
         <translation>区块浏览窗口</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
         <translation>显示Bulwark Core帮助信息并获取Bulwark命令行选项列表</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Core 客户端</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core 客户端</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -803,31 +803,31 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
+        <source>About CRyptoCrowd Core</source>
         <translation>关于Bulwark Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Welcome to Bulwark Core.</source>
-        <translation>欢迎使用 Bulwark Core</translation>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>欢迎使用 CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bulwark Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
         <translation>由于这是该程序第一次启动，您可以选择存储Bulwark Core 数据的位置。</translation>
     </message>
     <message>
-        <source>Bulwark Core will download and store a copy of the Bulwark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bulwark Core将下载并存储Bulwark区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd Core将下载并存储Bulwark区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -920,7 +920,7 @@ Address: %4
         <translation>如果您要禁用未经确认发送，在至少有一个确认之前&lt;br/&gt;不能更改。&lt;br/&gt;这也将影响您的余额计算。</translation>
     </message>
     <message>
-        <source>Automatically open the Bulwark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>自动打开路由器上的Bulwark钱包使用的端口。 这只有当您的路由器支持UPnP并且该享生效时才有用。</translation>
     </message>
     <message>
@@ -928,7 +928,7 @@ Address: %4
         <translation>使用SOCKS5代理（默认代理）</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
+        <source>Start CRyptoCrowd on system login</source>
         <translation>开机启动Bulwark</translation>
     </message>
     <message>
@@ -1067,7 +1067,7 @@ Address: %4
         <translation>您目前的支出余额</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
         <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与Bulwark网络同步，但此过程尚未完成。</translation>
     </message>
     <message>
@@ -1084,7 +1084,7 @@ Address: %4
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
         <translation>显示的信息可能已过期。建立连接后，您的钱包会自动与Bulwark网络同步，但此过程尚未完成。</translation>
     </message>
     <message>
@@ -1172,11 +1172,11 @@ Address: %4
         <translation>消息：</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bulwark network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
         <translation>附加到付款请求的可选消息，将在请求打开时显示。 注意：消息不会在付款时通过Bulwark网络发送。</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bulwark network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
         <translation>附加到付款请求的可选消息，将在请求打开时显示。&lt;br&gt; 注意：消息不会在付款时通过Bulwark网络发送。</translation>
     </message>
     <message>
@@ -1312,7 +1312,7 @@ Address: %4
         <translation>消息:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Bulwark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bulwark network.</source>
+        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>
         <translation>附加到Bulwark：URI的消息，该消息将与转账信息一起存储以供参考。 注意：此消息不会通过Bulwark网络发送。</translation>
     </message>
     <message>
@@ -1338,7 +1338,7 @@ Address: %4
         <translation>您可以使用地址签名消息，以证明您拥有他们。 小心不要签名任何您不了解的，因为网络钓鱼攻击可能会试图欺骗您，以让您签名。 只能签署您熟悉并且了解和同意的。</translation>
     </message>
     <message>
-        <source>The Bulwark address to sign the message with</source>
+        <source>The CRyptoCrowd address to sign the message with</source>
         <translation>该Bulwark地址签名的消息</translation>
     </message>
     <message>
@@ -1366,15 +1366,15 @@ Address: %4
         <translation>将当前签名复制到系统剪贴板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
         <translation>签署消息以证明您拥有此Bulwark地址</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
+        <source>The CRyptoCrowd address the message was signed with</source>
         <translation>由Bulwark地址签名的消息</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
         <translation>验证消息确保它已使用指定的Bulwark地址进行签名</translation>
     </message>
     <message>
@@ -1453,8 +1453,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     </context>
 <context>
@@ -1542,8 +1542,8 @@ Address: %4
         <translation>在收到相关警报时执行命令，或者看到一个很长的分叉（cmd中的%s被消息替换）</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bulwark Core will not work properly.</source>
-        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，Bulwark Core将无法正常工作。</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRyptoCrowd Core will not work properly.</source>
+        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，CRyptoCrowd Core将无法正常工作。</translation>
     </message>
     <message>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>

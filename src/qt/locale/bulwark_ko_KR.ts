@@ -62,12 +62,12 @@
         <translation>받을 주소</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>이 주소들은 송금할 Bulwark 주소입니다. 송금하기 전 항상 금액과 주소를 확인해주세요.</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>이 주소들은 송금할 CRyptoCrowd 주소입니다. 송금하기 전 항상 금액과 주소를 확인해주세요.</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>이 주소들은 입금 받을 Bulwark 주소입니다. 매 거래마다 새로운 입금 주소를 사용하는 것이 좋습니다.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>이 주소들은 입금 받을 CRyptoCrowd 주소입니다. 매 거래마다 새로운 입금 주소를 사용하는 것이 좋습니다.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -176,7 +176,7 @@
         <translation>지갑 암호화 확인</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
         <translation>Bulwark는 이제 암호화 프로세스를 마치기 위해 닫힐것입니다. 지갑을 암호화하더라도 맬웨어로 인한 Bulwarks 의 도난당하는 것을 완벽하게 보호 할 수는 없습니다.</translation>
     </message>
     <message>
@@ -184,7 +184,7 @@
         <translation>지갑을 암호화 하시겠습니까?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
         <translation>경고: 지갑 암호화 후 암호를 분실하게 되면 &lt;b&gt;모든 Bulwark를 잃게 됩니다&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -254,12 +254,12 @@
         <translation>주소:</translation>
     </message>
     <message>
-        <source>Enter a Bulwark Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>BIP 38 알고리즘으로 암호화할 Bulwark 지갑 주소를 입력. 중간박스에 암호구절 입력. 암호화된 개인키를 계산하시려면 암호화 클릭</translation>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>BIP 38 알고리즘으로 암호화할 CRyptoCrowd 지갑 주소를 입력. 중간박스에 암호구절 입력. 암호화된 개인키를 계산하시려면 암호화 클릭</translation>
     </message>
     <message>
-        <source>The Bulwark address to encrypt</source>
-        <translation>암호화할 Bulwark 주소</translation>
+        <source>The CRyptoCrowd address to encrypt</source>
+        <translation>암호화할 CRyptoCrowd 주소</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>현재 서명을 시스템 클립 보드에 복사</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Bulwark address</source>
-        <translation>이 Bulwark 주소의 개인키 암호화</translation>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>이 CRyptoCrowd 주소의 개인키 암호화</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,16 +645,16 @@
         <translation>탭 도구 모음</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Bulwark 주소로 입금하기</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>CRyptoCrowd 주소로 입금하기</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>결제 요청 (QR 코드 및 Bulwark: URI 생성)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>결제 요청 (QR 코드 및 CRyptoCrowd: URI 생성)</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -669,24 +669,24 @@
         <translation>마스터노드 검색</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Bulwark Core 정보</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core 정보</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>Bulwark Core에 대한 정보 표시</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core에 대한 정보 표시</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
+        <source>Modify configuration options for CRyptoCrowd</source>
         <translation>Bulwark에 대한 구성 옵션 수정</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Bulwark 주소로 메시지에 서명하여 소유하고 있음을 증명하십시오.</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>CRyptoCrowd 주소로 메시지에 서명하여 소유하고 있음을 증명하십시오.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>메시지가 지정된 Bulwark 주소로 서명되었는지 확인합니다.</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>메시지가 지정된 CRyptoCrowd 주소로 서명되었는지 확인합니다.</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>마스터노드 구성 파일 열기</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
-        <translation>Bulwark: URI 또는 ​​결제 요청 열기</translation>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>CRyptoCrowd: URI 또는 ​​결제 요청 열기</translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>블록 탐색 창</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>Bulwark Core 도움말 메세지를 표시하여 사용 가능한 Bulwark 명령행 옵션 목록 표시</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>CRyptoCrowd Core 도움말 메세지를 표시하여 사용 가능한 CRyptoCrowd 명령행 옵션 목록 표시</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Core 클라이언트</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core 클라이언트</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bulwark network</source>
-        <translation><numerusform>%n 개의 Bulwark 네트웍에 연결됨</numerusform></translation>
+        <source>%n active connection(s) to CRyptoCrowd network</source>
+        <translation><numerusform>%n 개의 CRyptoCrowd 네트웍에 연결됨</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ Address: %4
         <translation>텍스트라벨</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bulwark.conf).</source>
-        <translation>모든 트랜잭션이 표시되지는 않습니다. 모든 트랜잭션을 보려면 구성 파일 (bulwark.conf)에 txindex = 1을 설정해야합니다.</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>모든 트랜잭션이 표시되지는 않습니다. 모든 트랜잭션을 보려면 구성 파일 (cryptocrowd.conf)에 txindex = 1을 설정해야합니다.</translation>
     </message>
 </context>
 <context>
@@ -1185,8 +1185,8 @@ Address: %4
         <translation>보내는 주소 수정</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bulwark address.</source>
-        <translation>입력된 주소 "%1"는 올바른 Bulwark 주소가 아닙니다.</translation>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>입력된 주소 "%1"는 올바른 CRyptoCrowd 주소가 아닙니다.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ Address: %4
         <translation>버전</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Bulwark Core 정보</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core 정보</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ Address: %4
         <translation>환영합니다</translation>
     </message>
     <message>
-        <source>Welcome to Bulwark Core.</source>
-        <translation>Bulwark Core에 오신 것을 환영합니다.</translation>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>CRyptoCrowd Core에 오신 것을 환영합니다.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bulwark Core will store its data.</source>
-        <translation>이 프로그램이 처음 실행되었으므로 Bulwark Core가 데이터를 저장할 위치를 선택할 수 있습니다.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>이 프로그램이 처음 실행되었으므로 CRyptoCrowd Core가 데이터를 저장할 위치를 선택할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Bulwark Core will download and store a copy of the Bulwark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bulwark Core는 Bulwark 블록체인을 다운로드하여 저장합니다. 최소 %1GB의 데이터가 디렉토리에 저장되며 시간이 지날수록 증가합니다. 또한 지갑도 해당 디렉토리에 저장됩니다.</translation>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd Core는 CRyptoCrowd 블록체인을 다운로드하여 저장합니다. 최소 %1GB의 데이터가 디렉토리에 저장되며 시간이 지날수록 증가합니다. 또한 지갑도 해당 디렉토리에 저장됩니다.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ Address: %4
         <translation>사용자 지정 데이터 디렉토리 사용:</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ Address: %4
         <translation>보낼 주소 입력</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bulwark addresses after it matures.
-To Add: enter percentage to give and Bulwark address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.
+To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>다중전송을 사용하면 성취 한 뒤 다른 Bulwark 주소 목록에 최대 100% 스테이크 또는 마스터노드 보상을 자동으로 보낼 수 있습니다.
-추가하려면 : 부여 할 백분율과 다중전송 벡터에 추가 할 Bulwark 주소를 입력하십시오.
+        <translation>다중전송을 사용하면 성취 한 뒤 다른 CRyptoCrowd 주소 목록에 최대 100% 스테이크 또는 마스터노드 보상을 자동으로 보낼 수 있습니다.
+추가하려면 : 부여 할 백분율과 다중전송 벡터에 추가 할 CRyptoCrowd 주소를 입력하십시오.
 삭제하려면 삭제할 주소를 입력하고 삭제를 누릅니다.
 활성화를 클릭하지 않으면 다중전송이 활성화되지 않습니다.</translation>
     </message>
@@ -1681,7 +1681,7 @@ Please be patient after clicking import.</source>
         <translation>주소 / 금액:</translation>
     </message>
     <message>
-        <source>Add destinations to send Bulwark to</source>
+        <source>Add destinations to send CRyptoCrowd to</source>
         <translation>Bulwark를 보낼 목적지 추가</translation>
     </message>
     <message>
@@ -1780,47 +1780,47 @@ Please be patient after clicking import.</source>
         <translation>익명화 레벨을 선택해주세요.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>2개의 개별 마스터노드를 이용하여 최대 10000 Bulwark 를 섞을 수 있습니다.</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>2개의 개별 마스터노드를 이용하여 최대 10000 CRyptoCrowd 를 섞을 수 있습니다.</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>8개의 개별 마스터노드를 이용하여 최대 10000 Bulwark 를 섞을 수 있습니다.</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>8개의 개별 마스터노드를 이용하여 최대 10000 CRyptoCrowd 를 섞을 수 있습니다.</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>16개의 개별 마스터노드를 사용</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>이 옵션은 가장 빠르게 전송되며 10000 Bulwark 익명화에 약 ~0.025 Bulwark의 비용이 들어갑니다.</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>이 옵션은 가장 빠르게 전송되며 10000 CRyptoCrowd 익명화에 약 ~0.025 Bulwark의 비용이 들어갑니다.</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>이 옵션은 중간 정도의 속도로 전송되며 10000 Bulwark 익명화에 약 0.05 Bulwark의 비용이 들어갑니다.</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>이 옵션은 중간 정도의 속도로 전송되며 10000 CRyptoCrowd 익명화에 약 0.05 Bulwark의 비용이 들어갑니다.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>이것은 가장 느리고 안전한 옵션입니다. 최고 익명성을 사용하면 비용이 발생합니다.</translation>
     </message>
     <message>
-        <source>0.1 Bulwark per 10000 Bulwark you anonymize.</source>
-        <translation>10000 Bulwark 익명화에 0.1 Bulwark 가 듭니다.</translation>
+        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>
+        <translation>10000 CRyptoCrowd 익명화에 0.1 CRyptoCrowd 가 듭니다.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>난독화 구성</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
         <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 2 rounds) Bulwark의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
         <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 8 rounds) Bulwark의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
         <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 16 rounds) Bulwark의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
 </context>
@@ -1882,8 +1882,8 @@ Please be patient after clicking import.</source>
         <translation>확인되지 않은 변경사항을 사용하지 않도록 설정하면 해당 트랜잭션에 하나 이상의 컨펌이 진행되야&lt;br/&gt;트랜잭션에 변경사항을 적용할 수 있습니다.&lt;br/&gt;또한 이것은 잔액 계산 방식에도 영향을 줍니다.</translation>
     </message>
     <message>
-        <source>Automatically open the Bulwark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>라우터에서 Bulwark 클라이언트 포트를 자동으로 엽니다. 이 기능은 라우터가 UPnP를 지원하고 활성화 된 경우에만 사용할 수 있습니다.</translation>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>라우터에서 CRyptoCrowd 클라이언트 포트를 자동으로 엽니다. 이 기능은 라우터가 UPnP를 지원하고 활성화 된 경우에만 사용할 수 있습니다.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1902,12 +1902,12 @@ Please be patient after clicking import.</source>
         <translation>전문적</translation>
     </message>
     <message>
-        <source>Automatically start Bulwark after logging in to the system.</source>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
         <translation>시스템 로그인 후 Bulwark을 자동으로 시작합니다.</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
-        <translation>시스템 로그인시 Bulwark 시작</translation>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>시스템 로그인시 CRyptoCrowd 시작</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1934,7 +1934,7 @@ Please be patient after clicking import.</source>
         <translation>네트워크</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bulwark.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
         <translation>사용자 인터페이스 언어를 설정할 수 있습니다. 이 설정은 Bulwark을 다시 시작한 후에 적용됩니다.</translation>
     </message>
     <message>
@@ -1948,7 +1948,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>UPnp를 사용하여 포트 매핑</translation>
     </message>
     <message>
-        <source>Enable automatic minting of Bulwark units to zBWK</source>
+        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
         <translation>보상받은 Bulwark를 zBWK로 자동변환 활성화</translation>
     </message>
     <message>
@@ -1956,7 +1956,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>zBWK 자동생성 활성화</translation>
     </message>
     <message>
-        <source>Percentage of incoming Bulwark which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
         <translation>Bulwark수신시 자동변환 zBWK 비율 (최소값:10%)</translation>
     </message>
     <message>
@@ -1964,7 +1964,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>자동 변환되는 zBWK 비율</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough Bulwark for this denomination is available</source>
+        <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
         <translation>이 디노미네이션의 Bulwark가 충분해질 때까지 Zerocoin으로 자동전환은 보류됩니다.</translation>
     </message>
     <message>
@@ -1976,8 +1976,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Stake split threshold:</translation>
     </message>
     <message>
-        <source>Connect to the Bulwark network through a SOCKS5 proxy.</source>
-        <translation>SOCKS5 프록시를 통해 Bulwark 네트워크에 연결해주세요.</translation>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>SOCKS5 프록시를 통해 CRyptoCrowd 네트워크에 연결해주세요.</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>전체 잔액, (현재 전송이 불가능한 코인 포함)</translation>
     </message>
     <message>
-        <source>Bulwark Balance</source>
-        <translation>Bulwark 잔액</translation>
+        <source>CRyptoCrowd Balance</source>
+        <translation>CRyptoCrowd 잔액</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,8 +2155,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>현재 보기전용 주소의 잠긴 잔액 </translation>
     </message>
     <message>
-        <source>Your current Bulwark balance, unconfirmed and immature transactions included</source>
-        <translation>현재 Bulwark 잔액, 미확정, 생성중인 코인 포함</translation>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
+        <translation>현재 CRyptoCrowd 잔액, 미확정, 생성중인 코인 포함</translation>
     </message>
     <message>
         <source>zBWK Balance</source>
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 미성숙 : 확인되었지만 발행 된 후 같은 종파 1 개 미만</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 Bulwark 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 CRyptoCrowd 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2219,8 +2219,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <translation>출금 가능 액수:</translation>
     </message>
     <message>
-        <source>Locked Bulwark or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>잠금 Bulwark 또는 Masternode collaterals. 이들은 zBWK minting에서 제외됩니다.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
+        <translation>잠금 CRyptoCrowd 또는 Masternode collaterals. 이들은 zBWK minting에서 제외됩니다.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2254,12 +2254,12 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
         <translation>자동 생성기능이 현재 작동중 그리고 </translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in bulwark.conf.</source>
-        <translation>자동생성 기능을 사용하지 않으시려면, bulwark.conf 화일에 enablezeromint=0 를 추가하세요.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>
+        <translation>자동생성 기능을 사용하지 않으시려면, cryptocrowd.conf 화일에 enablezeromint=0 를 추가하세요.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>
         <translation>자동 저장 기능이 현재 사용 중지되었습니다 .
 자동 변환을 사용하려면 Bulwarkotx.conf에서 'enablezeromint = 0'에서 'enablezeromint = 1'로 변경하십시오.</translation>
     </message>
@@ -2287,12 +2287,12 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.co
         <translation>잘못된 결제 주소 %1</translation>
     </message>
     <message>
-        <source>Cannot start Bulwark: click-to-pay handler</source>
+        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
         <translation>Bulwark을 시작할 수 없습니다: 결제하기 위한 클릭 처리</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
-        <translation>URI를 분석할 수 없습니다! 이는 잘못된 Bulwark 주소 또는 URI 매개변수 손상으로 인해 발생할 수 있습니다.</translation>
+        <translation>URI를 분석할 수 없습니다! 이는 잘못된 CRyptoCrowd 주소 또는 URI 매개변수 손상으로 인해 발생할 수 있습니다.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2377,8 +2377,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.co
         <translation>제로코인 관리:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 Bulwark 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 CRyptoCrowd 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2442,7 +2442,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.co
     </message>
     <message>
         <source>Enter an amount of BWK to convert to zBWK</source>
-        <translation>zBWK로 변환할 Bulwark 수량을 입력하세요.</translation>
+        <translation>zBWK로 변환할 CRyptoCrowd 수량을 입력하세요.</translation>
     </message>
     <message>
         <source>zBWK Control</source>
@@ -2501,8 +2501,8 @@ zBWK는 성명서가 20 개 이상 있고 명칭이 동일하지 않은 2 개 �
         <translation>지불 대상:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Bulwark를 전송할 Bulwark 주소입니다. 비어있을 때 자신에게 지불할 주소를 생성합니다.</translation>
+        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Bulwark를 전송할 CRyptoCrowd 주소입니다. 비어있을 때 자신에게 지불할 주소를 생성합니다.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2578,8 +2578,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <source>Show the current status of automatic zBWK minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to bulwark.conf
-- disable: add 'enablezeromint=0' to bulwark.conf
+- enable: add 'enablezeromint=1' to cryptocrowd.conf
+- disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
@@ -2588,8 +2588,8 @@ To change the percentage (no restart required):
         <translation>현재 zBWK 자동 생성 상태를 보여줍니다.
 
 자동생성 상태를 변경하시려면 (지갑 재시작 필요함):
-- 활성화: 'enablezeromint=1' 를 bulwark.conf 파일에 추가
-- 비활성화: 'enablezeromint=0' 를 bulwark.conf 파일에 추가
+- 활성화: 'enablezeromint=1' 를 cryptocrowd.conf 파일에 추가
+- 비활성화: 'enablezeromint=0' 를 cryptocrowd.conf 파일에 추가
 
 자동 생성 비율 변경하시려면 (지갑 재시작 필요없음):
 - 메뉴 설정-&gt;옵션-&gt;zBWK 자동생성 비율
@@ -2930,7 +2930,7 @@ Maximum allowed: </source>
     </message>
     <message>
         <source>Invalid BWK address</source>
-        <translation>잘못된 Bulwark 주소</translation>
+        <translation>잘못된 CRyptoCrowd 주소</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -3030,8 +3030,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>금액</translation>
     </message>
     <message>
-        <source>Enter a Bulwark address (e.g. %1)</source>
-        <translation>Bulwark 주소를 입력하세요 (예 %1)</translation>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>CRyptoCrowd 주소를 입력하세요 (예 %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3168,8 +3168,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>블록체인</translation>
     </message>
     <message>
-        <source>Open the Bulwark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>현재 데이터 디렉토리에서 Bulwark 디버그 로그 파일을 엽니다. 로그 파일이 클 경우, 약간의 시간이 걸릴 수 있습니다.</translation>
+        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>현재 데이터 디렉토리에서 CRyptoCrowd 디버그 로그 파일을 엽니다. 로그 파일이 클 경우, 약간의 시간이 걸릴 수 있습니다.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3385,8 +3385,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>출력:</translation>
     </message>
     <message>
-        <source>Welcome to the Bulwark RPC console.</source>
-        <translation>Bulwark RPC 콘솔에 오신 것을 환영합니다.</translation>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>CRyptoCrowd RPC 콘솔에 오신 것을 환영합니다.</translation>
     </message>
     <message>
         <source>Disconnect Node</source>
@@ -3512,16 +3512,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>새로운 수신 주소와 연결할 선택적 라벨.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다. 참고: Bulwark 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다. 참고: CRyptoCrowd 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>받기</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다.&lt;br&gt;참고: Bulwark 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다.&lt;br&gt;참고: CRyptoCrowd 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3749,8 +3749,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>UTXO 크기:</translation>
     </message>
     <message>
-        <source>0 Bulwark</source>
-        <translation>0 Bulwark</translation>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3813,8 +3813,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>트랜잭션이 250바이트 인 경우 사용자 지정 수수료가 1000 uBWKs로 설정되고,&lt;br /&gt;1000 uBWKs 안에는 전체에서 최소 "킬로바이트당" 250 uBWKs 만 지불합니다. 1 킬로바이트보다 큰 트랜잭션의 경우 모두 킬로바이트 단위로 지불합니다.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bulwark transactions than the network can process.</source>
-        <translation>블록의 공간보다 트랜잭션량이 적으면 최소 수수료만 지불하면 됩니다.&lt;br /&gt;하지만 Bulwark 트랜잭션 수가 많으면 미확인된 트랜잭션로 네트워크가 처리할 수도 있습니다.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
+        <translation>블록의 공간보다 트랜잭션량이 적으면 최소 수수료만 지불하면 됩니다.&lt;br /&gt;하지만 CRyptoCrowd 트랜잭션 수가 많으면 미확인된 트랜잭션로 네트워크가 처리할 수도 있습니다.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3862,7 +3862,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Anonymized BWK</source>
-        <translation>익명화된 Bulwark</translation>
+        <translation>익명화된 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3910,7 +3910,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Warning: Invalid BWK address</source>
-        <translation>경고: 잘못된 Bulwark 주소</translation>
+        <translation>경고: 잘못된 CRyptoCrowd 주소</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>지불 대상:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to</source>
-        <translation>보낼 Bulwark 주소</translation>
+        <source>The CRyptoCrowd address to send the payment to</source>
+        <translation>보낼 CRyptoCrowd 주소</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>메세지:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Bulwark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bulwark network.</source>
-        <translation>참조용으로 트랜잭션과 함께 기록되는 Bulwark : URI에 첨부된 메세지입니다. 참고: 이 메세지는 Bulwark 네트워크를 통해 전송되지 않습니다.</translation>
+        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>
+        <translation>참조용으로 트랜잭션과 함께 기록되는 CRyptoCrowd : URI에 첨부된 메세지입니다. 참고: 이 메세지는 CRyptoCrowd 네트워크를 통해 전송되지 않습니다.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bulwark Core is shutting down...</source>
-        <translation>Bulwark Core가 종료됩니다...</translation>
+        <source>CRyptoCrowd Core is shutting down...</source>
+        <translation>CRyptoCrowd Core가 종료됩니다...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>자신의 주소로 메세지에 서명할 수 있습니다. 피싱 공격으로 사용자를 속일 수 있으므로 서명에 주의해주세요. 동의하는 바에 한하여 서명하십시오.</translation>
     </message>
     <message>
-        <source>The Bulwark address to sign the message with</source>
-        <translation>메세지를 서명하기 위한 Bulwark 주소</translation>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>메세지를 서명하기 위한 CRyptoCrowd 주소</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>현재 서명을 시스템 클립 보드에 복사</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>이 Bulwark 주소를 소유하고 있다는 것을 증명하기 위해 메세지에 서명하십시오</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>이 CRyptoCrowd 주소를 소유하고 있다는 것을 증명하기 위해 메세지에 서명하십시오</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
-        <translation>메세지에 서명된 Bulwark 주소</translation>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>메세지에 서명된 CRyptoCrowd 주소</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
-        <translation>메세지가 지정된 Bulwark 주소로 서명되었는지 확인해주세요</translation>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>메세지가 지정된 CRyptoCrowd 주소로 서명되었는지 확인해주세요</translation>
     </message>
     <message>
         <source>Sign Message</source>
@@ -4229,8 +4229,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core 개발자</translation>
     </message>
     <message>
-        <source>The Bulwark Core developers</source>
-        <translation>Bulwark Core 개발자</translation>
+        <source>The CRyptoCrowd Core developers</source>
+        <translation>CRyptoCrowd Core 개발자</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4526,8 +4526,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>난독화를 통해 수신 됨</translation>
     </message>
     <message>
-        <source>Bulwark Stake</source>
-        <translation>Bulwark stake</translation>
+        <source>CRyptoCrowd Stake</source>
+        <translation>CRyptoCrowd stake</translation>
     </message>
     <message>
         <source>zBWK Stake</source>
@@ -4550,7 +4550,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>난독화 표시 만들기</translation>
     </message>
     <message>
-        <source>Converted Bulwark to zBWK</source>
+        <source>Converted CRyptoCrowd to zBWK</source>
         <translation>Bulwark를 zBWK로 변환</translation>
     </message>
     <message>
@@ -4558,7 +4558,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>zBWK 사용</translation>
     </message>
     <message>
-        <source>Received Bulwark from zBWK</source>
+        <source>Received CRyptoCrowd from zBWK</source>
         <translation>zBWK를 Bulwark로 받음</translation>
     </message>
     <message>
@@ -4566,7 +4566,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>zBWK 전송후 남은 zBWK로 잔돈 생성</translation>
     </message>
     <message>
-        <source>Converted zBWK to Bulwark</source>
+        <source>Converted zBWK to CRyptoCrowd</source>
         <translation>zBWK를 Bulwark로 변환</translation>
     </message>
     <message>
@@ -4785,7 +4785,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>내보내기 성공</translation>
     </message>
     <message>
-        <source>Received Bulwark from zBWK</source>
+        <source>Received CRyptoCrowd from zBWK</source>
         <translation>zBWK를 Bulwark로 받음</translation>
     </message>
     <message>
@@ -4826,7 +4826,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>코인 전송 </translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 Bulwark.</source>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>
         <translation>SwiftTX는 아직 높은 값을 전송하는 것을 지원하지 않습니다. 트랜잭션은 현재 %1 Bulwark로 제한됩니다.</translation>
     </message>
 </context>
@@ -4911,8 +4911,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>계산된 누산기 체크포인트는 블록 인덱스에 의해 기록되는 것이 아닙니다.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bulwark Core is probably already running.</source>
-        <translation>        &lt;translation&gt;잠겨진 데이터 디렉토리 %s 를 가져올 수 없습니다. Bulwark Core는 이미 실행 중입니다.</translation>
+        <source>Cannot obtain a lock on data directory %s. CRyptoCrowd Core is probably already running.</source>
+        <translation>        &lt;translation&gt;잠겨진 데이터 디렉토리 %s 를 가져올 수 없습니다. CRyptoCrowd Core는 이미 실행 중입니다.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4943,8 +4943,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Enable automatic wallet backups triggered after each zBWK minting (0-1, default: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for Bulwark inputs (0-1, default: %u)</source>
-        <translation>Enable or disable staking functionality for Bulwark inputs (0-1, default: %u)</translation>
+        <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
+        <translation>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
@@ -5087,19 +5087,19 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>이 제품은 OpenSSL이 개발한 Open SSL 툴킷 &lt;https://www.openssl.org/&gt; 에서 사용하기 위한 프로젝트 소프트웨어, Eric Young이 개발한 암호화 소프트웨어, Thomas Bernard가 개발한 UPnP 소프트웨어가 포함되어 있습니다.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bulwark Core is probably already running.</source>
-        <translation>이 컴퓨터를 %s 로 지정하는것은 불가능합니다. Bulwark Core는 이미 실행 중입니다.</translation>
+        <source>Unable to bind to %s on this computer. CRyptoCrowd Core is probably already running.</source>
+        <translation>이 컴퓨터를 %s 로 지정하는것은 불가능합니다. CRyptoCrowd Core는 이미 실행 중입니다.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>이 트랜잭션를 위해 난독화 표기된 충분한 금액을 찾을 수 없습니다.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 Bulwark.</source>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
         <translation>이 트랜잭션를 위해 난독화 표기가 안된 충분한 금액을 찾을 수 없습니다. 10000 Bulwark과 일치하지 않음.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 Bulwark.</source>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
         <translation>트랜잭션에 대한 충분한 금액을 찾을 수 없습니다. 10000 Bulwark와 같지 않음</translation>
     </message>
     <message>
@@ -5115,8 +5115,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>경고 : -paytxfee가 매우 높게 설정되었습니다! 이것은 전송할 경우 지불 할 트랜잭션 수수료입니다.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bulwark Core will not work properly.</source>
-        <translation>경고: 컴퓨터의 날짜와 시간이 올바르게 설정되어 있는지 확인해 주세요! 만일 시계가 잘못되어 있다면 Bulwark 코어는 정상적으로 작동하지 않을 수 있습니다.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRyptoCrowd Core will not work properly.</source>
+        <translation>경고: 컴퓨터의 날짜와 시간이 올바르게 설정되어 있는지 확인해 주세요! 만일 시계가 잘못되어 있다면 CRyptoCrowd 코어는 정상적으로 작동하지 않을 수 있습니다.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5267,8 +5267,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Copyright (C) 2014-%i The Dash Core 개발자들</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Bulwark Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Bulwark Core 개발자</translation>
+        <source>Copyright (C) 2015-%i The CRyptoCrowd Core Developers</source>
+        <translation>Copyright (C) 2015-%i The CRyptoCrowd Core 개발자</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5355,8 +5355,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>wallet.dat을 불러오는 중 오류가 발생했습니다: 지갑 손상됨</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bulwark Core</source>
-        <translation>wallet.dat를 로드하는 중 오류가 발생했습니다. 지갑에 최신 버전의 Bulwark 코어가 필요합니다.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>
+        <translation>wallet.dat를 로드하는 중 오류가 발생했습니다. 지갑에 최신 버전의 CRyptoCrowd 코어가 필요합니다.</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5471,8 +5471,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>정보</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bulwark Core is shutting down.</source>
-        <translation>초기화 정확성 검사에 실패 했습니다. Bulwark Core가 종료됩니다.</translation>
+        <source>Initialization sanity check failed. CRyptoCrowd Core is shutting down.</source>
+        <translation>초기화 정확성 검사에 실패 했습니다. CRyptoCrowd Core가 종료됩니다.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5543,8 +5543,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>자동생성 zBWK 비율  (1-100, default: %u)</translation>
     </message>
     <message>
-        <source>Reindex the Bulwark and zBWK money supply statistics</source>
-        <translation>Bulwark 및 zBWK 공급량 다시 색인</translation>
+        <source>Reindex the CRyptoCrowd and zBWK money supply statistics</source>
+        <translation>CRyptoCrowd 및 zBWK 공급량 다시 색인</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5583,7 +5583,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 </translation>
     </message>
     <message>
-        <source>Disable all Bulwark specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <source>Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
         <translation>Bulwark의 모든 특정 기능들을 비활성화합니다(마스터노드, 난독화, SwiftTX, Budgeting) (0-1, 기본값: %u)</translation>
     </message>
     <message>
@@ -6295,8 +6295,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>지갑이 잠겼습니다.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bulwark Core to complete</source>
-        <translation>지갑을 다시 작성해야 합니다: 완료하려면 Bulwark 코어를 재시작해야 합니다</translation>
+        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>
+        <translation>지갑을 다시 작성해야 합니다: 완료하려면 CRyptoCrowd 코어를 재시작해야 합니다</translation>
     </message>
     <message>
         <source>Wallet options:</source>

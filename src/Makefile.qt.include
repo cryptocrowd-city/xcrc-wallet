@@ -1,7 +1,7 @@
 bin_PROGRAMS += qt/bulwark-qt
 EXTRA_LIBRARIES += qt/libbitcoinqt.a
 
-# bulwark qt core #
+# cryptocrowd qt core #
 QT_TS = \
   qt/locale/bulwark_bg.ts \
   qt/locale/bulwark_ca.ts \
@@ -146,14 +146,14 @@ BITCOIN_MM = \
   qt/macnotificationhandler.mm
 
 QT_MOC = \
-  qt/bulwark.moc \
+  qt/cryptocrowd.moc \
   qt/bitcoinamountfield.moc \
   qt/intro.moc \
   qt/overviewpage.moc \
   qt/rpcconsole.moc
 
 QT_QRC_CPP = qt/qrc_bulwark.cpp
-QT_QRC = qt/bulwark.qrc
+QT_QRC = qt/cryptocrowd.qrc
 QT_QRC_LOCALE_CPP = qt/qrc_bulwark_locale.cpp
 QT_QRC_LOCALE = qt/bulwark_locale.qrc
 
@@ -467,7 +467,7 @@ $(QT_MOC_CPP): $(PROTOBUF_H)
 qt_bulwark_qt_CPPFLAGS = $(BITCOIN_INCLUDES) $(BITCOIN_QT_INCLUDES) \
   $(QT_INCLUDES) $(PROTOBUF_CFLAGS) $(QR_CFLAGS)
 
-qt_bulwark_qt_SOURCES = qt/bulwark.cpp
+qt_bulwark_qt_SOURCES = qt/cryptocrowd.cpp
 if TARGET_DARWIN
   qt_bulwark_qt_SOURCES += $(BITCOIN_MM)
 endif
@@ -509,7 +509,7 @@ $(QT_QRC_LOCALE_CPP): $(QT_QRC_LOCALE) $(QT_QM)
 
 $(QT_QRC_CPP): $(QT_QRC) $(QT_FORMS_H) $(RES_ICONS) $(RES_IMAGES) $(RES_CSS) $(RES_MOVIES) $(PROTOBUF_H) 
 	@test -f $(RCC)
-	$(AM_V_GEN) QT_SELECT=$(QT_SELECT) $(RCC) -name bulwark $< | \
+	$(AM_V_GEN) QT_SELECT=$(QT_SELECT) $(RCC) -name cryptocrowd $< | \
 	  $(SED) -e '/^\*\*.*Created:/d' -e '/^\*\*.*by:/d' > $@
 
 CLEAN_QT = $(nodist_qt_libbitcoinqt_a_SOURCES) $(QT_QM) $(QT_FORMS_H) qt/*.gcda qt/*.gcno

@@ -1,4 +1,4 @@
-# Reduce Traffic In Bulwark Core
+# Reduce Traffic In CRyptoCrowd Core
 
 Some node operators need to deal with bandwidth caps imposed by their ISPs.
 

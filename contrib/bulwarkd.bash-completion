@@ -19,7 +19,7 @@ _bulwark_rpc() {
     $bulwarkd "${rpcargs[@]}" "$@"
 }
 
-# Add bulwark accounts to COMPREPLY
+# Add cryptocrowd accounts to COMPREPLY
 _bulwark_accounts() {
     local accounts
     accounts=$(_bulwark_rpc listaccounts | awk '/".*"/ { a=$1; gsub(/"/, "", a); print a}')

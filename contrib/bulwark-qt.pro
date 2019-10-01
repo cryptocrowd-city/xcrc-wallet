@@ -327,7 +327,7 @@ HEADERS += src/activemasternode.h \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.h \
            src/crypto/aes_helper.c \
            src/qt/bitcoinamountfield.moc \
-           src/qt/bulwark.moc \
+           src/qt/cryptocrowd.moc \
            src/qt/intro.moc \
            src/qt/overviewpage.moc \
            src/qt/rpcconsole.moc \
@@ -370,7 +370,7 @@ SOURCES += src/activemasternode.cpp \
            src/obfuscation.cpp \
            src/bulwark-cli.cpp \
            src/bulwark-tx.cpp \
-           src/bulwark.cpp \
+           src/cryptocrowd.cpp \
            src/db.cpp \
            src/eccryptoverify.cpp \
            src/ecwrapper.cpp \
@@ -460,7 +460,7 @@ SOURCES += src/activemasternode.cpp \
            src/qt/coincontroltreewidget.cpp \
            src/qt/csvmodelwriter.cpp \
            src/qt/obfuscationconfig.cpp \
-           src/qt/bulwark.cpp \
+           src/qt/cryptocrowd.cpp \
            src/qt/bulwarkstrings.cpp \
            src/qt/editaddressdialog.cpp \
            src/qt/guiutil.cpp \
@@ -630,7 +630,7 @@ SOURCES += src/activemasternode.cpp \
            src/leveldb/helpers/memenv/memenv.cc \
            src/leveldb/helpers/memenv/memenv_test.cc \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c
-RESOURCES += src/qt/bulwark.qrc src/qt/bulwark_locale.qrc
+RESOURCES += src/qt/cryptocrowd.qrc src/qt/bulwark_locale.qrc
 
 TRANSLATIONS += src/qt/locale/bulwark_bg.ts \
                 src/qt/locale/bulwark_de.ts \

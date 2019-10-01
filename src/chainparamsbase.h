@@ -10,7 +10,7 @@
 
 /**
  * CBaseChainParams defines the base parameters (shared between bulwark-cli and bulwarkd)
- * of a given instance of the Bulwark system.
+ * of a given instance of the CRyptoCrowd system.
  */
 class CBaseChainParams {
   public:

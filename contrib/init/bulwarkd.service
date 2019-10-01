@@ -1,18 +1,18 @@
 [Unit]
-Description=Bulwark's distributed currency daemon
+Description=CRyptoCrowd's distributed currency daemon
 After=network.target
 
 [Service]
-User=bulwark
-Group=bulwark
+User=cryptocrowd
+Group=cryptocrowd
 
 Type=forking
 PIDFile=/var/lib/bulwarkd/bulwarkd.pid
 
 ExecStart=/usr/bin/bulwarkd -daemon -pid=/var/lib/bulwarkd/bulwarkd.pid \
-          -conf=/etc/bulwark/bulwark.conf -datadir=/var/lib/bulwarkd
+          -conf=/etc/cryptocrowd/cryptocrowd.conf -datadir=/var/lib/bulwarkd
 
-ExecStop=-/usr/bin/bulwark-cli -conf=/etc/bulwark/bulwark.conf \
+ExecStop=-/usr/bin/bulwark-cli -conf=/etc/cryptocrowd/cryptocrowd.conf \
          -datadir=/var/lib/bulwarkd stop
 
 Restart=always

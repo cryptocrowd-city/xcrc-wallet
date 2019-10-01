@@ -1,6 +1,6 @@
 [Protocol]
 exec=bulwark-qt '%u'
-protocol=bulwark
+protocol=cryptocrowd
 input=none
 output=none
 helper=true

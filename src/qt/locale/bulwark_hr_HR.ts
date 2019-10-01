@@ -62,12 +62,12 @@
         <translation>Adresa primatelja</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše Bulwark adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše CRyptoCrowd adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše Bulwark adrese za primanje uplata. Preporuča se upotreba nove adrese primatelja za svaku transakciju.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše CRyptoCrowd adrese za primanje uplata. Preporuča se upotreba nove adrese primatelja za svaku transakciju.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -176,15 +176,15 @@
         <translation>Potvrdi šifriranje novčanika</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše Bulwark od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše CRyptoCrowd od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
         <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite zaporku, 1 izgubit ćete sve Vaše Bulwarkove 1 !</translation>
     </message>
     <message>
@@ -254,12 +254,12 @@
         <translation>Adresa:</translation>
     </message>
     <message>
-        <source>Enter a Bulwark Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Unesite Bulwark adresu koju želite šifrirati pomoću BIP 38. Unesite zaporku u srednjem okviru. Pritisnite šifriranje za izračunavanje šifriranog privatnog ključa.</translation>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Unesite CRyptoCrowd adresu koju želite šifrirati pomoću BIP 38. Unesite zaporku u srednjem okviru. Pritisnite šifriranje za izračunavanje šifriranog privatnog ključa.</translation>
     </message>
     <message>
-        <source>The Bulwark address to encrypt</source>
-        <translation>Bulwark adresa za šifriranje</translation>
+        <source>The CRyptoCrowd address to encrypt</source>
+        <translation>CRyptoCrowd adresa za šifriranje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Bulwark address</source>
-        <translation>Šifriranje privatnog ključa za ovu Bulwark adresu</translation>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>Šifriranje privatnog ključa za ovu CRyptoCrowd adresu</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,16 +645,16 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Pošaljite kovanice na Bulwark adresu</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Pošaljite kovanice na CRyptoCrowd adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>Zahtjev za plaćanje (generira QR kodove i Bulwark: URI)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Zahtjev za plaćanje (generira QR kodove i CRyptoCrowd: URI)</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Pretraži masternodes</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>O Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>O CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>Prikaz informacija o Bulwark Core-u</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>Prikaz informacija o CRyptoCrowd Core-u</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>Izmijenite konfiguracijske opcije za Bulwark</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>Izmijenite konfiguracijske opcije za CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim Bulwark adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim CRyptoCrowd adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim Bulwark adresama</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim CRyptoCrowd adresama</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Otvori Masternode konfiguracijsku datoteku</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
-        <translation>Otvori Bulwark: URI zahtjev za plačanje</translation>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>Otvori CRyptoCrowd: URI zahtjev za plačanje</translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Prozor Block preglednika</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>Pokažite poruku Bulwark Core pomoći da biste dobili popis s mogućim Bulwark opcijama naredbenog retka</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>Pokažite poruku CRyptoCrowd Core pomoći da biste dobili popis s mogućim CRyptoCrowd opcijama naredbenog retka</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
+        <source>CRyptoCrowd Core client</source>
         <translation>BulwarkIX Core Klijent</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bulwark network</source>
-        <translation><numerusform>%n aktivne veze na Bulwark mrežu</numerusform><numerusform>%n aktivne veze na Bulwark mrežu</numerusform><numerusform>%n aktivne veze na Bulwark mrežu</numerusform></translation>
+        <source>%n active connection(s) to CRyptoCrowd network</source>
+        <translation><numerusform>%n aktivne veze na CRyptoCrowd mrežu</numerusform><numerusform>%n aktivne veze na CRyptoCrowd mrežu</numerusform><numerusform>%n aktivne veze na CRyptoCrowd mrežu</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ Višestruko slanje: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bulwark.conf).</source>
-        <translation>Nisu prikazane sve transakcije. Za pregled svih transakcija morate postaviti txindex = 1 u konfiguracijskoj datoteci (bulwark.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>Nisu prikazane sve transakcije. Za pregled svih transakcija morate postaviti txindex = 1 u konfiguracijskoj datoteci (cryptocrowd.conf).</translation>
     </message>
 </context>
 <context>
@@ -1185,8 +1185,8 @@ Višestruko slanje: %1</translation>
         <translation>Uređivanje adrese slanja</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bulwark address.</source>
-        <translation>Unesena adresa "%1" nije važeća Bulwark adresa.</translation>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>Unesena adresa "%1" nije važeća CRyptoCrowd adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ Višestruko slanje: %1</translation>
         <translation>verzija</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>O Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>O CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ Višestruko slanje: %1</translation>
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Bulwark Core.</source>
-        <translation>Dobrodošli u Bulwark Core.</translation>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>Dobrodošli u CRyptoCrowd Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bulwark Core will store its data.</source>
-        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će Bulwark Core pohraniti svoje podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će CRyptoCrowd Core pohraniti svoje podatke.</translation>
     </message>
     <message>
-        <source>Bulwark Core will download and store a copy of the Bulwark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bulwark Core preuzima i pohranjuje kopiju Bulwark blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd Core preuzima i pohranjuje kopiju CRyptoCrowd blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ Višestruko slanje: %1</translation>
         <translation>Koristite prilagođeni direktorij podataka:</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ Višestruko slanje: %1</translation>
         <translation>Unesite adresu za slanje</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bulwark addresses after it matures.
-To Add: enter percentage to give and Bulwark address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.
+To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend vam omogućuje da automatski pošaljete do 100% svoje nagrade za ulog ili masternode  nagrade na popis drugih Bulwark adresa nakon što sazrijete.
-Za Dodaj: unesite postotak za davanje i Bulwark adresu za dodavanje MultiSend vektoru.
+        <translation>MultiSend vam omogućuje da automatski pošaljete do 100% svoje nagrade za ulog ili masternode  nagrade na popis drugih CRyptoCrowd adresa nakon što sazrijete.
+Za Dodaj: unesite postotak za davanje i CRyptoCrowd adresu za dodavanje MultiSend vektoru.
 Za brisanje: Unesite adresu za brisanje i pritisnite Delete.
 MultiSend neće biti aktiviran dok ne kliknete Aktiviraj</translation>
     </message>
@@ -1679,8 +1679,8 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Adresa / iznos:</translation>
     </message>
     <message>
-        <source>Add destinations to send Bulwark to</source>
-        <translation>Dodajte odredišta za slanje Bulwark
+        <source>Add destinations to send CRyptoCrowd to</source>
+        <translation>Dodajte odredišta za slanje CRyptoCrowd
 </translation>
     </message>
     <message>
@@ -1779,47 +1779,47 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Odaberi razinu privatnosti.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>Koristite 2 odvojene masternode za miješanje sredstava do 10000 Bulwark</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Koristite 2 odvojene masternode za miješanje sredstava do 10000 CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>Koristite 8 zasebnih masternoda za miješanje sredstava do 10000 Bulwark</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Koristite 8 zasebnih masternoda za miješanje sredstava do 10000 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Koristite 16 zasebnih masternodova</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Ova je opcija najbrža i košta oko 0,025 Bulwark da anonimizira 10000 Bulwark</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Ova je opcija najbrža i košta oko 0,025 CRyptoCrowd da anonimizira 10000 CRyptoCrowd</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Ova je opcija umjereno brza i košta oko 0,05 Bulwark da anonimizira 10000 Bulwark</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Ova je opcija umjereno brza i košta oko 0,05 CRyptoCrowd da anonimizira 10000 CRyptoCrowd</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Ovo je najsporiji i najsigurniji izbor. Korištenje maksimalne anonimnosti košta</translation>
     </message>
     <message>
-        <source>0.1 Bulwark per 10000 Bulwark you anonymize.</source>
-        <translation>0,1 Bulwark po 10000 Bulwark za anonimizaciju.</translation>
+        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>
+        <translation>0,1 CRyptoCrowd po 10000 CRyptoCrowd za anonimizaciju.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Obfuscation Konfiguracija</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
         <translation>Obfuscation je uspješno postavljen na osnovne (%1 i 2 runde). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Bulwark-a.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
         <translation>Obfuscation je uspješno postavljen na visoku razinu (%1 i 8 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Bulwark-a</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
         <translation>Obfuscation je uspješno postavljen na maksimalnu razinu (%1 i 16 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Bulwark-a.</translation>
     </message>
 </context>
@@ -1881,8 +1881,8 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Ako onemogućite potrošnju nepotvrđenih promjena, promjena s transakcijskog kanala bit će upotrijebljena sve dok ta transakcija nema barem jednu potvrdu. To također utječe na izračun salda.</translation>
     </message>
     <message>
-        <source>Automatically open the Bulwark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvorite Bulwark klijentski priključak na rooteru. To funkcionira samo kada vaš rooter podržava UPnP i omogućen je.</translation>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvorite CRyptoCrowd klijentski priključak na rooteru. To funkcionira samo kada vaš rooter podržava UPnP i omogućen je.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1901,12 +1901,12 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Stručnjak</translation>
     </message>
     <message>
-        <source>Automatically start Bulwark after logging in to the system.</source>
-        <translation>Automatski pokrenite Bulwark nakon prijave u sustav.</translation>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
+        <translation>Automatski pokrenite CRyptoCrowd nakon prijave u sustav.</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
-        <translation>Pokrenite Bulwark na prijavi u sustav</translation>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>Pokrenite CRyptoCrowd na prijavi u sustav</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1933,7 +1933,7 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Mreža</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bulwark.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
         <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja Bulwark-a.</translation>
     </message>
     <message>
@@ -1948,24 +1948,24 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
 </translation>
     </message>
     <message>
-        <source>Enable automatic minting of Bulwark units to zBWK</source>
-        <translation>Omogućite automint Bulwark jedinica na zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
+        <translation>Omogućite automint CRyptoCrowd jedinica na zBWK</translation>
     </message>
     <message>
         <source>Enable zBWK Automint</source>
         <translation>Omogući zBWK Automint</translation>
     </message>
     <message>
-        <source>Percentage of incoming Bulwark which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Postotak dolaznih Bulwark koji se automatski pretvara u zBWK putem protokola Zerocoin (min: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
+        <translation>Postotak dolaznih CRyptoCrowd koji se automatski pretvara u zBWK putem protokola Zerocoin (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBWK</source>
         <translation>Postotak automatiziranog zBWK</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough Bulwark for this denomination is available</source>
-        <translation>Pričekajte s automatskom pretvorbom u Zerocoin dok ne bude dostupno dovoljno Bulwark za apoen</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
+        <translation>Pričekajte s automatskom pretvorbom u Zerocoin dok ne bude dostupno dovoljno CRyptoCrowd za apoen</translation>
     </message>
     <message>
         <source>Preferred Automint zBWK Denomination</source>
@@ -1976,8 +1976,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Prag razdvajanja Stake-a:</translation>
     </message>
     <message>
-        <source>Connect to the Bulwark network through a SOCKS5 proxy.</source>
-        <translation>Povežite se s Bulwark mrežom putem SOCKS5 proxy poslužitelja.</translation>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>Povežite se s CRyptoCrowd mrežom putem SOCKS5 proxy poslužitelja.</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Ukupni saldo, uključujući sve nedostupne kovanice.</translation>
     </message>
     <message>
-        <source>Bulwark Balance</source>
-        <translation>Bulwark Saldo</translation>
+        <source>CRyptoCrowd Balance</source>
+        <translation>CRyptoCrowd Saldo</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,8 +2155,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Trenutačno zaključana ravnoteža u adresama samo za gledanje</translation>
     </message>
     <message>
-        <source>Your current Bulwark balance, unconfirmed and immature transactions included</source>
-        <translation>Uključena je vaša trenutna bilanca Bulwark, nepotvrđene i nezrele transakcije</translation>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
+        <translation>Uključena je vaša trenutna bilanca CRyptoCrowd, nepotvrđene i nezrele transakcije</translation>
     </message>
     <message>
         <source>zBWK Balance</source>
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s Bulwark mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s CRyptoCrowd mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2219,8 +2219,8 @@ Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</tran
         <translation>Po potrošiti:</translation>
     </message>
     <message>
-        <source>Locked Bulwark or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Zaključani Bulwark ili Masternode kolateral. Oni su isključeni iz zBWK kovanja.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
+        <translation>Zaključani CRyptoCrowd ili Masternode kolateral. Oni su isključeni iz zBWK kovanja.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2255,14 +2255,14 @@ Ako je omogućeno automatsko navođenje, ovaj postotak će se podmiriti oko konf
         <translation>AutoMint je trenutno omogućen i podešen na</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in bulwark.conf.</source>
-        <translation>Da biste onemogućili AutoMint, dodajte 'enablezeromint=0' u bulwark.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>
+        <translation>Da biste onemogućili AutoMint, dodajte 'enablezeromint=0' u cryptocrowd.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>
         <translation>AutoMint je trenutno onemogućen.
-Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablezeromint=1' u bulwark.conf</translation>
+Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablezeromint=1' u cryptocrowd.conf</translation>
     </message>
 </context>
 <context>
@@ -2288,12 +2288,12 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Nevažeća adresa za plaćanje %1</translation>
     </message>
     <message>
-        <source>Cannot start Bulwark: click-to-pay handler</source>
-        <translation>Ne može se pokrenuti Bulwark: clik-to-pay handler</translation>
+        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
+        <translation>Ne može se pokrenuti CRyptoCrowd: clik-to-pay handler</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
-        <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom Bulwark adresom ili nepravilnim URI parametrima.</translation>
+        <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom CRyptoCrowd adresom ili nepravilnim URI parametrima.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2378,8 +2378,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Zerocoin radnje:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s Bulwark mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s CRyptoCrowd mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2443,7 +2443,7 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
     </message>
     <message>
         <source>Enter an amount of BWK to convert to zBWK</source>
-        <translation>Unesite iznos Bulwark za pretvorbu u zBWK</translation>
+        <translation>Unesite iznos CRyptoCrowd za pretvorbu u zBWK</translation>
     </message>
     <message>
         <source>zBWK Control</source>
@@ -2502,8 +2502,8 @@ zBWK su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denominac
         <translation>Platiti:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Bulwark adresa za slanje uplate. Stvara lokalno plaćanje za sebe kada je prazno.</translation>
+        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>CRyptoCrowd adresa za slanje uplate. Stvara lokalno plaćanje za sebe kada je prazno.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2579,8 +2579,8 @@ Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</tran
         <source>Show the current status of automatic zBWK minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to bulwark.conf
-- disable: add 'enablezeromint=0' to bulwark.conf
+- enable: add 'enablezeromint=1' to cryptocrowd.conf
+- disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
@@ -2589,8 +2589,8 @@ To change the percentage (no restart required):
         <translation>Pokažite trenutačni status automatskog zBWK mintanja.
 
 Da biste promijenili status (potrebno je ponovno pokretanje):
-- omogući: dodajte 'enablezeromint = 1' u bulwark.conf
-- onemogućiti: dodajte 'enablezeromint = 0' na bulwark.conf
+- omogući: dodajte 'enablezeromint = 1' u cryptocrowd.conf
+- onemogućiti: dodajte 'enablezeromint = 0' na cryptocrowd.conf
 
 Promjena postotka (nije potrebno ponovno pokretanje):
 - izbornik Postavke-&gt; Opcije-&gt; Postotak zBWK</translation>
@@ -2927,7 +2927,7 @@ Maksimalno dopušteno:</translation>
     </message>
     <message>
         <source>Invalid BWK address</source>
-        <translation>Nevažeća Bulwark Adresa</translation>
+        <translation>Nevažeća CRyptoCrowd Adresa</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -3027,8 +3027,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Iznos</translation>
     </message>
     <message>
-        <source>Enter a Bulwark address (e.g. %1)</source>
-        <translation>Unesite Bulwark adresu (npr., %1)</translation>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>Unesite CRyptoCrowd adresu (npr., %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3166,8 +3166,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the Bulwark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorite Bulwark debug log datoteku iz aktualnog direktorija podataka. To može potrajati nekoliko sekundi za velike datoteke zapisnika.</translation>
+        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorite CRyptoCrowd debug log datoteku iz aktualnog direktorija podataka. To može potrajati nekoliko sekundi za velike datoteke zapisnika.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3382,8 +3382,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Iz:</translation>
     </message>
     <message>
-        <source>Welcome to the Bulwark RPC console.</source>
-        <translation>Dobrodošli na Bulwark RPC konzolu.</translation>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>Dobrodošli na CRyptoCrowd RPC konzolu.</translation>
     </message>
     <message>
         <source>Disconnect Node</source>
@@ -3509,16 +3509,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dodatna oznaka za povezivanje s novom adresom primatelja.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>Dodatna poruka priložena zahtjevu za plaćanje, koji će se prikazati kada se zahtjev otvori. Napomena: poruka neće biti poslana s plaćanjem putem Bulwark mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Dodatna poruka priložena zahtjevu za plaćanje, koji će se prikazati kada se zahtjev otvori. Napomena: poruka neće biti poslana s plaćanjem putem CRyptoCrowd mreže.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>PRIMI</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>Dodatna poruka za pridruživanje zahtjevu za plaćanje koja će se prikazati kada se zahtjev otvori.Napomena: poruka neće biti poslana s plaćanjem putem Bulwark mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Dodatna poruka za pridruživanje zahtjevu za plaćanje koja će se prikazati kada se zahtjev otvori.Napomena: poruka neće biti poslana s plaćanjem putem CRyptoCrowd mreže.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3747,8 +3747,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Veličina UTXO:</translation>
     </message>
     <message>
-        <source>0 Bulwark</source>
-        <translation>0 Bulwark</translation>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3813,8 +3813,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ako je prilagođena naknada postavljena na 1000 uBulwark, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 uBulwark-ova, a "ukupno barem" plaća 1000 uBulwark-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bulwark transactions than the network can process.</source>
-        <translation>Plaćanje samo minimalne naknade je sasvim u redu sve dok j obujma transakcija manji od prostora u blokovima. No, budite svjesni da to može dovesti do transakcije koja nikada se ne potvrđuje kada se pojavi više zahtjeva za Bulwark transakcijama nego što mreža može obraditi.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
+        <translation>Plaćanje samo minimalne naknade je sasvim u redu sve dok j obujma transakcija manji od prostora u blokovima. No, budite svjesni da to može dovesti do transakcije koja nikada se ne potvrđuje kada se pojavi više zahtjeva za CRyptoCrowd transakcijama nego što mreža može obraditi.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3862,7 +3862,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Anonymized BWK</source>
-        <translation>Anonimiziran Bulwark</translation>
+        <translation>Anonimiziran CRyptoCrowd</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3910,7 +3910,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Warning: Invalid BWK address</source>
-        <translation>Upozorenje: Nevažeća Bulwark adresa</translation>
+        <translation>Upozorenje: Nevažeća CRyptoCrowd adresa</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Platiti:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to</source>
-        <translation>Bulwark adresa za slanje uplate</translation>
+        <source>The CRyptoCrowd address to send the payment to</source>
+        <translation>CRyptoCrowd adresa za slanje uplate</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Poruka:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Bulwark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bulwark network.</source>
-        <translation>Poruka koja je bila povezana s Bulwark: URI koji će biti pohranjen s transakcijom za vašu referencu. Napomena: ova poruka neće biti poslana preko Bulwark mreže.</translation>
+        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>
+        <translation>Poruka koja je bila povezana s CRyptoCrowd: URI koji će biti pohranjen s transakcijom za vašu referencu. Napomena: ova poruka neće biti poslana preko CRyptoCrowd mreže.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bulwark Core is shutting down...</source>
-        <translation>Bulwark Core se zatvara ...</translation>
+        <source>CRyptoCrowd Core is shutting down...</source>
+        <translation>CRyptoCrowd Core se zatvara ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Možete potpisati poruke s vašim adresama kako biste dokazali da ih posjedujete. Pazite da ne potpišete ništa nejasno, jer napadi za krađu identiteta mogu Vas pokušati uvjeriti da vam potpišu identitet. Potpišite samo detalje oko kojih se slažete.</translation>
     </message>
     <message>
-        <source>The Bulwark address to sign the message with</source>
-        <translation>Bulwark adresa za potpisivanje poruke</translation>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>CRyptoCrowd adresa za potpisivanje poruke</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove Bulwark adrese</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove CRyptoCrowd adrese</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
-        <translation>Bulwark adresa s kojom je potpisana poruka</translation>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>CRyptoCrowd adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisana s navedenom Bulwark adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisana s navedenom CRyptoCrowd adresom</translation>
     </message>
     <message>
         <source>Sign Message</source>
@@ -4229,8 +4229,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core programeri</translation>
     </message>
     <message>
-        <source>The Bulwark Core developers</source>
-        <translation>Bulwark Core programeri</translation>
+        <source>The CRyptoCrowd Core developers</source>
+        <translation>CRyptoCrowd Core programeri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4526,8 +4526,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Zaprimljeno preko Zametanja</translation>
     </message>
     <message>
-        <source>Bulwark Stake</source>
-        <translation>Bulwark Stake</translation>
+        <source>CRyptoCrowd Stake</source>
+        <translation>CRyptoCrowd Stake</translation>
     </message>
     <message>
         <source>zBWK Stake</source>
@@ -4550,24 +4550,24 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Prikrivanje Stvara Denominacije</translation>
     </message>
     <message>
-        <source>Converted Bulwark to zBWK</source>
-        <translation>Pretvoreni Bulwark u zBWK</translation>
+        <source>Converted CRyptoCrowd to zBWK</source>
+        <translation>Pretvoreni CRyptoCrowd u zBWK</translation>
     </message>
     <message>
         <source>Spent zBWK</source>
         <translation>Utrošeni zBWK</translation>
     </message>
     <message>
-        <source>Received Bulwark from zBWK</source>
-        <translation>Primljeni Bulwark od zBWK</translation>
+        <source>Received CRyptoCrowd from zBWK</source>
+        <translation>Primljeni CRyptoCrowd od zBWK</translation>
     </message>
     <message>
         <source>Minted Change as zBWK from zBWK Spend</source>
         <translation>Mintana razlika zBWK od zBWK Utroška</translation>
     </message>
     <message>
-        <source>Converted zBWK to Bulwark</source>
-        <translation>Pretvoreni zBWK u Bulwark</translation>
+        <source>Converted zBWK to CRyptoCrowd</source>
+        <translation>Pretvoreni zBWK u CRyptoCrowd</translation>
     </message>
     <message>
         <source>Anonymous (zBWK Transaction)</source>
@@ -4785,8 +4785,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izvoz uspješan</translation>
     </message>
     <message>
-        <source>Received Bulwark from zBWK</source>
-        <translation>Primljeni Bulwark od zBWK</translation>
+        <source>Received CRyptoCrowd from zBWK</source>
+        <translation>Primljeni CRyptoCrowd od zBWK</translation>
     </message>
     <message>
         <source>Zerocoin Spend, Change in zBWK</source>
@@ -4826,8 +4826,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Salji novac</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 Bulwark.</source>
-        <translation>SwiftX ne podržava slanje visokih vrijednosti. Transakcije su trenutačno ograničene na %1 Bulwark.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>
+        <translation>SwiftX ne podržava slanje visokih vrijednosti. Transakcije su trenutačno ograničene na %1 CRyptoCrowd.</translation>
     </message>
 </context>
 <context>
@@ -4911,8 +4911,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izračunata kontrolna točka akumulatora nije ono što se bilježi indeksom blokova</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bulwark Core is probably already running.</source>
-        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. Bulwark Core vjerojatno već radi.</translation>
+        <source>Cannot obtain a lock on data directory %s. CRyptoCrowd Core is probably already running.</source>
+        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. CRyptoCrowd Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4943,8 +4943,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Omogući automatsko sigurnosno kopiranje novčanika nakon svakog zBWK mintanja (0-1, default: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for Bulwark inputs (0-1, default: %u)</source>
-        <translation>Omogući ili onemogući staking funkcionalnosti za Bulwark unose (0-1, default: %u)</translation>
+        <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
+        <translation>Omogući ili onemogući staking funkcionalnosti za CRyptoCrowd unose (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
@@ -4984,11 +4984,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Naknade (u Bulwark / Kb) manje od toga smatraju se nulom naknadom za prosljeđivanje (zadano: %s)</translation>
+        <translation>Naknade (u CRyptoCrowd / Kb) manje od toga smatraju se nulom naknadom za prosljeđivanje (zadano: %s)</translation>
     </message>
     <message>
         <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Naknade (u Bulwark / Kb) manje od toga smatraju se nulom naknadom za izradu transakcija (zadano: %s)</translation>
+        <translation>Naknade (u CRyptoCrowd / Kb) manje od toga smatraju se nulom naknadom za izradu transakcija (zadano: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5087,20 +5087,20 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ovaj proizvod uključuje softver razvijen od strane OpenSSL projekta za uporabu u OpenSSL Toolkitu i kriptografskom softveru kojeg je napisao Eric Young i UPnP softver koji je napisao Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bulwark Core is probably already running.</source>
-        <translation>Nije moguće vezati se na %s na ovom računalu. Bulwark Core vjerojatno već radi.</translation>
+        <source>Unable to bind to %s on this computer. CRyptoCrowd Core is probably already running.</source>
+        <translation>Nije moguće vezati se na %s na ovom računalu. CRyptoCrowd Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Nije moguće locirati dovoljno sredstava s domenom Prikrivanja za tu transakciju.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 Bulwark.</source>
-        <translation>Nije moguće pronaći dovoljno prikrivenih sredstava koja nisu denominirana za ovu transakciju koja nisu jednaka 10000 Bulwark.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
+        <translation>Nije moguće pronaći dovoljno prikrivenih sredstava koja nisu denominirana za ovu transakciju koja nisu jednaka 10000 CRyptoCrowd.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 Bulwark.</source>
-        <translation>Nije moguće pronaći dovoljno sredstava za ovu transakciju koja nije jednaka 10000 Bulwark.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
+        <translation>Nije moguće pronaći dovoljno sredstava za ovu transakciju koja nije jednaka 10000 CRyptoCrowd.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5115,8 +5115,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Upozorenje: -paytxfee je vrlo visoka! To je transakcijska naknada koju ćete platiti ako šaljete transakciju.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bulwark Core will not work properly.</source>
-        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, Bulwark Core neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRyptoCrowd Core will not work properly.</source>
+        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, CRyptoCrowd Core neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5267,8 +5267,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Autorska prava (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Bulwark Core Developers</source>
-        <translation>Autorska prava (C) 2015-%i The Bulwark Core Developers</translation>
+        <source>Copyright (C) 2015-%i The CRyptoCrowd Core Developers</source>
+        <translation>Autorska prava (C) 2015-%i The CRyptoCrowd Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5356,8 +5356,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Pogreška pri učitavanju wallet.dat: novčanik oštećen</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bulwark Core</source>
-        <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju Bulwark jezgre</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>
+        <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju CRyptoCrowd jezgre</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5413,7 +5413,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Fee (in BWK/kB) to add to transactions you send (default: %s)</source>
-        <translation>Naknada (u Bulwark / kB) za dodavanje transakcija koje šaljete (zadano: %s)</translation>
+        <translation>Naknada (u CRyptoCrowd / kB) za dodavanje transakcija koje šaljete (zadano: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5472,8 +5472,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Informacije</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bulwark Core is shutting down.</source>
-        <translation>Provjera ispravnosti inicijalizacije nije uspjela. Bulwark Core se zatvara.</translation>
+        <source>Initialization sanity check failed. CRyptoCrowd Core is shutting down.</source>
+        <translation>Provjera ispravnosti inicijalizacije nije uspjela. CRyptoCrowd Core se zatvara.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5544,8 +5544,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Postotak automatskog kovanog Zerocoina (1-100, zadano: %u)</translation>
     </message>
     <message>
-        <source>Reindex the Bulwark and zBWK money supply statistics</source>
-        <translation>Ponovno indeksirati statistiku Bulwark i zBWK ponude novca</translation>
+        <source>Reindex the CRyptoCrowd and zBWK money supply statistics</source>
+        <translation>Ponovno indeksirati statistiku CRyptoCrowd i zBWK ponude novca</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5583,8 +5583,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>uklonjene nepotvrđene transakcije</translation>
     </message>
     <message>
-        <source>Disable all Bulwark specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Onemogući sve specifične funkcije Bulwark (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, zadano: %u)</translation>
+        <source>Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Onemogući sve specifične funkcije CRyptoCrowd (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, zadano: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -6295,8 +6295,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Novčanik zaključan.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bulwark Core to complete</source>
-        <translation>Potrebno je prepisati novčanik: ponovo pokrenite Bulwark Core</translation>
+        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>
+        <translation>Potrebno je prepisati novčanik: ponovo pokrenite CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Wallet options:</source>

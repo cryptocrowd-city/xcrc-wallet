@@ -14,13 +14,13 @@
    <item>
        <widget class="QValidatedLineEdit" name="payTo">
         <property name="toolTip">
-         <string>The Bulwark address to send the payment to</string>
+         <string>The CRyptoCrowd address to send the payment to</string>
         </property>
         <property name="inputMask">
          <string/>
         </property>
 		    <property name="placeholderText">
-         <string>Enter a Bulwark address (e.g. bQa7nWZdDYBSCqfA0yMU9Prn4TmJZJEXE4)</string>
+         <string>Enter a CRyptoCrowd address (e.g. bQa7nWZdDYBSCqfA0yMU9Prn4TmJZJEXE4)</string>
         </property>
        </widget>
       </item>
@@ -56,7 +56,7 @@
   </layout>
  </widget>
  <resources>
-  <include location="../bulwark.qrc"/>
+  <include location="../cryptocrowd.qrc"/>
  </resources>
  <connections/>
 </ui>

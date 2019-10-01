@@ -13,7 +13,7 @@
  * for both bulwarkd and bulwark-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("Bulwark Core");
+const std::string CLIENT_NAME("CRyptoCrowd Core");
 
 /**
  * Client version number

@@ -25,7 +25,7 @@ python27
 Download the source code:
 
 ```
-git clone https://github.com/bulwark-coin/Bulwark.git
+git clone https://github.com/bulwark-coin/CRyptoCrowd.git
 ```
 
 

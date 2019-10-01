@@ -1,6 +1,6 @@
 FROM ubuntu:16.04 AS dependencies
-COPY depends /Bulwark/depends
-ENV SDK_PATH=/Bulwark/depends/SDKs/
+COPY depends /CRyptoCrowd/depends
+ENV SDK_PATH=/CRyptoCrowd/depends/SDKs/
 RUN dpkg --add-architecture i386 \
   && apt-get update \
   && apt-get -y install --no-install-recommends \
@@ -69,34 +69,34 @@ RUN dpkg --add-architecture i386 \
   && rm -rf /var/lib/apt/lists/* \
   && update-alternatives --set x86_64-w64-mingw32-g++ /usr/bin/x86_64-w64-mingw32-g++-posix \
   && update-alternatives --set i686-w64-mingw32-g++ /usr/bin/i686-w64-mingw32-g++-posix \
-  && wget https://github.com/phracker/MacOSX-SDKs/releases/download/10.13/MacOSX10.11.sdk.tar.xz -P /Bulwark/depends/SDKs/ \
-  && tar xJf /Bulwark/depends/SDKs/MacOSX10.11.sdk.tar.xz -C /Bulwark/depends/SDKs/ \
-  && rm /Bulwark/depends/SDKs/MacOSX10.11.sdk.tar.xz \
+  && wget https://github.com/phracker/MacOSX-SDKs/releases/download/10.13/MacOSX10.11.sdk.tar.xz -P /CRyptoCrowd/depends/SDKs/ \
+  && tar xJf /CRyptoCrowd/depends/SDKs/MacOSX10.11.sdk.tar.xz -C /CRyptoCrowd/depends/SDKs/ \
+  && rm /CRyptoCrowd/depends/SDKs/MacOSX10.11.sdk.tar.xz \
   && wget https://bootstrap.pypa.io/get-pip.py \
   && python get-pip.py \
   && rm get-pip.py \
   && pip install ez_setup==0.9 \
-  && make -C /Bulwark/depends HOST=arm-linux-gnueabihf \
-  && make -C /Bulwark/depends HOST=i686-pc-linux-gnu \
-  && make -C /Bulwark/depends HOST=i686-w64-mingw32 \
-  && make -C /Bulwark/depends HOST=x86_64-unknown-linux-gnu \
-  && make -C /Bulwark/depends HOST=x86_64-w64-mingw32
+  && make -C /CRyptoCrowd/depends HOST=arm-linux-gnueabihf \
+  && make -C /CRyptoCrowd/depends HOST=i686-pc-linux-gnu \
+  && make -C /CRyptoCrowd/depends HOST=i686-w64-mingw32 \
+  && make -C /CRyptoCrowd/depends HOST=x86_64-unknown-linux-gnu \
+  && make -C /CRyptoCrowd/depends HOST=x86_64-w64-mingw32
 
 FROM dependencies AS base
-COPY autogen.sh /Bulwark/
-COPY build-aux /Bulwark//build-aux
-COPY configure.ac /Bulwark/
-COPY contrib /Bulwark//contrib
-COPY Makefile.am /Bulwark/
-COPY pkg.m4 /Bulwark/
-COPY qa /Bulwark/qa
-COPY share /Bulwark/share
-COPY src /Bulwark/src
-WORKDIR /Bulwark
+COPY autogen.sh /CRyptoCrowd/
+COPY build-aux /CRyptoCrowd//build-aux
+COPY configure.ac /CRyptoCrowd/
+COPY contrib /CRyptoCrowd//contrib
+COPY Makefile.am /CRyptoCrowd/
+COPY pkg.m4 /CRyptoCrowd/
+COPY qa /CRyptoCrowd/qa
+COPY share /CRyptoCrowd/share
+COPY src /CRyptoCrowd/src
+WORKDIR /CRyptoCrowd
 
 FROM base AS arm32
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
-COPY --from=dependencies /Bulwark/depends/arm-linux-gnueabihf $(pwd)/depends/arm-linux-gnueabihf
+COPY --from=dependencies /CRyptoCrowd/depends/arm-linux-gnueabihf $(pwd)/depends/arm-linux-gnueabihf
 RUN ./autogen.sh \
   && ./configure \
   --enable-zmq \
@@ -115,12 +115,12 @@ RUN ./autogen.sh \
   && make clean
 WORKDIR /
 RUN arm-linux-gnueabihf-strip ./bulwark-cli ./bulwark-qt ./bulwarkd  \
-  && tar czf arm32.tar.gz ./bulwark* \
+  && tar czf arm32.tar.gz ./cryptocrowd* \
   && rm ./bulwark-cli ./bulwark-qt ./bulwarkd 
 
 FROM base AS linux32
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
-COPY --from=dependencies /Bulwark/depends/i686-pc-linux-gnu $(pwd)/depends/i686-pc-linux-gnu
+COPY --from=dependencies /CRyptoCrowd/depends/i686-pc-linux-gnu $(pwd)/depends/i686-pc-linux-gnu
 RUN ./autogen.sh \
   && ./configure \
   --enable-zmq \
@@ -140,13 +140,13 @@ RUN ./autogen.sh \
   && make clean
 WORKDIR /
 RUN strip ./bulwark-cli ./bulwark-qt ./bulwarkd  \
-  && tar czf linux32.tar.gz ./bulwark* \
+  && tar czf linux32.tar.gz ./cryptocrowd* \
   && rm ./bulwark-cli ./bulwark-qt ./bulwarkd 
 
 FROM base AS linux64
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
 ENV HOST="x86_64-unknown-linux-gnu"
-COPY --from=dependencies /Bulwark/depends/x86_64-unknown-linux-gnu $(pwd)/depends/x86_64-unknown-linux-gnu
+COPY --from=dependencies /CRyptoCrowd/depends/x86_64-unknown-linux-gnu $(pwd)/depends/x86_64-unknown-linux-gnu
 RUN ./autogen.sh \
   && ./configure \
   --enable-zmq \
@@ -166,13 +166,13 @@ RUN ./autogen.sh \
   && make clean
 WORKDIR /
 RUN strip ./bulwark-cli ./bulwark-qt ./bulwarkd  \
-  && tar czf linux64.tar.gz ./bulwark* \
+  && tar czf linux64.tar.gz ./cryptocrowd* \
   && rm ./bulwark-cli ./bulwark-qt ./bulwarkd 
 
 FROM base AS windows32
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
 ENV HOST="i686-w64-mingw32"
-COPY --from=dependencies /Bulwark/depends/i686-w64-mingw32 $(pwd)/depends/i686-w64-mingw32
+COPY --from=dependencies /CRyptoCrowd/depends/i686-w64-mingw32 $(pwd)/depends/i686-w64-mingw32
 COPY autogen.sh .
 COPY build-aux ./build-aux
 COPY configure.ac .
@@ -198,13 +198,13 @@ RUN ./autogen.sh \
   && make clean
 WORKDIR /
 RUN strip ./bulwark-cli.exe ./bulwark-qt.exe ./bulwarkd.exe  \
-  && tar czf windows32.tar.gz ./bulwark* \
+  && tar czf windows32.tar.gz ./cryptocrowd* \
   && rm ./bulwark-cli.exe ./bulwark-qt.exe ./bulwarkd.exe
 
 FROM base AS windows64
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
 ENV HOST="x86_64-w64-mingw32"
-COPY --from=dependencies /Bulwark/depends/x86_64-w64-mingw32 $(pwd)/depends/x86_64-w64-mingw32
+COPY --from=dependencies /CRyptoCrowd/depends/x86_64-w64-mingw32 $(pwd)/depends/x86_64-w64-mingw32
 COPY autogen.sh .
 COPY build-aux ./build-aux
 COPY configure.ac .
@@ -230,13 +230,13 @@ RUN ./autogen.sh \
   && make clean
 WORKDIR /
 RUN strip ./bulwark-cli.exe ./bulwark-qt.exe ./bulwarkd.exe  \
-  && tar czf windows64.tar.gz ./bulwark* \
+  && tar czf windows64.tar.gz ./cryptocrowd* \
   && rm ./bulwark-cli.exe ./bulwark-qt.exe ./bulwarkd.exe
 
 FROM alpine:3.8
 LABEL maintainer="kewagi"
 LABEL version="2.0.0.0"
-LABEL name="Bulwark Docker Builds"
+LABEL name="CRyptoCrowd Docker Builds"
 RUN mkdir /release
 COPY --from=arm32 /arm32.* /release
 COPY --from=linux32 /linux32.* /release

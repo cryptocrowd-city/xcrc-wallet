@@ -36,7 +36,7 @@ This should always be true, this just shows that the POS period is active for th
 
 This makes sure you have valid peers, if this is showing as false I'd recommend the following command:
 
-`rm -Rf ~/.bulwark/peers.dat`
+`rm -Rf ~/.cryptocrowd/peers.dat`
 
 and then running:
 
@@ -80,11 +80,11 @@ On a local wallet, try restarting it, if that doesn't help, resync your chain.
 
 ## staking status
 
-Staking status should be true, when staking=1 in your bulwark.conf, and when all other options are also true.
+Staking status should be true, when staking=1 in your cryptocrowd.conf, and when all other options are also true.
 
 If you find yourself in a situation where this is false while all other indicators are true, type the below:
 
-`cat ~/.bulwark/bulwark.conf`
+`cat ~/.cryptocrowd/cryptocrowd.conf`
 
 and confirm the output from this command includes "staking=1".
 

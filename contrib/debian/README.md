@@ -4,7 +4,7 @@ Debian
 This directory contains files used to package bulwarkd/bulwark-qt
 for Debian-based Linux systems. If you compile bulwarkd/bulwark-qt yourself, there are some useful files here.
 
-## bulwark: URI support ##
+## cryptocrowd: URI support ##
 
 
 bulwark-qt.desktop  (Gnome / Open Desktop)

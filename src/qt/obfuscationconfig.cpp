@@ -38,7 +38,7 @@ void ObfuscationConfig::clickBasic() {
                           model->getOptionsModel()->getDisplayUnit(), 1000 * COIN));
     QMessageBox::information(this, tr("Obfuscation Configuration"),
                              tr(
-                                 "Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bulwark's configuration screen.")
+                                 "Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.")
                              .arg(strAmount));
 
     close();
@@ -51,7 +51,7 @@ void ObfuscationConfig::clickHigh() {
                           model->getOptionsModel()->getDisplayUnit(), 1000 * COIN));
     QMessageBox::information(this, tr("Obfuscation Configuration"),
                              tr(
-                                 "Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bulwark's configuration screen.")
+                                 "Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.")
                              .arg(strAmount));
 
     close();
@@ -64,7 +64,7 @@ void ObfuscationConfig::clickMax() {
                           model->getOptionsModel()->getDisplayUnit(), 1000 * COIN));
     QMessageBox::information(this, tr("Obfuscation Configuration"),
                              tr(
-                                 "Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bulwark's configuration screen.")
+                                 "Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.")
                              .arg(strAmount));
 
     close();

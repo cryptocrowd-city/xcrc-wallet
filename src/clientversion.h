@@ -13,7 +13,7 @@
  * client versioning and copyright year
  */
 
-//! These need to be macros, as clientversion.cpp's and bulwark*-res.rc's voodoo requires it
+//! These need to be macros, as clientversion.cpp's and cryptocrowd*-res.rc's voodoo requires it
 #define CLIENT_VERSION_MAJOR 2
 #define CLIENT_VERSION_MINOR 2
 #define CLIENT_VERSION_REVISION 0
@@ -38,7 +38,7 @@
 #define DO_STRINGIZE(X) #X
 
 //! Copyright string used in Windows .rc files
-#define COPYRIGHT_STR "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin Core Developers, 2014-" STRINGIZE(COPYRIGHT_YEAR) " The Dash Core Developers, 2015-" STRINGIZE(COPYRIGHT_YEAR) " The Bulwark Core Developers"
+#define COPYRIGHT_STR "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin Core Developers, 2014-" STRINGIZE(COPYRIGHT_YEAR) " The Dash Core Developers, 2015-" STRINGIZE(COPYRIGHT_YEAR) " The CRyptoCrowd Core Developers"
 
 /**
  * bulwarkd-res.rc includes this file, but it cannot cope with real c++ code.

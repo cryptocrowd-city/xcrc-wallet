@@ -1,4 +1,4 @@
-Bulwark Core Documentation
+CRyptoCrowd Core Documentation
 =====================
 
 ### Tables of Contents
@@ -22,7 +22,7 @@ Bulwark Core Documentation
 
 Setup
 ---------------------
-[Bulwark Core](http://bulwarkcrypto.com.org/#downloads) is the original Bulwark client and it builds the backbone of the network. However, it downloads and stores the entire history of BWK transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[CRyptoCrowd Core](http://bulwarkcrypto.com.org/#downloads) is the original CRyptoCrowd client and it builds the backbone of the network. However, it downloads and stores the entire history of BWK transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
@@ -44,13 +44,13 @@ Drag Bulwark-Qt to your applications folder, and then run Bulwark-Qt.
 
 ### Need Help?
 
-* Ask for help on [Discord](https://discord.me/bulwarkcrypto) or on the [Bulwark Telegram](https://t.me/bulwarkcrypto).
+* Ask for help on [Discord](https://discord.me/bulwarkcrypto) or on the [CRyptoCrowd Telegram](https://t.me/bulwarkcrypto).
 * Join our [Reddit Community](https://www.reddit.com/r/BulwarkCoin/)
 * Tweet at [Bulwark-Crypto](https://twitter.com/BulwarkCoin)
 
 ### Ran into a Bug?
 
-* Submit an Issue on our [GitHub](https://github.com/bulwark-crypto/Bulwark/issues)
+* Submit an Issue on our [GitHub](https://github.com/bulwark-crypto/CRyptoCrowd/issues)
 
 Building
 ---------------------
@@ -64,7 +64,7 @@ The following are developer notes on how to build bwk on your native platform. T
 
 Development
 ---------------------
-The Bulwark repo's [root README](https://github.com/bulwark-crypto/Bulwark/blob/master/README.md) contains relevant information our parameters.
+The CRyptoCrowd repo's [root README](https://github.com/bulwark-crypto/CRyptoCrowd/blob/master/README.md) contains relevant information our parameters.
 
 - [Developer Notes](miscellaneous/Developer-Notes.md)
 - [Multiwallet Qt Development](bulwark-core/multiwallet-qt.md)
@@ -77,7 +77,7 @@ The Bulwark repo's [root README](https://github.com/bulwark-crypto/Bulwark/blob/
 
 - [Core Files](bulwark-core/Bulwark-Core-Files.md)
 - [Default Data Locations](bulwark-core/Default-Data-Locations.md)
-- [Running Bulwark](bulwark-core/Running-Bulwark.md)
+- [Running CRyptoCrowd](bulwark-core/Running-Bulwark.md)
 - [Init Commands](bulwark-core/bulwarkd-init.md)
 - [API Calls](bulwark-core/Bulwark-API-Calls.md)
 - [Bootstrap](bulwark-core/Bootstrap.md)

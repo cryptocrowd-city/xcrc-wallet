@@ -62,12 +62,12 @@
         <translation>Adresses de réception</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Voici vos adresses Bulwark pour envoyer des paiements.  Assurez-vous de toujours vérifier le montant et l'adresse de réception avant d'envoyer les jetons</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Voici vos adresses CRyptoCrowd pour envoyer des paiements.  Assurez-vous de toujours vérifier le montant et l'adresse de réception avant d'envoyer les jetons</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Voici vos adresses Bulwark pour les réceptions de vos paiments. Il est recommandé d'utiliser une nouvelle adresse de réception pour chaque transaction.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Voici vos adresses CRyptoCrowd pour les réceptions de vos paiments. Il est recommandé d'utiliser une nouvelle adresse de réception pour chaque transaction.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirmer le cryptage du portefeuille</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark va maintenant se fermer pour finir le processus de cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos Bulwarks d'un vol par un malware ayant infecté votre ordinateur. </translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd va maintenant se fermer pour finir le processus de cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos Bulwarks d'un vol par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Êtes-vous sûr de vouloir crypter votre portefeuille?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
-        <translation>Attention : si vous cryptez votre portefeuille et perdez votre phrase secrète, vous &lt;b&gt;PERDREZ TOUS VOS Bulwark&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>Attention : si vous cryptez votre portefeuille et perdez votre phrase secrète, vous &lt;b&gt;PERDREZ TOUS VOS CRyptoCrowd&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adresse :</translation>
     </message>
     <message>
-        <source>Enter a Bulwark Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Entrez une adresse Bulwark que vous voulez chiffrer en utilisant BIP 38. Entrez une phrase secrète dans le champ du milieu. Cliquez sur chiffrer pour calculer le chiffrage de la clé privée.</translation>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Entrez une adresse CRyptoCrowd que vous voulez chiffrer en utilisant BIP 38. Entrez une phrase secrète dans le champ du milieu. Cliquez sur chiffrer pour calculer le chiffrage de la clé privée.</translation>
     </message>
     <message>
-        <source>The Bulwark address to encrypt</source>
-        <translation>L'adresse Bulwark à chiffrer</translation>
+        <source>The CRyptoCrowd address to encrypt</source>
+        <translation>L'adresse CRyptoCrowd à chiffrer</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Bulwark address</source>
-        <translation>Chiffrer la clef privée pour cette adresse Bulwark</translation>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>Chiffrer la clef privée pour cette adresse CRyptoCrowd</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,16 +645,16 @@
         <translation>Onglets de la barre d'outils</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Envoyer des pièces à une adresse Bulwark</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Envoyer des pièces à une adresse CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>Requêtes de paiements (Génère des QR codes et des URIs Bulwark)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Requêtes de paiements (Génère des QR codes et des URIs CRyptoCrowd)</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Afficher les masternodes</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>A propos de Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>A propos de CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>Afficher les information concernant Bulwark Core</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>Afficher les information concernant CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>Modifier les options de configuration pour Bulwark</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>Modifier les options de configuration pour CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Signer les messages avec votre adresse Bulwark pour prouver qu'elles sont bien à vous.</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Signer les messages avec votre adresse CRyptoCrowd pour prouver qu'elles sont bien à vous.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse Bulwark spécifiée</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Vérifier les messages afin de s'assurer qu'ils sont signés avec l'adresse CRyptoCrowd spécifiée</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Ouvrir le fichier de configuration de Masternode</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
-        <translation>Ouvrir un Bulwark: URI ou requête de paiement</translation>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>Ouvrir un CRyptoCrowd: URI ou requête de paiement</translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Fenêtre de Explorateur de Bloc</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>Afficher les message d'aide de Bulwark Core pour avoir les options pour ligne de commande</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>Afficher les message d'aide de CRyptoCrowd Core pour avoir les options pour ligne de commande</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Core client</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bulwark network</source>
-        <translation><numerusform>connexion(s) active(s) au réseau Bulwark</numerusform><numerusform>connexion(s) active(s) au réseau Bulwark</numerusform></translation>
+        <source>%n active connection(s) to CRyptoCrowd network</source>
+        <translation><numerusform>connexion(s) active(s) au réseau CRyptoCrowd</numerusform><numerusform>connexion(s) active(s) au réseau CRyptoCrowd</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -876,8 +876,8 @@ Adresse : %4
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bulwark.conf).</source>
-        <translation>Toutes les transaction ne seront pas affichés. Pour voir toutes les transactions, vous devez régler txindex=1 dans le fichier de configuration (bulwark.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>Toutes les transaction ne seront pas affichés. Pour voir toutes les transactions, vous devez régler txindex=1 dans le fichier de configuration (cryptocrowd.conf).</translation>
     </message>
 </context>
 <context>
@@ -1165,8 +1165,8 @@ Adresse : %4
         <translation>Modifier l'adresse d'envoi</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bulwark address.</source>
-        <translation>L'adresse entrée "%1" n'est pas une adresse Bulwark valide</translation>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>L'adresse entrée "%1" n'est pas une adresse CRyptoCrowd valide</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1211,16 +1211,16 @@ Adresse : %4
         <translation>version</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>A propos de Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>A propos de CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1262,12 +1262,12 @@ Adresse : %4
         <translation>Bienvenu</translation>
     </message>
     <message>
-        <source>Welcome to Bulwark Core.</source>
-        <translation>Bienvenue à Bulwark Core</translation>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>Bienvenue à CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bulwark Core will store its data.</source>
-        <translation>Comme c'est la première fois que le programme est lancé, vous pouvez choisir où Bulwark Core va stocker ses données.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>Comme c'est la première fois que le programme est lancé, vous pouvez choisir où CRyptoCrowd Core va stocker ses données.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1278,8 +1278,8 @@ Adresse : %4
         <translation>Utiliser un répertoire spécifique de données </translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1416,12 +1416,12 @@ Adresse : %4
         <translation>Saisir l'adresse à laquelle envoyer</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bulwark addresses after it matures.
-To Add: enter percentage to give and Bulwark address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.
+To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>L'Envoi-multiple vous perment d'envoyer automatiquement jusqu'à 100% de vos récompenses Stake ou Masternode à une liste d'adresses Bulwark  après leur maturité.
-Pour ajouter: entrez le pourcentage à donner et l'adresse Bulwark à ajouter au vecteur d'Envoi-multiple.
+        <translation>L'Envoi-multiple vous perment d'envoyer automatiquement jusqu'à 100% de vos récompenses Stake ou Masternode à une liste d'adresses CRyptoCrowd  après leur maturité.
+Pour ajouter: entrez le pourcentage à donner et l'adresse CRyptoCrowd à ajouter au vecteur d'Envoi-multiple.
 Pour supprimer: Entrez l'adresse à effacer et appuyez sur Supprimer.
 L'Envoi-multiple ne sera activé que si vous avez cliqué sur Activer</translation>
     </message>
@@ -1640,8 +1640,8 @@ S'il vous plaît soyez patient après avoir cliqué sur l'importation.</translat
         <translation>Adresse / Montant:</translation>
     </message>
     <message>
-        <source>Add destinations to send Bulwark to</source>
-        <translation>Ajouter des destinations pour envoyer Bulwark</translation>
+        <source>Add destinations to send CRyptoCrowd to</source>
+        <translation>Ajouter des destinations pour envoyer CRyptoCrowd</translation>
     </message>
     <message>
         <source>Add Destination</source>
@@ -1727,48 +1727,48 @@ S'il vous plaît soyez patient après avoir cliqué sur l'importation.</translat
         <translation>Veuillez sélectionner un niveau de confidentialité.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>Utiliser 2 masternodes différentes pour mélanger les fonds jusqu'a 10000 Bulwark</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Utiliser 2 masternodes différentes pour mélanger les fonds jusqu'a 10000 CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>Utiliser 8 masternodes différentes pour mélanger les fonds jusqu'a 10000 Bulwark</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Utiliser 8 masternodes différentes pour mélanger les fonds jusqu'a 10000 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Utiliser 16 masternodes différents</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Cette option est la plus rapide, et coutera ~0.025 Bulwark pour anonymiser 10000 Bulwark</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Cette option est la plus rapide, et coutera ~0.025 CRyptoCrowd pour anonymiser 10000 CRyptoCrowd</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Cette option est moyennement rapide, et coutera 0.05 Bulwark pour anonymiser 10000 Bulwark</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Cette option est moyennement rapide, et coutera 0.05 CRyptoCrowd pour anonymiser 10000 CRyptoCrowd</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Il s'agit de l'option la plus lente est la plus sécurisé. Utiliser l'anonymat maximum coutera</translation>
     </message>
     <message>
-        <source>0.1 Bulwark per 10000 Bulwark you anonymize.</source>
-        <translation>0.1 Bulwark par 10000 Bulwark vous anonymisez.</translation>
+        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>
+        <translation>0.1 CRyptoCrowd par 10000 CRyptoCrowd vous anonymisez.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Configuration de l'Obfuscation</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>L'Obfuscation a été réglé avec succès à base (%1 et 2 tours). Vous pouvez changer ce paramètre à tout moment depuis l'écran de configuration Bulwark.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>L'Obfuscation a été réglé avec succès à base (%1 et 2 tours). Vous pouvez changer ce paramètre à tout moment depuis l'écran de configuration CRyptoCrowd.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>L'Obfuscation a été réglé avec succès à élevé (%1 et 8 tours). Vous pouvez changer ce paramètre à tout moment depuis l'écran de configuration Bulwark.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>L'Obfuscation a été réglé avec succès à élevé (%1 et 8 tours). Vous pouvez changer ce paramètre à tout moment depuis l'écran de configuration CRyptoCrowd.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>L'Obfuscation a été réglé avec succès à maximum (%1 et 16 tours). Vous pouvez changer ce paramètre à tout moment depuis l'écran de configuration Bulwark.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>L'Obfuscation a été réglé avec succès à maximum (%1 et 16 tours). Vous pouvez changer ce paramètre à tout moment depuis l'écran de configuration CRyptoCrowd.</translation>
     </message>
 </context>
 <context>
@@ -1821,8 +1821,8 @@ S'il vous plaît soyez patient après avoir cliqué sur l'importation.</translat
         <translation>SI vous désactivez la dépense de la monnaire non confirmée, la monnaie rendue sur une transaction &lt;br/&gt;ne peut pas être utilisée tant que celle-ci n'a pas reçue au moins une confirmation &lt;br/&gt;Ceci implique également la manière dont votre solde est calculé.</translation>
     </message>
     <message>
-        <source>Automatically open the Bulwark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquement le port du client Bulwark sur le routeur. Ceci fonctionne uniquement si votre routeur prend en charge UPnP et que celui-ci est activé.</translation>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquement le port du client CRyptoCrowd sur le routeur. Ceci fonctionne uniquement si votre routeur prend en charge UPnP et que celui-ci est activé.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1841,12 +1841,12 @@ S'il vous plaît soyez patient après avoir cliqué sur l'importation.</translat
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Bulwark after logging in to the system.</source>
-        <translation>Démarrez Bulwark automatiquement après vous être connecté au système.</translation>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
+        <translation>Démarrez CRyptoCrowd automatiquement après vous être connecté au système.</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
-        <translation>Démarrer Bulwark au démarrage système</translation>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>Démarrer CRyptoCrowd au démarrage système</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1873,8 +1873,8 @@ S'il vous plaît soyez patient après avoir cliqué sur l'importation.</translat
         <translation>Réseau</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bulwark.</source>
-        <translation>La langue de l'interface utilisateur peut être définie ici. Ce paramètre prendra effet après le redémarrage de Bulwark.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
+        <translation>La langue de l'interface utilisateur peut être définie ici. Ce paramètre prendra effet après le redémarrage de CRyptoCrowd.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1887,16 +1887,16 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Répertorier les port utilisant UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of Bulwark units to zBWK</source>
-        <translation>Activé l'auto-monnayage de Bulwark unités en zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
+        <translation>Activé l'auto-monnayage de CRyptoCrowd unités en zBWK</translation>
     </message>
     <message>
         <source>Enable zBWK Automint</source>
         <translation>Activé zBWK Auto-monnayage</translation>
     </message>
     <message>
-        <source>Percentage of incoming Bulwark which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Pourcentage des Bulwark entrants qui seront automatiquement convertis en zBWK via le protocole Zerocoin (min. 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
+        <translation>Pourcentage des CRyptoCrowd entrants qui seront automatiquement convertis en zBWK via le protocole Zerocoin (min. 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBWK</source>
@@ -1911,8 +1911,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Seuil de partage du Stake</translation>
     </message>
     <message>
-        <source>Connect to the Bulwark network through a SOCKS5 proxy.</source>
-        <translation>Se connetcer au réseau Bulwark via un proxy SOCKS5.</translation>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>Se connetcer au réseau CRyptoCrowd via un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -2066,8 +2066,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Solde total, incluant les pièces indisponibles.</translation>
     </message>
     <message>
-        <source>Bulwark Balance</source>
-        <translation>Solde de Bulwark</translation>
+        <source>CRyptoCrowd Balance</source>
+        <translation>Solde de CRyptoCrowd</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2090,8 +2090,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Solde courant bloqué dans des adresses témoin</translation>
     </message>
     <message>
-        <source>Your current Bulwark balance, unconfirmed and immature transactions included</source>
-        <translation>Votre solde Bulwark actuel, incluant les transactions non confirmées et immatures</translation>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
+        <translation>Votre solde CRyptoCrowd actuel, incluant les transactions non confirmées et immatures</translation>
     </message>
     <message>
         <source>zBWK Balance</source>
@@ -2110,8 +2110,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Immature: confirmé, mais moins de 1 monnayer de la même dénomination après sa frappe</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées pourraient être périmées. Votre portefeuille se synchronise automatiquement avec le réseau Bulwark après l'établissement d'une connexion, mais ce processus n'est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées pourraient être périmées. Votre portefeuille se synchronise automatiquement avec le réseau CRyptoCrowd après l'établissement d'une connexion, mais ce processus n'est pas encore terminé.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2154,8 +2154,8 @@ Immature: confirmé, mais moins de 1 monnayer de la même dénomination après s
         <translation>Dépensable:</translation>
     </message>
     <message>
-        <source>Locked Bulwark or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Bulwark Verrouillé ou Masternode collatéraux. Ceux-ci sont exclus de la monnayage zBWK.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
+        <translation>CRyptoCrowd Verrouillé ou Masternode collatéraux. Ceux-ci sont exclus de la monnayage zBWK.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2189,14 +2189,14 @@ Si Auto-monnayage est activé, ce pourcentage sera réglé autour du pourcentage
         <translation>Auto-monnayage est actuellement activé et mis à</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in bulwark.conf.</source>
-        <translation>Pour désactiver Auto-monnayage, ajoutez 'enablezeromint = 0' dans bulwark.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>
+        <translation>Pour désactiver Auto-monnayage, ajoutez 'enablezeromint = 0' dans cryptocrowd.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>
         <translation>Auto-monnayage est actuellement désactivé.
-Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1' dans le fichier bulwark.conf</translation>
+Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1' dans le fichier cryptocrowd.conf</translation>
     </message>
 </context>
 <context>
@@ -2222,12 +2222,12 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>Adresse de paiement invalide %1</translation>
     </message>
     <message>
-        <source>Cannot start Bulwark: click-to-pay handler</source>
-        <translation>Impossible de démarrer Bulwark: gestionnaire click-to-pay</translation>
+        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
+        <translation>Impossible de démarrer CRyptoCrowd: gestionnaire click-to-pay</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
-        <translation>L'URI ne peut pas être analysée! Cela peut être dû à une adresse Bulwark invalide ou à des paramètres URI incorrectes.</translation>
+        <translation>L'URI ne peut pas être analysée! Cela peut être dû à une adresse CRyptoCrowd invalide ou à des paramètres URI incorrectes.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2312,8 +2312,8 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
         <translation>Actions Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées pourraient être périmées. Votre portefeuille se synchronise automatiquement avec le réseau Bulwark après l'établissement d'une connexion, mais ce processus n'est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées pourraient être périmées. Votre portefeuille se synchronise automatiquement avec le réseau CRyptoCrowd après l'établissement d'une connexion, mais ce processus n'est pas encore terminé.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2377,7 +2377,7 @@ Pour activer Auto-monnayage, changez 'enablezeromint = 0' en 'enablezeromint = 1
     </message>
     <message>
         <source>Enter an amount of BWK to convert to zBWK</source>
-        <translation>Entrez un montant de Bulwark à convertir en zBWK</translation>
+        <translation>Entrez un montant de CRyptoCrowd à convertir en zBWK</translation>
     </message>
     <message>
         <source>zBWK Control</source>
@@ -2436,8 +2436,8 @@ Les zBWK sont matures lorsqu'elles ont plus de 20 confirmations ET plus de 2 mon
         <translation>Payer à :</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>L'adresse Bulwark à laquelle nevoyer le paiement. Créé un paiement à vous même lorsque ce champs est vide.</translation>
+        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>L'adresse CRyptoCrowd à laquelle nevoyer le paiement. Créé un paiement à vous même lorsque ce champs est vide.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2513,8 +2513,8 @@ Immature: confirmé, mais moins de 1 monnayer de la même dénomination après s
         <source>Show the current status of automatic zBWK minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to bulwark.conf
-- disable: add 'enablezeromint=0' to bulwark.conf
+- enable: add 'enablezeromint=1' to cryptocrowd.conf
+- disable: add 'enablezeromint=0' to cryptocrowd.conf
 
 To change the percentage (no restart required):
 - menu Settings-&gt;Options-&gt;Percentage of autominted zBWK
@@ -2523,8 +2523,8 @@ To change the percentage (no restart required):
         <translation>Afficher l'état actuel de monnayage automatique zBWK.
 
 Pour changer le statut (redémarrage requis):
-- enable: ajoute 'enablezeromint = 1' au fichier bulwark.conf
-- disable: ajoute 'enablezeromint = 0' au fichier bulwark.conf
+- enable: ajoute 'enablezeromint = 1' au fichier cryptocrowd.conf
+- disable: ajoute 'enablezeromint = 0' au fichier cryptocrowd.conf
 
 Pour changer le pourcentage (pas de redémarrage requis):
 - menu Paramètres-&gt; Options-&gt; Pourcentage de zBWK auto-monnayé
@@ -2861,7 +2861,7 @@ Maximum autorisé:</translation>
     </message>
     <message>
         <source>Invalid BWK address</source>
-        <translation>Adresse Bulwark incorrecte</translation>
+        <translation>Adresse CRyptoCrowd incorrecte</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2958,8 +2958,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Bulwark address (e.g. %1)</source>
-        <translation>Entrez uen adresse Bulwark (par ex. %1)</translation>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>Entrez uen adresse CRyptoCrowd (par ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3096,7 +3096,7 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Chaîne de bloc</translation>
     </message>
     <message>
-        <source>Open the Bulwark debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Ouvrir le fichier journal de déboguage depuis le répertoire de données courant. Cela peut prendre quelques minutes pour les fichier journaux volumineux.</translation>
     </message>
     <message>
@@ -3312,8 +3312,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Sortie:</translation>
     </message>
     <message>
-        <source>Welcome to the Bulwark RPC console.</source>
-        <translation>Bienvenue sur la console Bulwark RPC.</translation>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>Bienvenue sur la console CRyptoCrowd RPC.</translation>
     </message>
     <message>
         <source>Disconnect Node</source>
@@ -3439,16 +3439,16 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Un label Un optionnel à associer à la nouvelle adresse de réception.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>Un message optionnel à ajouter à la demande de paiement, lequel sera affiché lorsque la demande sera ouverte. Note: Le message ne sera pas renvoyé avec le paiement sur le réseaux Bulwark.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Un message optionnel à ajouter à la demande de paiement, lequel sera affiché lorsque la demande sera ouverte. Note: Le message ne sera pas renvoyé avec le paiement sur le réseaux CRyptoCrowd.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>RECEVOIR</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>Un message optionnel à ajouter à la demande de paiement, lequel sera affiché lorsque la demande sera ouverte. &lt;br /&gt; Note: Le message ne sera pas renvoyé avec le paiement sur le réseaux Bulwark.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Un message optionnel à ajouter à la demande de paiement, lequel sera affiché lorsque la demande sera ouverte. &lt;br /&gt; Note: Le message ne sera pas renvoyé avec le paiement sur le réseaux CRyptoCrowd.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3676,8 +3676,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Taille UTXO:</translation>
     </message>
     <message>
-        <source>0 Bulwark</source>
-        <translation>0 Bulwark</translation>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3728,8 +3728,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Pièces automatiquement sélectionnées</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bulwark transactions than the network can process.</source>
-        <translation>Payer les frais minimum est convenable tant qu'il y a moins de volume de transactions que d'espace dans les blocs. &lt;br /&gt; Mais sachez que cela peut aboutir à une transaction qui ne se confirmera jamais lorsqu'il y aura plus de transactions Bulwark que le réseau ne peut en traiter.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
+        <translation>Payer les frais minimum est convenable tant qu'il y a moins de volume de transactions que d'espace dans les blocs. &lt;br /&gt; Mais sachez que cela peut aboutir à une transaction qui ne se confirmera jamais lorsqu'il y aura plus de transactions CRyptoCrowd que le réseau ne peut en traiter.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3777,7 +3777,7 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
     </message>
     <message>
         <source>Anonymized BWK</source>
-        <translation>Bulwark anonymisé</translation>
+        <translation>CRyptoCrowd anonymisé</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3825,7 +3825,7 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
     </message>
     <message>
         <source>Warning: Invalid BWK address</source>
-        <translation>Attention: adresse Bulwark invalide</translation>
+        <translation>Attention: adresse CRyptoCrowd invalide</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3919,8 +3919,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Payer à :</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to</source>
-        <translation>L'adresse Bulwark à laquelle envoyer le paiement</translation>
+        <source>The CRyptoCrowd address to send the payment to</source>
+        <translation>L'adresse CRyptoCrowd à laquelle envoyer le paiement</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3981,8 +3981,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Signer le message</translation>
     </message>
     <message>
-        <source>The Bulwark address to sign the message with</source>
-        <translation>L'adresse Bulwark avec laquelle signer le message</translation>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>L'adresse CRyptoCrowd avec laquelle signer le message</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4009,16 +4009,16 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Copier la signature actuelle dans le presse-papier</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>Signer le message pour prouver que vous possédez cette adresse Bulwark</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>Signer le message pour prouver que vous possédez cette adresse CRyptoCrowd</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
-        <translation>L'adresse Bulwark avec laquelle le message a été signé</translation>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>L'adresse CRyptoCrowd avec laquelle le message a été signé</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
-        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse Bulwark renseignée</translation>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>Vérifiez le message afin de vous assurer qu'il a été signé avec l'adresse CRyptoCrowd renseignée</translation>
     </message>
     <message>
         <source>Sign Message</source>
@@ -4080,8 +4080,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     </context>
 <context>
@@ -4152,32 +4152,32 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Reçu via Obfuscation</translation>
     </message>
     <message>
-        <source>Bulwark Stake</source>
-        <translation>Bulwark Stake</translation>
+        <source>CRyptoCrowd Stake</source>
+        <translation>CRyptoCrowd Stake</translation>
     </message>
     <message>
         <source>zBWK Stake</source>
         <translation>zBWK Stake</translation>
     </message>
     <message>
-        <source>Converted Bulwark to zBWK</source>
-        <translation>Bulwark converti en zBWK</translation>
+        <source>Converted CRyptoCrowd to zBWK</source>
+        <translation>CRyptoCrowd converti en zBWK</translation>
     </message>
     <message>
         <source>Spent zBWK</source>
         <translation>zBWK dépensés</translation>
     </message>
     <message>
-        <source>Received Bulwark from zBWK</source>
-        <translation>Bulwark reçu depuis zBWK</translation>
+        <source>Received CRyptoCrowd from zBWK</source>
+        <translation>CRyptoCrowd reçu depuis zBWK</translation>
     </message>
     <message>
         <source>Minted Change as zBWK from zBWK Spend</source>
         <translation>Monnaie rendue à partir d'une dépense zBWK frappée comme zBWK </translation>
     </message>
     <message>
-        <source>Converted zBWK to Bulwark</source>
-        <translation>zBWK converti en Bulwark</translation>
+        <source>Converted zBWK to CRyptoCrowd</source>
+        <translation>zBWK converti en CRyptoCrowd</translation>
     </message>
     <message>
         <source>Anonymous (zBWK Transaction)</source>
@@ -4343,8 +4343,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Une erreur est survenue lors de la tentative de sauvegarde de l'historique de transaction vers %1.</translation>
     </message>
     <message>
-        <source>Received Bulwark from zBWK</source>
-        <translation>Bulwark reçu depuis zBWK</translation>
+        <source>Received CRyptoCrowd from zBWK</source>
+        <translation>CRyptoCrowd reçu depuis zBWK</translation>
     </message>
     <message>
         <source>Zerocoin Spend, Change in zBWK</source>
@@ -4405,8 +4405,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
 <context>
     <name>bulwark-core</name>
     <message>
-        <source>Enable or disable staking functionality for Bulwark inputs (0-1, default: %u)</source>
-        <translation>Active ou désactive la fonctionnalité de staking pour les entrées Bulwark (0-1, par défaut: %u)</translation>
+        <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
+        <translation>Active ou désactive la fonctionnalité de staking pour les entrées CRyptoCrowd (0-1, par défaut: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for zBWK inputs (0-1, default: %u)</source>
@@ -4461,8 +4461,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Erreur de chargement du fichier wallet.dat: Portefeuille corrompu</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bulwark Core</source>
-        <translation>Erreur de chargement du fichier wallet.dat: Le portefeuille nécessite une version plus récente du Bulwark core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>
+        <translation>Erreur de chargement du fichier wallet.dat: Le portefeuille nécessite une version plus récente du CRyptoCrowd core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5053,8 +5053,8 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
         <translation>Le portefeuille est vérouillé.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bulwark Core to complete</source>
-        <translation>Le portefeuille doit être réécrit: redémarrez Bulwark Core pour terminer</translation>
+        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>
+        <translation>Le portefeuille doit être réécrit: redémarrez CRyptoCrowd Core pour terminer</translation>
     </message>
     <message>
         <source>Wallet options:</source>

@@ -190,7 +190,7 @@
     </layout>
   </widget>
   <resources>
-    <include location="../bulwark.qrc"/>
+    <include location="../cryptocrowd.qrc"/>
   </resources>
   <connections>
     <connection>

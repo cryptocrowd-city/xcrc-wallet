@@ -38,7 +38,7 @@ bool BitcoinUnits::valid(int unit) {
 QString BitcoinUnits::id(int unit) {
     switch (unit) {
     case BWK:
-        return QString("bulwark");
+        return QString("cryptocrowd");
     case mBWK:
         return QString("mbulwark");
     case uBWK:

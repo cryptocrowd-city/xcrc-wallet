@@ -81,7 +81,7 @@ if BUILD_BITCOIN_UTILS
 endif
 
 .PHONY: FORCE
-# bulwark core #
+# cryptocrowd core #
 BITCOIN_CORE_H = \
   activemasternode.h \
   accumulators.h \

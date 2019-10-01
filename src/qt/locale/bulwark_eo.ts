@@ -62,11 +62,11 @@
         <translation>Ricevanta adresojn</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ĉi tiuj estas viaj Bulwark adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ĉi tiuj estas viaj CRyptoCrowd adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Ĉi tiuj estas vian adreson por ricevi pagojn. Ĝi rekomendas uzi novajn ricenvantan adreson por ĉiu nova transakcio.</translation>
     </message>
     <message>
@@ -176,15 +176,15 @@
         <translation>Konfirmi monerĉifrado</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn Bulwarks de esti ŝtelita per malware infektanta vian komputilon.</translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn Bulwarks de esti ŝtelita per malware infektanta vian komputilon.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Ĉu vi certas ke vi volas ĉifri vian monujon?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
         <translation>Averto: se vi ĉifras vian monujo kaj perdi vian pasfrazon, vi &lt;b&gt;PERDOS VIAN TUTAN MONON&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -254,11 +254,11 @@
         <translation>Adreso:</translation>
     </message>
     <message>
-        <source>Enter a Bulwark Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Eniri unu Bulwark adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Eniri unu CRyptoCrowd adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
     </message>
     <message>
-        <source>The Bulwark address to encrypt</source>
+        <source>The CRyptoCrowd address to encrypt</source>
         <translation>Adreson por ĉifri</translation>
     </message>
     <message>
@@ -290,8 +290,8 @@
         <translation>Kopiu la aktualan subskribo al la sistemo-poŝo</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Bulwark address</source>
-        <translation>Ĉifri la privata ŝlosilo por ĉi tiu Bulwark adreso</translation>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>Ĉifri la privata ŝlosilo por ĉi tiu CRyptoCrowd adreso</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,16 +645,16 @@
         <translation>Iloj langeto</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark kerno</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd kerno</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Sendu mono al Bulwark addreso</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Sendu mono al CRyptoCrowd addreso</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>Peto pagojn (generas QR kodojn kaj Bulwark: URIs)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Peto pagojn (generas QR kodojn kaj CRyptoCrowd: URIs)</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Foliumi mastro-nodo</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Pri Bulwark Kerno</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>Pri CRyptoCrowd Kerno</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>Montri informon pri Bulwark Kerno</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>Montri informon pri CRyptoCrowd Kerno</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>Modifi agordajn opciojn por Bulwark</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>Modifi agordajn opciojn por CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Subskribu mesaĝo per via Bulwark adreso por pruvi vi posedas ĝin</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Subskribu mesaĝo per via CRyptoCrowd adreso por pruvi vi posedas ĝin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita Bulwark adreso</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita CRyptoCrowd adreso</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Malfermi mastro-nodo agord-dosieron</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
-        <translation>Malfermi unu Bulwark: URI aŭ pago peto</translation>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>Malfermi unu CRyptoCrowd: URI aŭ pago peto</translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Bloko esplorilo fenestro</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>Montri la Bulwark Kore help-mesaĝo por havi liston de havebla Bulwark komandlinion opciojn</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>Montri la CRyptoCrowd Kore help-mesaĝo por havi liston de havebla CRyptoCrowd komandlinion opciojn</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Kerno kliento</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Kerno kliento</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bulwark network</source>
-        <translation><numerusform>%n aktiva ligo(j) al la Bulwark reto</numerusform><numerusform>%n aktiva ligo(j) al la Bulwark reto</numerusform></translation>
+        <source>%n active connection(s) to CRyptoCrowd network</source>
+        <translation><numerusform>%n aktiva ligo(j) al la CRyptoCrowd reto</numerusform><numerusform>%n aktiva ligo(j) al la CRyptoCrowd reto</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ Muktisendi: %1</translation>
         <translation>Tekstetikedo</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bulwark.conf).</source>
-        <translation>Ĉiuj transakcio ne estos montri. Peor vidi ĉiuj transakcio bezonas agordi txindekso=1 en la agordo dosiero (bulwark.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>Ĉiuj transakcio ne estos montri. Peor vidi ĉiuj transakcio bezonas agordi txindekso=1 en la agordo dosiero (cryptocrowd.conf).</translation>
     </message>
 </context>
 <context>
@@ -1177,8 +1177,8 @@ Muktisendi: %1</translation>
         <translation>Redaktu sendantan adreson</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bulwark address.</source>
-        <translation>La enirita "%1" adreso ne estas validan Bulwark adreson.</translation>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>La enirita "%1" adreso ne estas validan CRyptoCrowd adreson.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1223,16 +1223,16 @@ Muktisendi: %1</translation>
         <translation>versio</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark kerno</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd kerno</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Pri Bulwark Kerno</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>Pri CRyptoCrowd Kerno</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ Muktisendi: %1</translation>
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to Bulwark Core.</source>
-        <translation>Bonvenon al la Bulwark Kerno.</translation>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>Bonvenon al la CRyptoCrowd Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bulwark Core will store its data.</source>
-        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie Bulwark kernk storigis sian datumojn. </translation>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie CRyptoCrowd kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>Bulwark Core will download and store a copy of the Bulwark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bulwark kerno elŝutos kaj konservi kopion de la Bulwark blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd kerno elŝutos kaj konservi kopion de la CRyptoCrowd blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ Muktisendi: %1</translation>
         <translation>Uzi kutimon datumojn dosierujo:</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark kerno</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd kerno</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1561,8 +1561,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Adreso / Kvanto:</translation>
     </message>
     <message>
-        <source>Add destinations to send Bulwark to</source>
-        <translation>Aldonu destinoj por sendi Bulwark al</translation>
+        <source>Add destinations to send CRyptoCrowd to</source>
+        <translation>Aldonu destinoj por sendi CRyptoCrowd al</translation>
     </message>
     <message>
         <source>Add Destination</source>
@@ -1628,12 +1628,12 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Bonvolu elekti privata nivelo.</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Tion opcion estas la plej rapida kaji kostos ~0.025 Bulwark por anonimigi 10000 Bulwark</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Tion opcion estas la plej rapida kaji kostos ~0.025 CRyptoCrowd por anonimigi 10000 CRyptoCrowd</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Tion opcion estas moderebla rapide kaj kostos ĉirkaŭ 0.05 Bulwark por anonimigi 10000 Bulwark</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Tion opcion estas moderebla rapide kaj kostos ĉirkaŭ 0.05 CRyptoCrowd por anonimigi 10000 CRyptoCrowd</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1682,8 +1682,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Monujo</translation>
     </message>
     <message>
-        <source>Automatically open the Bulwark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aŭtomate malfermi Bulwark klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aŭtomate malfermi CRyptoCrowd klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1694,8 +1694,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Sperta</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
-        <translation>Komencu Bulwark en sistem-ensaluto</translation>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>Komencu CRyptoCrowd en sistem-ensaluto</translation>
     </message>
     <message>
         <source>Spend unconfirmed change</source>
@@ -1706,8 +1706,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Reto</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bulwark.</source>
-        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci Bulwark.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
+        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci CRyptoCrowd.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1716,8 +1716,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
 https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
     </message>
     <message>
-        <source>Connect to the Bulwark network through a SOCKS5 proxy.</source>
-        <translation>Konekti al la Bulwark reto per SOCKS5 prokurilo.</translation>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>Konekti al la CRyptoCrowd reto per SOCKS5 prokurilo.</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -1787,16 +1787,16 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Via aktuala elspezebla saldo</translation>
     </message>
     <message>
-        <source>Bulwark Balance</source>
-        <translation>Bulwark kvanto</translation>
+        <source>CRyptoCrowd Balance</source>
+        <translation>CRyptoCrowd kvanto</translation>
     </message>
     <message>
         <source>Immature:</source>
         <translation>Nematura:</translation>
     </message>
     <message>
-        <source>Your current Bulwark balance, unconfirmed and immature transactions included</source>
-        <translation>Via aktuala Bulwark totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
+        <translation>Via aktuala CRyptoCrowd totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
     </message>
     <message>
         <source>zBWK Balance</source>
@@ -1809,8 +1809,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mintita</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la Bulwark reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la CRyptoCrowd reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1862,8 +1862,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la Bulwark reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la CRyptoCrowd reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>0</source>
@@ -1875,7 +1875,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     <message>
         <source>0.000 000 00 BWK</source>
-        <translation>0.000 000 00 Bulwark</translation>
+        <translation>0.000 000 00 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1918,8 +1918,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Pagu Al:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Bulwark adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
+        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>CRyptoCrowd adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2005,7 +2005,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     <message>
         <source>Invalid BWK address</source>
-        <translation>Nevalida Bulwark adreso</translation>
+        <translation>Nevalida CRyptoCrowd adreso</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
@@ -2101,8 +2101,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Rekonstrui indekson</translation>
     </message>
     <message>
-        <source>Welcome to the Bulwark RPC console.</source>
-        <translation>Bonvenon al la Bulwark RPC konzolo.</translation>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>Bonvenon al la CRyptoCrowd RPC konzolo.</translation>
     </message>
     <message>
         <source>1 hour</source>
@@ -2297,8 +2297,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Se estas aktiva sed ŝanĝo-adreso estas malpleniĝa au nevalida, ŝanĝo sendos al nova generita adreson.</translation>
     </message>
     <message>
-        <source>0 Bulwark</source>
-        <translation>0 Bulwark</translation>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Open Coin Control...</source>
@@ -2346,7 +2346,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     <message>
         <source>Warning: Invalid BWK address</source>
-        <translation>Averto: nevalida Bulwark adreson</translation>
+        <translation>Averto: nevalida CRyptoCrowd adreson</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -2372,7 +2372,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Pagu Al:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to</source>
+        <source>The CRyptoCrowd address to send the payment to</source>
         <translation>BulwarkC adreso por sendi la pago al</translation>
     </message>
     <message>
@@ -2407,8 +2407,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bulwark Core is shutting down...</source>
-        <translation>Bulwark kerno fermanta...</translation>
+        <source>CRyptoCrowd Core is shutting down...</source>
+        <translation>CRyptoCrowd kerno fermanta...</translation>
     </message>
     </context>
 <context>
@@ -2461,8 +2461,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark kerno</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd kerno</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2473,8 +2473,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The Bulwark Core developers</source>
-        <translation>La Bulwark kerno programistoj</translation>
+        <source>The CRyptoCrowd Core developers</source>
+        <translation>La CRyptoCrowd kerno programistoj</translation>
     </message>
     </context>
 <context>

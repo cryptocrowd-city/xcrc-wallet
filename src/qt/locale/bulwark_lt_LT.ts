@@ -62,12 +62,12 @@
         <translation>Gavimo adresai</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai jūsų Bulwark adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai jūsų CRyptoCrowd adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai jūsų Bulwark adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai jūsų CRyptoCrowd adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Patvirtinkite piniginės užšifravimą.</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Dabar Bulwark išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų Bulwark nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>Dabar CRyptoCrowd išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų CRyptoCrowd nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Ar tikrai norite užšifruoti savo piniginę?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
-        <translation>Įspėjimas: jei užšifruosite savo piniginę ir prarasite slaptafrazę, jūs &lt;b&gt;PRARASITE VISUS SAVO Bulwark&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>Įspėjimas: jei užšifruosite savo piniginę ir prarasite slaptafrazę, jūs &lt;b&gt;PRARASITE VISUS SAVO CRyptoCrowd&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adresas:</translation>
     </message>
     <message>
-        <source>Enter a Bulwark Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Įveskite Bulwark adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Įveskite CRyptoCrowd adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
     </message>
     <message>
-        <source>The Bulwark address to encrypt</source>
-        <translation>Bulwark adresas, kurį norite užšifruoti</translation>
+        <source>The CRyptoCrowd address to encrypt</source>
+        <translation>CRyptoCrowd adresas, kurį norite užšifruoti</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Bulwark address</source>
-        <translation>Užšifruoti šio Bulwark adreso privatų raktą</translation>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>Užšifruoti šio CRyptoCrowd adreso privatų raktą</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -645,16 +645,16 @@
         <translation>Skirtukų įrankių juosta</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Siųsti monetas į Bulwark adresą</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Siųsti monetas į CRyptoCrowd adresą</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>Prašyti mokėjimų (sugeneruoja QR kodus ir Bulwark URI)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Prašyti mokėjimų (sugeneruoja QR kodus ir CRyptoCrowd URI)</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Naršyti masternod'us</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Apie Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>Apie CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>Rodyti informaciją apie Bulwark Core</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>Rodyti informaciją apie CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>Keisti Bulwark konfigūravimo parinktis</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>Keisti CRyptoCrowd konfigūravimo parinktis</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Pasirašykite pranešimus naudodami savo Bulwark adresus, kad įrodytumėte, kad juos turite</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Pasirašykite pranešimus naudodami savo CRyptoCrowd adresus, kad įrodytumėte, kad juos turite</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais Bulwark adresais</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais CRyptoCrowd adresais</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Atidaryti Masternod'o konfigūracijos failą</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
-        <translation>Atidaryti Bulwark: URI arba mokėjimo prašymą</translation>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>Atidaryti CRyptoCrowd: URI arba mokėjimo prašymą</translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blokų naršyklės langas</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>Rodyti Bulwark Core žinyną, kad gautumėte sąrašą su galimomis Bulwark komandinės eilutės parinktimis</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>Rodyti CRyptoCrowd Core žinyną, kad gautumėte sąrašą su galimomis CRyptoCrowd komandinės eilutės parinktimis</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Core piniginė</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core piniginė</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bulwark network</source>
-        <translation><numerusform>%n aktyvių prisijungimų Bulwark tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų Bulwark tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų Bulwark tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų Bulwark tinkle ()</numerusform></translation>
+        <source>%n active connection(s) to CRyptoCrowd network</source>
+        <translation><numerusform>%n aktyvių prisijungimų CRyptoCrowd tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų CRyptoCrowd tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų CRyptoCrowd tinkle ()</numerusform><numerusform>%n aktyvių prisijungimų CRyptoCrowd tinkle ()</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>Teksto etiketė</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bulwark.conf).</source>
-        <translation>Ne visi pavedimai bus rodomi. Norėdami peržiūrėti visus pavedimus, reikia nustatyti txindex = 1 konfigūracijos faile (bulwark.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>Ne visi pavedimai bus rodomi. Norėdami peržiūrėti visus pavedimus, reikia nustatyti txindex = 1 konfigūracijos faile (cryptocrowd.conf).</translation>
     </message>
 </context>
 <context>
@@ -1177,8 +1177,8 @@ MultiSend: %1</translation>
         <translation>Keisti siuntimo adresą</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bulwark address.</source>
-        <translation>Įvestas adresas "%1" nėra galiojantis Bulwark adresas.</translation>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>Įvestas adresas "%1" nėra galiojantis CRyptoCrowd adresas.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1223,16 +1223,16 @@ MultiSend: %1</translation>
         <translation>versija</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bitai)</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Apie Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>Apie CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1278,16 +1278,16 @@ MultiSend: %1</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Bulwark Core.</source>
-        <translation>Sveiki atvykę į Bulwark Core</translation>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>Sveiki atvykę į CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bulwark Core will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur Bulwark Core saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur CRyptoCrowd Core saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>Bulwark Core will download and store a copy of the Bulwark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bulwark Core atsisiųs ir saugos Bulwark blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd Core atsisiųs ir saugos CRyptoCrowd blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1298,8 +1298,8 @@ MultiSend: %1</translation>
         <translation>Naudoti pasirinktą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1440,12 +1440,12 @@ MultiSend: %1</translation>
         <translation>Įveskite adresą kuriam norite siųsti</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bulwark addresses after it matures.
-To Add: enter percentage to give and Bulwark address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.
+To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus Bulwark adresus.
-Norėdami pridėti: įveskite pateiktą procentą ir Bulwark adresą, kurį norite pridėti prie MultiSend sąrašo.
+        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus CRyptoCrowd adresus.
+Norėdami pridėti: įveskite pateiktą procentą ir CRyptoCrowd adresą, kurį norite pridėti prie MultiSend sąrašo.
 Norėdami ištrinti: įveskite adresą, kurį norite ištrinti, ir paspauskite ištrinti
 MultiSend nebus aktyvuotas, nebent paspausite "Įjungti"</translation>
     </message>
@@ -1651,8 +1651,8 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Adresas / Suma:</translation>
     </message>
     <message>
-        <source>Add destinations to send Bulwark to</source>
-        <translation>Pridėkite vietas, kurioms norite siųsti Bulwark</translation>
+        <source>Add destinations to send CRyptoCrowd to</source>
+        <translation>Pridėkite vietas, kurioms norite siųsti CRyptoCrowd</translation>
     </message>
     <message>
         <source>Add Destination</source>
@@ -1750,48 +1750,48 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Pasirinkite privatumo lygmenį.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>Naudokite 2 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 Bulwark</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Naudokite 2 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>Naudokite 8 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 Bulwark</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Naudokite 8 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Naudokite 16 atskirų masternod'ų</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Ši parinktis yra greičiausia ir kainuos apie ~0.025 Bulwark, kad anonimizuotų 10000 Bulwark</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Ši parinktis yra greičiausia ir kainuos apie ~0.025 CRyptoCrowd, kad anonimizuotų 10000 CRyptoCrowd</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Ši parinktis yra vidutiniškai greita ir kainuoja apie 0,05 Bulwark, kad anonimizuotų 10000 Bulwark</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Ši parinktis yra vidutiniškai greita ir kainuoja apie 0,05 CRyptoCrowd, kad anonimizuotų 10000 CRyptoCrowd</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Tai yra lėčiausias ir saugiausias variantas. Maksimalus anonimiškumas kainuos.</translation>
     </message>
     <message>
-        <source>0.1 Bulwark per 10000 Bulwark you anonymize.</source>
-        <translation>0.1 Bulwark kas 1000 Bulwark kuriuos anonimizuosite.</translation>
+        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>
+        <translation>0.1 CRyptoCrowd kas 1000 CRyptoCrowd kuriuos anonimizuosite.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Obfuscation Konfigūracija</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į paprastą (%1 ir 2 raundai). Bet kada galite tai pakeisti, atidarę Bulwark konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į paprastą (%1 ir 2 raundai). Bet kada galite tai pakeisti, atidarę CRyptoCrowd konfigūracijos ekraną.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į aukštą (%1 ir 8 raundai). Bet kada galite tai pakeisti, atidarę Bulwark konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į aukštą (%1 ir 8 raundai). Bet kada galite tai pakeisti, atidarę CRyptoCrowd konfigūracijos ekraną.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Obfuscation buvo sėkmingai nustatytas į maksimumą (%1 ir 16 raundai). Bet kada galite tai pakeisti, atidarę Bulwark konfigūracijos ekraną.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Obfuscation buvo sėkmingai nustatytas į maksimumą (%1 ir 16 raundai). Bet kada galite tai pakeisti, atidarę CRyptoCrowd konfigūracijos ekraną.</translation>
     </message>
 </context>
 <context>
@@ -1844,12 +1844,12 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Ekspertas</translation>
     </message>
     <message>
-        <source>Automatically start Bulwark after logging in to the system.</source>
-        <translation>Automatiškai paleisti Bulwark prisijungus prie sistemos.</translation>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
+        <translation>Automatiškai paleisti CRyptoCrowd prisijungus prie sistemos.</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
-        <translation>Paleisti Bulwark sistemai įsijungiant</translation>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>Paleisti CRyptoCrowd sistemai įsijungiant</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1876,8 +1876,8 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Tinklas</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bulwark.</source>
-        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "Bulwark".</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
+        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "CRyptoCrowd".</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1890,16 +1890,16 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Įrašyti prievadą naudojant UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of Bulwark units to zBWK</source>
-        <translation>Įgalinti automatinį konvertavimą iš Bulwark į zBWK</translation>
+        <source>Enable automatic minting of CRyptoCrowd units to zBWK</source>
+        <translation>Įgalinti automatinį konvertavimą iš CRyptoCrowd į zBWK</translation>
     </message>
     <message>
         <source>Enable zBWK Automint</source>
         <translation>Įgalinti zBWK Automatinį nukaldinima</translation>
     </message>
     <message>
-        <source>Percentage of incoming Bulwark which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procentas gauto Bulwark, kuris automatiškai bus konvertuotas į zBWK naudojant Zerocoin Protokolą (min: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procentas gauto CRyptoCrowd, kuris automatiškai bus konvertuotas į zBWK naudojant Zerocoin Protokolą (min: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBWK</source>
@@ -1910,8 +1910,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Pageidautinas zBWK Automatinio Nukaldinimo Nominalas</translation>
     </message>
     <message>
-        <source>Connect to the Bulwark network through a SOCKS5 proxy.</source>
-        <translation>Jungtis prie Bulwark tinklo naudojant SOCKS5 tarpinį serverį.</translation>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>Jungtis prie CRyptoCrowd tinklo naudojant SOCKS5 tarpinį serverį.</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -2029,8 +2029,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Bendras balansas, įskaitant visas nepasiekiamas monetas.</translation>
     </message>
     <message>
-        <source>Bulwark Balance</source>
-        <translation>Bulwark Balansas</translation>
+        <source>CRyptoCrowd Balance</source>
+        <translation>CRyptoCrowd Balansas</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2053,8 +2053,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Dabartinis bendras užrakintas balansas tik žiūrėjimo adresuose</translation>
     </message>
     <message>
-        <source>Your current Bulwark balance, unconfirmed and immature transactions included</source>
-        <translation>Jūsų dabartinis Bulwark balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
+        <translation>Jūsų dabartinis CRyptoCrowd balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
     </message>
     <message>
         <source>zBWK Balance</source>
@@ -2073,8 +2073,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo po to, kai buvo konvertuotas.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su Bulwark tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su CRyptoCrowd tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2117,8 +2117,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Prienamas išleidimui:</translation>
     </message>
     <message>
-        <source>Locked Bulwark or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Užrakinti Bulwark arba Masternode užstatai. Jie yra neįtraukti į zBWK kalimą.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
+        <translation>Užrakinti CRyptoCrowd arba Masternode užstatai. Jie yra neįtraukti į zBWK kalimą.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2141,8 +2141,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>AutoMint šiuo metu įgalintas ir nustatytas</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in bulwark.conf.</source>
-        <translation>Norėdami išjungti Automatinį Kalimą pridėkite 'enablezeromint=0' bulwark.conf faile.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>
+        <translation>Norėdami išjungti Automatinį Kalimą pridėkite 'enablezeromint=0' cryptocrowd.conf faile.</translation>
     </message>
     </context>
 <context>
@@ -2156,8 +2156,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Netinkamas mokėjimo adresas %1</translation>
     </message>
     <message>
-        <source>Cannot start Bulwark: click-to-pay handler</source>
-        <translation>Nepavyksta paleisti Bulwark: apdorojimo "spustelėjimo ir apmokėjimo" funkcijos klaida</translation>
+        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
+        <translation>Nepavyksta paleisti CRyptoCrowd: apdorojimo "spustelėjimo ir apmokėjimo" funkcijos klaida</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2210,8 +2210,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Zerocoin Veiksmai:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su Bulwark tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su CRyptoCrowd tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2605,7 +2605,7 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
     </message>
     <message>
         <source>Invalid BWK address</source>
-        <translation>Netinkamas Bulwark Adresas</translation>
+        <translation>Netinkamas CRyptoCrowd Adresas</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2651,8 +2651,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Bulwark address (e.g. %1)</source>
-        <translation>Įveskite Bulwark adresą (pvz. %1)</translation>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>Įveskite CRyptoCrowd adresą (pvz. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2829,8 +2829,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Iš:</translation>
     </message>
     <message>
-        <source>Welcome to the Bulwark RPC console.</source>
-        <translation>Sveiki atvykę į Bulwark RPC konsolę.</translation>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>Sveiki atvykę į CRyptoCrowd RPC konsolę.</translation>
     </message>
     <message>
         <source>never</source>
@@ -3001,8 +3001,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Pasirinktinio pakeitimo adresas</translation>
     </message>
     <message>
-        <source>0 Bulwark</source>
-        <translation>0 Bulwark</translation>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3158,8 +3158,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Bulwark address to sign the message with</source>
-        <translation>Bulwark adresas, kuriuo pasirašyti žinute</translation>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>CRyptoCrowd adresas, kuriuo pasirašyti žinute</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3182,16 +3182,16 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio Bulwark adreso savininkas</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio CRyptoCrowd adreso savininkas</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
-        <translation>Bulwark adresas, kurio buvo pasirašyta žinutė</translation>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>CRyptoCrowd adresas, kurio buvo pasirašyta žinutė</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
-        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu Bulwark adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu CRyptoCrowd adresu</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -3229,8 +3229,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     </context>
 <context>
@@ -3494,8 +3494,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Klaida kraunant wallet.dat: Piniginė yra sugadinta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bulwark Core</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės Bulwark Core versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės CRyptoCrowd Core versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3726,8 +3726,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos tos pačio nominal
         <translation>Piniginė užrakinta.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bulwark Core to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite Bulwark Core iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite CRyptoCrowd Core iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

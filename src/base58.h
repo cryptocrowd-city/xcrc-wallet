@@ -109,7 +109,7 @@ class CBase58Data {
     }
 };
 
-/** base58-encoded Bulwark addresses.
+/** base58-encoded CRyptoCrowd addresses.
  * Public-key-hash-addresses have version 0 (or 111 testnet).
  * The data vector contains RIPEMD160(SHA256(pubkey)), where pubkey is the serialized public key.
  * Script-hash-addresses have version 5 (or 196 testnet).

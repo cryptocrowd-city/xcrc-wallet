@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Bulwark"
-            VALUE "FileDescription",    "bulwarkd (OSS daemon/client for Bulwark)"
+            VALUE "CompanyName",        "CRyptoCrowd"
+            VALUE "FileDescription",    "bulwarkd (OSS daemon/client for CRyptoCrowd)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "bulwarkd"
             VALUE "LegalCopyright",     COPYRIGHT_STR

@@ -1,12 +1,12 @@
-![Bulwark Logo](https://bulwarkcrypto.com/wp-content/uploads/2018/10/Symbol-Color2.svg)
+![CRyptoCrowd Logo](https://bulwarkcrypto.com/wp-content/uploads/2018/10/Symbol-Color2.svg)
 
-Bulwark Cryptocurrency
+CRyptoCrowd Cryptocurrency
 &middot;
-[![GitHub license](https://img.shields.io/github/license/bulwark-crypto/Bulwark.svg)](https://github.com/bulwark-crypto/Bulwark/blob/master/COPYING) [![GitHub version](https://badge.fury.io/gh/bulwark-crypto%2FBulwark.svg)](https://badge.fury.io/gh/bulwark-crypto%2FBulwark) [![Discord](https://img.shields.io/discord/374271866308919296.svg)](https://discord.me/bulwarkcrypto)
+[![GitHub license](https://img.shields.io/github/license/bulwark-crypto/CRyptoCrowd.svg)](https://github.com/bulwark-crypto/CRyptoCrowd/blob/master/COPYING) [![GitHub version](https://badge.fury.io/gh/bulwark-crypto%2FBulwark.svg)](https://badge.fury.io/gh/bulwark-crypto%2FBulwark) [![Discord](https://img.shields.io/discord/374271866308919296.svg)](https://discord.me/bulwarkcrypto)
 =====
 
-Bulwark (BWK) is a privacy oriented digital currency with Masternodes implemented.
-Bulwark offers both SwiftTX and Obfuscation to enable speedy transactions with a Seesaw Staking / Masternode reward balancing mechanism to promote strong network security after the Proof of Work phase.
+CRyptoCrowd (BWK) is a privacy oriented digital currency with Masternodes implemented.
+CRyptoCrowd offers both SwiftTX and Obfuscation to enable speedy transactions with a Seesaw Staking / Masternode reward balancing mechanism to promote strong network security after the Proof of Work phase.
 
 __Note: The `master` branch may contain development that is in progress, it is recommended to use the latest tagged version or a binary release.__
 

@@ -1,4 +1,4 @@
-// Copyright (c) 2017-2019 The Bulwark Developers
+// Copyright (c) 2017-2019 The CRyptoCrowd Developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -65,8 +65,8 @@ ProposalDialog::ProposalDialog(Mode mode, QWidget* parent) : QDialog(parent, Qt:
     ui->blockEdit->setValidator(new QIntValidator(1, INT_MAX));
 
     ui->addressEdit->setFont(GUIUtil::bitcoinAddressFont());
-    ui->addressEdit->setPlaceholderText(tr("The Bulwark public address that will receive the funds"));
-    ui->addressEdit->setToolTip(tr("The Bulwark public address that will receive the funds"));
+    ui->addressEdit->setPlaceholderText(tr("The CRyptoCrowd public address that will receive the funds"));
+    ui->addressEdit->setToolTip(tr("The CRyptoCrowd public address that will receive the funds"));
 
     ui->amountEdit->setFont(GUIUtil::bitcoinAddressFont());
     ui->amountEdit->setPlaceholderText(tr("The amount to be paid per month or cycle"));
@@ -229,7 +229,7 @@ bool ProposalDialog::validateProposal() {
     if (nBlockEnd < pindexPrev->nHeight) strError = "Invalid ending block, starting block + (payment_cycle*payments) must be more than current height.";
 
     CBitcoinAddress address(ui->addressEdit->text().toStdString());
-    if (!address.IsValid()) strError = "Invalid Bulwark address";
+    if (!address.IsValid()) strError = "Invalid CRyptoCrowd address";
 
     if (!strError.empty()) {
         QMessageBox::critical(this, tr("Submit Proposal Error"), QString::fromStdString(strError));

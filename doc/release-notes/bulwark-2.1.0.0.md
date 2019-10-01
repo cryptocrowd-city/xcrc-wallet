@@ -1,8 +1,8 @@
-# Bulwark 2.1.0.0
+# CRyptoCrowd 2.1.0.0
 
 __Mandatory Update__
 
-Bulwark 2.1.0.0 is a mandatory update to address bugs and introduce enhancements that require a network protocol change.
+CRyptoCrowd 2.1.0.0 is a mandatory update to address bugs and introduce enhancements that require a network protocol change.
 
 ## Governance
 - Modified proposals on testnet to allow for a greater finalization period. 

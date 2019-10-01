@@ -118,12 +118,12 @@ class CMainParams : public CChainParams {
         pchMessageStart[3] = 0x17;
         vAlertPubKey = ParseHex("04579f18934b3ef39094a9999e45506a1935662d0cd4e504d07beb53b8a1bfd78d81bee47e65119318397809420d5320e3c7b2aaae58580db48c38a4e6d4f0f919");
         nDefaultPort = 52543;
-        bnProofOfWorkLimit = ~uint256(0) >> 20; // Bulwark starting difficulty is 1 / 2^12
+        bnProofOfWorkLimit = ~uint256(0) >> 20; // CRyptoCrowd starting difficulty is 1 / 2^12
         nMaxReorganizationDepth = 100;
         nMinerThreads = 0;
-        nTargetTimespan = 1 * 90; // Bulwark: 1.5 minutes
-        nTargetSpacingSlowLaunch = 5 * 90;  // Bulwark: 7.5 minutes (Slow launch - Block 300)
-        nTargetSpacing = 1 * 90; // Bulwark: 1.5min after block 300
+        nTargetTimespan = 1 * 90; // CRyptoCrowd: 1.5 minutes
+        nTargetSpacingSlowLaunch = 5 * 90;  // CRyptoCrowd: 7.5 minutes (Slow launch - Block 300)
+        nTargetSpacing = 1 * 90; // CRyptoCrowd: 1.5min after block 300
         nLastPOWBlock = 182700;
         nLastPOWBlockOld = 345600; // 1 year
         nLastSeeSawBlock = 200000; // last block for seesaw rewards
@@ -278,14 +278,14 @@ class CTestNetParams : public CMainParams {
         //vSeeds.push_back(CDNSSeedData("testnet02.mempool.pw", "testnet02.mempool.pw"));
         //vSeeds.push_back(CDNSSeedData("testnet03.mempool.pw", "testnet03.mempool.pw"));
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 65); // Testnet bulwark addresses start with 'T'
-        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 12);  // Testnet bulwark script addresses start with '5' or '6'
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 65); // Testnet cryptocrowd addresses start with 'T'
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 12);  // Testnet cryptocrowd script addresses start with '5' or '6'
         base58Prefixes[SECRET_KEY] = std::vector<unsigned char>(1, 239);     // Testnet private keys start with '9' or 'c' (Bitcoin defaults)
-        // Testnet bulwark BIP32 pubkeys start with 'DRKV'
+        // Testnet cryptocrowd BIP32 pubkeys start with 'DRKV'
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x3a)(0x80)(0x61)(0xa0).convert_to_container<std::vector<unsigned char> >();
-        // Testnet bulwark BIP32 prvkeys start with 'DRKP'
+        // Testnet cryptocrowd BIP32 prvkeys start with 'DRKP'
         base58Prefixes[EXT_SECRET_KEY] = boost::assign::list_of(0x3a)(0x80)(0x58)(0x37).convert_to_container<std::vector<unsigned char> >();
-        // Testnet bulwark BIP44 coin type is '1' (All coin's testnet default)
+        // Testnet cryptocrowd BIP44 coin type is '1' (All coin's testnet default)
         base58Prefixes[EXT_COIN_TYPE] = boost::assign::list_of(0x01)(0x00)(0x00)(0x80).convert_to_container<std::vector<unsigned char> >();
         convertSeed6(vFixedSeeds, pnSeed6_test, ARRAYLEN(pnSeed6_test));
 
@@ -328,8 +328,8 @@ class CRegTestParams : public CTestNetParams {
         pchMessageStart[2] = 0x7e;
         pchMessageStart[3] = 0xac;
         nMinerThreads = 1;
-        nTargetTimespan = 24 * 60 * 60; // Bulwark: 1 day
-        nTargetSpacing = 1 * 60;        // Bulwark: 1 minutes
+        nTargetTimespan = 24 * 60 * 60; // CRyptoCrowd: 1 day
+        nTargetSpacing = 1 * 60;        // CRyptoCrowd: 1 minutes
         bnProofOfWorkLimit = ~uint256(0) >> 1;
         genesis.nTime = 1454124731;
         genesis.nBits = 0x207fffff;

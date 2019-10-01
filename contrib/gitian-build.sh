@@ -17,7 +17,7 @@ osx=true
 SIGNER=
 VERSION=
 commit=false
-url=https://github.com/bulwark-crypto/bulwark
+url=https://github.com/bulwark-crypto/cryptocrowd
 proc=2
 mem=2000
 lxc=true
@@ -31,7 +31,7 @@ commitFiles=true
 read -d '' usage <<- EOF
 Usage: $scriptName [-c|u|v|b|s|B|o|h|j|m|] signer version
 
-Run this script from the directory containing the bulwark, gitian-builder, gitian.sigs, and bulwark-detached-sigs.
+Run this script from the directory containing the cryptocrowd, gitian-builder, gitian.sigs, and bulwark-detached-sigs.
 
 Arguments:
 signer          GPG signer to sign each build assert file
@@ -39,7 +39,7 @@ version		Version number, commit, or branch to build. If building a commit or bra
 
 Options:
 -c|--commit	Indicate that the version argument is for a commit or branch
--u|--url	Specify the URL of the repository. Default is https://github.com/bulwark-crypto/bulwark
+-u|--url	Specify the URL of the repository. Default is https://github.com/bulwark-crypto/cryptocrowd
 -v|--verify 	Verify the gitian build
 -b|--build	Do a gitian build
 -s|--sign	Make signed binaries for Windows and Mac OSX
@@ -252,7 +252,7 @@ then
 fi
 
 # Set up build
-pushd ./bulwark
+pushd ./cryptocrowd
 git fetch
 git checkout ${COMMIT}
 popd
@@ -271,7 +271,7 @@ then
 	mkdir -p inputs
 	wget -N -P inputs $osslPatchUrl
 	wget -N -P inputs $osslTarUrl
-	make -C ../bulwark/depends download SOURCES_PATH=`pwd`/cache/common
+	make -C ../cryptocrowd/depends download SOURCES_PATH=`pwd`/cache/common
 
 	# Linux
 	if [[ $linux = true ]]
@@ -279,8 +279,8 @@ then
             echo ""
 	    echo "Compiling ${VERSION} Linux"
 	    echo ""
-	    ./bin/gbuild -j ${proc} -m ${mem} --commit bulwark=${COMMIT} --url bulwark=${url} ../bulwark/contrib/gitian-descriptors/gitian-linux.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs/ ../bulwark/contrib/gitian-descriptors/gitian-linux.yml
+	    ./bin/gbuild -j ${proc} -m ${mem} --commit cryptocrowd=${COMMIT} --url cryptocrowd=${url} ../cryptocrowd/contrib/gitian-descriptors/gitian-linux.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-linux.yml
 	    mv build/out/bulwark-*.tar.gz build/out/src/bulwark-*.tar.gz ../bulwark-binaries/${VERSION}
 	fi
 	# Windows
@@ -289,8 +289,8 @@ then
 	    echo ""
 	    echo "Compiling ${VERSION} Windows"
 	    echo ""
-	    ./bin/gbuild -j ${proc} -m ${mem} --commit bulwark=${COMMIT} --url bulwark=${url} ../bulwark/contrib/gitian-descriptors/gitian-win.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs/ ../bulwark/contrib/gitian-descriptors/gitian-win.yml
+	    ./bin/gbuild -j ${proc} -m ${mem} --commit cryptocrowd=${COMMIT} --url cryptocrowd=${url} ../cryptocrowd/contrib/gitian-descriptors/gitian-win.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-win.yml
 	    mv build/out/bulwark-*-win-unsigned.tar.gz inputs/bulwark-win-unsigned.tar.gz
 	    mv build/out/bulwark-*.zip build/out/bulwark-*.exe ../bulwark-binaries/${VERSION}
 	fi
@@ -300,8 +300,8 @@ then
 	    echo ""
 	    echo "Compiling ${VERSION} Mac OSX"
 	    echo ""
-	    ./bin/gbuild -j ${proc} -m ${mem} --commit bulwark=${COMMIT} --url bulwark=${url} ../bulwark/contrib/gitian-descriptors/gitian-osx.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs/ ../bulwark/contrib/gitian-descriptors/gitian-osx.yml
+	    ./bin/gbuild -j ${proc} -m ${mem} --commit cryptocrowd=${COMMIT} --url cryptocrowd=${url} ../cryptocrowd/contrib/gitian-descriptors/gitian-osx.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-osx.yml
 	    mv build/out/bulwark-*-osx-unsigned.tar.gz inputs/bulwark-osx-unsigned.tar.gz
 	    mv build/out/bulwark-*.tar.gz build/out/bulwark-*.dmg ../bulwark-binaries/${VERSION}
 	fi
@@ -311,8 +311,8 @@ then
 	    echo ""
 	    echo "Compiling ${VERSION} AArch64"
 	    echo ""
-	    ./bin/gbuild -j ${proc} -m ${mem} --commit bulwark=${COMMIT} --url bulwark=${url} ../bulwark/contrib/gitian-descriptors/gitian-aarch64.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-aarch64 --destination ../gitian.sigs/ ../bulwark/contrib/gitian-descriptors/gitian-aarch64.yml
+	    ./bin/gbuild -j ${proc} -m ${mem} --commit cryptocrowd=${COMMIT} --url cryptocrowd=${url} ../cryptocrowd/contrib/gitian-descriptors/gitian-aarch64.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-aarch64 --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-aarch64.yml
 	    mv build/out/bulwark-*.tar.gz build/out/src/bulwark-*.tar.gz ../bulwark-binaries/${VERSION}
 	popd
 
@@ -340,32 +340,32 @@ then
 	echo ""
 	echo "Verifying v${VERSION} Linux"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-linux ../bulwark/contrib/gitian-descriptors/gitian-linux.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-linux ../cryptocrowd/contrib/gitian-descriptors/gitian-linux.yml
 	# Windows
 	echo ""
 	echo "Verifying v${VERSION} Windows"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-win-unsigned ../bulwark/contrib/gitian-descriptors/gitian-win.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-win-unsigned ../cryptocrowd/contrib/gitian-descriptors/gitian-win.yml
 	# Mac OSX
 	echo ""
 	echo "Verifying v${VERSION} Mac OSX"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-unsigned ../bulwark/contrib/gitian-descriptors/gitian-osx.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-unsigned ../cryptocrowd/contrib/gitian-descriptors/gitian-osx.yml
 	# AArch64
 	echo ""
 	echo "Verifying v${VERSION} AArch64"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-aarch64 ../bulwark/contrib/gitian-descriptors/gitian-aarch64.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-aarch64 ../cryptocrowd/contrib/gitian-descriptors/gitian-aarch64.yml
 	# Signed Windows
 	echo ""
 	echo "Verifying v${VERSION} Signed Windows"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../bulwark/contrib/gitian-descriptors/gitian-osx-signer.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../cryptocrowd/contrib/gitian-descriptors/gitian-osx-signer.yml
 	# Signed Mac OSX
 	echo ""
 	echo "Verifying v${VERSION} Signed Mac OSX"
 	echo ""
-	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../bulwark/contrib/gitian-descriptors/gitian-osx-signer.yml
+	./bin/gverify -v -d ../gitian.sigs/ -r ${VERSION}-osx-signed ../cryptocrowd/contrib/gitian-descriptors/gitian-osx-signer.yml
 	popd
 fi
 
@@ -380,8 +380,8 @@ then
 	    echo ""
 	    echo "Signing ${VERSION} Windows"
 	    echo ""
-	    ./bin/gbuild -i --commit signature=${COMMIT} ../bulwark/contrib/gitian-descriptors/gitian-win-signer.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs/ ../bulwark/contrib/gitian-descriptors/gitian-win-signer.yml
+	    ./bin/gbuild -i --commit signature=${COMMIT} ../cryptocrowd/contrib/gitian-descriptors/gitian-win-signer.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-win-signer.yml
 	    mv build/out/bulwark-*win64-setup.exe ../bulwark-binaries/${VERSION}
 	    mv build/out/bulwark-*win32-setup.exe ../bulwark-binaries/${VERSION}
 	fi
@@ -391,8 +391,8 @@ then
 	    echo ""
 	    echo "Signing ${VERSION} Mac OSX"
 	    echo ""
-	    ./bin/gbuild -i --commit signature=${COMMIT} ../bulwark/contrib/gitian-descriptors/gitian-osx-signer.yml
-	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs/ ../bulwark/contrib/gitian-descriptors/gitian-osx-signer.yml
+	    ./bin/gbuild -i --commit signature=${COMMIT} ../cryptocrowd/contrib/gitian-descriptors/gitian-osx-signer.yml
+	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-osx-signer.yml
 	    mv build/out/bulwark-osx-signed.dmg ../bulwark-binaries/${VERSION}/bulwark-${VERSION}-osx.dmg
 	fi
 	popd

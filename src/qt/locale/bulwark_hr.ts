@@ -62,12 +62,12 @@
         <translation>Adrese za primanje</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše Bulwark adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše CRyptoCrowd adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše Bulwark adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše CRyptoCrowd adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -172,15 +172,15 @@
         <translation>Potvrdite šifriranje novčanika</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše Bulwark od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše CRyptoCrowd od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
         <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite vašu zaporku, vi ćete1 IZGUBITI ĆE TE SAV VAŠ Bulwark1!</translation>
     </message>
     <message>
@@ -601,16 +601,16 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Pošaljite kovanice na Bulwark adresu</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Pošaljite kovanice na CRyptoCrowd adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>Zahtjev za plaćanja (generira QR kodove i Bulwark: URI)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Zahtjev za plaćanja (generira QR kodove i CRyptoCrowd: URI)</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -625,24 +625,24 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation> O Bulwark Coreu</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation> O CRyptoCrowd Coreu</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>Prikaz informacija o Bulwark Coreu</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>Prikaz informacija o CRyptoCrowd Coreu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>Izmijenite opcije konfiguracije za Bulwark</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>Izmijenite opcije konfiguracije za CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim Bulwark adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim CRyptoCrowd adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim Bulwark adresama</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim CRyptoCrowd adresama</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -653,8 +653,8 @@
         <translation>Šifriranje i dešifriranje privatnih ključeva pomoću zaporke</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Core klijent</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -751,15 +751,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1045,8 +1045,8 @@
         <translation>ne</translation>
     </message>
     <message>
-        <source>0 Bulwark</source>
-        <translation>0 Bulwark</translation>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
@@ -1111,15 +1111,15 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bulwark Core is shutting down...</source>
-        <translation>Bulwark Core se gasi...</translation>
+        <source>CRyptoCrowd Core is shutting down...</source>
+        <translation>CRyptoCrowd Core se gasi...</translation>
     </message>
     </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Bulwark address to sign the message with</source>
-        <translation>Bulwark adresa za potpisivanje poruke s</translation>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>CRyptoCrowd adresa za potpisivanje poruke s</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1142,16 +1142,16 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove Bulwark adrese</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove CRyptoCrowd adrese</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
-        <translation>Bulwark adresa s kojom je potpisana poruka</translation>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>CRyptoCrowd adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom Bulwark adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom CRyptoCrowd adresom</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1197,8 +1197,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark Core</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Version %1</source>

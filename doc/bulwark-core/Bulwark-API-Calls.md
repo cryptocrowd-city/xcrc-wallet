@@ -1,11 +1,11 @@
-# Bulwark API call list (as of version 2.0.0)
+# CRyptoCrowd API call list (as of version 2.0.0)
 
 Common operations
 -----------------
 
-### Listing my Bulwark addresses
+### Listing my CRyptoCrowd addresses
 
-Listing the Bulwark addresses in your wallet is easily done via
+Listing the CRyptoCrowd addresses in your wallet is easily done via
 *listreceivedbyaddress*. It normally lists only addresses which already
 have received transactions, however you can list all the addresses by
 setting the first argument to 0, and the second one to true.
@@ -63,7 +63,7 @@ inside [ and ].
 | `listbanned` |   | **version 3.1.0** List all banned IPs/Subnets. | N |
 | `ping` |   | Requests that a ping be sent to all other nodes, to measure ping time. | N |
 | `setban` |   [bantime] [absolute] | **version 3.1.0** Attempts add or remove a IP/Subnet from the banned list. | N |
-| Bulwark |
+| CRyptoCrowd |
 | `checkbudgets` |   | Initiates a buddget check cycle manually. | N |
 | `createmasternodekey` |   | Create a new masternode private key. | N |
 | `getbudgetinfo` | [proposal] | Show current masternode budgets with optional filter by proposal name. | N |

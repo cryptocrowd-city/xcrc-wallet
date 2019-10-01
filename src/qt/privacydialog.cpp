@@ -76,7 +76,7 @@ PrivacyDialog::PrivacyDialog(QWidget* parent) : QDialog(parent, Qt::WindowSystem
     ui->labelZsupplyText500->setText(tr("Denom. <b>500</b>:"));
     ui->labelZsupplyText1000->setText(tr("Denom. <b>1000</b>:"));
 
-    // Bulwark settings
+    // CRyptoCrowd settings
     QSettings settings;
     if (!settings.contains("nSecurityLevel")) {
         nSecurityLevel = 42;
@@ -150,7 +150,7 @@ void PrivacyDialog::on_pushButtonMintzBWK_clicked() {
         return;
 
     if (GetAdjustedTime() < GetSporkValue(SPORK_21_ENABLE_ZEROCOIN)) {
-        QMessageBox::information(this, tr("Mint Zerocoin"), tr("Zerocoin functionality is not enabled on the Bulwark network yet."), QMessageBox::Ok, QMessageBox::Ok);
+        QMessageBox::information(this, tr("Mint Zerocoin"), tr("Zerocoin functionality is not enabled on the CRyptoCrowd network yet."), QMessageBox::Ok, QMessageBox::Ok);
         return;
     }
 
@@ -235,7 +235,7 @@ void PrivacyDialog::on_pushButtonSpendzBWK_clicked() {
         return;
 
     if (GetAdjustedTime() < GetSporkValue(SPORK_21_ENABLE_ZEROCOIN)) {
-        QMessageBox::information(this, tr("Spend Zerocoin"), tr("Zerocoin functionality is not enabled on the Bulwark network yet."), QMessageBox::Ok, QMessageBox::Ok);
+        QMessageBox::information(this, tr("Spend Zerocoin"), tr("Zerocoin functionality is not enabled on the CRyptoCrowd network yet."), QMessageBox::Ok, QMessageBox::Ok);
         return;
     }
 
@@ -297,7 +297,7 @@ void PrivacyDialog::sendzBWK() {
         QMessageBox::information(this, tr("Spend Zerocoin"), tr("No 'Pay To' address provided, creating local payment"), QMessageBox::Ok, QMessageBox::Ok);
     } else {
         if (!address.IsValid()) {
-            QMessageBox::warning(this, tr("Spend Zerocoin"), tr("Invalid Bulwark Address"), QMessageBox::Ok, QMessageBox::Ok);
+            QMessageBox::warning(this, tr("Spend Zerocoin"), tr("Invalid CRyptoCrowd Address"), QMessageBox::Ok, QMessageBox::Ok);
             ui->payTo->setFocus();
             return;
         }

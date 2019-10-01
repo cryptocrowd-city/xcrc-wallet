@@ -62,12 +62,12 @@
         <translation>Адреса отримання</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Це ваші Bulwark-адреси для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Це ваші Bulwark адреси для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Це ваші CRyptoCrowd адреси для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Підтвердження шифрування гаманця</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark зараз закриється, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші Bulwark'и від крадіжки зловмисним програмним забезпеченням, що заражає ваш комп'ютер.</translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd зараз закриється, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші CRyptoCrowd'и від крадіжки зловмисним програмним забезпеченням, що заражає ваш комп'ютер.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Ви впевнені, що хочете зашифрувати Ваш гаманець?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
-        <translation>Попередження: Якщо після шифрування гаманця Ви &lt;b&gt;загубите кодове слово, то ви втратите всі Ваші Bulwark'и&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>Попередження: Якщо після шифрування гаманця Ви &lt;b&gt;загубите кодове слово, то ви втратите всі Ваші CRyptoCrowd'и&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>

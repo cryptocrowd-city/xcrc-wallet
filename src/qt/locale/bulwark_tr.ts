@@ -62,12 +62,12 @@
         <translation>Alıcı Adres</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödemeleri göndermek için olan Bulwark adreslerinizdir.Coinleri göndermeden önce her zaman gönderilen miktarı ve adresi kontrol edin</translation>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödemeleri göndermek için olan CRyptoCrowd adreslerinizdir.Coinleri göndermeden önce her zaman gönderilen miktarı ve adresi kontrol edin</translation>
     </message>
     <message>
-        <source>These are your Bulwark addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödemeleri almak için olan Bulwark adreslerinizdirHer işlem için yeni bir adres kullanmanız önerilir.</translation>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödemeleri almak için olan CRyptoCrowd adreslerinizdirHer işlem için yeni bir adres kullanmanız önerilir.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -176,15 +176,15 @@
         <translation>cüzdan şifrelemesini onayla</translation>
     </message>
     <message>
-        <source>Bulwark will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark şifreleme işlemini tamamlamak için şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Bulwark'lerinizi bilgisayarınıza bulaşan kötücül yazılımlar tarafından çalınmasına tamamen engelleyemediğini unutmayın</translation>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BWKS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd şifreleme işlemini tamamlamak için şimdi kapanacaktır. Cüzdanınızı şifrelemenin, CRyptoCrowd'lerinizi bilgisayarınıza bulaşan kötücül yazılımlar tarafından çalınmasına tamamen engelleyemediğini unutmayın</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Cüzdanınızı şifrelemek istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
         <translation>Dikkat! Eğer cüzdanınızı şifrelerseniz ve şifrenizi unutursanız &lt;b&gt;Tüm Pıvlerinizi kaybedersiniz&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -254,12 +254,12 @@
         <translation>adres</translation>
     </message>
     <message>
-        <source>Enter a Bulwark Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>BIP 38 ile şifrelemek isteğiniz Bulwark Adresini giriniz. Ortadaki kutucuğa bir parola giriniz. Şifrelenmiş özel anahtarı hesaplamak için şifrele tuşuna basınız. </translation>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>BIP 38 ile şifrelemek isteğiniz CRyptoCrowd Adresini giriniz. Ortadaki kutucuğa bir parola giriniz. Şifrelenmiş özel anahtarı hesaplamak için şifrele tuşuna basınız. </translation>
     </message>
     <message>
-        <source>The Bulwark address to encrypt</source>
-        <translation>Şifrelenecek Bulwark adresi</translation>
+        <source>The CRyptoCrowd address to encrypt</source>
+        <translation>Şifrelenecek CRyptoCrowd adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Geçerli imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Bulwark address</source>
-        <translation>Bu Bulwark adresinin özel anahtarını şifreleyin</translation>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>Bu CRyptoCrowd adresinin özel anahtarını şifreleyin</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -637,16 +637,16 @@
         <translation>Sekme tablosu</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark CORE</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd CORE</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Koinleri Bulwark adresine gönder</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Koinleri CRyptoCrowd adresine gönder</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>Ödeme talep etme (QR kodları ve Bulwark üretir: URI'ler)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Ödeme talep etme (QR kodları ve CRyptoCrowd üretir: URI'ler)</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -661,24 +661,24 @@
         <translation>Masternodları ara</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>Bulwark Core Hakkında</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core Hakkında</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
-        <translation>Bulwark Core hakkında bilgi göster</translation>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core hakkında bilgi göster</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>Bulwark için yapılandırma seçeneklerini değiştirin</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>CRyptoCrowd için yapılandırma seçeneklerini değiştirin</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Sahip olduğunuzu kanıtlamak için mesajlarınızı Bulwark adresleriyle imzalayın</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Sahip olduğunuzu kanıtlamak için mesajlarınızı CRyptoCrowd adresleriyle imzalayın</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>Belirtilen Bulwark adresleriyle imzalanmış olduklarından emin olmak için iletileri doğrulayın</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Belirtilen CRyptoCrowd adresleriyle imzalanmış olduklarından emin olmak için iletileri doğrulayın</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -709,8 +709,8 @@
         <translation>Açık Masternode yapılandırma dosyası</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
-        <translation>Bir Bulwark: URI veya ödeme isteği açın</translation>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>Bir CRyptoCrowd: URI veya ödeme isteği açın</translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -721,12 +721,12 @@
         <translation>Kaşif penceresini engelle</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>Olası Bulwark komut satırı seçeneklerine sahip bir liste almak için Bulwark Core yardım mesajını gösterin</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>Olası CRyptoCrowd komut satırı seçeneklerine sahip bir liste almak için CRyptoCrowd Core yardım mesajını gösterin</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Bulwark Core istemci</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core istemci</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -864,8 +864,8 @@ Adres: %4
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (bulwark.conf).</source>
-        <translation>Tüm işlemler gösterilmez. Tüm işlemleri görmek için yapılandırma dosyasında txindex = 1 ayarlamanız gerekir (bulwark.conf).
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>Tüm işlemler gösterilmez. Tüm işlemleri görmek için yapılandırma dosyasında txindex = 1 ayarlamanız gerekir (cryptocrowd.conf).
 </translation>
     </message>
 </context>
@@ -1154,8 +1154,8 @@ Adres: %4
         <translation>Gönderen adresini düzenle</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bulwark address.</source>
-        <translation>Girilen "%1" adresi geçerli bir Bulwark adresi değil.</translation>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>Girilen "%1" adresi geçerli bir CRyptoCrowd adresi değil.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1200,16 +1200,16 @@ Adres: %4
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark CORE</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd CORE</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
-        <translation>hakkında Bulwark Core</translation>
+        <source>About CRyptoCrowd Core</source>
+        <translation>hakkında CRyptoCrowd Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1255,16 +1255,16 @@ Adres: %4
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to Bulwark Core.</source>
-        <translation>Bulwark Core'a hoşgeldiniz.</translation>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>CRyptoCrowd Core'a hoşgeldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bulwark Core will store its data.</source>
-        <translation>Program ilk başlatıldığında Bulwark Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>Program ilk başlatıldığında CRyptoCrowd Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>Bulwark Core will download and store a copy of the Bulwark block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bulwark Core, Bulwark blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd Core, CRyptoCrowd blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1275,8 +1275,8 @@ Adres: %4
         <translation>Özel bir veri dizini kullanın:</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark CORE</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd CORE</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1417,12 +1417,12 @@ Adres: %4
         <translation>Gönderim adresi girin</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Bulwark addresses after it matures.
-To Add: enter percentage to give and Bulwark address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.
+To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend, olgunlaştıktan sonra diğer Bulwark adreslerinin bir listesine otomatik olarak kazancınızın 100% 'ünü veya grup yazınızı ödüllendirmenize olanak tanır.
-Eklemek için: Verilecek yüzdeyi ve MultiSend vektörüne eklemek için Bulwark adresi girin.
+        <translation>MultiSend, olgunlaştıktan sonra diğer CRyptoCrowd adreslerinin bir listesine otomatik olarak kazancınızın 100% 'ünü veya grup yazınızı ödüllendirmenize olanak tanır.
+Eklemek için: Verilecek yüzdeyi ve MultiSend vektörüne eklemek için CRyptoCrowd adresi girin.
 Silme: Silinecek adresi girin ve silmek için basın.
 MultiSend, Etkinleştir'i tıklamadığınız sürece etkinleştirilmeyecektir</translation>
     </message>
@@ -1644,8 +1644,8 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Address /miktar:</translation>
     </message>
     <message>
-        <source>Add destinations to send Bulwark to</source>
-        <translation>Bulwark göndermek için varış yerleri ekleyin</translation>
+        <source>Add destinations to send CRyptoCrowd to</source>
+        <translation>CRyptoCrowd göndermek için varış yerleri ekleyin</translation>
     </message>
     <message>
         <source>Add Destination</source>
@@ -1743,48 +1743,48 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Lütfen bir gizlilik düzeyi seçin.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>10000 Bulwark'e kadar fonları karıştırmak için 2 ayrı matternod kullanın</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>10000 CRyptoCrowd'e kadar fonları karıştırmak için 2 ayrı matternod kullanın</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 Bulwark</source>
-        <translation>10000 Bulwark'ye kadar olan fonları karıştırmak için 8 ayrı matternod kullanın</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>10000 CRyptoCrowd'ye kadar olan fonları karıştırmak için 8 ayrı matternod kullanın</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>16 ayrı matternod kullan</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Bu seçenek en hızlıdır ve 10000 Bulwark'yi anonimleştirmek için ~ 0.025 Bulwark'lik bir maliyeti olacaktır</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Bu seçenek en hızlıdır ve 10000 CRyptoCrowd'yi anonimleştirmek için ~ 0.025 CRyptoCrowd'lik bir maliyeti olacaktır</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 Bulwark to anonymize 10000 Bulwark</source>
-        <translation>Bu seçenek orta derecede hızlıdır ve 10000 Bulwark'yi anonimleştirmek için yaklaşık 0.05 Bulwark'e mal olur</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Bu seçenek orta derecede hızlıdır ve 10000 CRyptoCrowd'yi anonimleştirmek için yaklaşık 0.05 CRyptoCrowd'e mal olur</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Bu en yavaş ve en güvenli seçenektir. Maksimum anonimlik kullanmak maliyete gelecek</translation>
     </message>
     <message>
-        <source>0.1 Bulwark per 10000 Bulwark you anonymize.</source>
-        <translation>0.1 Bulwark her 10000 Bulwark anonimleştirmeye.</translation>
+        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>
+        <translation>0.1 CRyptoCrowd her 10000 CRyptoCrowd anonimleştirmeye.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Şaşırtma ayarlama</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Şaşırtma başarıyla temele ayarlandı. (%1 ve  2 turlar) Bunu istediğiniz zaman değiştirmek için Bulwark in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Şaşırtma başarıyla temele ayarlandı. (%1 ve  2 turlar) Bunu istediğiniz zaman değiştirmek için CRyptoCrowd in ayarlar ekranını açmanız yeterli</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Şaşırtma başarıyla Yüksek e ayarlandı. (%1 ve 8 turlar) Bunu istediğiniz zaman değiştirmek için Bulwark in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Şaşırtma başarıyla Yüksek e ayarlandı. (%1 ve 8 turlar) Bunu istediğiniz zaman değiştirmek için CRyptoCrowd in ayarlar ekranını açmanız yeterli</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Bulwark's configuration screen.</source>
-        <translation>Şaşırtma başarıyla maksimuma ayarlandı. (%1 ve 16 turlar) Bunu istediğiniz zaman değiştirmek için Bulwark in ayarlar ekranını açmanız yeterli</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Şaşırtma başarıyla maksimuma ayarlandı. (%1 ve 16 turlar) Bunu istediğiniz zaman değiştirmek için CRyptoCrowd in ayarlar ekranını açmanız yeterli</translation>
     </message>
 </context>
 <context>
@@ -1845,8 +1845,8 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Doğrulanmamış değişikliğin harcamasını devre dışı bırakırsanız, bir işlemdeki değişiklik&lt;br/&gt;Bu işlem en az bir onay alıncaya kadar kullanılamaz.&lt;br/&gt;Bu aynı zamanda bakiyenizin nasıl hesaplandığını etkiler.</translation>
     </message>
     <message>
-        <source>Automatically open the Bulwark client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticideki Bulwark istemci bağlantı noktasını otomatik olarak açın. Bu, yalnızca yönlendiriciniz UPnP'yi destekliyorsa ve etkinleştirilmişse çalışır.</translation>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticideki CRyptoCrowd istemci bağlantı noktasını otomatik olarak açın. Bu, yalnızca yönlendiriciniz UPnP'yi destekliyorsa ve etkinleştirilmişse çalışır.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1865,12 +1865,12 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>Uzman</translation>
     </message>
     <message>
-        <source>Automatically start Bulwark after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra otomatik olarak Bulwark'i başlatın.</translation>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra otomatik olarak CRyptoCrowd'i başlatın.</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
-        <translation> Sistem oturum açma işleminde Bulwark'i başlat</translation>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation> Sistem oturum açma işleminde CRyptoCrowd'i başlat</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1897,8 +1897,8 @@ Unutmayın, cüzdan, yeni adresi içeren işlemleri bulmak için blok zinciri ye
         <translation>ağ</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bulwark.</source>
-        <translation>Kullanıcı arabirimi dili burada ayarlanabilir. Bu ayar, Bulwark yeniden başlatıldıktan sonra geçerli olur.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
+        <translation>Kullanıcı arabirimi dili burada ayarlanabilir. Bu ayar, CRyptoCrowd yeniden başlatıldıktan sonra geçerli olur.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1915,24 +1915,24 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>zBWK Otomatik basımı etkinleştir</translation>
     </message>
     <message>
-        <source>Percentage of incoming Bulwark which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
-        <translation>Zerocoin Protokolü üzerinden otomatik olarak zBWK'ye dönüştürülen gelen Bulwark yüzdesi (dakika: 10%)</translation>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zBWK via Zerocoin Protocol (min: 10%)</source>
+        <translation>Zerocoin Protokolü üzerinden otomatik olarak zBWK'ye dönüştürülen gelen CRyptoCrowd yüzdesi (dakika: 10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zBWK</source>
         <translation>Otomatikleştirilmiş zBWK yüzdesi</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough Bulwark for this denomination is available</source>
-        <translation>Bu mezhebi için yeterli Bulwark bulunana kadar Zerocoin'e otomatik dönüşümle birlikte bekleyin</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
+        <translation>Bu mezhebi için yeterli CRyptoCrowd bulunana kadar Zerocoin'e otomatik dönüşümle birlikte bekleyin</translation>
     </message>
     <message>
         <source>Preferred Automint zBWK Denomination</source>
         <translation>Tercih edilen Automint zBWK Nominal değeri</translation>
     </message>
     <message>
-        <source>Connect to the Bulwark network through a SOCKS5 proxy.</source>
-        <translation>Bir SOCKS5 proxy vasıtasıyla Bulwark ağına bağlanın.</translation>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>Bir SOCKS5 proxy vasıtasıyla CRyptoCrowd ağına bağlanın.</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -2078,8 +2078,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Toplam Bakiye, mevcut olmayan tüm paralar dahil.</translation>
     </message>
     <message>
-        <source>Bulwark Balance</source>
-        <translation>Bulwark Bakiyesi</translation>
+        <source>CRyptoCrowd Balance</source>
+        <translation>CRyptoCrowd Bakiyesi</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2098,16 +2098,16 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Staklanmış veya masternod ödülleri henüz olgunlaşmamış</translation>
     </message>
     <message>
-        <source>Your current Bulwark balance, unconfirmed and immature transactions included</source>
-        <translation>Güncel Bulwark bakiyeniz, onaylanmamış ve olgunlaşmamış işlemler dahil</translation>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
+        <translation>Güncel CRyptoCrowd bakiyeniz, onaylanmamış ve olgunlaşmamış işlemler dahil</translation>
     </message>
     <message>
         <source>zBWK Balance</source>
         <translation>zBWK Bakiyesi</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak Bulwark şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak CRyptoCrowd şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2150,8 +2150,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>Harcanabilir:</translation>
     </message>
     <message>
-        <source>Locked Bulwark or Masternode collaterals. These are excluded from zBWK minting.</source>
-        <translation>Kilitli Bulwark veya Masternode teminatları. Bunlar zBWK matlaştırmadan çıkarılır.</translation>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zBWK minting.</source>
+        <translation>Kilitli CRyptoCrowd veya Masternode teminatları. Bunlar zBWK matlaştırmadan çıkarılır.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2186,14 +2186,14 @@ AutoMint etkinleştirilirse, bu yüzde, yapılandırılmış AutoMint yüzdesi e
         <translation>AutoMint şu anda etkinleştirilmiş ve</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in bulwark.conf.</source>
-        <translation>AutoMint kapatmak için ekle  'enablezeromint=0'  bulwark.conf. dosyasına</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>
+        <translation>AutoMint kapatmak için ekle  'enablezeromint=0'  cryptocrowd.conf. dosyasına</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>
         <translation>AutoMint şu anda aktif değil.
- AutoMint aktive etmek için  değiştir 'enablezeromint=0' yazan kısmı 'enablezeromint=1' şeklinde bulwark.conf dosyasında</translation>
+ AutoMint aktive etmek için  değiştir 'enablezeromint=0' yazan kısmı 'enablezeromint=1' şeklinde cryptocrowd.conf dosyasında</translation>
     </message>
 </context>
 <context>
@@ -2219,12 +2219,12 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.co
         <translation>Geçersiz ödeme adresi %1</translation>
     </message>
     <message>
-        <source>Cannot start Bulwark: click-to-pay handler</source>
-        <translation>Bulwark başlatılamıyor: tıkla ve ödeme işleyicisi</translation>
+        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
+        <translation>CRyptoCrowd başlatılamıyor: tıkla ve ödeme işleyicisi</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an Invalid BWK address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamaz! Bunun nedeni, geçersiz bir Bulwark adresi veya hatalı biçimlendirilmiş URI parametrelerinden kaynaklanabilir.</translation>
+        <translation>URI ayrıştırılamaz! Bunun nedeni, geçersiz bir CRyptoCrowd adresi veya hatalı biçimlendirilmiş URI parametrelerinden kaynaklanabilir.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2309,8 +2309,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.co
         <translation>Zerocoin Actions:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bulwark network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak Bulwark şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilgiler güncelliğini yitirmiş olabilir. Bir bağlantı kurulduktan sonra M-cüzdanınız otomatik olarak CRyptoCrowd şebekesiyle senkronize edilir, ancak bu işlem henüz tamamlanmadı.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2421,8 +2421,8 @@ zBWK, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mezhep
         <translation>şuna öde:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Ödemeyi göndermek için Bulwark adresi. Boş olduğunda kendinize yerel ödeme oluşturur.</translation>
+        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Ödemeyi göndermek için CRyptoCrowd adresi. Boş olduğunda kendinize yerel ödeme oluşturur.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2706,7 +2706,7 @@ Maksimum bırakılan: </translation>
     </message>
     <message>
         <source>Invalid BWK address</source>
-        <translation>Geçersiz Bulwark Adresi</translation>
+        <translation>Geçersiz CRyptoCrowd Adresi</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2790,8 +2790,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Miktar</translation>
     </message>
     <message>
-        <source>Enter a Bulwark address (e.g. %1)</source>
-        <translation>Gir bir Bulwark addres (e.g. %1)</translation>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>Gir bir CRyptoCrowd addres (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2928,8 +2928,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the Bulwark debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Geçerli veri dizininden Bulwark hata ayıklama günlük dosyasını açın. Bu, büyük günlük dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Geçerli veri dizininden CRyptoCrowd hata ayıklama günlük dosyasını açın. Bu, büyük günlük dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3112,8 +3112,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Dışa:</translation>
     </message>
     <message>
-        <source>Welcome to the Bulwark RPC console.</source>
-        <translation>Bulwark RPC konsola hoşgeldiniz</translation>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>CRyptoCrowd RPC konsola hoşgeldiniz</translation>
     </message>
     <message>
         <source>This will delete your local blockchain folders and the wallet will synchronize the complete Blockchain from scratch.&lt;br /&gt;&lt;br /&gt;</source>
@@ -3199,12 +3199,12 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Yeni alma adresi ile ilişkilendirilebilecek isteğe bağlı bir etiket.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>Talep açıldığında görüntülenecek ödeme isteğine eklemek için isteğe bağlı bir mesaj. Not: Mesaj, ödemenin Bulwark şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Talep açıldığında görüntülenecek ödeme isteğine eklemek için isteğe bağlı bir mesaj. Not: Mesaj, ödemenin CRyptoCrowd şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Bulwark network.</source>
-        <translation>Talep açıldığında görüntülenecek, ödeme isteğine eklemek için isteğe bağlı bir mesaj.&lt;br&gt;Not: Mesaj, ödemenin Bulwark şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Talep açıldığında görüntülenecek, ödeme isteğine eklemek için isteğe bağlı bir mesaj.&lt;br&gt;Not: Mesaj, ödemenin CRyptoCrowd şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3428,8 +3428,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>UTXO Boyutu:</translation>
     </message>
     <message>
-        <source>0 Bulwark</source>
-        <translation>0 Bulwark</translation>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3492,8 +3492,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Özel ücret 1000 uBulwark olarak ayarlanırsa ve işlem sadece 250 bayt ise, "kilobayt başına" ücret karşılığında yalnızca 250 uBulwark ücreti verilir,&lt;br /&gt;"toplam en az" ise 1000 uBulwark ödüyor. Bir kilobayttan daha büyük işlemler için kilobayt ödersiniz.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Bulwark transactions than the network can process.</source>
-        <translation>Yalnızca minimum ücreti ödemek, işlem hacmi bloklardaki alana göre daha az olduğu sürece iyidir.&lt;br /&gt;Ancak, bunun, Bulwark işlemleri için ağın işleyebileceğinden daha fazla talep olması durumunda, onaylama işleminde asla sonuçlanamayacağına dikkat edin.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
+        <translation>Yalnızca minimum ücreti ödemek, işlem hacmi bloklardaki alana göre daha az olduğu sürece iyidir.&lt;br /&gt;Ancak, bunun, CRyptoCrowd işlemleri için ağın işleyebileceğinden daha fazla talep olması durumunda, onaylama işleminde asla sonuçlanamayacağına dikkat edin.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3541,7 +3541,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
     </message>
     <message>
         <source>Anonymized BWK</source>
-        <translation>anonim edilmiş Bulwark</translation>
+        <translation>anonim edilmiş CRyptoCrowd</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3589,7 +3589,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
     </message>
     <message>
         <source>Warning: Invalid BWK address</source>
-        <translation>Uyarı: Geçersiz Bulwark adresi</translation>
+        <translation>Uyarı: Geçersiz CRyptoCrowd adresi</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3683,8 +3683,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>şuna öde:</translation>
     </message>
     <message>
-        <source>The Bulwark address to send the payment to</source>
-        <translation>Ödemeyi göndermek için Bulwark adresi</translation>
+        <source>The CRyptoCrowd address to send the payment to</source>
+        <translation>Ödemeyi göndermek için CRyptoCrowd adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3723,8 +3723,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Mesaj:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Bulwark: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bulwark network.</source>
-        <translation>Bulwark e eklenmiş olan bir mesaj: İşleminizle beraber saklanacak olan URI hatırlamanız için. Not: Bu mesaj Bulwark ağında yayınlanmayacak.</translation>
+        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>
+        <translation>CRyptoCrowd e eklenmiş olan bir mesaj: İşleminizle beraber saklanacak olan URI hatırlamanız için. Not: Bu mesaj CRyptoCrowd ağında yayınlanmayacak.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3750,8 +3750,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bulwark Core is shutting down...</source>
-        <translation>Bulwark Core kapanıyor ...</translation>
+        <source>CRyptoCrowd Core is shutting down...</source>
+        <translation>CRyptoCrowd Core kapanıyor ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3773,8 +3773,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Sahip olduğunuzu kanıtlamak için adreslerinizle mesaj imzalayabilirsiniz. Kimlik avı saldırıları sizi kimliğini onlara yazmaya kandırmaya çalışabilir, çünkü belirsiz bir şey imzalamamaya dikkat edin. Kabul ettiğiniz tamamen ayrıntılı ifadeleri yalnızca imzalayın.</translation>
     </message>
     <message>
-        <source>The Bulwark address to sign the message with</source>
-        <translation>Ile mesaj imzalamak için Bulwark adresi</translation>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>Ile mesaj imzalamak için CRyptoCrowd adresi</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3805,16 +3805,16 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Geçerli imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>Bu Bulwark adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>Bu CRyptoCrowd adresinin sahibi olduğunuzu kanıtlamak için mesajı imzala</translation>
     </message>
     <message>
-        <source>The Bulwark address the message was signed with</source>
-        <translation>Mesajın imzalandığı Bulwark adresi</translation>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>Mesajın imzalandığı CRyptoCrowd adresi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bulwark address</source>
-        <translation>Belirtilen Bulwark adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>Belirtilen CRyptoCrowd adresi ile imzalanmış olduğundan emin olmak için iletiyi doğrulayın</translation>
     </message>
     <message>
         <source>Sign Message</source>
@@ -3900,8 +3900,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Bulwark CORE</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd CORE</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3916,8 +3916,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The Bulwark Core developers</source>
-        <translation>The Bulwark Core developers</translation>
+        <source>The CRyptoCrowd Core developers</source>
+        <translation>The CRyptoCrowd Core developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4436,8 +4436,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Koinleri göder</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 Bulwark.</source>
-        <translation>SwiftX yüksek değerler göndermeyi desteklemiyor. İşlemler şu anda %1 Bulwark ile sınırlıdır.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>
+        <translation>SwiftX yüksek değerler göndermeyi desteklemiyor. İşlemler şu anda %1 CRyptoCrowd ile sınırlıdır.</translation>
     </message>
 </context>
 <context>
@@ -4513,8 +4513,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Hesaplanan akümülatör kontrol noktası, blok indeksiyle kaydedilen kontrol noktası değildir.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bulwark Core is probably already running.</source>
-        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. Bulwark Core muhtemelen zaten çalışıyor.</translation>
+        <source>Cannot obtain a lock on data directory %s. CRyptoCrowd Core is probably already running.</source>
+        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. CRyptoCrowd Core muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4566,11 +4566,11 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
     </message>
     <message>
         <source>Fees (in BWK/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Bundan daha küçük ücretler (Bulwark / Kb cinsinden), aktarma için sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
+        <translation>Bundan daha küçük ücretler (CRyptoCrowd / Kb cinsinden), aktarma için sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
         <source>Fees (in BWK/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Bundan daha küçük ücretler (Bulwark / Kb cinsinden), işlem yaratmada sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
+        <translation>Bundan daha küçük ücretler (CRyptoCrowd / Kb cinsinden), işlem yaratmada sıfır ücret olarak kabul edilir (varsayılan: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>

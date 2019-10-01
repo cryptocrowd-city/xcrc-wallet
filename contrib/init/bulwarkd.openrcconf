@@ -1,7 +1,7 @@
 # /etc/conf.d/bulwarkd: config file for /etc/init.d/bulwarkd
 
 # Config file location
-#BITCOIND_CONFIGFILE="/etc/bulwark/bulwark.conf"
+#BITCOIND_CONFIGFILE="/etc/cryptocrowd/cryptocrowd.conf"
 
 # What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
 #BITCOIND_PIDDIR="/var/run/bulwarkd"
@@ -13,8 +13,8 @@
 #BITCOIND_DATADIR="/var/lib/bulwarkd"
 
 # User and group to own bulwarkd process
-#BITCOIND_USER="bulwark"
-#BITCOIND_GROUP="bulwark"
+#BITCOIND_USER="cryptocrowd"
+#BITCOIND_GROUP="cryptocrowd"
 
 # Path to bulwarkd executable
 #BITCOIND_BIN="/usr/bin/bulwarkd"

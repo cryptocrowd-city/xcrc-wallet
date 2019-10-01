@@ -94,7 +94,7 @@ class CRPCCommand {
 };
 
 /**
- * Bulwark RPC command dispatcher.
+ * CRyptoCrowd RPC command dispatcher.
  */
 class CRPCTable {
   private:

@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Bulwark"
-            VALUE "FileDescription",    "Bulwark-cli (OSS RPC client for Bulwark)"
+            VALUE "CompanyName",        "CRyptoCrowd"
+            VALUE "FileDescription",    "Bulwark-cli (OSS RPC client for CRyptoCrowd)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "bulwark-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR

@@ -1,6 +1,6 @@
-# Running Bulwark
+# Running CRyptoCrowd
 
-There are two variations of the bulwark program available; one with a graphical user interface (usually referred to as just bulwark), and a 'headless' version (called [They are completely compatible with each other, and take the same command-line arguments, read the same configuration file, and read and write the same data files. You can run one copy of either bulwark or bulwarkd on your system at a time (if you accidentally try to launch another, the copy will let you know that bulwark or bulwarkd is already running and will exit).
+There are two variations of the cryptocrowd program available; one with a graphical user interface (usually referred to as just cryptocrowd), and a 'headless' version (called [They are completely compatible with each other, and take the same command-line arguments, read the same configuration file, and read and write the same data files. You can run one copy of either cryptocrowd or bulwarkd on your system at a time (if you accidentally try to launch another, the copy will let you know that cryptocrowd or bulwarkd is already running and will exit).
 
 
 # Linux Quickstart
@@ -15,7 +15,7 @@ To run with the standard GUI interface:
 
 # Command-line arguments
 
-These commands are accurate as of bulwark Core version '''v2.0.0'''.
+These commands are accurate as of cryptocrowd Core version '''v2.0.0'''.
 
 <table>
 <tbody><tr>
@@ -103,7 +103,7 @@ How many blocks to check at startup (default: 500, 0 = all)
 -conf=&lt;file&gt;
 </td>
 <td>
-Specify configuration file (default: bulwark.conf)
+Specify configuration file (default: cryptocrowd.conf)
 </td>
 </tr>
 <tr>
@@ -841,7 +841,7 @@ Enable publish raw transaction (locked via SwiftX) in &lt;address&gt;
 -debug=&lt;category&gt;
 </td>
 <td>
-Output debugging information (default: 0, supplying &lt;category&gt; is optional). If &lt;category&gt; is not supplied, output all debugging information.&lt;category&gt; can be: addrman, alert, bench, coindb, db, lock, rand, rpc, selectcoins, tor, mempool, net, proxy, bulwark, (obfuscation, swiftx, masternode, mnpayments, mnbudget, zero), qt.
+Output debugging information (default: 0, supplying &lt;category&gt; is optional). If &lt;category&gt; is not supplied, output all debugging information.&lt;category&gt; can be: addrman, alert, bench, coindb, db, lock, rand, rpc, selectcoins, tor, mempool, net, proxy, cryptocrowd, (obfuscation, swiftx, masternode, mnpayments, mnbudget, zero), qt.
 </td>
 </tr>
 <tr>
@@ -951,7 +951,7 @@ Use the test network
 -litemode=&lt;n&gt;
 </td>
 <td>
-Disable all Bulwark specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: 0)
+Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: 0)
 </td>
 </tr>
 <tr><td colspan="3">
@@ -1298,13 +1298,13 @@ Show splash screen on startup (default: 1)
 
 Many of the boolean options can also be set to off by specifying them with a "no" prefix: e.g. -nodnseed.
 
-# bulwark.conf Configuration File
+# cryptocrowd.conf Configuration File
 
 All command-line options (except for -conf) may be specified in a configuration file, and all configuration file options may also be specified on the command line. Command-line options override values set in the configuration file.
 
 The configuration file is a list of setting=value pairs, one per line, with optional comments starting with the '#' character.
 
-An empty configuration file is automatically created on first run. By default, bulwark (or bulwarkd) will look for a file named 'bulwark.conf' in the bulwark [directory]([data)], but both the data directory and the configuration file path may be changed using the -datadir and -conf command-line arguments.
+An empty configuration file is automatically created on first run. By default, cryptocrowd (or bulwarkd) will look for a file named 'cryptocrowd.conf' in the cryptocrowd [directory]([data)], but both the data directory and the configuration file path may be changed using the -datadir and -conf command-line arguments.
 
 <table>
 <tbody><tr>
@@ -1312,7 +1312,7 @@ An empty configuration file is automatically created on first run. By default, b
 Operating System
 </th>
 <th>
-Default Bulwark datadir
+Default CRyptoCrowd datadir
 </th>
 <th>
 Typical path to configuration file
@@ -1323,10 +1323,10 @@ Typical path to configuration file
 Windows
 </td>
 <td>
-%APPDATA%\Bulwark\
+%APPDATA%\CRyptoCrowd\
 </td>
 <td>
-C:\Users\username\AppData\Roaming\Bulwark\bulwark.conf
+C:\Users\username\AppData\Roaming\CRyptoCrowd\cryptocrowd.conf
 </td>
 </tr>
 <tr>
@@ -1334,10 +1334,10 @@ C:\Users\username\AppData\Roaming\Bulwark\bulwark.conf
 Linux
 </td>
 <td>
-$HOME/.bulwark/
+$HOME/.cryptocrowd/
 </td>
 <td>
-/home/username/.bulwark/bulwark.conf
+/home/username/.cryptocrowd/cryptocrowd.conf
 </td>
 </tr>
 <tr>
@@ -1345,19 +1345,19 @@ $HOME/.bulwark/
 Mac OSX
 </td>
 <td>
-$HOME/Library/Application Support/Bulwark/
+$HOME/Library/Application Support/CRyptoCrowd/
 </td>
 <td>
-/Users/username/Library/Application Support/Bulwark/bulwark.conf
+/Users/username/Library/Application Support/CRyptoCrowd/cryptocrowd.conf
 </td>
 </tr>
 </tbody></table>
 
-Note: if running bulwark in testnet mode, the sub-folder "testnet4" will be appended to the data directory automatically.
+Note: if running cryptocrowd in testnet mode, the sub-folder "testnet4" will be appended to the data directory automatically.
 
-# Sample bulwark.conf
+# Sample cryptocrowd.conf
 
-See [https://github.com/bulwark-crypto/bulwark/blob/master/contrib/debian/examples/bulwark.conf]() for an up-to-date sample.
+See [https://github.com/bulwark-crypto/cryptocrowd/blob/master/contrib/debian/examples/cryptocrowd.conf]() for an up-to-date sample.
 
 # Platforms
 
@@ -1366,14 +1366,14 @@ See [https://github.com/bulwark-crypto/bulwark/blob/master/contrib/debian/exampl
 ### Start automatically
 
 
-To configure the bulwark client to start automatically:
+To configure the cryptocrowd client to start automatically:
 
 You might use the configuration-file, or the GUI-Settings:
 
 Settings -> Options
 
 then mark the checkbox titled:
- [Start bulwark on system startup
+ [Start cryptocrowd on system startup
 
 
 

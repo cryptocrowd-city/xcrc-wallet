@@ -1,5 +1,5 @@
 # Linearize
-Construct a linear, no-fork, best version of the Bulwark blockchain. The scripts
+Construct a linear, no-fork, best version of the CRyptoCrowd blockchain. The scripts
 run using Python 3 but are compatible with Python 2.
 
 ## Prerequisites

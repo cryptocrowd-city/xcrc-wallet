@@ -144,8 +144,8 @@
         <translation>Czy na pewno chcesz zakodować portfel?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR Bulwark&lt;/b&gt;!</source>
-        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE Bulwark!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE CRyptoCrowd!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -509,16 +509,16 @@
         <translation>Pomoc</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Rdzeń Bulwark</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>Rdzeń CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Send coins to a Bulwark address</source>
-        <translation>Wyślij monety do adresu Bulwark</translation>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Wyślij monety do adresu CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and Bulwark: URIs)</source>
-        <translation>Zarządaj płatności (generuje kod QR i Bulwark:URI)</translation>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Zarządaj płatności (generuje kod QR i CRyptoCrowd:URI)</translation>
     </message>
     <message>
         <source>Masternodes</source>
@@ -529,24 +529,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>About Bulwark Core</source>
+        <source>About CRyptoCrowd Core</source>
         <translation>O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about Bulwark Core</source>
+        <source>Show information about CRyptoCrowd Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bulwark</source>
-        <translation>Modyfikuj opcje konfiguracji Bulwark</translation>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>Modyfikuj opcje konfiguracji CRyptoCrowd</translation>
     </message>
     <message>
-        <source>Sign messages with your Bulwark addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami Bulwark, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami CRyptoCrowd, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bulwark addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu Bulwark</translation>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu CRyptoCrowd</translation>
     </message>
     <message>
         <source>BIP38 tool</source>
@@ -573,8 +573,8 @@
         <translation>Otwórz Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a Bulwark: URI or payment request</source>
-        <translation>Otwórz Bulwark: URI i żądanie zapłaty</translation>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>Otwórz CRyptoCrowd: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -585,12 +585,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the Bulwark Core help message to get a list with possible Bulwark command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia Bulwark, aby dostać listę możliwych opcji Bulwark command-line</translation>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia CRyptoCrowd, aby dostać listę możliwych opcji CRyptoCrowd command-line</translation>
     </message>
     <message>
-        <source>Bulwark Core client</source>
-        <translation>Rdzeń Bulwark klient</translation>
+        <source>CRyptoCrowd Core client</source>
+        <translation>Rdzeń CRyptoCrowd klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -899,8 +899,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Rdzeń Bulwark</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>Rdzeń CRyptoCrowd</translation>
     </message>
     </context>
 <context>
@@ -914,8 +914,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Rdzeń Bulwark</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>Rdzeń CRyptoCrowd</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1190,12 +1190,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start Bulwark after logging in to the system.</source>
-        <translation>Automatycznie uruchom Bulwark po zalogowaniu do systemu</translation>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
+        <translation>Automatycznie uruchom CRyptoCrowd po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>Start Bulwark on system login</source>
-        <translation>Uruchom Bulwark podczas logowania do systemu</translation>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>Uruchom CRyptoCrowd podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1214,8 +1214,8 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bulwark.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Bulwark</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie CRyptoCrowd</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1224,8 +1224,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
 https://www.transifex.com/Bulwark-project/Bulwark-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the Bulwark network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią Bulwark poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią CRyptoCrowd poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy IP:</source>
@@ -1463,8 +1463,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations </transla
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a Bulwark address (e.g. %1)</source>
-        <translation>Wprowadź adres Bulwark (np. %1)</translation>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>Wprowadź adres CRyptoCrowd (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1894,8 +1894,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations </transla
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bulwark address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Bulwark jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres CRyptoCrowd jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear All</source>
@@ -1929,8 +1929,8 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations </transla
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bulwark Core</source>
-        <translation>Rdzeń Bulwark</translation>
+        <source>CRyptoCrowd Core</source>
+        <translation>Rdzeń CRyptoCrowd</translation>
     </message>
     </context>
 <context>
