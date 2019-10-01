@@ -63,7 +63,7 @@
     </message>
     <message>
         <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Це ваші Bulwark-адреси для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
+        <translation>Це ваші CRyptoCrowd-адреси для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
     </message>
     <message>
         <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
@@ -376,6 +376,6 @@
     <name>zXCRCControlDialog</name>
     </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     </context>
 </TS>

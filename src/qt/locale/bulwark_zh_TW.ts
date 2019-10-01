@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>選擇要匯出Bulwark幣的位址</translation>
+        <translation>選擇要匯出CRyptoCrowd幣的位址</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>選擇要接收Bulwark幣的位址</translation>
+        <translation>選擇要接收CRyptoCrowd幣的位址</translation>
     </message>
     <message>
         <source>Choose</source>
@@ -626,7 +626,7 @@
     </message>
     <message>
         <source>Open a CRyptoCrowd: URI or payment request</source>
-        <translation>打開Bulwark: 位址或付款請求 </translation>
+        <translation>打開CRyptoCrowd: 位址或付款請求 </translation>
     </message>
     <message>
         <source>Blockchain explorer</source>
@@ -960,6 +960,6 @@
     <name>zXCRCControlDialog</name>
     </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     </context>
 </TS>

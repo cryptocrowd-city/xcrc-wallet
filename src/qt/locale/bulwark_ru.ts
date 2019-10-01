@@ -63,11 +63,11 @@
     </message>
     <message>
         <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши Bulwark-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
+        <translation>Это ваши CRyptoCrowd-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
     </message>
     <message>
         <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши Bulwark-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
+        <translation>Это ваши CRyptoCrowd-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
     </message>
     <message>
         <source>Copy Address</source>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Этот маркер становится красным если получаемая адресатом сумма меньше, чем %1</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Может вариироваться +/- %1 uBulwark при вводе</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Может вариироваться +/- %1 uCRyptoCrowd при вводе</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1939,9 +1939,9 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>Отсутствует ваш язык или заметили незавершенный перевод? Вы можете помочь нам стать лучше:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -3805,11 +3805,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Если пользовательская плата установлена в 1000 uXCRCs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uXCRCs,&lt;br /&gt;а «по крайней мере» платит 1000 uBulwark. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
+        <translation>Если пользовательская плата установлена в 1000 uXCRCs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uXCRCs,&lt;br /&gt;а «по крайней мере» платит 1000 uCRyptoCrowd. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Если пользовательская плата установлена в 1000 uXCRCs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uXCRCs,&lt;br /&gt;а «по крайней мере» платит 1000 uBulwark. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
+        <translation>Если пользовательская плата установлена в 1000 uXCRCs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uXCRCs,&lt;br /&gt;а «по крайней мере» платит 1000 uCRyptoCrowd. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
@@ -4883,7 +4883,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = сохранить tx метаданные, например, владельца учетной записи и информацию о запросе платежа, 2 = удалить tx метаданные)</translation>

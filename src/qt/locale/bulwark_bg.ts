@@ -1126,8 +1126,8 @@ Address: %4
         <translation>Етикета става червен, когато получателя ще получи сума по-малка от %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Може да има разлика от +/- %1 uBulwark на вх.</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Може да има разлика от +/- %1 uCRyptoCrowd на вх.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1935,9 +1935,9 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>Липсващ език или непълен превод? Помогнете с преводите тук:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -3794,11 +3794,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uBulwark и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uBulwark входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uBulwark. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <translation>Ако собствената такса е настроена на 1000 uCRyptoCrowd и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uCRyptoCrowd входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uCRyptoCrowd. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uBulwark и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uBulwark входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uBulwark. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <translation>Ако собствената такса е настроена на 1000 uCRyptoCrowd и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uCRyptoCrowd входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uCRyptoCrowd. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
@@ -4872,7 +4872,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = пази мета данните от преводи, например собственик на акаунта и ифнормация за изисквани плащания, 2 = изхръвли мета данните от преводи)</translation>

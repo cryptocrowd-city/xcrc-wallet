@@ -2,7 +2,7 @@
 
 (updated for OpenBSD 6.3)
 
-This guide describes how to build Bulwarkd and command-line utilities on OpenBSD.
+This guide describes how to build CRyptoCrowdd and command-line utilities on OpenBSD.
 
 OpenBSD is most commonly used as a server OS, so this guide does not contain instructions for building the GUI.
 
@@ -16,7 +16,7 @@ pkg_add autoconf # (select highest version, e.g. 2.69)
 pkg_add automake # (select highest version, e.g. 1.15)
 pkg_add python # (select highest version, e.g. 3.6)
 
-git clone https://github.com/bulwark-coin/CRyptoCrowd.git
+git clone https://github.com/cryptocrowd-coin/CRyptoCrowd.git
 ```
 
 **Important**: From OpenBSD 6.2 onwards a C++11-supporting clang compiler is

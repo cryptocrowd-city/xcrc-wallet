@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Dit label wordt rood, als een ontvanger een hoeveelheid kleiner dan %1 ontvangt.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Kan +/-%1 uBulwark per invoer variëren.</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Kan +/-%1 uCRyptoCrowd per invoer variëren.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1939,9 +1939,9 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>Taal ontbreekt of vertaling onvolledig? Help om bij te dragen aan vertalingen:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -1949,7 +1949,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
     <message>
         <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
-        <translation>Schakel automatisch slaan van Bulwark-eenheden in op zXCRC</translation>
+        <translation>Schakel automatisch slaan van CRyptoCrowd-eenheden in op zXCRC</translation>
     </message>
     <message>
         <source>Enable zXCRC Automint</source>
@@ -2156,7 +2156,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
     <message>
         <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
-        <translation>Uw huidige Bulwark-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
+        <translation>Uw huidige CRyptoCrowd-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
     </message>
     <message>
         <source>zXCRC Balance</source>
@@ -3806,11 +3806,11 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uXCRCs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uBulwark's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uBulwark's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uXCRCs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCRyptoCrowd's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uCRyptoCrowd's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uXCRCs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uBulwark's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uBulwark's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uXCRCs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCRyptoCrowd's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uCRyptoCrowd's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
@@ -4884,7 +4884,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = houd tx meta data, bijvoorbeeld account eigenaar en betalingsverzoek informatie, 2 = drop tx meta data)</translation>
@@ -5543,7 +5543,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message>
         <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>
-        <translation>Indexeer de Bulwark- en zXCRC-geldvoorraadstatistieken opnieuw</translation>
+        <translation>Indexeer de CRyptoCrowd- en zXCRC-geldvoorraadstatistieken opnieuw</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>

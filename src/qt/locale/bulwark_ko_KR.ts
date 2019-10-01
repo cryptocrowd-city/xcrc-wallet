@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
-        <translation>Bulwark는 이제 암호화 프로세스를 마치기 위해 닫힐것입니다. 지갑을 암호화하더라도 맬웨어로 인한 Bulwarks 의 도난당하는 것을 완벽하게 보호 할 수는 없습니다.</translation>
+        <translation>CRyptoCrowd는 이제 암호화 프로세스를 마치기 위해 닫힐것입니다. 지갑을 암호화하더라도 맬웨어로 인한 CRyptoCrowds 의 도난당하는 것을 완벽하게 보호 할 수는 없습니다.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
-        <translation>경고: 지갑 암호화 후 암호를 분실하게 되면 &lt;b&gt;모든 Bulwark를 잃게 됩니다&lt;/b&gt;!</translation>
+        <translation>경고: 지갑 암호화 후 암호를 분실하게 되면 &lt;b&gt;모든 CRyptoCrowd를 잃게 됩니다&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -678,7 +678,7 @@
     </message>
     <message>
         <source>Modify configuration options for CRyptoCrowd</source>
-        <translation>Bulwark에 대한 구성 옵션 수정</translation>
+        <translation>CRyptoCrowd에 대한 구성 옵션 수정</translation>
     </message>
     <message>
         <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
@@ -1130,8 +1130,8 @@ Address: %4
         <translation>받는 사람이 %1 보다 작은 금액을 받으면 라벨이 빨간색으로 변경됩니다.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Can vary +/- %1 uBulwark per input.</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Can vary +/- %1 uCRyptoCrowd per input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1682,7 +1682,7 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Add destinations to send CRyptoCrowd to</source>
-        <translation>Bulwark를 보낼 목적지 추가</translation>
+        <translation>CRyptoCrowd를 보낼 목적지 추가</translation>
     </message>
     <message>
         <source>Add Destination</source>
@@ -1793,11 +1793,11 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
-        <translation>이 옵션은 가장 빠르게 전송되며 10000 CRyptoCrowd 익명화에 약 ~0.025 Bulwark의 비용이 들어갑니다.</translation>
+        <translation>이 옵션은 가장 빠르게 전송되며 10000 CRyptoCrowd 익명화에 약 ~0.025 CRyptoCrowd의 비용이 들어갑니다.</translation>
     </message>
     <message>
         <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
-        <translation>이 옵션은 중간 정도의 속도로 전송되며 10000 CRyptoCrowd 익명화에 약 0.05 Bulwark의 비용이 들어갑니다.</translation>
+        <translation>이 옵션은 중간 정도의 속도로 전송되며 10000 CRyptoCrowd 익명화에 약 0.05 CRyptoCrowd의 비용이 들어갑니다.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1813,15 +1813,15 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
-        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 2 rounds) Bulwark의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 2 rounds) CRyptoCrowd의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
-        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 8 rounds) Bulwark의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 8 rounds) CRyptoCrowd의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
-        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 16 rounds) Bulwark의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 16 rounds) CRyptoCrowd의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
     </message>
 </context>
 <context>
@@ -1903,7 +1903,7 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>Automatically start CRyptoCrowd after logging in to the system.</source>
-        <translation>시스템 로그인 후 Bulwark을 자동으로 시작합니다.</translation>
+        <translation>시스템 로그인 후 CRyptoCrowd을 자동으로 시작합니다.</translation>
     </message>
     <message>
         <source>Start CRyptoCrowd on system login</source>
@@ -1935,13 +1935,13 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
-        <translation>사용자 인터페이스 언어를 설정할 수 있습니다. 이 설정은 Bulwark을 다시 시작한 후에 적용됩니다.</translation>
+        <translation>사용자 인터페이스 언어를 설정할 수 있습니다. 이 설정은 CRyptoCrowd을 다시 시작한 후에 적용됩니다.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>지원 언어가 없거나 번역이 불완전한가요? 번역을 도와주세요 :
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -1949,7 +1949,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
     <message>
         <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
-        <translation>보상받은 Bulwark를 zXCRC로 자동변환 활성화</translation>
+        <translation>보상받은 CRyptoCrowd를 zXCRC로 자동변환 활성화</translation>
     </message>
     <message>
         <source>Enable zXCRC Automint</source>
@@ -1957,7 +1957,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
     <message>
         <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
-        <translation>Bulwark수신시 자동변환 zXCRC 비율 (최소값:10%)</translation>
+        <translation>CRyptoCrowd수신시 자동변환 zXCRC 비율 (최소값:10%)</translation>
     </message>
     <message>
         <source>Percentage of autominted zXCRC</source>
@@ -1965,7 +1965,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
     <message>
         <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
-        <translation>이 디노미네이션의 Bulwark가 충분해질 때까지 Zerocoin으로 자동전환은 보류됩니다.</translation>
+        <translation>이 디노미네이션의 CRyptoCrowd가 충분해질 때까지 Zerocoin으로 자동전환은 보류됩니다.</translation>
     </message>
     <message>
         <source>Preferred Automint zXCRC Denomination</source>
@@ -2261,7 +2261,7 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
         <source>AutoMint is currently disabled.
 To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>
         <translation>자동 저장 기능이 현재 사용 중지되었습니다 .
-자동 변환을 사용하려면 Bulwarkotx.conf에서 'enablezeromint = 0'에서 'enablezeromint = 1'로 변경하십시오.</translation>
+자동 변환을 사용하려면 CRyptoCrowdotx.conf에서 'enablezeromint = 0'에서 'enablezeromint = 1'로 변경하십시오.</translation>
     </message>
 </context>
 <context>
@@ -2288,7 +2288,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrow
     </message>
     <message>
         <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
-        <translation>Bulwark을 시작할 수 없습니다: 결제하기 위한 클릭 처리</translation>
+        <translation>CRyptoCrowd을 시작할 수 없습니다: 결제하기 위한 클릭 처리</translation>
     </message>
     <message>
         <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
@@ -2502,7 +2502,7 @@ zXCRC는 성명서가 20 개 이상 있고 명칭이 동일하지 않은 2 개 �
     </message>
     <message>
         <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Bulwark를 전송할 CRyptoCrowd 주소입니다. 비어있을 때 자신에게 지불할 주소를 생성합니다.</translation>
+        <translation>CRyptoCrowd를 전송할 CRyptoCrowd 주소입니다. 비어있을 때 자신에게 지불할 주소를 생성합니다.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4551,7 +4551,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Converted CRyptoCrowd to zXCRC</source>
-        <translation>Bulwark를 zXCRC로 변환</translation>
+        <translation>CRyptoCrowd를 zXCRC로 변환</translation>
     </message>
     <message>
         <source>Spent zXCRC</source>
@@ -4559,7 +4559,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Received CRyptoCrowd from zXCRC</source>
-        <translation>zXCRC를 Bulwark로 받음</translation>
+        <translation>zXCRC를 CRyptoCrowd로 받음</translation>
     </message>
     <message>
         <source>Minted Change as zXCRC from zXCRC Spend</source>
@@ -4567,7 +4567,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Converted zXCRC to CRyptoCrowd</source>
-        <translation>zXCRC를 Bulwark로 변환</translation>
+        <translation>zXCRC를 CRyptoCrowd로 변환</translation>
     </message>
     <message>
         <source>Anonymous (zXCRC Transaction)</source>
@@ -4786,7 +4786,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Received CRyptoCrowd from zXCRC</source>
-        <translation>zXCRC를 Bulwark로 받음</translation>
+        <translation>zXCRC를 CRyptoCrowd로 받음</translation>
     </message>
     <message>
         <source>Zerocoin Spend, Change in zXCRC</source>
@@ -4827,7 +4827,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>
-        <translation>SwiftTX는 아직 높은 값을 전송하는 것을 지원하지 않습니다. 트랜잭션은 현재 %1 Bulwark로 제한됩니다.</translation>
+        <translation>SwiftTX는 아직 높은 값을 전송하는 것을 지원하지 않습니다. 트랜잭션은 현재 %1 CRyptoCrowd로 제한됩니다.</translation>
     </message>
 </context>
 <context>
@@ -4885,7 +4885,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = tx 메타 데이터 유지 예 : 계정 소유자 및 지불 요청 정보, 2 = tx 메타 데이터 삭제)</translation>
@@ -5096,11 +5096,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
-        <translation>이 트랜잭션를 위해 난독화 표기가 안된 충분한 금액을 찾을 수 없습니다. 10000 Bulwark과 일치하지 않음.</translation>
+        <translation>이 트랜잭션를 위해 난독화 표기가 안된 충분한 금액을 찾을 수 없습니다. 10000 CRyptoCrowd과 일치하지 않음.</translation>
     </message>
     <message>
         <source>Unable to locate enough funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
-        <translation>트랜잭션에 대한 충분한 금액을 찾을 수 없습니다. 10000 Bulwark와 같지 않음</translation>
+        <translation>트랜잭션에 대한 충분한 금액을 찾을 수 없습니다. 10000 CRyptoCrowd와 같지 않음</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5584,7 +5584,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Bulwark의 모든 특정 기능들을 비활성화합니다(마스터노드, 난독화, SwiftTX, Budgeting) (0-1, 기본값: %u)</translation>
+        <translation>CRyptoCrowd의 모든 특정 기능들을 비활성화합니다(마스터노드, 난독화, SwiftTX, Budgeting) (0-1, 기본값: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>

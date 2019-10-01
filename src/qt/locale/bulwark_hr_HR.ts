@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite zaporku, 1 izgubit ćete sve Vaše Bulwarkove 1 !</translation>
+        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite zaporku, 1 izgubit ćete sve Vaše CRyptoCrowdove 1 !</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -734,7 +734,7 @@
     </message>
     <message>
         <source>CRyptoCrowd Core client</source>
-        <translation>BulwarkIX Core Klijent</translation>
+        <translation>CRyptoCrowdIX Core Klijent</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to CRyptoCrowd network</source>
@@ -1130,8 +1130,8 @@ Višestruko slanje: %1</translation>
         <translation>Ova oznaka postaje crvena ako neki primatelj prima iznos manji od %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Može varirati +/- %1 uBulwark po unosu.</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Može varirati +/- %1 uCRyptoCrowd po unosu.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1812,15 +1812,15 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na osnovne (%1 i 2 runde). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Bulwark-a.</translation>
+        <translation>Obfuscation je uspješno postavljen na osnovne (%1 i 2 runde). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju CRyptoCrowd-a.</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na visoku razinu (%1 i 8 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Bulwark-a</translation>
+        <translation>Obfuscation je uspješno postavljen na visoku razinu (%1 i 8 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju CRyptoCrowd-a</translation>
     </message>
     <message>
         <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
-        <translation>Obfuscation je uspješno postavljen na maksimalnu razinu (%1 i 16 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju Bulwark-a.</translation>
+        <translation>Obfuscation je uspješno postavljen na maksimalnu razinu (%1 i 16 krugova). To možete promijeniti u bilo kojem trenutku otvaranjem zaslona za konfiguraciju CRyptoCrowd-a.</translation>
     </message>
 </context>
 <context>
@@ -1934,13 +1934,13 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
-        <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja Bulwark-a.</translation>
+        <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja CRyptoCrowd-a.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>Jezik nedostaje ili prijevod nije potpun? Pomozite s prijevodima ovdje:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -3806,11 +3806,11 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ako je prilagođena naknada postavljena na 1000 uBulwark-ova, a transakcija je samo 250 bajta, tada "po kilobajtu" se plaća samo 250 uBulwark-a, dok se "barem" plaća 1000 uBulwark-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
+        <translation>Ako je prilagođena naknada postavljena na 1000 uCRyptoCrowd-ova, a transakcija je samo 250 bajta, tada "po kilobajtu" se plaća samo 250 uCRyptoCrowd-a, dok se "barem" plaća 1000 uCRyptoCrowd-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ako je prilagođena naknada postavljena na 1000 uBulwark, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 uBulwark-ova, a "ukupno barem" plaća 1000 uBulwark-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
+        <translation>Ako je prilagođena naknada postavljena na 1000 uCRyptoCrowd, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 uCRyptoCrowd-ova, a "ukupno barem" plaća 1000 uCRyptoCrowd-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
@@ -4885,7 +4885,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = zadržite metapodatke tx, npr. Vlasnika računa i podatke o zahtjevu za plaćanje, 2 = odbaci meta podataka tx)</translation>

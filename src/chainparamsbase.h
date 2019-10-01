@@ -9,7 +9,7 @@
 #include <vector>
 
 /**
- * CBaseChainParams defines the base parameters (shared between bulwark-cli and bulwarkd)
+ * CBaseChainParams defines the base parameters (shared between cryptocrowd-cli and cryptocrowdd)
  * of a given instance of the CRyptoCrowd system.
  */
 class CBaseChainParams {

@@ -7,11 +7,11 @@ seeders = [
     'xcrcseed3.cryptocrowd.city',
     'xcrcseed4.cryptocrowd.city',
     'xcrcseed5.cryptocrowd.city',
-    'xcrcseed1.bulwarkcrypto.site',
-    'xcrcseed2.bulwarkcrypto.site',
-    'xcrcseed3.bulwarkcrypto.site',
-    'xcrcseed4.bulwarkcrypto.site',
-    'xcrcseed5.bulwarkcrypto.site'
+    'xcrcseed1.cryptocrowdcrypto.site',
+    'xcrcseed2.cryptocrowdcrypto.site',
+    'xcrcseed3.cryptocrowdcrypto.site',
+    'xcrcseed4.cryptocrowdcrypto.site',
+    'xcrcseed5.cryptocrowdcrypto.site'
 ]
 
 for seeder in seeders:

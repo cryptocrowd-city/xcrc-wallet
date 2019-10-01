@@ -1,5 +1,5 @@
 [Protocol]
-exec=bulwark-qt '%u'
+exec=cryptocrowd-qt '%u'
 protocol=cryptocrowd
 input=none
 output=none

@@ -38,13 +38,13 @@ An example how to start the client if the Tor proxy is running on local host on
 port 9050 and only allows .onion nodes to connect:
 
 ```
-./bulwarkd -onion=127.0.0.1:9050 -onlynet=tor -listen=0 -addnode=FIXME_ADDRESS_TOR
+./cryptocrowdd -onion=127.0.0.1:9050 -onlynet=tor -listen=0 -addnode=FIXME_ADDRESS_TOR
 ```
 
 In a typical situation, this suffices to run behind a Tor proxy:
 
 ```
-./bulwarkd -proxy=127.0.0.1:9050
+./cryptocrowdd -proxy=127.0.0.1:9050
 ```
 
 ## Run a CRyptoCrowd hidden server
@@ -70,13 +70,13 @@ config file):
 ```
 
 The directory can be different of course, but (both) port numbers should be equal to
-your bulwarkd's P2P listen port (52541 by default).
+your cryptocrowdd's P2P listen port (52541 by default).
 
 ```
 -externalip=X   You can tell cryptocrowd about its publicly reachable address using
                 this option, and this can be a .onion address. Given the above
                 configuration, you can find your onion address in
-                /var/lib/tor/bulwark-service/hostname. Onion addresses are given
+                /var/lib/tor/cryptocrowd-service/hostname. Onion addresses are given
                 preference for your node to advertize itself with, for connections
                 coming from unroutable addresses (such as 127.0.0.1, where the
                 Tor proxy typically runs).
@@ -95,7 +95,7 @@ your bulwarkd's P2P listen port (52541 by default).
 In a typical situation, where you're only reachable via Tor, this should suffice:
 
 ```
-./bulwarkd -proxy=127.0.0.1:9050 -externalip=FIXME_ADDRESS_TOR -listen
+./cryptocrowdd -proxy=127.0.0.1:9050 -externalip=FIXME_ADDRESS_TOR -listen
 ```
 
 (obviously, replace the Onion address with your own). If you don't care too much
@@ -103,7 +103,7 @@ about hiding your node, and want to be reachable on IPv4 as well, additionally
 specify:
 
 ```
-./bulwarkd ... -discover
+./cryptocrowdd ... -discover
 ```
 
 and open port 51472 on your firewall (or use -upnp).
@@ -112,7 +112,7 @@ If you only want to use Tor to reach onion addresses, but not use it as a proxy
 for normal IPv4/IPv6 communication, use:
 
 ```
-./bulwarkd -onion=127.0.0.1:9050 -externalip=FIXME_ADDRESS_TOR -discover
+./cryptocrowdd -onion=127.0.0.1:9050 -externalip=FIXME_ADDRESS_TOR -discover
 ```
 
 ## List of known CRyptoCrowd Tor relays

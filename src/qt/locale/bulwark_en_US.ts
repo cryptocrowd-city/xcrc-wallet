@@ -1719,9 +1719,9 @@ Please check the address and try again.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -3884,7 +3884,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</translation>
@@ -4082,10 +4082,10 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
         <translation>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use Bulwarkd, or the -server option to Bulwark-qt, you must set an rpcpassword in the configuration file:
+        <source>To use CRyptoCrowdd, or the -server option to CRyptoCrowd-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Bulwarkrpc
+rpcuser=CRyptoCrowdrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -4093,10 +4093,10 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s "CRyptoCrowd Alert" admin@foo.com
 </source>
-        <translation>To use Bulwarkd, or the -server option to Bulwark-qt, you must set an rpcpassword in the configuration file:
+        <translation>To use CRyptoCrowdd, or the -server option to CRyptoCrowd-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Bulwarkrpc
+rpcuser=CRyptoCrowdrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.

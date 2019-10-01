@@ -1,17 +1,17 @@
 # Running CRyptoCrowd
 
-There are two variations of the cryptocrowd program available; one with a graphical user interface (usually referred to as just cryptocrowd), and a 'headless' version (called [They are completely compatible with each other, and take the same command-line arguments, read the same configuration file, and read and write the same data files. You can run one copy of either cryptocrowd or bulwarkd on your system at a time (if you accidentally try to launch another, the copy will let you know that cryptocrowd or bulwarkd is already running and will exit).
+There are two variations of the cryptocrowd program available; one with a graphical user interface (usually referred to as just cryptocrowd), and a 'headless' version (called [They are completely compatible with each other, and take the same command-line arguments, read the same configuration file, and read and write the same data files. You can run one copy of either cryptocrowd or cryptocrowdd on your system at a time (if you accidentally try to launch another, the copy will let you know that cryptocrowd or cryptocrowdd is already running and will exit).
 
 
 # Linux Quickstart
 
-The simplest way to start from scratch with the command line client, automatically syncing blockchain and creating a wallet, is to just run this command (without arguments) from the directory containing your bulwarkd binary:
+The simplest way to start from scratch with the command line client, automatically syncing blockchain and creating a wallet, is to just run this command (without arguments) from the directory containing your cryptocrowdd binary:
 
-  ./bulwarkd
+  ./cryptocrowdd
 
 To run with the standard GUI interface:
 
-  ./bulwark-qt
+  ./cryptocrowd-qt
 
 # Command-line arguments
 
@@ -180,7 +180,7 @@ Set the number of script verification threads (-8 to 16, 0 = auto, &lt;0 = leave
 -pid=&lt;file&gt;
 </td>
 <td>
-Specify pid file (default: bulwarkd.pid)
+Specify pid file (default: cryptocrowdd.pid)
 </td>
 </tr>
 <tr>
@@ -1304,7 +1304,7 @@ All command-line options (except for -conf) may be specified in a configuration 
 
 The configuration file is a list of setting=value pairs, one per line, with optional comments starting with the '#' character.
 
-An empty configuration file is automatically created on first run. By default, cryptocrowd (or bulwarkd) will look for a file named 'cryptocrowd.conf' in the cryptocrowd [directory]([data)], but both the data directory and the configuration file path may be changed using the -datadir and -conf command-line arguments.
+An empty configuration file is automatically created on first run. By default, cryptocrowd (or cryptocrowdd) will look for a file named 'cryptocrowd.conf' in the cryptocrowd [directory]([data)], but both the data directory and the configuration file path may be changed using the -datadir and -conf command-line arguments.
 
 <table>
 <tbody><tr>
@@ -1357,7 +1357,7 @@ Note: if running cryptocrowd in testnet mode, the sub-folder "testnet4" will be 
 
 # Sample cryptocrowd.conf
 
-See [https://github.com/bulwark-crypto/cryptocrowd/blob/master/contrib/debian/examples/cryptocrowd.conf]() for an up-to-date sample.
+See [https://github.com/cryptocrowd-crypto/cryptocrowd/blob/master/contrib/debian/examples/cryptocrowd.conf]() for an up-to-date sample.
 
 # Platforms
 
@@ -1380,4 +1380,4 @@ then mark the checkbox titled:
 ### Batch automation
 
 
-To work with batch, you have to start the daemon (bulwarkd.exe). The bulwarkd.exe run with option "-server" will respond with GUI-messages you are not able to process its answers.
+To work with batch, you have to start the daemon (cryptocrowdd.exe). The cryptocrowdd.exe run with option "-server" will respond with GUI-messages you are not able to process its answers.

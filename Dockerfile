@@ -111,12 +111,12 @@ RUN ./autogen.sh \
   --build=x86_64-unknown-linux-gnu \
   --host=arm-linux-gnueabihf \
   && make \
-  && cp ./src/bulwark-cli ./src/bulwarkd ./src/qt/bulwark-qt / \
+  && cp ./src/cryptocrowd-cli ./src/cryptocrowdd ./src/qt/cryptocrowd-qt / \
   && make clean
 WORKDIR /
-RUN arm-linux-gnueabihf-strip ./bulwark-cli ./bulwark-qt ./bulwarkd  \
+RUN arm-linux-gnueabihf-strip ./cryptocrowd-cli ./cryptocrowd-qt ./cryptocrowdd  \
   && tar czf arm32.tar.gz ./cryptocrowd* \
-  && rm ./bulwark-cli ./bulwark-qt ./bulwarkd 
+  && rm ./cryptocrowd-cli ./cryptocrowd-qt ./cryptocrowdd 
 
 FROM base AS linux32
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
@@ -136,12 +136,12 @@ RUN ./autogen.sh \
   --build=x86_64-unknown-linux-gnu \
   --host=i686-pc-linux-gnu \
   && make \
-  && cp ./src/bulwark-cli ./src/bulwarkd ./src/qt/bulwark-qt / \
+  && cp ./src/cryptocrowd-cli ./src/cryptocrowdd ./src/qt/cryptocrowd-qt / \
   && make clean
 WORKDIR /
-RUN strip ./bulwark-cli ./bulwark-qt ./bulwarkd  \
+RUN strip ./cryptocrowd-cli ./cryptocrowd-qt ./cryptocrowdd  \
   && tar czf linux32.tar.gz ./cryptocrowd* \
-  && rm ./bulwark-cli ./bulwark-qt ./bulwarkd 
+  && rm ./cryptocrowd-cli ./cryptocrowd-qt ./cryptocrowdd 
 
 FROM base AS linux64
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
@@ -162,12 +162,12 @@ RUN ./autogen.sh \
   --build=x86_64-unknown-linux-gnu \
   --host=x86_64-unknown-linux-gnu \
   && make \
-  && cp ./src/bulwark-cli ./src/bulwarkd ./src/qt/bulwark-qt / \
+  && cp ./src/cryptocrowd-cli ./src/cryptocrowdd ./src/qt/cryptocrowd-qt / \
   && make clean
 WORKDIR /
-RUN strip ./bulwark-cli ./bulwark-qt ./bulwarkd  \
+RUN strip ./cryptocrowd-cli ./cryptocrowd-qt ./cryptocrowdd  \
   && tar czf linux64.tar.gz ./cryptocrowd* \
-  && rm ./bulwark-cli ./bulwark-qt ./bulwarkd 
+  && rm ./cryptocrowd-cli ./cryptocrowd-qt ./cryptocrowdd 
 
 FROM base AS windows32
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
@@ -194,12 +194,12 @@ RUN ./autogen.sh \
   --build=x86_64-unknown-linux-gnu \
   --host=i686-w64-mingw32 \
   && make \
-  && cp ./src/bulwark-cli.exe ./src/bulwarkd.exe ./src/qt/bulwark-qt.exe / \
+  && cp ./src/cryptocrowd-cli.exe ./src/cryptocrowdd.exe ./src/qt/cryptocrowd-qt.exe / \
   && make clean
 WORKDIR /
-RUN strip ./bulwark-cli.exe ./bulwark-qt.exe ./bulwarkd.exe  \
+RUN strip ./cryptocrowd-cli.exe ./cryptocrowd-qt.exe ./cryptocrowdd.exe  \
   && tar czf windows32.tar.gz ./cryptocrowd* \
-  && rm ./bulwark-cli.exe ./bulwark-qt.exe ./bulwarkd.exe
+  && rm ./cryptocrowd-cli.exe ./cryptocrowd-qt.exe ./cryptocrowdd.exe
 
 FROM base AS windows64
 ENV CXXFLAGS="-Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter -Wno-narrowing"
@@ -226,12 +226,12 @@ RUN ./autogen.sh \
   --build=x86_64-unknown-linux-gnu \
   --host=x86_64-w64-mingw32 \
   && make \
-  && cp ./src/bulwark-cli.exe ./src/bulwarkd.exe ./src/qt/bulwark-qt.exe / \
+  && cp ./src/cryptocrowd-cli.exe ./src/cryptocrowdd.exe ./src/qt/cryptocrowd-qt.exe / \
   && make clean
 WORKDIR /
-RUN strip ./bulwark-cli.exe ./bulwark-qt.exe ./bulwarkd.exe  \
+RUN strip ./cryptocrowd-cli.exe ./cryptocrowd-qt.exe ./cryptocrowdd.exe  \
   && tar czf windows64.tar.gz ./cryptocrowd* \
-  && rm ./bulwark-cli.exe ./bulwark-qt.exe ./bulwarkd.exe
+  && rm ./cryptocrowd-cli.exe ./cryptocrowd-qt.exe ./cryptocrowdd.exe
 
 FROM alpine:3.8
 LABEL maintainer="kewagi"

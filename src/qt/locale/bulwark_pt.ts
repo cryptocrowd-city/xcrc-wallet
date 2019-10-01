@@ -173,7 +173,7 @@
     </message>
     <message>
         <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
-        <translation>CRyptoCrowd encerrará para terminar o processo de encriptação. Lembre-se que encriptar sua carteira não protege completamente suas Bulwarks contra roubo por malware infectando seu computador.</translation>
+        <translation>CRyptoCrowd encerrará para terminar o processo de encriptação. Lembre-se que encriptar sua carteira não protege completamente suas CRyptoCrowds contra roubo por malware infectando seu computador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -904,7 +904,7 @@
     <name>zXCRCControlDialog</name>
     </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
         <translation>Deletar todas as transações da carteira e somente recuperar aquelas partes do blockchain através de -rescan na inicialização</translation>

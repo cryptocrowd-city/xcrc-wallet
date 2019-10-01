@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
-        <translation>CRyptoCrowd se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus Bulwarks no sean robados mediante malware de su ordenador.</translation>
+        <translation>CRyptoCrowd se cerrará para finalizar el proceso de cifrado. Recuerde que cifrar su monedero no garantiza que sus CRyptoCrowds no sean robados mediante malware de su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -1130,8 +1130,8 @@ MultiEnvío: %1</translation>
         <translation>Esta etiqueta se vuelve roja, si algún destinatario recibe una cantidad menor que %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Puede variar +/- %1 uBulwark por entrada.</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Puede variar +/- %1 uCRyptoCrowd por entrada.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1939,9 +1939,9 @@ Por favor, tenga paciencia después de hacer clic en importar.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>¿Falta su lenguaje o la traducción está incompleta? Contribuya con las traducciones aquí:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -4884,7 +4884,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1= mantener los metadatos tx p.e. dueño de la cuenta e información de la solicitud de pago, 2 = ignorar metadatos tx)</translation>

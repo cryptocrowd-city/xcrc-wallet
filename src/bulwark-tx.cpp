@@ -46,10 +46,10 @@ static bool AppInitRawTx(int argc, char* argv[]) {
 
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help")) {
         // First part of help message is specific to this utility
-        std::string strUsage = _("CRyptoCrowd Core bulwark-tx utility version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("CRyptoCrowd Core cryptocrowd-tx utility version") + " " + FormatFullVersion() + "\n\n" +
                                _("Usage:") + "\n" +
-                               "  bulwark-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded cryptocrowd transaction") + "\n" +
-                               "  bulwark-tx [options] -create [commands]   " + _("Create hex-encoded cryptocrowd transaction") + "\n" +
+                               "  cryptocrowd-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded cryptocrowd transaction") + "\n" +
+                               "  cryptocrowd-tx [options] -create [commands]   " + _("Create hex-encoded cryptocrowd transaction") + "\n" +
                                "\n";
 
         fprintf(stdout, "%s", strUsage.c_str());

@@ -20,7 +20,7 @@ make
 make install # optional
 ```
 
-This will build bulwark-qt as well if the dependencies are met.
+This will build cryptocrowd-qt as well if the dependencies are met.
 
 ## Dependencies
 
@@ -79,7 +79,7 @@ Optional:
 
 ## Dependencies for the GUI
 
-If you want to build Bulwark-Qt, make sure that the required packages for Qt development
+If you want to build CRyptoCrowd-Qt, make sure that the required packages for Qt development
 are installed. Qt 5 is necessary to build the GUI.
 If both Qt 4 and Qt 5 are installed, Qt 5 will be used.
 To build without GUI pass `--without-gui`.
@@ -92,12 +92,12 @@ libqrencode (optional) can be installed with:
 
     sudo apt-get install libqrencode-dev
 
-Once these are installed, they will be found by configure and a bulwark-qt executable will be
+Once these are installed, they will be found by configure and a cryptocrowd-qt executable will be
 built by default.
 
 ## Notes
 
-The release is built with GCC and then "strip bulwarkd" to strip the debug
+The release is built with GCC and then "strip cryptocrowdd" to strip the debug
 symbols, which reduces the executable size by about 90%.
 
 
@@ -126,10 +126,10 @@ To build:
 It is recommended to use Berkeley DB 4.8. If you have to build it yourself:
 
 ```bash
-Bulwark_ROOT=$(pwd)
+CRyptoCrowd_ROOT=$(pwd)
 
 # Pick some path to install BDB to, here we create a directory within the cryptocrowd directory
-BDB_PREFIX="${Bulwark_ROOT}/db4"
+BDB_PREFIX="${CRyptoCrowd_ROOT}/db4"
 mkdir -p $BDB_PREFIX
 
 # Fetch the source and verify that it is not tampered with
@@ -145,7 +145,7 @@ cd db-4.8.30.NC/build_unix/
 make install
 
 # Configure CRyptoCrowd Core to use our own-built instance of BDB
-cd $Bulwark_ROOT
+cd $CRyptoCrowd_ROOT
 ./configure (other args...) LDFLAGS="-L${BDB_PREFIX}/lib/" CPPFLAGS="-I${BDB_PREFIX}/include/"
 ```
 
@@ -186,7 +186,7 @@ Hardening enables the following features:
 
     To test that you have built PIE executable, install scanelf, part of paxutils, and use:
 
-    	scanelf -e ./bulwarkd
+    	scanelf -e ./cryptocrowdd
 
     The output should contain:
      TYPE
@@ -200,7 +200,7 @@ Hardening enables the following features:
     executable without the non-executable stack protection.
 
     To verify that the stack is non-executable after compiling use:
-    `scanelf -e ./bulwarkd`
+    `scanelf -e ./cryptocrowdd`
 
     the output should contain:
 	STK/REL/PTL

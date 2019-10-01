@@ -11,9 +11,9 @@ When a "Transaction Lock" occurs the hash of the related transaction is broadcas
 * `zmqpubrawtxlock`: publishes the raw transaction when locked via SwiftTX
 * `zmqpubhashtxlock`: publishes the transaction hash when locked via SwiftTX
 
-This mechanism has been integrated into Bitcore-Node-Bulwark which allows for notification to be broadcast through Insight API in one of two ways:
-* WebSocket: [https://github.com/bulwark-crypto/insight-api-bulwark#web-socket-api](https://github.com/bulwark-crypto/insight-api-bulwark#web-socket-api)
-* API: [https://github.com/bulwark-crypto/insight-api-bulwark#swifttx-transactions](https://github.com/bulwark-crypto/insight-api-bulwark#swifttx-transactions)
+This mechanism has been integrated into Bitcore-Node-CRyptoCrowd which allows for notification to be broadcast through Insight API in one of two ways:
+* WebSocket: [https://github.com/cryptocrowd-crypto/insight-api-cryptocrowd#web-socket-api](https://github.com/cryptocrowd-crypto/insight-api-cryptocrowd#web-socket-api)
+* API: [https://github.com/cryptocrowd-crypto/insight-api-cryptocrowd#swifttx-transactions](https://github.com/cryptocrowd-crypto/insight-api-cryptocrowd#swifttx-transactions)
 
 ### Command line option
 

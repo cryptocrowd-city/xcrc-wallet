@@ -255,11 +255,11 @@
     </message>
     <message>
         <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Indtast en Bulwark-adresse, som du gerne vil kryptere ved hjælp af BIP 38. Indtast en adgangskode i mellemkassen. Tryk på krypteringen for at beregne den krypterede private nøgle.</translation>
+        <translation>Indtast en CRyptoCrowd-adresse, som du gerne vil kryptere ved hjælp af BIP 38. Indtast en adgangskode i mellemkassen. Tryk på krypteringen for at beregne den krypterede private nøgle.</translation>
     </message>
     <message>
         <source>The CRyptoCrowd address to encrypt</source>
-        <translation>Bulwark-adressen for at kryptere</translation>
+        <translation>CRyptoCrowd-adressen for at kryptere</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -291,7 +291,7 @@
     </message>
     <message>
         <source>Encrypt the private key for this CRyptoCrowd address</source>
-        <translation>Krypter den private nøgle for denne Bulwark-adresse</translation>
+        <translation>Krypter den private nøgle for denne CRyptoCrowd-adresse</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -738,7 +738,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to CRyptoCrowd network</source>
-        <translation><numerusform>%n aktiv forbindelse til Bulwark-netværk</numerusform><numerusform>%n aktiv forbindelse(s) til CRyptoCrowd netværk</numerusform></translation>
+        <translation><numerusform>%n aktiv forbindelse til CRyptoCrowd-netværk</numerusform><numerusform>%n aktiv forbindelse(s) til CRyptoCrowd netværk</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1130,8 +1130,8 @@ Adresse: %4
         <translation>Denne tekstmarkør bliver rød, hvis en modtageradresse modtager et beløb mindre end %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Kan variere +/- %1 oBulwark pr input.</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Kan variere +/- %1 oCRyptoCrowd pr input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1939,9 +1939,9 @@ Vær tålmodig efter at du har klikket på import.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>Det valgte sprog mangler, eller oversættelsen er mangelfuld. Hjælp ved at bidrage med oversættelser her:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -1949,7 +1949,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
     <message>
         <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
-        <translation>Aktivér automatisk mintning af Bulwark-enheder til zXCRC</translation>
+        <translation>Aktivér automatisk mintning af CRyptoCrowd-enheder til zXCRC</translation>
     </message>
     <message>
         <source>Enable zXCRC Automint</source>
@@ -2156,7 +2156,7 @@ https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translat
     </message>
     <message>
         <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
-        <translation>Din nuværende Bulwark-saldo, ubekræftede og umodne transaktioner inkluderet</translation>
+        <translation>Din nuværende CRyptoCrowd-saldo, ubekræftede og umodne transaktioner inkluderet</translation>
     </message>
     <message>
         <source>zXCRC Balance</source>
@@ -2502,7 +2502,7 @@ zXCRC er modne, når de har mere end 20 bekræftelser OG mere end 2 minutter med
     </message>
     <message>
         <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Bulwark-adressen for at sende betalingen til. Opretter lokal betaling til dig selv, når du er tom.</translation>
+        <translation>CRyptoCrowd-adressen for at sende betalingen til. Opretter lokal betaling til dig selv, når du er tom.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3805,11 +3805,11 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uXCRCs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBulwark i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uXCRCs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uXCRCs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uCRyptoCrowd i gebyr, &lt;br /&gt; mens "mindst" udbetaler 1000 uXCRCs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
         <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uXCRCs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uBulwark i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uXCRCs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
+        <translation>Hvis den brugerfastsatte gebyrbetaling er sat til 1000 uXCRCs og transaktionen kun fylder 250 bytes, så vil "pr. kilobyte" kun udbetale 250 uCRyptoCrowd i gebyr, &lt;br /&gt; mens "Total-mindst" udbetaler 1000 uXCRCs. For transaktioner større end en kilobyte betales i begge tilfælde i forhold til antallet af kilobytes </translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
@@ -4825,7 +4825,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>
-        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1Bulwark.</translation>
+        <translation>SwiftTx understøtter ikke afsendelse af så store beløb endnu. Transaktioner er for tiden begrænsede til %1CRyptoCrowd.</translation>
     </message>
 </context>
 <context>
@@ -4883,7 +4883,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = beholdtx metadata. For eksempel information om kontoejer og betalngsanmodninger, 2 = drop TX metadata)</translation>
@@ -4943,7 +4943,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
-        <translation>Aktiver eller deaktiver staking-funktionalitet for Bulwark-indgange (0-1, standard: %u)</translation>
+        <translation>Aktiver eller deaktiver staking-funktionalitet for CRyptoCrowd-indgange (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>

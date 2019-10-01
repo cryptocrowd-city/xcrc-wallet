@@ -79,7 +79,7 @@ HEADERS += src/activemasternode.h \
            src/crypter.h \
            src/obfuscation-relay.h \
            src/obfuscation.h \
-           src/bulwark-config.h \
+           src/cryptocrowd-config.h \
            src/db.h \
            src/eccryptoverify.h \
            src/ecwrapper.h \
@@ -132,7 +132,7 @@ HEADERS += src/activemasternode.h \
            src/wallet_ismine.h \
            src/walletdb.h \
            src/compat/sanity.h \
-           src/config/bulwark-config.h \
+           src/config/cryptocrowd-config.h \
            src/crypto/common.h \
            src/crypto/hmac_sha256.h \
            src/crypto/hmac_sha512.h \
@@ -368,8 +368,8 @@ SOURCES += src/activemasternode.cpp \
            src/crypter.cpp \
            src/obfuscation-relay.cpp \
            src/obfuscation.cpp \
-           src/bulwark-cli.cpp \
-           src/bulwark-tx.cpp \
+           src/cryptocrowd-cli.cpp \
+           src/cryptocrowd-tx.cpp \
            src/cryptocrowd.cpp \
            src/db.cpp \
            src/eccryptoverify.cpp \
@@ -461,7 +461,7 @@ SOURCES += src/activemasternode.cpp \
            src/qt/csvmodelwriter.cpp \
            src/qt/obfuscationconfig.cpp \
            src/qt/cryptocrowd.cpp \
-           src/qt/bulwarkstrings.cpp \
+           src/qt/cryptocrowdstrings.cpp \
            src/qt/editaddressdialog.cpp \
            src/qt/guiutil.cpp \
            src/qt/intro.cpp \
@@ -539,7 +539,7 @@ SOURCES += src/activemasternode.cpp \
            src/test/sighash_tests.cpp \
            src/test/sigopcount_tests.cpp \
            src/test/skiplist_tests.cpp \
-           src/test/test_bulwark.cpp \
+           src/test/test_cryptocrowd.cpp \
            src/test/timedata_tests.cpp \
            src/test/transaction_tests.cpp \
            src/test/uint256_tests.cpp \
@@ -630,21 +630,21 @@ SOURCES += src/activemasternode.cpp \
            src/leveldb/helpers/memenv/memenv.cc \
            src/leveldb/helpers/memenv/memenv_test.cc \
            src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c
-RESOURCES += src/qt/cryptocrowd.qrc src/qt/bulwark_locale.qrc
+RESOURCES += src/qt/cryptocrowd.qrc src/qt/cryptocrowd_locale.qrc
 
-TRANSLATIONS += src/qt/locale/bulwark_bg.ts \
-                src/qt/locale/bulwark_de.ts \
-                src/qt/locale/bulwark_en.ts \
-                src/qt/locale/bulwark_es.ts \
-                src/qt/locale/bulwark_fi.ts \
-                src/qt/locale/bulwark_fr.ts \
-                src/qt/locale/bulwark_it.ts \
-                src/qt/locale/bulwark_ja.ts \
-                src/qt/locale/bulwark_pl.ts \
-                src/qt/locale/bulwark_pt.ts \
-                src/qt/locale/bulwark_ru.ts \
-                src/qt/locale/bulwark_sk.ts \
-                src/qt/locale/bulwark_sv.ts \
-                src/qt/locale/bulwark_vi.ts \
-                src/qt/locale/bulwark_zh_CN.ts \
-                src/qt/locale/bulwark_zh_TW.ts
+TRANSLATIONS += src/qt/locale/cryptocrowd_bg.ts \
+                src/qt/locale/cryptocrowd_de.ts \
+                src/qt/locale/cryptocrowd_en.ts \
+                src/qt/locale/cryptocrowd_es.ts \
+                src/qt/locale/cryptocrowd_fi.ts \
+                src/qt/locale/cryptocrowd_fr.ts \
+                src/qt/locale/cryptocrowd_it.ts \
+                src/qt/locale/cryptocrowd_ja.ts \
+                src/qt/locale/cryptocrowd_pl.ts \
+                src/qt/locale/cryptocrowd_pt.ts \
+                src/qt/locale/cryptocrowd_ru.ts \
+                src/qt/locale/cryptocrowd_sk.ts \
+                src/qt/locale/cryptocrowd_sv.ts \
+                src/qt/locale/cryptocrowd_vi.ts \
+                src/qt/locale/cryptocrowd_zh_CN.ts \
+                src/qt/locale/cryptocrowd_zh_TW.ts

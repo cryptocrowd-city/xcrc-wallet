@@ -1,2 +1,2 @@
-usr/local/bin/bulwarkd usr/bin
-usr/local/bin/bulwark-cli usr/bin
+usr/local/bin/cryptocrowdd usr/bin
+usr/local/bin/cryptocrowd-cli usr/bin

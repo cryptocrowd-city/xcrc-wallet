@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
-        <translation>CRyptoCrowd va maintenant se fermer pour finir le processus de cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos Bulwarks d'un vol par un malware ayant infecté votre ordinateur. </translation>
+        <translation>CRyptoCrowd va maintenant se fermer pour finir le processus de cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos CRyptoCrowds d'un vol par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -1114,8 +1114,8 @@ Adresse : %4
         <translation>Ce label devient rouge si l'un des destinataires reçoit un montant inférieur à %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Peut varier de +/- %1 uBulwark par entrée.</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Peut varier de +/- %1 uCRyptoCrowd par entrée.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1878,9 +1878,9 @@ S'il vous plaît soyez patient après avoir cliqué sur l'importation.</translat
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation>Langue manquante ou traduction incomplète? Aidez-nous à traduire ce projet ici:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</translation>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
     </message>
     <message>
         <source>Map port using UPnP</source>
@@ -4403,7 +4403,7 @@ Soit monnayer des dénominations plus élevées (moins d'intrants sont nécessai
     </message>
     </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
         <translation>Active ou désactive la fonctionnalité de staking pour les entrées CRyptoCrowd (0-1, par défaut: %u)</translation>

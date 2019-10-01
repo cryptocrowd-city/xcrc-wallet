@@ -738,7 +738,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to CRyptoCrowd network</source>
-        <translation><numerusform>%n connessione attiva alla rete BulwarkIX</numerusform><numerusform>%n connessioni attive alla rete BulwarkIX</numerusform></translation>
+        <translation><numerusform>%n connessione attiva alla rete CRyptoCrowdIX</numerusform><numerusform>%n connessioni attive alla rete CRyptoCrowdIX</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1126,8 +1126,8 @@ MultiSend: %1</translation>
         <translation>Questa etichetta diventa rossa se uno dei destinatari riceve un importo inferiore a %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 uBulwark per input.</source>
-        <translation>Può variare di +/- %1 uBulwark per input.</translation>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Può variare di +/- %1 uCRyptoCrowd per input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1275,7 +1275,7 @@ MultiSend: %1</translation>
     </message>
     <message>
         <source>Welcome to CRyptoCrowd Core.</source>
-        <translation>Benvenuto in BulwarkIX Core.</translation>
+        <translation>Benvenuto in CRyptoCrowdIX Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
@@ -2677,7 +2677,7 @@ Per cambiare la percentuale (riavvio non necessario):
     </message>
     </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>Error</source>
         <translation>Errore</translation>

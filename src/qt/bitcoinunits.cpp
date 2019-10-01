@@ -40,9 +40,9 @@ QString BitcoinUnits::id(int unit) {
     case XCRC:
         return QString("cryptocrowd");
     case mXCRC:
-        return QString("mbulwark");
+        return QString("mcryptocrowd");
     case uXCRC:
-        return QString::fromUtf8("ubulwark");
+        return QString::fromUtf8("ucryptocrowd");
     default:
         return QString("???");
     }

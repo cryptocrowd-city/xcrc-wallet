@@ -75,7 +75,7 @@ Restart and unlock your wallet.
 SSH (Putty on Windows, Terminal.app on macOS) to your VPS, login as root (**Please note:** It's normal that you don't see your password after typing or pasting it) and run the following command:
 
 ```bash
-bash <( curl https://raw.githubusercontent.com/bulwark-crypto/Bulwark-MN-Install/master/install.sh )
+bash <( curl https://raw.githubusercontent.com/cryptocrowd-crypto/CRyptoCrowd-MN-Install/master/install.sh )
 ```
 
 When the script asks, confirm your VPS IP Address and paste your masternode key.

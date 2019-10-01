@@ -26,7 +26,7 @@ Now we're going to switch into your Downloads folder:
 
 The next step is to download the current version of the wallet from Github and go into that directory:
 
-```git clone https://github.com/bulwark-crypto/CRyptoCrowd.git && cd CRyptoCrowd```
+```git clone https://github.com/cryptocrowd-crypto/CRyptoCrowd.git && cd CRyptoCrowd```
 
 We're in the CRyptoCrowd directory now, before we can build our wallet, we need to set some configuration flags:
 
@@ -44,15 +44,15 @@ Then we autogen some additonal files...
 
 ```make```
 
-If you want to use CRyptoCrowd as a regular macOS app, continue with "How to get a Bulwark-QT App". If, for whatever reason, you prefer to use the command line tools, continue with "How to use the command line tools".
+If you want to use CRyptoCrowd as a regular macOS app, continue with "How to get a CRyptoCrowd-QT App". If, for whatever reason, you prefer to use the command line tools, continue with "How to use the command line tools".
 
-## How to get a Bulwark-QT App
+## How to get a CRyptoCrowd-QT App
 
 After `make` is finished, you can create an App bundle inside a disk image with:
 
 ```make deploy```
 
-Once this is done, you'll find `Bulwark-Qt.dmg` inside your CRyptoCrowd folder. Open and install as usual.
+Once this is done, you'll find `CRyptoCrowd-Qt.dmg` inside your CRyptoCrowd folder. Open and install as usual.
 
 ## How to use the command line tools
 
@@ -62,14 +62,14 @@ Once the build is complete, switch into the *src/qt* subdirectory:
 
 And there you have your wallet - you can start it by running:
 
-```./bulwark-qt```
+```./cryptocrowd-qt```
 
 If you want to start your wallet in the future, open Terminal.app and run this command:
 
-```~/Downloads/CRyptoCrowd/src/qt/bulwark-qt```
+```~/Downloads/CRyptoCrowd/src/qt/cryptocrowd-qt```
 
 ## FAQ
 
 ##### **Q:** I get the error "Assertion failed" ?
 
-**A:** You need to start your wallet with -forcestart: `./bulwark-qt -forcestart`
+**A:** You need to start your wallet with -forcestart: `./cryptocrowd-qt -forcestart`

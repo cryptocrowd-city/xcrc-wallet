@@ -324,7 +324,7 @@
     <name>zXCRCControlDialog</name>
     </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
         <source>Information</source>
         <translation>जानकारी</translation>

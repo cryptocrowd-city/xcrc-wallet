@@ -173,23 +173,23 @@ before_deploy:
 #- export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M')}
 #- git tag $TRAVIS_TAG
   - mkdir $TRAVIS_BUILD_DIR/deploy
-  - if [[ "$LABEL" == "ARM" ]]; then cp $TRAVIS_BUILD_DIR/src/bulwark-cli $TRAVIS_BUILD_DIR/src/bulwark-tx $TRAVIS_BUILD_DIR/src/bulwarkd $TRAVIS_BUILD_DIR/deploy; fi
-  - if [[ "$LABEL" == "linux64" ]]; then cp $TRAVIS_BUILD_DIR/src/bulwark-cli $TRAVIS_BUILD_DIR/src/bulwark-tx $TRAVIS_BUILD_DIR/src/bulwarkd $TRAVIS_BUILD_DIR/deploy; cp $TRAVIS_BUILD_DIR/src/qt/bulwark-qt $TRAVIS_BUILD_DIR/deploy; strip $TRAVIS_BUILD_DIR/deploy/*; fi
-  - if [[ "$LABEL" == "win32" ]]; then cp $TRAVIS_BUILD_DIR/src/bulwark-cli.exe $TRAVIS_BUILD_DIR/src/bulwark-tx.exe $TRAVIS_BUILD_DIR/src/bulwarkd.exe $TRAVIS_BUILD_DIR/deploy; cp $TRAVIS_BUILD_DIR/src/qt/bulwark-qt.exe $TRAVIS_BUILD_DIR/deploy; strip $TRAVIS_BUILD_DIR/deploy/*; fi
-  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then cp $TRAVIS_BUILD_DIR/Bulwark-Qt.dmg $TRAVIS_BUILD_DIR/deploy; strip $TRAVIS_BUILD_DIR/deploy/*; fi
+  - if [[ "$LABEL" == "ARM" ]]; then cp $TRAVIS_BUILD_DIR/src/cryptocrowd-cli $TRAVIS_BUILD_DIR/src/cryptocrowd-tx $TRAVIS_BUILD_DIR/src/cryptocrowdd $TRAVIS_BUILD_DIR/deploy; fi
+  - if [[ "$LABEL" == "linux64" ]]; then cp $TRAVIS_BUILD_DIR/src/cryptocrowd-cli $TRAVIS_BUILD_DIR/src/cryptocrowd-tx $TRAVIS_BUILD_DIR/src/cryptocrowdd $TRAVIS_BUILD_DIR/deploy; cp $TRAVIS_BUILD_DIR/src/qt/cryptocrowd-qt $TRAVIS_BUILD_DIR/deploy; strip $TRAVIS_BUILD_DIR/deploy/*; fi
+  - if [[ "$LABEL" == "win32" ]]; then cp $TRAVIS_BUILD_DIR/src/cryptocrowd-cli.exe $TRAVIS_BUILD_DIR/src/cryptocrowd-tx.exe $TRAVIS_BUILD_DIR/src/cryptocrowdd.exe $TRAVIS_BUILD_DIR/deploy; cp $TRAVIS_BUILD_DIR/src/qt/cryptocrowd-qt.exe $TRAVIS_BUILD_DIR/deploy; strip $TRAVIS_BUILD_DIR/deploy/*; fi
+  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then cp $TRAVIS_BUILD_DIR/CRyptoCrowd-Qt.dmg $TRAVIS_BUILD_DIR/deploy; strip $TRAVIS_BUILD_DIR/deploy/*; fi
   - cd $TRAVIS_BUILD_DIR/deploy
   - ls -lh;
-#  - if [[ "$LABEL" == "ARM" ]]; then tar -zvcf bulwark-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.tar.gz *; fi
-  - if [[ "$LABEL" == "ARM" ]]; then zip -P "$DEVPW" bulwark-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.zip *; fi
-#  - if [[ "$LABEL" == "linux64" ]]; then tar -zvcf bulwark-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.tar.gz *; fi
-  - if [[ "$LABEL" == "linux64" ]]; then zip -P "$DEVPW" bulwark-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.zip *; fi
-  - if [[ "$LABEL" == "win32" ]]; then zip -P "$DEVPW" bulwark-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.zip *; fi
-  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then zip -P "$DEVPW" bulwark-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.zip *; fi
+#  - if [[ "$LABEL" == "ARM" ]]; then tar -zvcf cryptocrowd-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.tar.gz *; fi
+  - if [[ "$LABEL" == "ARM" ]]; then zip -P "$DEVPW" cryptocrowd-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.zip *; fi
+#  - if [[ "$LABEL" == "linux64" ]]; then tar -zvcf cryptocrowd-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.tar.gz *; fi
+  - if [[ "$LABEL" == "linux64" ]]; then zip -P "$DEVPW" cryptocrowd-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.zip *; fi
+  - if [[ "$LABEL" == "win32" ]]; then zip -P "$DEVPW" cryptocrowd-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.zip *; fi
+  - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then zip -P "$DEVPW" cryptocrowd-bin-${TRAVIS_BRANCH}.${TRAVIS_BUILD_NUMBER}-$LABEL.zip *; fi
 deploy:
   provider: releases
   api_key: $GH_TOKEN
   file_glob: true
-  file: $TRAVIS_BUILD_DIR/deploy/bulwark-bin*
+  file: $TRAVIS_BUILD_DIR/deploy/cryptocrowd-bin*
   overwrite: true
   skip_cleanup: true
   draft: true

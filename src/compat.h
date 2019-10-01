@@ -7,7 +7,7 @@
 #define BITCOIN_COMPAT_H
 
 #if defined(HAVE_CONFIG_H)
-#include "config/bulwark-config.h"
+#include "config/cryptocrowd-config.h"
 #endif
 
 #ifdef WIN32

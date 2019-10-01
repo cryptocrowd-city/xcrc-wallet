@@ -32,25 +32,25 @@ The following are some helpful notes on how to run xcrc on your native platform.
 
 Unpack the files into a directory and run:
 
-- ./bulwark-qt (GUI) or ./bulwarkd (headless)
+- ./cryptocrowd-qt (GUI) or ./cryptocrowdd (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run bulwark-qt.exe.
+Unpack the files into a directory, and then run cryptocrowd-qt.exe.
 
 ### OSX
 
-Drag Bulwark-Qt to your applications folder, and then run Bulwark-Qt.
+Drag CRyptoCrowd-Qt to your applications folder, and then run CRyptoCrowd-Qt.
 
 ### Need Help?
 
-* Ask for help on [Discord](https://discord.me/bulwarkcrypto) or on the [CRyptoCrowd Telegram](https://t.me/bulwarkcrypto).
-* Join our [Reddit Community](https://www.reddit.com/r/BulwarkCoin/)
-* Tweet at [Bulwark-Crypto](https://twitter.com/BulwarkCoin)
+* Ask for help on [Discord](https://discord.me/cryptocrowdcrypto) or on the [CRyptoCrowd Telegram](https://t.me/cryptocrowdcrypto).
+* Join our [Reddit Community](https://www.reddit.com/r/CRyptoCrowdCoin/)
+* Tweet at [CRyptoCrowd-Crypto](https://twitter.com/CRyptoCrowdCoin)
 
 ### Ran into a Bug?
 
-* Submit an Issue on our [GitHub](https://github.com/bulwark-crypto/CRyptoCrowd/issues)
+* Submit an Issue on our [GitHub](https://github.com/cryptocrowd-crypto/CRyptoCrowd/issues)
 
 Building
 ---------------------
@@ -64,28 +64,28 @@ The following are developer notes on how to build xcrc on your native platform. 
 
 Development
 ---------------------
-The CRyptoCrowd repo's [root README](https://github.com/bulwark-crypto/CRyptoCrowd/blob/master/README.md) contains relevant information our parameters.
+The CRyptoCrowd repo's [root README](https://github.com/cryptocrowd-crypto/CRyptoCrowd/blob/master/README.md) contains relevant information our parameters.
 
 - [Developer Notes](miscellaneous/Developer-Notes.md)
-- [Multiwallet Qt Development](bulwark-core/multiwallet-qt.md)
+- [Multiwallet Qt Development](cryptocrowd-core/multiwallet-qt.md)
 - [Release Notes](release-notes/)
 - [Unit Tests](miscellaneous/unit-tests.md)
-- [Unauthenticated REST Interface](bulwark-core/REST-interface.md)
+- [Unauthenticated REST Interface](cryptocrowd-core/REST-interface.md)
 - [Dnsseed Policy](miscellaneous/dnsseed-policy.md)
 
 ### Wallet Information
 
-- [Core Files](bulwark-core/Bulwark-Core-Files.md)
-- [Default Data Locations](bulwark-core/Default-Data-Locations.md)
-- [Running CRyptoCrowd](bulwark-core/Running-Bulwark.md)
-- [Init Commands](bulwark-core/bulwarkd-init.md)
-- [API Calls](bulwark-core/Bulwark-API-Calls.md)
-- [Bootstrap](bulwark-core/Bootstrap.md)
-- [Traffic Reduction](bulwark-core/Reduce-Traffic-in-Bulwark-Core.md)
-- [Accounts](bulwark-core/Accounts-Explained.md)
-- [Multisend](bulwark-core/Multisend-Setup-Guide.md)
-- [Data Locations](bulwark-core/Default-Data-Locations.md)
-- [TOR Support](bulwark-core/TOR-Support-In-Bulwark.md)
+- [Core Files](cryptocrowd-core/CRyptoCrowd-Core-Files.md)
+- [Default Data Locations](cryptocrowd-core/Default-Data-Locations.md)
+- [Running CRyptoCrowd](cryptocrowd-core/Running-CRyptoCrowd.md)
+- [Init Commands](cryptocrowd-core/cryptocrowdd-init.md)
+- [API Calls](cryptocrowd-core/CRyptoCrowd-API-Calls.md)
+- [Bootstrap](cryptocrowd-core/Bootstrap.md)
+- [Traffic Reduction](cryptocrowd-core/Reduce-Traffic-in-CRyptoCrowd-Core.md)
+- [Accounts](cryptocrowd-core/Accounts-Explained.md)
+- [Multisend](cryptocrowd-core/Multisend-Setup-Guide.md)
+- [Data Locations](cryptocrowd-core/Default-Data-Locations.md)
+- [TOR Support](cryptocrowd-core/TOR-Support-In-CRyptoCrowd.md)
 
 ### Masternode Information
 

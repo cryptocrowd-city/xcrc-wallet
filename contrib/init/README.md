@@ -1,10 +1,10 @@
 Sample configuration files for:
 
-SystemD: bulwarkd.service
-Upstart: bulwarkd.conf
-OpenRC:  bulwarkd.openrc
-         bulwarkd.openrcconf
-CentOS:  bulwarkd.init
+SystemD: cryptocrowdd.service
+Upstart: cryptocrowdd.conf
+OpenRC:  cryptocrowdd.openrc
+         cryptocrowdd.openrcconf
+CentOS:  cryptocrowdd.init
 
 have been made available to assist packagers in creating node packages here.
 

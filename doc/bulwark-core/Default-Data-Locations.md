@@ -19,10 +19,10 @@ C:\Documents and Settings\YourUserName\Application data\cryptocrowd (XP)
 You can also store cryptocrowd data files in any other drive or folder.
 
 If you have already downloaded the data then you will have to move the data to the new folder.
-If you want to store them in D:\bulwarkData then click on "Properties" of a shortcut to bulwark-qt.exe and
-add -datadir=D:\bulwarkData at the end as an example:
+If you want to store them in D:\cryptocrowdData then click on "Properties" of a shortcut to cryptocrowd-qt.exe and
+add -datadir=D:\cryptocrowdData at the end as an example:
 
- "C:\Program Files (x86)\cryptocrowd\bulwark-qt.exe" -datadir=d:\bulwarkData
+ "C:\Program Files (x86)\cryptocrowd\cryptocrowd-qt.exe" -datadir=d:\cryptocrowdData
 
 Start cryptocrowd, now you will see all the files are created in the new data directory.
 
@@ -48,11 +48,11 @@ By default cryptocrowd will put its data here:
 
 ## Files
 
-An overview of these is in [https://github.com/bulwark-crypto/cryptocrowd/blob/master/doc/files.md]([Wallet|wallet]]) in the cryptocrowd Core documentation.
+An overview of these is in [https://github.com/cryptocrowd-crypto/cryptocrowd/blob/master/doc/files.md]([Wallet|wallet]]) in the cryptocrowd Core documentation.
 
 * .lock
     * cryptocrowd data directory lock file
-* cryptocrowd.conf [    *Contains [[Running-bulwark#bulwarkconf_Configuration_File|configuration options](optional])].
+* cryptocrowd.conf [    *Contains [[Running-cryptocrowd#cryptocrowdconf_Configuration_File|configuration options](optional])].
 * __db.''xxx''
     *Used by BDB
 * db.log
@@ -111,7 +111,7 @@ This section may be of use to you if you wish to send a friend the blockchain, a
 *debug.log
     *May contain IP addresses and transaction ID's. It may be safely deleted.
 *database/ folder
-    *This should only exist when bulwark-qt is currently running. It contains information (BDB state) relating to your wallet.
+    *This should only exist when cryptocrowd-qt is currently running. It contains information (BDB state) relating to your wallet.
 *peers.dat
     *Unknown whether this contains personally identifiable data. It may be safely deleted.
 

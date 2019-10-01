@@ -1452,7 +1452,7 @@ Address: %4
     </message>
     <message>
         <location line="+8"/>
-        <source>Can vary +/- %1 uBulwark per input.</source>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2491,7 +2491,7 @@ Please be patient after clicking import.</source>
     <message>
         <location line="+21"/>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/Bulwark-project/Bulwark-project-translations</source>
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6379,9 +6379,9 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>bulwark-core</name>
+    <name>cryptocrowd-core</name>
     <message>
-        <location filename="../Bulwarkstrings.cpp" line="+15"/>
+        <location filename="../CRyptoCrowdstrings.cpp" line="+15"/>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation type="unfinished">(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</translation>
     </message>

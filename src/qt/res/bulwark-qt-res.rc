@@ -22,10 +22,10 @@ BEGIN
             VALUE "CompanyName",        "CRyptoCrowd"
             VALUE "FileDescription",    "CRyptoCrowd Core (OSS GUI client for CRyptoCrowd)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "bulwark-qt"
+            VALUE "InternalName",       "cryptocrowd-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "bulwark-qt.exe"
+            VALUE "OriginalFilename",   "cryptocrowd-qt.exe"
             VALUE "ProductName",        "CRyptoCrowd Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END

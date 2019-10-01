@@ -2,7 +2,7 @@
 
 (updated for NetBSD 7.0)
 
-This guide describes how to build bulwarkd and command-line utilities on NetBSD.
+This guide describes how to build cryptocrowdd and command-line utilities on NetBSD.
 
 This guide does not contain instructions for building the GUI.
 
@@ -25,7 +25,7 @@ python27
 Download the source code:
 
 ```
-git clone https://github.com/bulwark-coin/CRyptoCrowd.git
+git clone https://github.com/cryptocrowd-coin/CRyptoCrowd.git
 ```
 
 

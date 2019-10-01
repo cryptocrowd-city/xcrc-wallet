@@ -5,7 +5,7 @@
 
 To make sure your wallet is staking, the 1st step is to use the following command:
 
-`bulwark-cli getstakingstatus`
+`cryptocrowd-cli getstakingstatus`
 
 This should hopefully look like this:
 
@@ -40,13 +40,13 @@ This makes sure you have valid peers, if this is showing as false I'd recommend 
 
 and then running:
 
-`systemctl restart bulwarkd`
+`systemctl restart cryptocrowdd`
 
 ## walletunlocked
 
 This means your wallet isn't unlocked, just run the command below:
 
-`bulwark-cli walletpassphrase '<YOUR PASSWORD>' 99999999 true`
+`cryptocrowd-cli walletpassphrase '<YOUR PASSWORD>' 99999999 true`
 
 This will unlock your wallet for staking only for a long time period. Unlocking for staking only means your funds are safe even if a malicious entity got access to your VPS.
 
@@ -56,25 +56,25 @@ This is asking if your transaction is old enough to be staked. It takes 475 conf
 
 ## enoughcoins
 
-This is making sure you have more than 1 XCRC in the wallet. If this is appearing false there are a wide number of potential problems. It's best to come ask us in [Discord](https://discord.me/bulwarkcrypto) or [Telegram](https://t.me/bulwarkcrypto) if you have issues with this.
+This is making sure you have more than 1 XCRC in the wallet. If this is appearing false there are a wide number of potential problems. It's best to come ask us in [Discord](https://discord.me/cryptocrowdcrypto) or [Telegram](https://t.me/cryptocrowdcrypto) if you have issues with this.
 
 ## mnsync
 
 This just makes sure your wallet is fully synced, if you appear to be fully synced I'd recommend typing:
 
-`bulwark-cli mnsync reset`
+`cryptocrowd-cli mnsync reset`
 
 and then closing the wallet with
 
-`systemctl stop bulwarkd`
+`systemctl stop cryptocrowdd`
 
 After this, wait a minute, then open it again with:
 
-`systemctl start bulwarkd`
+`systemctl start cryptocrowdd`
 
 then wait 10 minutes more, before unlocking the wallet with the command:
 
-`bulwark-cli walletpassphrase '<YOUR PASSWORD>' 99999999 true`
+`cryptocrowd-cli walletpassphrase '<YOUR PASSWORD>' 99999999 true`
 
 On a local wallet, try restarting it, if that doesn't help, resync your chain.
 
@@ -90,16 +90,16 @@ and confirm the output from this command includes "staking=1".
 
 If it does, follow the below steps:
 
-`systemctl stop bulwarkd`
+`systemctl stop cryptocrowdd`
 
 After this, wait a minute, then open it again with:
 
-`systemctl start bulwarkd`
+`systemctl start cryptocrowdd`
 
 then wait 10 minutes more, before unlocking the wallet with the command:
 
-`bulwark-cli walletpassphrase '<YOUR PASSWORD>' 99999999 true`
+`cryptocrowd-cli walletpassphrase '<YOUR PASSWORD>' 99999999 true`
 
 Then, after a few more minutes of the network accepting your stakes, you should find everything to be true when you run
 
-`bulwark-cli getstakingstatus`
+`cryptocrowd-cli getstakingstatus`

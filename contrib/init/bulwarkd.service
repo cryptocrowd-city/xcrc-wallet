@@ -7,13 +7,13 @@ User=cryptocrowd
 Group=cryptocrowd
 
 Type=forking
-PIDFile=/var/lib/bulwarkd/bulwarkd.pid
+PIDFile=/var/lib/cryptocrowdd/cryptocrowdd.pid
 
-ExecStart=/usr/bin/bulwarkd -daemon -pid=/var/lib/bulwarkd/bulwarkd.pid \
-          -conf=/etc/cryptocrowd/cryptocrowd.conf -datadir=/var/lib/bulwarkd
+ExecStart=/usr/bin/cryptocrowdd -daemon -pid=/var/lib/cryptocrowdd/cryptocrowdd.pid \
+          -conf=/etc/cryptocrowd/cryptocrowd.conf -datadir=/var/lib/cryptocrowdd
 
-ExecStop=-/usr/bin/bulwark-cli -conf=/etc/cryptocrowd/cryptocrowd.conf \
-         -datadir=/var/lib/bulwarkd stop
+ExecStop=-/usr/bin/cryptocrowd-cli -conf=/etc/cryptocrowd/cryptocrowd.conf \
+         -datadir=/var/lib/cryptocrowdd stop
 
 Restart=always
 PrivateTmp=true

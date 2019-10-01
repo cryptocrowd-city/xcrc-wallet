@@ -2,7 +2,7 @@
 
 CRyptoCrowd Cryptocurrency
 &middot;
-[![GitHub license](https://img.shields.io/github/license/bulwark-crypto/CRyptoCrowd.svg)](https://github.com/bulwark-crypto/CRyptoCrowd/blob/master/COPYING) [![GitHub version](https://badge.fury.io/gh/bulwark-crypto%2FBulwark.svg)](https://badge.fury.io/gh/bulwark-crypto%2FBulwark) [![Discord](https://img.shields.io/discord/374271866308919296.svg)](https://discord.me/bulwarkcrypto)
+[![GitHub license](https://img.shields.io/github/license/cryptocrowd-crypto/CRyptoCrowd.svg)](https://github.com/cryptocrowd-crypto/CRyptoCrowd/blob/master/COPYING) [![GitHub version](https://badge.fury.io/gh/cryptocrowd-crypto%2FCRyptoCrowd.svg)](https://badge.fury.io/gh/cryptocrowd-crypto%2FCRyptoCrowd) [![Discord](https://img.shields.io/discord/374271866308919296.svg)](https://discord.me/cryptocrowdcrypto)
 =====
 
 CRyptoCrowd (XCRC) is a privacy oriented digital currency with Masternodes implemented.

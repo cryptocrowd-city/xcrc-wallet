@@ -45,7 +45,7 @@ class OptionsModel : public QAbstractListModel {
         ShowOrphans,         // bool
         ZeromintPercentage,  // int
         ZeromintPrefDenom,   // int
-        AnonymizeBulwarkAmount, //int
+        AnonymizeCRyptoCrowdAmount, //int
         ShowMasternodesTab,  // bool
         Listen,              // bool
         OptionIDRowCount,
@@ -105,7 +105,7 @@ class OptionsModel : public QAbstractListModel {
     void displayUnitChanged(int unit);
     void zeromintPercentageChanged(int);
     void preferredDenomChanged(int);
-    void anonymizeBulwarkAmountChanged(int);
+    void anonymizeCRyptoCrowdAmountChanged(int);
     void coinControlFeaturesChanged(bool);
 };
 

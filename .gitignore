@@ -39,9 +39,9 @@ Makefile
 Makefile.in
 
 # Output binaries
-src/bulwarkd
-src/bulwark-cli
-src/bulwark-tx
-src/qt/bulwark-qt
-src/qt/test/test_bulwark-qt
-src/test/test_bulwark
+src/cryptocrowdd
+src/cryptocrowd-cli
+src/cryptocrowd-tx
+src/qt/cryptocrowd-qt
+src/qt/test/test_cryptocrowd-qt
+src/test/test_cryptocrowd

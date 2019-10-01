@@ -74,8 +74,8 @@ void ObfuscationConfig::configure(bool enabled, int coins, int rounds) {
     QSettings settings;
 
     settings.setValue("nObfuscationRounds", rounds);
-    settings.setValue("nAnonymizeBulwarkAmount", coins);
+    settings.setValue("nAnonymizeCRyptoCrowdAmount", coins);
 
     nZeromintPercentage = rounds;
-    nAnonymizeBulwarkAmount = coins;
+    nAnonymizeCRyptoCrowdAmount = coins;
 }

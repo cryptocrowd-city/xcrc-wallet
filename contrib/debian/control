@@ -26,7 +26,7 @@ Homepage: http://www.cryptocrowd.org
 Vcs-Git: git://github.com/bullwark-crypto/CRyptoCrowd.git
 Vcs-Browser: http://github.com/bullwark-crypto/CRyptoCrowd
 
-Package: bulwarkd
+Package: cryptocrowdd
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - daemon
@@ -39,10 +39,10 @@ Description: peer-to-peer network based digital currency - daemon
  Full transaction history is stored locally at each client.  This
  requires 1+ GB of space, slowly growing.
  .
- This package provides the daemon, bulwarkd, and the CLI tool
- bulwark-cli to interact with the daemon.
+ This package provides the daemon, cryptocrowdd, and the CLI tool
+ cryptocrowd-cli to interact with the daemon.
 
-Package: bulwark-qt
+Package: cryptocrowd-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - Qt GUI
@@ -55,4 +55,4 @@ Description: peer-to-peer network based digital currency - Qt GUI
  Full transaction history is stored locally at each client.  This
  requires 1+ GB of space, slowly growing.
  .
- This package provides Bulwark-Qt, a GUI for CRyptoCrowd based on Qt.
+ This package provides CRyptoCrowd-Qt, a GUI for CRyptoCrowd based on Qt.

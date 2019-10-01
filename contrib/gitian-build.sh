@@ -17,7 +17,7 @@ osx=true
 SIGNER=
 VERSION=
 commit=false
-url=https://github.com/bulwark-crypto/cryptocrowd
+url=https://github.com/cryptocrowd-crypto/cryptocrowd
 proc=2
 mem=2000
 lxc=true
@@ -31,7 +31,7 @@ commitFiles=true
 read -d '' usage <<- EOF
 Usage: $scriptName [-c|u|v|b|s|B|o|h|j|m|] signer version
 
-Run this script from the directory containing the cryptocrowd, gitian-builder, gitian.sigs, and bulwark-detached-sigs.
+Run this script from the directory containing the cryptocrowd, gitian-builder, gitian.sigs, and cryptocrowd-detached-sigs.
 
 Arguments:
 signer          GPG signer to sign each build assert file
@@ -39,7 +39,7 @@ version		Version number, commit, or branch to build. If building a commit or bra
 
 Options:
 -c|--commit	Indicate that the version argument is for a commit or branch
--u|--url	Specify the URL of the repository. Default is https://github.com/bulwark-crypto/cryptocrowd
+-u|--url	Specify the URL of the repository. Default is https://github.com/cryptocrowd-crypto/cryptocrowd
 -v|--verify 	Verify the gitian build
 -b|--build	Do a gitian build
 -s|--sign	Make signed binaries for Windows and Mac OSX
@@ -237,8 +237,8 @@ echo ${COMMIT}
 if [[ $setup = true ]]
 then
     sudo apt-get install ruby apache2 git apt-cacher-ng python-vm-builder qemu-kvm qemu-utils
-    git clone https://github.com/bulwark-crypto/gitian.sigs.git
-    git clone https://github.com/bulwark-crypto/bulwark-detached-sigs.git
+    git clone https://github.com/cryptocrowd-crypto/gitian.sigs.git
+    git clone https://github.com/cryptocrowd-crypto/cryptocrowd-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
     pushd ./gitian-builder
     if [[ -n "$USE_LXC" ]]
@@ -261,7 +261,7 @@ popd
 if [[ $build = true ]]
 then
 	# Make output folder
-	mkdir -p ./bulwark-binaries/${VERSION}
+	mkdir -p ./cryptocrowd-binaries/${VERSION}
 
 	# Build Dependencies
 	echo ""
@@ -281,7 +281,7 @@ then
 	    echo ""
 	    ./bin/gbuild -j ${proc} -m ${mem} --commit cryptocrowd=${COMMIT} --url cryptocrowd=${url} ../cryptocrowd/contrib/gitian-descriptors/gitian-linux.yml
 	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-linux --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-linux.yml
-	    mv build/out/bulwark-*.tar.gz build/out/src/bulwark-*.tar.gz ../bulwark-binaries/${VERSION}
+	    mv build/out/cryptocrowd-*.tar.gz build/out/src/cryptocrowd-*.tar.gz ../cryptocrowd-binaries/${VERSION}
 	fi
 	# Windows
 	if [[ $windows = true ]]
@@ -291,8 +291,8 @@ then
 	    echo ""
 	    ./bin/gbuild -j ${proc} -m ${mem} --commit cryptocrowd=${COMMIT} --url cryptocrowd=${url} ../cryptocrowd/contrib/gitian-descriptors/gitian-win.yml
 	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-unsigned --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-win.yml
-	    mv build/out/bulwark-*-win-unsigned.tar.gz inputs/bulwark-win-unsigned.tar.gz
-	    mv build/out/bulwark-*.zip build/out/bulwark-*.exe ../bulwark-binaries/${VERSION}
+	    mv build/out/cryptocrowd-*-win-unsigned.tar.gz inputs/cryptocrowd-win-unsigned.tar.gz
+	    mv build/out/cryptocrowd-*.zip build/out/cryptocrowd-*.exe ../cryptocrowd-binaries/${VERSION}
 	fi
 	# Mac OSX
 	if [[ $osx = true ]]
@@ -302,8 +302,8 @@ then
 	    echo ""
 	    ./bin/gbuild -j ${proc} -m ${mem} --commit cryptocrowd=${COMMIT} --url cryptocrowd=${url} ../cryptocrowd/contrib/gitian-descriptors/gitian-osx.yml
 	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-unsigned --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-osx.yml
-	    mv build/out/bulwark-*-osx-unsigned.tar.gz inputs/bulwark-osx-unsigned.tar.gz
-	    mv build/out/bulwark-*.tar.gz build/out/bulwark-*.dmg ../bulwark-binaries/${VERSION}
+	    mv build/out/cryptocrowd-*-osx-unsigned.tar.gz inputs/cryptocrowd-osx-unsigned.tar.gz
+	    mv build/out/cryptocrowd-*.tar.gz build/out/cryptocrowd-*.dmg ../cryptocrowd-binaries/${VERSION}
 	fi
 	# AArch64
 	if [[ $aarch64 = true ]]
@@ -313,7 +313,7 @@ then
 	    echo ""
 	    ./bin/gbuild -j ${proc} -m ${mem} --commit cryptocrowd=${COMMIT} --url cryptocrowd=${url} ../cryptocrowd/contrib/gitian-descriptors/gitian-aarch64.yml
 	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-aarch64 --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-aarch64.yml
-	    mv build/out/bulwark-*.tar.gz build/out/src/bulwark-*.tar.gz ../bulwark-binaries/${VERSION}
+	    mv build/out/cryptocrowd-*.tar.gz build/out/src/cryptocrowd-*.tar.gz ../cryptocrowd-binaries/${VERSION}
 	popd
 
         if [[ $commitFiles = true ]]
@@ -382,8 +382,8 @@ then
 	    echo ""
 	    ./bin/gbuild -i --commit signature=${COMMIT} ../cryptocrowd/contrib/gitian-descriptors/gitian-win-signer.yml
 	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-win-signed --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-win-signer.yml
-	    mv build/out/bulwark-*win64-setup.exe ../bulwark-binaries/${VERSION}
-	    mv build/out/bulwark-*win32-setup.exe ../bulwark-binaries/${VERSION}
+	    mv build/out/cryptocrowd-*win64-setup.exe ../cryptocrowd-binaries/${VERSION}
+	    mv build/out/cryptocrowd-*win32-setup.exe ../cryptocrowd-binaries/${VERSION}
 	fi
 	# Sign Mac OSX
 	if [[ $osx = true ]]
@@ -393,7 +393,7 @@ then
 	    echo ""
 	    ./bin/gbuild -i --commit signature=${COMMIT} ../cryptocrowd/contrib/gitian-descriptors/gitian-osx-signer.yml
 	    ./bin/gsign -p $signProg --signer $SIGNER --release ${VERSION}-osx-signed --destination ../gitian.sigs/ ../cryptocrowd/contrib/gitian-descriptors/gitian-osx-signer.yml
-	    mv build/out/bulwark-osx-signed.dmg ../bulwark-binaries/${VERSION}/bulwark-${VERSION}-osx.dmg
+	    mv build/out/cryptocrowd-osx-signed.dmg ../cryptocrowd-binaries/${VERSION}/cryptocrowd-${VERSION}-osx.dmg
 	fi
 	popd
 
