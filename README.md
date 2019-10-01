@@ -1,4 +1,4 @@
-![CRyptoCrowd Logo](https://bulwarkcrypto.com/wp-content/uploads/2018/10/Symbol-Color2.svg)
+![CRyptoCrowd Logo](https://cryptocrowd.city/wp-content/uploads/2018/10/Symbol-Color2.svg)
 
 CRyptoCrowd Cryptocurrency
 &middot;

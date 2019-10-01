@@ -22,7 +22,7 @@ CRyptoCrowd Core Documentation
 
 Setup
 ---------------------
-[CRyptoCrowd Core](http://bulwarkcrypto.com.org/#downloads) is the original CRyptoCrowd client and it builds the backbone of the network. However, it downloads and stores the entire history of BWK transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[CRyptoCrowd Core](http://cryptocrowd.city.org/#downloads) is the original CRyptoCrowd client and it builds the backbone of the network. However, it downloads and stores the entire history of BWK transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------

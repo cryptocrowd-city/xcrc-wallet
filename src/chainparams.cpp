@@ -167,11 +167,11 @@ class CMainParams : public CChainParams {
         assert(genesis.hashMerkleRoot == uint256("0x77976d6bd593c84063ac3937525bc15e25188d96871b13d4451ffc382999f64f"));
 
         vSeeds.push_back(CDNSSeedData("bwkseed.mempool.pw", "bwkseed.mempool.pw"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed1.bulwarkcrypto.com", "bwkseed1.bulwarkcrypto.com"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed2.bulwarkcrypto.com", "bwkseed2.bulwarkcrypto.com")); 	 // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed3.bulwarkcrypto.com", "bwkseed3.bulwarkcrypto.com"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed4.bulwarkcrypto.com", "bwkseed4.bulwarkcrypto.com"));      // Single node address
-        vSeeds.push_back(CDNSSeedData("bwkseed5.bulwarkcrypto.com", "bwkseed5.bulwarkcrypto.com"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("bwkseed1.cryptocrowd.city", "bwkseed1.cryptocrowd.city"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("bwkseed2.cryptocrowd.city", "bwkseed2.cryptocrowd.city")); 	 // Single node address
+        vSeeds.push_back(CDNSSeedData("bwkseed3.cryptocrowd.city", "bwkseed3.cryptocrowd.city"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("bwkseed4.cryptocrowd.city", "bwkseed4.cryptocrowd.city"));      // Single node address
+        vSeeds.push_back(CDNSSeedData("bwkseed5.cryptocrowd.city", "bwkseed5.cryptocrowd.city"));      // Single node address
         vSeeds.push_back(CDNSSeedData("bwkseed1.bulwarkcrypto.site", "bwkseed1.bulwarkcrypto.site"));      // Single node address
         vSeeds.push_back(CDNSSeedData("bwkseed2.bulwarkcrypto.site", "bwkseed2.bulwarkcrypto.site")); 	 // Single node address
         vSeeds.push_back(CDNSSeedData("bwkseed3.bulwarkcrypto.site", "bwkseed3.bulwarkcrypto.site"));      // Single node address
