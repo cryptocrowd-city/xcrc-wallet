@@ -2,8 +2,8 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BULWARK_CSPORKDB_H
-#define BULWARK_CSPORKDB_H
+#ifndef CRYPTOCROWD_CSPORKDB_H
+#define CRYPTOCROWD_CSPORKDB_H
 
 #include <boost/filesystem/path.hpp>
 #include "leveldbwrapper.h"
@@ -24,4 +24,4 @@ class CSporkDB : public CLevelDBWrapper {
 };
 
 
-#endif //BULWARK_CSPORKDB_H
+#endif //CRYPTOCROWD_CSPORKDB_H

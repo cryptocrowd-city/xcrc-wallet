@@ -4,8 +4,8 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BULWARK_QT_PROPOSALTABLEMODEL_H
-#define BULWARK_QT_PROPOSALTABLEMODEL_H
+#ifndef CRYPTOCROWD_QT_PROPOSALTABLEMODEL_H
+#define CRYPTOCROWD_QT_PROPOSALTABLEMODEL_H
 
 #include "bitcoinunits.h"
 
@@ -86,4 +86,4 @@ class ProposalTableModel : public QAbstractTableModel {
     void onResult(QNetworkReply *result);
 };
 
-#endif // BULWARK_QT_PROPOSALTABLEMODEL_H
+#endif // CRYPTOCROWD_QT_PROPOSALTABLEMODEL_H

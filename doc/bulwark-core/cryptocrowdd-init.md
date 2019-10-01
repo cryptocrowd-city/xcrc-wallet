@@ -89,7 +89,7 @@ use old versions of Upstart and do not supply the start-stop-daemon uitility.
 Copy cryptocrowdd.init to /etc/init.d/cryptocrowdd. Test by running "service cryptocrowdd start".
 
 Using this script, you can adjust the path and flags to the cryptocrowdd program by
-setting the BULWARKD and FLAGS environment variables in the file
+setting the CRYPTOCROWDD and FLAGS environment variables in the file
 /etc/sysconfig/cryptocrowdd. You can also use the DAEMONOPTS environment variable here.
 
 5. Auto-respawn

@@ -4,8 +4,8 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BULWARK_QT_PROPOSALFILTERPROXY_H
-#define BULWARK_QT_PROPOSALFILTERPROXY_H
+#ifndef CRYPTOCROWD_QT_PROPOSALFILTERPROXY_H
+#define CRYPTOCROWD_QT_PROPOSALFILTERPROXY_H
 
 #include "amount.h"
 
@@ -49,4 +49,4 @@ class ProposalFilterProxy : public QSortFilterProxyModel {
     CAmount minNoVotes;
     CAmount minAbstainVotes;
 };
-#endif // BULWARK_QT_PROPOSALFILTERPROXY_H
+#endif // CRYPTOCROWD_QT_PROPOSALFILTERPROXY_H
