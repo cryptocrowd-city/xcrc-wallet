@@ -52,7 +52,7 @@ addons:
     - zlib1g-dev
 env:
   global:
-  - CRYPTOCROWD_VERSION=2.1.0.0
+  - CRYPTOCROWD_VERSION=0.4.0.0
   - CCACHE_COMPRESS=1
   - CCACHE_SIZE=2500M
   - CCACHE_CPP2=1
