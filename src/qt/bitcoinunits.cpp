@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwаrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The BulwР°rk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -56,7 +56,7 @@ QString BitcoinUnits::name(int unit) {
         case mXCRC:
             return QString("mXCRC");
         case uXCRC:
-            return QString::fromUtf8("μXCRC");
+            return QString::fromUtf8("ОјXCRC");
         default:
             return QString("???");
         }
@@ -67,7 +67,7 @@ QString BitcoinUnits::name(int unit) {
         case mXCRC:
             return QString("mtXCRC");
         case uXCRC:
-            return QString::fromUtf8("μtXCRC");
+            return QString::fromUtf8("ОјtXCRC");
         default:
             return QString("???");
         }

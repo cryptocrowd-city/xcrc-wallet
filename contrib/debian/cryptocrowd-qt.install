@@ -1,6 +1,1 @@
-usr/local/bin/cryptocrowd-qt usr/bin
-share/pixmaps/bitcoin32.xpm usr/share/pixmaps
-share/pixmaps/bitcoin16.xpm usr/share/pixmaps
-share/pixmaps/bitcoin128.png usr/share/pixmaps
-debian/cryptocrowd-qt.desktop usr/share/applications
-debian/cryptocrowd-qt.protocol usr/share/kde4/services/
+usr/local/bin/cryptocrowd-qt usr/bin♪◙share/pixmaps/bitcoin32.xpm usr/share/pixmaps♪◙share/pixmaps/bitcoin16.xpm usr/share/pixmaps♪◙share/pixmaps/bitcoin128.png usr/share/pixmaps♪◙debian/cryptocrowd-qt.desktop usr/share/applications♪◙debian/cryptocrowd-qt.protocol usr/share/kde4/services/♪◙

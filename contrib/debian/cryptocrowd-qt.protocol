@@ -1,11 +1,1 @@
-[Protocol]
-exec=cryptocrowd-qt '%u'
-protocol=cryptocrowd
-input=none
-output=none
-helper=true
-listing=
-reading=false
-writing=false
-makedir=false
-deleting=false
+[Protocol]♪◙exec=cryptocrowd-qt '%u'♪◙protocol=cryptocrowd♪◙input=none♪◙output=none♪◙helper=true♪◙listing=♪◙reading=false♪◙writing=false♪◙makedir=false♪◙deleting=false♪◙

@@ -237,13 +237,13 @@ std::string BlockToString(CBlockIndex* pBlock) {
     std::string Content;
     Content += "<h2><a class=\"nav\" href=";
     Content += itostr(pBlock->nHeight - 1);
-    Content += ">◄&nbsp;</a>";
+    Content += ">в—„&nbsp;</a>";
     Content += _("Block");
     Content += " ";
     Content += itostr(pBlock->nHeight);
     Content += "<a class=\"nav\" href=";
     Content += itostr(pBlock->nHeight + 1);
-    Content += ">&nbsp;►</a></h2>";
+    Content += ">&nbsp;в–є</a></h2>";
     Content += BlockContent;
     Content += "</br>";
     /*

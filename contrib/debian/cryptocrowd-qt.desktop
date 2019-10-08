@@ -1,12 +1,1 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=CRyptoCrowd
-Comment=CRyptoCrowd P2P Cryptocurrency
-Comment[fr]=CRyptoCrowd, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=CRyptoCrowd, eşten eşe kriptografik sanal para birimi
-Exec=cryptocrowd-qt %u
-Terminal=false
-Type=Application
-Icon=cryptocrowd128
-MimeType=x-scheme-handler/cryptocrowd;
-Categories=Office;Finance;
+[Desktop Entry]♪◙Encoding=UTF-8♪◙Name=CRyptoCrowd♪◙Comment=CRyptoCrowd P2P Cryptocurrency♪◙Comment[fr]=CRyptoCrowd, monnaie virtuelle cryptographique pair ├á pair♪◙Comment[tr]=CRyptoCrowd, e┼ƒten e┼ƒe kriptografik sanal para birimi♪◙Exec=cryptocrowd-qt %u♪◙Terminal=false♪◙Type=Application♪◙Icon=cryptocrowd128♪◙MimeType=x-scheme-handler/cryptocrowd;♪◙Categories=Office;Finance;♪◙
