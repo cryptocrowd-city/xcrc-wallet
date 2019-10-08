@@ -1,1 +1,6366 @@
-<TS language="ko_KR" version="2.1">♪◙<context>♪◙    <name>AddressBookPage</name>♪◙    <message>♪◙        <source>Right-click to edit address or label</source>♪◙        <translation>∞ú╝∞åî δ░Å δ¥╝δ▓¿∞¥ä ∞êÿ∞áòφòÿδáñδ⌐┤ δºê∞Ü░∞èñ ∞ÿñδÑ╕∞¬╜ δ▓äφè╝∞¥ä φü┤δª¡φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a new address</source>♪◙        <translation>∞âêδí£∞Ü┤ ∞ú╝∞åî δºîδôñΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>New</source>♪◙        <translation>∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the currently selected address to the system clipboard</source>♪◙        <translation>φÿä∞₧¼ ∞äáφâ¥δÉ£ ∞ú╝∞åîδÑ╝ δ│╡∞é¼φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy</source>♪◙        <translation>δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete the currently selected address from the list</source>♪◙        <translation>φÿä∞₧¼ ∞äáφâ¥δÉ£ ∞ú╝∞åîδÑ╝ δ¬⌐δí¥∞ùÉ∞ä£ ∞é¡∞á£φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete</source>♪◙        <translation>∞é¡∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export the data in the current tab to a file</source>♪◙        <translation>φÿä∞₧¼ ∞äáφâ¥δÉ£ φâ¡∞¥ÿ δì░∞¥┤φä░δÑ╝ φîî∞¥╝δí£ δé┤δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export</source>♪◙        <translation>δé┤δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Close</source>♪◙        <translation>δï½Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the address to send coins to</source>♪◙        <translation>∞åíΩ╕êφòá ∞ú╝∞åîδÑ╝ ∞äáφâ¥φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the address to receive coins with</source>♪◙        <translation>∞₧àΩ╕ê δ░¢∞¥ä ∞ú╝∞åîδÑ╝ ∞äáφâ¥φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose</source>♪◙        <translation>∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending addresses</source>♪◙        <translation>δ│┤δé╝ ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receiving addresses</source>♪◙        <translation>δ░¢∞¥ä ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>♪◙        <translation>∞¥┤ ∞ú╝∞åîδôñ∞¥Ç ∞åíΩ╕êφòá CRyptoCrowd ∞ú╝∞åî∞₧àδïêδïñ. ∞åíΩ╕êφòÿΩ╕░ ∞áä φò¡∞âü Ω╕ê∞òíΩ│╝ ∞ú╝∞åîδÑ╝ φÖò∞¥╕φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>♪◙        <translation>∞¥┤ ∞ú╝∞åîδôñ∞¥Ç ∞₧àΩ╕ê δ░¢∞¥ä CRyptoCrowd ∞ú╝∞åî∞₧àδïêδïñ. δºñ Ω▒░δ₧ÿδºêδïñ ∞âêδí£∞Ü┤ ∞₧àΩ╕ê ∞ú╝∞åîδÑ╝ ∞é¼∞Ü⌐φòÿδèö Ω▓â∞¥┤ ∞óï∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Address</source>♪◙        <translation>∞ú╝∞åî δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Label</source>♪◙        <translation>δ¥╝δ▓¿ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit</source>♪◙        <translation>∞êÿ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export Address List</source>♪◙        <translation>∞ú╝∞åîδí¥ δé┤δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Comma separated file (*.csv)</source>♪◙        <translation>∞╜ñδºêδí£ Ω╡¼δ╢ä δÉ£ φîî∞¥╝ (*.csv)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Failed</source>♪◙        <translation>δé┤δ│┤δé┤Ω╕░ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>There was an error trying to save the address list to %1. Please try again.</source>♪◙        <translation>%1 ∞ùÉ ∞ú╝∞åî δ¬⌐δí¥∞¥ä ∞áÇ∞₧Ñφòÿδèö δÅÖ∞òê ∞ÿñδÑÿΩ░Ç δ░£∞â¥φòÿ∞ÿÇ∞è╡δïêδïñ. δïñ∞ï£ ∞ï£δÅäφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>AddressTableModel</name>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(δ¥╝δ▓¿ ∞ùå∞¥î)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>AskPassphraseDialog</name>♪◙    <message>♪◙        <source>Passphrase Dialog</source>♪◙        <translation>∞òöφÿ╕ δîÇφÖö∞âü∞₧É</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter passphrase</source>♪◙        <translation>∞òöφÿ╕ ∞₧àδáÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>New passphrase</source>♪◙        <translation>∞âêδí£∞Ü┤ ∞òöφÿ╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Repeat new passphrase</source>♪◙        <translation>∞âêδí£∞Ü┤ ∞òöφÿ╕ φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>♪◙        <translation>∞Ü┤∞ÿü∞▓┤∞á£ Ω│ä∞áò∞¥┤ ∞åÉ∞âüδÉÿ∞ùê∞¥ä δòî ∞¥╝δ░ÿ∞áü∞¥╕ ∞åíΩ╕ê∞¥ä δ╣äφÖ£∞ä▒φÖö φò⌐δïêδïñ. ∞ïñ∞ºê∞áü∞¥╕ δ│┤∞òê∞¥ä ∞á£Ω│╡φòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>For anonymization, automint, and staking only</source>♪◙        <translation>∞¥╡δ¬à∞ä▒ ∞èñφàî∞¥┤φé╣ ∞áä∞Ü⌐ δ¬¿δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>♪◙        <translation>∞ºÇΩ░æ∞ùÉ ∞âêδí£∞Ü┤ ∞òöφÿ╕δÑ╝ ∞₧àδáÑφò┤∞ú╝∞ä╕∞Üö. &lt;br/&gt;&lt;b&gt;10∞₧Éδª¼ ∞¥┤∞âü∞¥ÿ ∞₧ä∞¥ÿ∞¥ÿ δ¼╕∞₧É&lt;/b&gt; δÿÉδèö, &lt;b&gt;8Ω░£ ∞¥┤∞âü∞¥ÿ δï¿∞û┤&lt;/b&gt;δí£ Ω╡¼∞ä▒δÉ£ ∞òöφÿ╕δÑ╝ ∞₧àδáÑφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt wallet</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>This operation needs your wallet passphrase to unlock the wallet.</source>♪◙        <translation>∞¥┤ ∞₧æ∞ùà∞¥Ç ∞ºÇΩ░æ∞¥ÿ ∞òöφÿ╕δÑ╝ φÆÇ∞û┤ ∞ºÇΩ░æ∞¥ä ∞₧áΩ╕êφò┤∞á£δÑ╝ ∞ºäφûëφò┤∞ò╝ φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock wallet</source>♪◙        <translation>∞ºÇΩ░æ ∞₧áΩ╕êφò┤∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>This operation needs your wallet passphrase to decrypt the wallet.</source>♪◙        <translation>∞¥┤ ∞₧æ∞ùà∞¥Ç ∞ºÇΩ░æ ∞òöφÿ╕φÖö φò┤∞á£δÑ╝ φòÿ∞àö∞ò╝ Ω░ÇδèÑφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypt wallet</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕φÖö φò┤∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change passphrase</source>♪◙        <translation>∞òöφÿ╕ δ│ÇΩ▓╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the old and new passphrase to the wallet.</source>♪◙        <translation>∞ºÇΩ░æ∞ùÉ ∞é¼∞Ü⌐φòá ∞¥┤∞áä ∞òöφÿ╕∞ÖÇ ∞âêδí£∞Ü┤ ∞òöφÿ╕δÑ╝ ∞₧àδáÑφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm wallet encryption</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕φÖö φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>♪◙        <translation>CRyptoCrowdδèö ∞¥┤∞á£ ∞òöφÿ╕φÖö φöäδí£∞ä╕∞èñδÑ╝ δºê∞╣ÿΩ╕░ ∞£äφò┤ δï½φ₧ÉΩ▓â∞₧àδïêδïñ. ∞ºÇΩ░æ∞¥ä ∞òöφÿ╕φÖöφòÿδìöδ¥╝δÅä δº¼∞¢¿∞û┤δí£ ∞¥╕φò£ CRyptoCrowds ∞¥ÿ δÅäδé£δï╣φòÿδèö Ω▓â∞¥ä ∞Öäδ▓╜φòÿΩ▓î δ│┤φÿ╕ φòá ∞êÿδèö ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you wish to encrypt your wallet?</source>♪◙        <translation>∞ºÇΩ░æ∞¥ä ∞òöφÿ╕φÖö φòÿ∞ï£Ω▓á∞è╡δïêΩ╣î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>♪◙        <translation>Ω▓╜Ω│á: ∞ºÇΩ░æ ∞òöφÿ╕φÖö φ¢ä ∞òöφÿ╕δÑ╝ δ╢ä∞ïñφòÿΩ▓î δÉÿδ⌐┤ &lt;b&gt;δ¬¿δôá CRyptoCrowdδÑ╝ ∞₧âΩ▓î δÉ⌐δïêδïñ&lt;/b&gt;!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encrypted</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕φÖö ∞Öäδúî</translation>♪◙    </message>♪◙    <message>♪◙        <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>♪◙        <translation>∞ñæ∞Üö: ∞¥┤∞áä∞ùÉ ∞ºÇΩ░æ φîî∞¥╝δí£ δ░▒∞ùà φò£ Ω▓╜∞Ü░ ∞ºÇΩ░æ φîî∞¥╝∞¥ä ∞òöφÿ╕φÖö δÉ£ ∞ºÇΩ░æ φîî∞¥╝δí£ δîÇ∞▓┤φò┤∞ò╝ φò⌐δïêδïñ. δ│┤∞òê∞âü δ¼╕∞á£δí£, ∞òöφÿ╕φÖöδÉÿ∞ºÇ ∞òè∞¥Ç ∞ºÇΩ░æ φîî∞¥╝∞¥ÿ ∞¥┤∞áä δ░▒∞ùà∞¥Ç ∞âêδí¡Ω▓î ∞òöφÿ╕φÖö δÉ£ ∞ºÇΩ░æ∞¥ä ∞é¼∞Ü⌐φòÿΩ▓î δÉÿδ⌐┤ ∞ô╕δ¬¿∞ùåΩ▓î δÉá Ω▓â∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encryption failed</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕φÖö ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>♪◙        <translation>δé┤δ╢Ç ∞ÿñδÑÿδí£ ∞¥╕φò┤ ∞ºÇΩ░æ ∞òöφÿ╕φÖö∞ùÉ ∞ïñφî¿φûê∞è╡δïêδïñ. ∞ºÇΩ░æ∞¥┤ ∞òöφÿ╕φÖöδÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied passphrases do not match.</source>♪◙        <translation>∞òöφÿ╕Ω░Ç ∞¥╝∞╣ÿφòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock failed</source>♪◙        <translation>∞ºÇΩ░æ ∞₧áΩ╕êφò┤∞á£ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>The passphrase entered for the wallet decryption was incorrect.</source>♪◙        <translation>∞₧àδáÑφò£ ∞ºÇΩ░æ ∞òöφÿ╕Ω░Ç ∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet decryption failed</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕φÖö φò┤∞á£ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet passphrase was successfully changed.</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕Ω░Ç δ│ÇΩ▓╜δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: The Caps Lock key is on!</source>♪◙        <translation>Ω▓╜Ω│á: Caps Lock φéñΩ░Ç ∞╝£∞á╕∞₧ê∞è╡δïêδïñ!</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>BanTableModel</name>♪◙    <message>♪◙        <source>IP/Netmask</source>♪◙        <translation>IP/Netmask</translation>♪◙    </message>♪◙    <message>♪◙        <source>Banned Until</source>♪◙        <translation>Ω╣î∞ºÇ ∞á£φò£δÉ¿</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>Bip38ToolDialog</name>♪◙    <message>♪◙        <source>BIP 38 Tool</source>♪◙        <translation>BIP 38 δÅäΩ╡¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP 38 Encrypt</source>♪◙        <translation>BIP 38 ∞òöφÿ╕φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address:</source>♪◙        <translation>∞ú╝∞åî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>♪◙        <translation>BIP 38 ∞òîΩ│áδª¼∞ªÿ∞£╝δí£ ∞òöφÿ╕φÖöφòá CRyptoCrowd ∞ºÇΩ░æ ∞ú╝∞åîδÑ╝ ∞₧àδáÑ. ∞ñæΩ░äδ░ò∞èñ∞ùÉ ∞òöφÿ╕Ω╡¼∞áê ∞₧àδáÑ. ∞òöφÿ╕φÖöδÉ£ Ω░£∞¥╕φéñδÑ╝ Ω│ä∞é░φòÿ∞ï£δáñδ⌐┤ ∞òöφÿ╕φÖö φü┤δª¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address to encrypt</source>♪◙        <translation>∞òöφÿ╕φÖöφòá CRyptoCrowd ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>∞¥┤∞áä∞ùÉ ∞é¼∞Ü⌐φò£ ∞ú╝∞åî ∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>φü┤δª╜δ│┤δô£∞ùÉ∞ä£ ∞ú╝∞åî δ╢Ö∞ù¼ δäúΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Passphrase: </source>♪◙        <translation>∞òöφÿ╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypted Key:</source>♪◙        <translation>∞òöφÿ╕φÖöδÉ£ φéñ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the current signature to the system clipboard</source>♪◙        <translation>φÿä∞₧¼ ∞ä£δ¬à∞¥ä ∞ï£∞èñφà£ φü┤δª╜ δ│┤δô£∞ùÉ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt the private key for this CRyptoCrowd address</source>♪◙        <translation>∞¥┤ CRyptoCrowd ∞ú╝∞åî∞¥ÿ Ω░£∞¥╕φéñ ∞òöφÿ╕φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all fields</source>♪◙        <translation>δª¼∞àï</translation>♪◙    </message>♪◙    <message>♪◙        <source>The encrypted private key</source>♪◙        <translation>∞òöφÿ╕φÖöδÉ£ Ω░£∞¥╕φéñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypt the entered key using the passphrase</source>♪◙        <translation>∞òöφÿ╕Ω╡¼∞áê∞¥ä ∞é¼∞Ü⌐φòÿ∞ù¼ ∞₧àδáÑ φò£ φéñ ∞òöφÿ╕ φò┤δÅà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt Key</source>♪◙        <translation>∞òöφÿ╕φÖö  φéñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>∞áä∞▓┤ ∞ºÇ∞Ü░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP 38 Decrypt</source>♪◙        <translation>BIP 38 ∞òöφÿ╕φÖö φò┤∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the BIP 38 encrypted private key. Enter the passphrase in the middle box. Click Decrypt Key to compute the private key. After the key is decrypted, clicking 'Import Address' will add this private key to the wallet.</source>♪◙        <translation>BIP 38 ∞òöφÿ╕φÖö δÉ£ Ω░£∞¥╕ φéñδÑ╝ ∞₧àδáÑφòÿ∞ï¡∞ï£∞ÿñ. ∞ñæΩ░ä ∞₧àδáÑ∞░╜∞ùÉ ∞òöφÿ╕δÑ╝ ∞₧àδáÑφòÿ∞ï¡∞ï£∞ÿñ. φéñδÑ╝ ∞òöφÿ╕φò┤∞á£ φ¢ä '∞ú╝∞åî Ω░Ç∞á╕∞ÿñΩ╕░'δÑ╝ φü┤δª¡φòÿδ⌐┤ Ω░£∞¥╕ φéñΩ░Ç ∞ºÇΩ░æ∞ùÉ ∞╢öΩ░ÇδÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypt Key</source>♪◙        <translation>∞òöφÿ╕φò┤∞á£ φéñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypted Key:</source>♪◙        <translation>∞òöφÿ╕φò┤∞á£δÉ£ φéñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Import Address</source>♪◙        <translation>∞ú╝∞åî Ω░Ç∞á╕∞ÿñΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Click "Decrypt Key" to compute key</source>♪◙        <translation>"φéñ ∞òöφÿ╕φò┤∞á£"δÑ╝ φü┤δª¡φòÿ∞ù¼ φéñδÑ╝ ∞₧àδáÑφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered passphrase is invalid. </source>♪◙        <translation>∞₧àδáÑφò£ ∞òöφÿ╕ δ¼╕Ω╡¼Ω░Ç ∞₧ÿδ¬╗δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allowed: 0-9,a-z,A-Z,</source>♪◙        <translation>∞é¼∞Ü⌐Ω░ÇδèÑ: 0-9,a-z,A-Z,</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address is invalid.</source>♪◙        <translation>∞₧àδáÑφò£ ∞ú╝∞åîΩ░Ç ∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the address and try again.</source>♪◙        <translation>∞ú╝∞åîδÑ╝ δïñ∞ï£ φÖò∞¥╕φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address does not refer to a key.</source>♪◙        <translation>∞₧àδáÑφò£ ∞ú╝∞åîΩ░Ç φéñδÑ╝ ∞░╕∞í░φòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock was cancelled.</source>♪◙        <translation>∞ºÇΩ░æ ∞₧áΩ╕ê φò┤∞á£Ω░Ç ∞╖¿∞åîδÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Private key for the entered address is not available.</source>♪◙        <translation>∞₧àδáÑφò£ ∞ú╝∞åî∞¥ÿ Ω░£∞¥╕ φéñδÑ╝ ∞é¼∞Ü⌐φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to decrypt.</source>♪◙        <translation>∞òöφÿ╕φò┤∞á£∞ùÉ ∞ïñφî¿φòÿ∞ÿÇ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the key and passphrase and try again.</source>♪◙        <translation>φéñ∞ÖÇ ∞òöφÿ╕δÑ╝ φÖò∞¥╕φòÿΩ│á δïñ∞ï£ ∞ï£δÅäφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Data Not Valid.</source>♪◙        <translation>δì░∞¥┤φä░Ω░Ç ∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please try again.</source>♪◙        <translation>δïñ∞ï£ ∞ï£δÅäφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please wait while key is imported</source>♪◙        <translation>φéñδÑ╝ Ω░Ç∞á╕∞ÿñδèö δÅÖ∞òê Ω╕░δïñδáñ∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Key Already Held By Wallet</source>♪◙        <translation>∞¥┤δ»╕ ∞ºÇΩ░æ∞ùÉ∞ä£ ∞é¼∞Ü⌐δÉ£ φéñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error Adding Key To Wallet</source>♪◙        <translation>∞ºÇΩ░æ∞ùÉ φéñδÑ╝ ∞╢öΩ░Çφòÿδèö δÅä∞ñæ ∞ùÉδƒ¼Ω░Ç δ░£∞â¥φûê∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Successfully Added Private Key To Wallet</source>♪◙        <translation>∞ºÇΩ░æ∞ùÉ Ω░£∞¥╕ φéñδÑ╝ ∞╢öΩ░Çφòÿ∞ÿÇ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>BitcoinGUI</name>♪◙    <message>♪◙        <source>Wallet</source>♪◙        <translation>∞ºÇΩ░æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Node</source>♪◙        <translation>δà╕δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Overview</source>♪◙        <translation>Ω░£∞Üö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show general overview of wallet</source>♪◙        <translation>∞ºÇΩ░æ∞¥ÿ ∞¥╝δ░ÿ∞áü∞¥╕ Ω░£∞Üö φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send</source>♪◙        <translation>δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receive</source>♪◙        <translation>δ░¢Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transactions</source>♪◙        <translation>Ω▒░δ₧ÿδé┤∞ù¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Browse transaction history</source>♪◙        <translation>Ω▓¿δ₧ÿδé┤∞ù¡ δ│┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Privacy Actions for zXCRC</source>♪◙        <translation>zXCRC ∞â¥∞ä▒ δ░Å Ω┤Çδª¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exit</source>♪◙        <translation>∞óàδúî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quit application</source>♪◙        <translation>∞û┤φöîδª¼∞╝Ç∞¥┤∞àÿ ∞óàδúî</translation>♪◙    </message>♪◙    <message>♪◙        <source>About Qt</source>♪◙        <translation>Qt ∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show information about Qt</source>♪◙        <translation>Qt∞ùÉ δîÇφò£ ∞áòδ│┤ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Options...</source>♪◙        <translation>∞ÿ╡∞àÿ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show / Hide</source>♪◙        <translation>δ│┤∞¥┤Ω╕░ / ∞ê¿Ω╕░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show or hide the main Window</source>♪◙        <translation>Ω╕░δ│╕ ∞░╜ δ│┤∞¥┤Ω╕░ δÿÉδèö ∞ê¿Ω╕░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt Wallet...</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕φÖö...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt the private keys that belong to your wallet</source>♪◙        <translation>∞ºÇΩ░æ Ω░£∞¥╕ φéñ ∞òöφÿ╕φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Backup Wallet...</source>♪◙        <translation>∞ºÇΩ░æ δ░▒∞ùà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Backup wallet to another location</source>♪◙        <translation>δïñδÑ╕ ∞£ä∞╣ÿ∞ùÉ ∞ºÇΩ░æ δ░▒∞ùà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change Passphrase...</source>♪◙        <translation>∞òöφÿ╕ δ│ÇΩ▓╜...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change the passphrase used for wallet encryption</source>♪◙        <translation>∞ºÇΩ░æ ∞òöφÿ╕φÖö∞ùÉ ∞é¼∞Ü⌐δÉÿδèö ∞òöφÿ╕ δ│ÇΩ▓╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock Wallet...</source>♪◙        <translation>∞ºÇΩ░æ ∞₧áΩ╕êφò┤∞á£...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock wallet</source>♪◙        <translation>∞ºÇΩ░æ ∞₧áΩ╕êφò┤∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock Wallet</source>♪◙        <translation>∞ºÇΩ░æ ∞₧áΩ╕ê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign message...</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ ∞ä£δ¬à...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify message...</source>♪◙        <translation>δ⌐ö∞ï£∞ºÇ φÖò∞¥╕...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show diagnostic information</source>♪◙        <translation>∞ºäδï¿ ∞áòδ│┤ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debug console</source>♪◙        <translation>δööδ▓äΩ╖╕ ∞╜ÿ∞åö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open debugging console</source>♪◙        <translation>δööδ▓äΩ╣à ∞╜ÿ∞åö ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network Monitor</source>♪◙        <translation>δäñφè╕∞¢îφü¼ δ¬¿δïêφä░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show network monitor</source>♪◙        <translation>δäñφè╕∞¢îφü¼ δ¬¿δïêφä░ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Peers list</source>♪◙        <translation>φö╝∞û┤ δ¬⌐δí¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show peers info</source>♪◙        <translation>φö╝∞û┤ ∞áòδ│┤ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet Repair</source>♪◙        <translation>∞ºÇΩ░æ δ│╡Ω╡¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show wallet repair options</source>♪◙        <translation>∞ºÇΩ░æ δ│╡Ω╡¼ ∞ÿ╡∞àÿ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open configuration file</source>♪◙        <translation>Ω╡¼∞ä▒ φîî∞¥╝ ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show Automatic Backups</source>♪◙        <translation>∞₧ÉδÅÖ δ░▒∞ùà φÅ┤δìö ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show automatically created wallet backups</source>♪◙        <translation>∞₧ÉδÅÖ ∞â¥∞ä▒δÉ£ ∞ºÇΩ░æ δ░▒∞ùà φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending addresses...</source>♪◙        <translation>∞åíΩ╕ê ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the list of used sending addresses and labels</source>♪◙        <translation>∞åíΩ╕ê ∞ú╝∞åî δ░Å δ¥╝δ▓¿ δ¬⌐δí¥ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receiving addresses...</source>♪◙        <translation>∞₧àΩ╕ê ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the list of used receiving addresses and labels</source>♪◙        <translation>∞₧àΩ╕ê ∞ú╝∞åî δ░Å δ¥╝δ▓¿ δ¬⌐δí¥ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Multisignature creation...</source>♪◙        <translation>δ⌐Çφï░∞ï£Ω╖╕δäê∞│É ∞â¥∞ä▒...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a new multisignature address and add it to this wallet</source>♪◙        <translation>∞ïáΩ╖£ δ⌐Çφï░∞ï£Ω╖╕δäê∞│É ∞ú╝∞åî ∞â¥∞ä▒ δ░Å ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Multisignature spending...</source>♪◙        <translation>δ⌐Çφï░∞ï£Ω╖╕δäê∞│É ∞áä∞åí∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend from a multisignature address</source>♪◙        <translation>δ⌐Çφï░∞ï£Ω╖╕δäê∞│É ∞ú╝∞åî∞ùÉ∞ä£ ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Multisignature signing...</source>♪◙        <translation>δ⌐Çφï░∞ï£Ω╖╕δäê∞│É ∞ä£δ¬à∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign with a multisignature address</source>♪◙        <translation>δ⌐Çφï░∞ï£Ω╖╕δäê∞│É ∞ú╝∞åîδí£ ∞ä£δ¬à</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open URI...</source>♪◙        <translation>URI ∞ù┤Ω╕░...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Command-line options</source>♪◙        <translation>δ¬àδá╣φûë ∞ÿ╡∞àÿ</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>Processed %n blocks of transaction history.</source>♪◙        <translation><numerusform>%n δ╕öδí¥∞¥ÿ Ω▒░δ₧ÿδé┤∞ù¡ φÖò∞¥╕δÉ¿</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing additional data: %p%</source>♪◙        <translation>∞╢öΩ░Ç δì░∞¥┤φä░ δÅÖΩ╕░φÖö: %p%</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 behind. Scanning block %2</source>♪◙        <translation>%1 δé¿∞¥î. %2 δ╕öδí¥ ∞èñ∞║ö∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>♪◙        <translation>φÿä∞₧¼ ∞ºÇΩ░æ∞¥Ç &lt;b&gt;∞òöφÿ╕φÖö&lt;/b&gt; δÉÿ∞û┤ &lt;b&gt;∞₧áΩ╕┤&lt;/b&gt; ∞âüφâ£δí£ ∞èñφàî∞¥┤φé╣ ∞áä∞Ü⌐δ¬¿δô£δí£ ∞òê∞áäφòÿΩ▓î Ω╡¼δÅÖ∞ñæ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>File</source>♪◙        <translation>φîî∞¥╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Settings</source>♪◙        <translation>∞äñ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tools</source>♪◙        <translation>δÅäΩ╡¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Help</source>♪◙        <translation>δÅä∞¢ÇδºÉ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tabs toolbar</source>♪◙        <translation>φâ¡ δÅäΩ╡¼ δ¬¿∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send coins to a CRyptoCrowd address</source>♪◙        <translation>CRyptoCrowd ∞ú╝∞åîδí£ ∞₧àΩ╕êφòÿΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ (QR ∞╜öδô£ δ░Å CRyptoCrowd: URI ∞â¥∞ä▒)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Privacy</source>♪◙        <translation>φöäδ¥╝∞¥┤δ▓ä∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternodes</source>♪◙        <translation>δºê∞èñφä░δà╕δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Browse masternodes</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω▓Ç∞âë</translation>♪◙    </message>♪◙    <message>♪◙        <source>About CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core ∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show information about CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core∞ùÉ δîÇφò£ ∞áòδ│┤ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Modify configuration options for CRyptoCrowd</source>♪◙        <translation>CRyptoCrowd∞ùÉ δîÇφò£ Ω╡¼∞ä▒ ∞ÿ╡∞àÿ ∞êÿ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>♪◙        <translation>CRyptoCrowd ∞ú╝∞åîδí£ δ⌐ö∞ï£∞ºÇ∞ùÉ ∞ä£δ¬àφòÿ∞ù¼ ∞åî∞£áφòÿΩ│á ∞₧ê∞¥î∞¥ä ∞ª¥δ¬àφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>♪◙        <translation>δ⌐ö∞ï£∞ºÇΩ░Ç ∞ºÇ∞áòδÉ£ CRyptoCrowd ∞ú╝∞åîδí£ ∞ä£δ¬àδÉÿ∞ùêδèö∞ºÇ φÖò∞¥╕φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP38 tool</source>♪◙        <translation>BIP38 δÅäΩ╡¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt and decrypt private keys using a passphrase</source>♪◙        <translation>∞òöφÿ╕δÑ╝ ∞é¼∞Ü⌐φòÿ∞ù¼ Ω░£∞¥╕ φéñ ∞òöφÿ╕φÖö δ░Å ∞òöφÿ╕φò┤∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend Settings</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí ∞äñ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Wallet Configuration File</source>♪◙        <translation>∞ºÇΩ░æ Ω╡¼∞ä▒ φîî∞¥╝ ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Masternode Configuration File</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω╡¼∞ä▒ φîî∞¥╝ ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Masternode configuration file</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω╡¼∞ä▒ φîî∞¥╝ ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open a CRyptoCrowd: URI or payment request</source>♪◙        <translation>CRyptoCrowd: URI δÿÉδèö ΓÇïΓÇïΩ▓░∞á£ ∞Üö∞▓¡ ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Blockchain explorer</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕ φâÉ∞âëΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Block explorer window</source>♪◙        <translation>δ╕öδí¥ φâÉ∞âë ∞░╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>♪◙        <translation>CRyptoCrowd Core δÅä∞¢ÇδºÉ δ⌐ö∞ä╕∞ºÇδÑ╝ φæ£∞ï£φòÿ∞ù¼ ∞é¼∞Ü⌐ Ω░ÇδèÑφò£ CRyptoCrowd δ¬àδá╣φûë ∞ÿ╡∞àÿ δ¬⌐δí¥ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core client</source>♪◙        <translation>CRyptoCrowd Core φü┤δ¥╝∞¥┤∞û╕φè╕</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n active connection(s) to CRyptoCrowd network</source>♪◙        <translation><numerusform>%n Ω░£∞¥ÿ CRyptoCrowd δäñφè╕∞¢ì∞ùÉ ∞ù░Ω▓░δÉ¿</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing with network...</source>♪◙        <translation>δäñφè╕∞¢îφü¼ δÅÖΩ╕░φÖö∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Importing blocks from disk...</source>♪◙        <translation>δöö∞èñφü¼∞ùÉ∞ä£ δ╕öδí¥ Ω░Ç∞á╕∞ÿñΩ╕░...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindexing blocks on disk...</source>♪◙        <translation>δöö∞èñφü¼ δ╕öδí¥ ∞₧¼∞âë∞¥╕...</translation>♪◙    </message>♪◙    <message>♪◙        <source>No block source available...</source>♪◙        <translation>∞é¼∞Ü⌐ Ω░ÇδèÑφò£ δ╕öδí¥ ∞åî∞èñ ∞ùå∞¥î...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Up to date</source>♪◙        <translation>∞╡£∞ïá</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n hour(s)</source>♪◙        <translation><numerusform>%n ∞ï£Ω░ä</numerusform></translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n day(s)</source>♪◙        <translation><numerusform>%n ∞¥╝</numerusform></translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n week(s)</source>♪◙        <translation><numerusform>%n ∞ú╝</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 and %2</source>♪◙        <translation>%1 Ω╖╕δª¼Ω│á %2</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n year(s)</source>♪◙        <translation><numerusform>%n δàä</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Catching up...</source>♪◙        <translation>δÅÖΩ╕░φÖö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last received block was generated %1 ago.</source>♪◙        <translation>δºê∞ºÇδºë∞£╝δí£ δ░¢∞¥Ç δ╕öδí¥∞¥┤ %1 ∞áä∞ùÉ ∞â¥∞ä▒δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transactions after this will not yet be visible.</source>♪◙        <translation>∞¥┤φ¢ä∞¥ÿ φè╕δ₧£∞₧¡∞àÿ∞¥Ç ∞òä∞ºü φæ£∞ï£δÉÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error</source>♪◙        <translation>∞ùÉδƒ¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning</source>♪◙        <translation>Ω▓╜Ω│á</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent transaction</source>♪◙        <translation>δ│┤δé╕ δé┤∞ù¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Incoming transaction</source>♪◙        <translation>δ░¢∞¥Ç δé┤∞ù¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent MultiSend transaction</source>♪◙        <translation>δïñ∞ñæ δ│┤δé┤Ω╕░ δ░⌐∞ï¥∞£╝δí£ δ│┤δâä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Date: %1♪◙Amount: %2♪◙Type: %3♪◙Address: %4♪◙</source>♪◙        <translation>δéá∞º£: %1♪◙Ω╕ê∞òí: %2♪◙∞£áφÿò: %3♪◙∞ú╝∞åî: %4♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staking is active♪◙ MultiSend: %1</source>♪◙        <translation>∞èñφàî∞¥┤φé╣ φÖ£∞ä▒φÖö♪◙δïñ∞ñæ∞áä∞åí: %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Active</source>♪◙        <translation>δêä∞áü φÖ£∞ä▒ ∞ï£Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not Active</source>♪◙        <translation>δ╣äφÖ£∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staking is not active♪◙ MultiSend: %1</source>♪◙        <translation>∞èñφàî∞¥┤φé╣∞¥┤ φÖ£∞ä▒φÖö δÉÿ∞ºÇ ∞òè∞¥î♪◙δïñ∞ñæ∞áä∞åí: %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint is currently enabled and set to </source>♪◙        <translation>∞₧ÉδÅÖ ∞â¥∞ä▒Ω╕░δèÑ∞¥┤ φÿä∞₧¼ ∞₧æδÅÖ∞ñæ Ω╖╕δª¼Ω│á </translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint is disabled</source>♪◙        <translation>∞₧ÉδÅÖ∞â¥∞ä▒∞¥┤ δ╣äφÖ£∞ä▒φÖö δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>♪◙        <translation>φÿä∞₧¼ ∞ºÇΩ░æ∞¥Ç &lt;b&gt;∞òöφÿ╕φÖöδÉÿ∞û┤ &lt;b&gt;∞₧áΩ╕êφò┤∞á£δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>♪◙        <translation>∞ºÇΩ░æ∞¥Ç &lt;b&gt;∞òöφÿ╕φÖö&lt;/ b&gt;δÉÿ∞û┤ ∞₧ê∞£╝δ⌐░ φÿä∞₧¼ &lt;b&gt;∞₧áΩ▓¿ ∞₧ê∞è╡δïêδïñ&lt;/ b&gt;.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>BlockExplorer</name>♪◙    <message>♪◙        <source>Blockchain Explorer</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕ φâÉ∞âëΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Back</source>♪◙        <translation>δÆñδí£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Forward</source>♪◙        <translation>∞ò₧∞£╝δí£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address / Block / Transaction</source>♪◙        <translation>∞ú╝∞åî / δ╕öδí¥ / φè╕δ₧£∞₧¡∞àÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Search</source>♪◙        <translation>Ω▓Ç∞âë</translation>♪◙    </message>♪◙    <message>♪◙        <source>TextLabel</source>♪◙        <translation>φàì∞èñφè╕δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>♪◙        <translation>δ¬¿δôá φè╕δ₧£∞₧¡∞àÿ∞¥┤ φæ£∞ï£δÉÿ∞ºÇδèö ∞òè∞è╡δïêδïñ. δ¬¿δôá φè╕δ₧£∞₧¡∞àÿ∞¥ä δ│┤δáñδ⌐┤ Ω╡¼∞ä▒ φîî∞¥╝ (cryptocrowd.conf)∞ùÉ txindex = 1∞¥ä ∞äñ∞áòφò┤∞ò╝φò⌐δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ClientModel</name>♪◙    <message>♪◙        <source>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Unknown: %5)</source>♪◙        <translation>∞áä∞▓┤ : %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / δ»╕φÖò∞¥╕: %5)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network Alert</source>♪◙        <translation>δäñφè╕∞¢îφü¼ ∞òîδª╝</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>CoinControlDialog</name>♪◙    <message>♪◙        <source>Quantity:</source>♪◙        <translation>∞êÿδƒë:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes:</source>♪◙        <translation>δ░ö∞¥┤φè╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Priority:</source>♪◙        <translation>∞Ü░∞äá ∞ê£∞£ä:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fee:</source>♪◙        <translation>∞êÿ∞êÿδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Selection</source>♪◙        <translation>∞╜ö∞¥╕ ∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Dust:</source>♪◙        <translation>φÿäΩ╕ê:</translation>♪◙    </message>♪◙    <message>♪◙        <source>After Fee:</source>♪◙        <translation>∞╡£∞óà Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change:</source>♪◙        <translation>∞₧öδÅê:</translation>♪◙    </message>♪◙    <message>♪◙        <source>(un)select all</source>♪◙        <translation>δ¬¿δæÉ ∞äáφâ¥(φò┤∞á£)</translation>♪◙    </message>♪◙    <message>♪◙        <source>toggle lock state</source>♪◙        <translation>φåáΩ╕Ç ∞₧áΩ╕ê∞âüφâ£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tree mode</source>♪◙        <translation>φè╕δª¼ δ¬¿δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>List mode</source>♪◙        <translation>δ¬⌐δí¥ δ¬¿δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>(1 locked)</source>♪◙        <translation>(1 ∞₧áΩ╣Ç)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>Ω╕ê∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received with label</source>♪◙        <translation>∞êÿ∞ïá δÉ£ δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received with address</source>♪◙        <translation>∞êÿ∞ïá δÉ£ ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type</source>♪◙        <translation>δ╢äδÑÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>δéá∞º£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmations</source>♪◙        <translation>φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmed</source>♪◙        <translation>φÖò∞áòδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Priority</source>♪◙        <translation>∞Ü░∞äá ∞é¼φò¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy address</source>♪◙        <translation>∞ú╝∞åî δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy label</source>♪◙        <translation>δ¥╝δ▓¿ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>Ω╕ê∞òí δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy transaction ID</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ID δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock unspent</source>♪◙        <translation>∞₧áΩ╕êδÉÿ∞ºÇ ∞òè∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock unspent</source>♪◙        <translation>∞₧áΩ╕êφò┤∞á£δÉÿ∞ºÇ ∞òè∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy quantity</source>♪◙        <translation>∞êÿδƒë δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy fee</source>♪◙        <translation>∞êÿ∞êÿδúî δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy after fee</source>♪◙        <translation>∞¥┤∞Ü⌐ ∞êÿ∞êÿδúî δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy bytes</source>♪◙        <translation>δ░ö∞¥┤φè╕ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy priority</source>♪◙        <translation>∞Ü░∞äá ∞é¼φò¡ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy dust</source>♪◙        <translation>φÿäΩ╕ê δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy change</source>♪◙        <translation>δ│ÇΩ▓╜ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please switch to "List mode" to use this function.</source>♪◙        <translation>∞¥┤ Ω╕░δèÑ∞¥ä ∞é¼∞Ü⌐φòÿδáñδ⌐┤ "δ¬⌐δí¥ δ¬¿δô£"δí£ ∞áäφÖÿφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>highest</source>♪◙        <translation>9 ∞╡£Ω│á</translation>♪◙    </message>♪◙    <message>♪◙        <source>higher</source>♪◙        <translation>8 δºñ∞Ü░ δåÆ∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>high</source>♪◙        <translation>7 δåÆ∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>medium-high</source>♪◙        <translation>6 ∞ò╜Ω░ä δåÆ∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>medium</source>♪◙        <translation>5 ∞ñæΩ░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>low-medium</source>♪◙        <translation>4 δé«∞¥Ç ∞ñæΩ░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>low</source>♪◙        <translation>3 δé«∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>lower</source>♪◙        <translation>2 δºñ∞Ü░ δé«∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>lowest</source>♪◙        <translation>1 ∞╡£∞áÇ</translation>♪◙    </message>♪◙    <message>♪◙        <source>(%1 locked)</source>♪◙        <translation>(%1 ∞₧áΩ╣Ç)</translation>♪◙    </message>♪◙    <message>♪◙        <source>none</source>♪◙        <translation>∞ùå∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>yes</source>♪◙        <translation>∞ÿê</translation>♪◙    </message>♪◙    <message>♪◙        <source>no</source>♪◙        <translation>∞òäδïê∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ φü¼Ω╕░Ω░Ç 1000 byte δ│┤δïñ φü┤ Ω▓╜∞Ü░ δ¥╝δ▓¿∞¥┤ δ╣¿Ω░ä∞âë∞£╝δí£ δ│ÇΩ▓╜δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This means a fee of at least %1 per kB is required.</source>♪◙        <translation>∞ªë, KB δï╣ ∞╡£∞åî %1 ∞¥ÿ ∞êÿ∞êÿδúîΩ░Ç φòä∞Üöφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can vary +/- 1 byte per input.</source>♪◙        <translation>∞₧àδáÑδï╣ +/- 1 byte ∞í░∞áê Ω░ÇδèÑ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transactions with higher priority are more likely to get included into a block.</source>♪◙        <translation>∞Ü░∞äá ∞ê£∞£äΩ░Ç δåÆ∞¥Ç φè╕δ₧£∞₧¡∞àÿ∞¥┤ δ╕öδí¥∞ùÉ φÅ¼φò¿ δÉá φÖòδÑá∞¥┤ δåÆ∞òä∞ºæδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This label turns red, if the priority is smaller than "medium".</source>♪◙        <translation>∞Ü░∞äá ∞ê£∞£äΩ░Ç "∞ñæΩ░ä" δ│┤δïñ δé«∞£╝δ⌐┤ δ¥╝δ▓¿∞¥┤ δ╣¿Ω░ä∞âë∞£╝δí£ δ│ÇΩ▓╜δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This label turns red, if any recipient receives an amount smaller than %1.</source>♪◙        <translation>δ░¢δèö ∞é¼δ₧î∞¥┤ %1 δ│┤δïñ ∞₧æ∞¥Ç Ω╕ê∞òí∞¥ä δ░¢∞£╝δ⌐┤ δ¥╝δ▓¿∞¥┤ δ╣¿Ω░ä∞âë∞£╝δí£ δ│ÇΩ▓╜δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>♪◙        <translation>Can vary +/- %1 uCRyptoCrowd per input.</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(δ¥╝δ▓¿ ∞ùå∞¥î)</translation>♪◙    </message>♪◙    <message>♪◙        <source>change from %1 (%2)</source>♪◙        <translation>%1 (%2) ∞ùÉ∞ä£ δ│ÇΩ▓╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>(change)</source>♪◙        <translation>(∞₧öδÅê)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>EditAddressDialog</name>♪◙    <message>♪◙        <source>Edit Address</source>♪◙        <translation>∞ú╝∞åî ∞êÿ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>The label associated with this address list entry</source>♪◙        <translation>∞¥┤ ∞ú╝∞åî δ¬⌐δí¥Ω│╝ Ω┤Çδá¿δÉ£ δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>♪◙        <translation>∞¥┤ ∞ú╝∞åî δ¬⌐δí¥Ω│╝ Ω┤Çδá¿δÉ£ ∞ú╝∞åî∞₧àδïêδïñ. ∞ú╝∞åîδÑ╝ δ│┤δé╝ δòîδºî ∞êÿ∞áòφòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>New receiving address</source>♪◙        <translation>∞âêδí£∞Ü┤ δ░¢δèö ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>New sending address</source>♪◙        <translation>∞âêδí£∞Ü┤ δ│┤δé┤δèö ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit receiving address</source>♪◙        <translation>δ░¢δèö ∞ú╝∞åî ∞êÿ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit sending address</source>♪◙        <translation>δ│┤δé┤δèö ∞ú╝∞åî ∞êÿ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>♪◙        <translation>∞₧àδáÑδÉ£ ∞ú╝∞åî "%1"δèö ∞ÿ¼δ░öδÑ╕ CRyptoCrowd ∞ú╝∞åîΩ░Ç ∞òäδïÖδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address "%1" is already in the address book.</source>♪◙        <translation>∞₧àδáÑφò£ ∞ú╝∞åî "%1"δèö ∞¥┤δ»╕ ∞ú╝∞åîδí¥∞ùÉ δô▒δí¥ δÉÿ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Could not unlock wallet.</source>♪◙        <translation>∞ºÇΩ░æ∞¥ÿ ∞₧áΩ╕ê∞¥ä φò┤∞á£φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>New key generation failed.</source>♪◙        <translation>∞âêδí£∞Ü┤ φéñ ∞â¥∞ä▒∞ùÉ ∞ïñφî¿φòÿ∞ÿÇ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>FreespaceChecker</name>♪◙    <message>♪◙        <source>A new data directory will be created.</source>♪◙        <translation>∞âêδí£∞Ü┤ δì░∞¥┤φä░ δööδáëφåáδª¼Ω░Ç ∞â¥∞ä▒δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>name</source>♪◙        <translation>∞¥┤δªä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>♪◙        <translation>δööδáëφåáδª¼Ω░Ç ∞¥┤δ»╕ ∞í┤∞₧¼φò⌐δïêδïñ. ∞ù¼Ω╕░∞ùÉ ∞âêδí£∞Ü┤ δööδáëφåáδª¼δÑ╝ δºîδôñδáñδ⌐┤ %1∞¥ä ∞╢öΩ░Çφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Path already exists, and is not a directory.</source>♪◙        <translation>Ω▓╜δí£Ω░Ç ∞¥┤δ»╕ ∞í┤∞₧¼φòÿδ⌐░ δööδáëφåáδª¼Ω░Ç ∞òäδïÖδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot create data directory here.</source>♪◙        <translation>∞ù¼Ω╕░∞ùÉ δööδáëφåáδª¼δÑ╝ δºîδôñ ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>HelpMessageDialog</name>♪◙    <message>♪◙        <source>version</source>♪◙        <translation>δ▓ä∞áä</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>(%1-bit)</source>♪◙        <translation>(%1-bit)</translation>♪◙    </message>♪◙    <message>♪◙        <source>About CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core ∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Command-line options</source>♪◙        <translation>δ¬àδá╣φûë ∞ÿ╡∞àÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Usage:</source>♪◙        <translation>∞é¼∞Ü⌐:</translation>♪◙    </message>♪◙    <message>♪◙        <source>command-line options</source>♪◙        <translation>δ¬àδá╣φûë ∞ÿ╡∞àÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>UI Options:</source>♪◙        <translation>UI ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose data directory on startup (default: %u)</source>♪◙        <translation>δì░∞¥┤φä░ δööδáëφåáδª¼ ∞äáφâ¥ (Ω╕░δ│╕: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show splash screen on startup (default: %u)</source>♪◙        <translation>∞ïñφûë∞ï£ ∞┤êΩ╕░φÖöδ⌐┤ φæ£∞ï£ (Ω╕░δ│╕: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set language, for example "de_DE" (default: system locale)</source>♪◙        <translation>∞û╕∞û┤ ∞äñ∞áò ∞ÿê∞ï£ "de_DE" (Ω╕░δ│╕Ω░Æ: ∞ï£∞èñφà£ ∞û╕∞û┤)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start minimized</source>♪◙        <translation>∞ï£∞₧æ∞ï£ ∞╡£∞åîφÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set SSL root certificates for payment request (default: -system-)</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡∞ùÉ δîÇφò£ SSL δú¿φè╕ ∞¥╕∞ª¥∞ä£ ∞äñ∞áò (Ω╕░δ│╕Ω░Æ: -system-)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>Intro</name>♪◙    <message>♪◙        <source>Welcome</source>♪◙        <translation>φÖÿ∞ÿüφò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Welcome to CRyptoCrowd Core.</source>♪◙        <translation>CRyptoCrowd Core∞ùÉ ∞ÿñ∞ïá Ω▓â∞¥ä φÖÿ∞ÿüφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>♪◙        <translation>∞¥┤ φöäδí£Ω╖╕δ₧¿∞¥┤ ∞▓ÿ∞¥î ∞ïñφûëδÉÿ∞ùê∞£╝δ»Çδí£ CRyptoCrowd CoreΩ░Ç δì░∞¥┤φä░δÑ╝ ∞áÇ∞₧Ñφòá ∞£ä∞╣ÿδÑ╝ ∞äáφâ¥φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>♪◙        <translation>CRyptoCrowd Coreδèö CRyptoCrowd δ╕öδí¥∞▓┤∞¥╕∞¥ä δïñ∞Ü┤δí£δô£φòÿ∞ù¼ ∞áÇ∞₧Ñφò⌐δïêδïñ. ∞╡£∞åî %1GB∞¥ÿ δì░∞¥┤φä░Ω░Ç δööδáëφåáδª¼∞ùÉ ∞áÇ∞₧ÑδÉÿδ⌐░ ∞ï£Ω░ä∞¥┤ ∞ºÇδéá∞êÿδí¥ ∞ª¥Ω░Çφò⌐δïêδïñ. δÿÉφò£ ∞ºÇΩ░æδÅä φò┤δï╣ δööδáëφåáδª¼∞ùÉ ∞áÇ∞₧ÑδÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use the default data directory</source>♪◙        <translation>Ω╕░δ│╕ δì░∞¥┤φä░ δööδáëφåáδª¼ ∞é¼∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use a custom data directory:</source>♪◙        <translation>∞é¼∞Ü⌐∞₧É ∞ºÇ∞áò δì░∞¥┤φä░ δööδáëφåáδª¼ ∞é¼∞Ü⌐:</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Specified data directory "%1" cannot be created.</source>♪◙        <translation>∞ÿñδÑÿ: ∞ºÇ∞áòδÉ£ δì░∞¥┤φä░ δööδáëφåáδª¼ "%1"∞¥ä ∞â¥∞ä▒φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error</source>♪◙        <translation>∞ùÉδƒ¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 GB of free space available</source>♪◙        <translation>%1 GB∞¥ÿ ∞é¼∞Ü⌐ Ω░ÇδèÑφò£ ∞ù¼∞£á Ω│╡Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>(of %1 GB needed)</source>♪◙        <translation>(%1 GB φòä∞Üö)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>MasternodeList</name>♪◙    <message>♪◙        <source>Form</source>♪◙        <translation>Form</translation>♪◙    </message>♪◙    <message>♪◙        <source>MASTERNODES</source>♪◙        <translation>δºê∞èñφä░δà╕δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your node should be running but you still see "MISSING" in "Status" field.</source>♪◙        <translation>∞░╕Ω│á: </translation>♪◙    </message>♪◙    <message>♪◙        <source>Alias</source>♪◙        <translation>∞¥┤δªä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Protocol</source>♪◙        <translation>φöäδí£φåá∞╜£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status</source>♪◙        <translation>∞âüφâ£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Active</source>♪◙        <translation>δêä∞áü φÖ£∞ä▒ ∞ï£Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last Seen (UTC)</source>♪◙        <translation>∞╡£Ω╖╝ ∞ùàδì░∞¥┤φè╕ (UTC)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pubkey</source>♪◙        <translation>Ω│╡Ω░£φéñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start alias</source>♪◙        <translation>δºê∞èñφè╕δà╕δô£ ∞ï£∞₧æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start all</source>♪◙        <translation>∞áä∞▓┤ ∞ï£∞₧æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start MISSING</source>♪◙        <translation>δêäδ¥╜δÉ£ δºê∞èñφè╕δà╕δô£ ∞ï£∞₧æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Update status</source>♪◙        <translation>∞ùàδì░∞¥┤φè╕ ∞âüφâ£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status will be updated automatically in (sec):</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ ∞âüφâ£δèö ∞₧ÉδÅÖ ∞ùàδì░∞¥┤φè╕δÉ⌐δïêδïñ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>0</source>♪◙        <translation>0</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start alias</source>♪◙        <translation>∞äáφâ¥ ∞ï£∞₧æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm masternode start</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ ∞ï£∞₧æ φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to start masternode %1?</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ %1∞¥ä ∞ï£∞₧æφòÿ∞ï£Ω▓á∞è╡δïêΩ╣î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm all masternodes start</source>♪◙        <translation>δ¬¿δôá δºê∞èñφä░δà╕δô£ ∞ï£∞₧æ φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to start ALL masternodes?</source>♪◙        <translation>δ¬¿δôá δºê∞èñφä░δà╕δô£δÑ╝ ∞ï£∞₧æφòÿ∞ï£Ω▓á∞è╡δïêΩ╣î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Command is not available right now</source>♪◙        <translation>φÿä∞₧¼ δ¬àδá╣∞¥ä ∞é¼∞Ü⌐φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>You can't use this command until masternode list is synced</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ δ¬⌐δí¥∞¥┤ δÅÖΩ╕░φÖö δÉá δòîΩ╣î∞ºÇ∞¥┤ δ¬àδá╣∞¥ä ∞é¼∞Ü⌐φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm missing masternodes start</source>♪◙        <translation>δêäδ¥╜δÉ£ δºê∞èñφä░δà╕δô£ φÖò∞¥╕ ∞ï£∞₧æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to start MISSING masternodes?</source>♪◙        <translation>δêäδ¥╜δÉ£ δºê∞èñφä░δà╕δô£δÑ╝ ∞ï£∞₧æφòÿ∞ï£Ω▓á∞è╡δïêΩ╣î?</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>MultiSendDialog</name>♪◙    <message>♪◙        <source>MultiSend</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter whole numbers 1 - 100</source>♪◙        <translation>1 - 100∞¥ÿ ∞áò∞êÿ ∞₧àδáÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter % to Give (1-100)</source>♪◙        <translation>δ╢Ç∞ù¼φòá % ∞₧àδáÑ (1-100)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter Address to Send to</source>♪◙        <translation>δ│┤δé╝ ∞ú╝∞åî ∞₧àδáÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.♪◙To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.♪◙To Delete: Enter address to delete and press delete.♪◙MultiSend will not be activated unless you have clicked Activate</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí∞¥ä ∞é¼∞Ü⌐φòÿδ⌐┤ ∞ä▒∞╖¿ φò£ δÆñ δïñδÑ╕ CRyptoCrowd ∞ú╝∞åî δ¬⌐δí¥∞ùÉ ∞╡£δîÇ 100% ∞èñφàî∞¥┤φü¼ δÿÉδèö δºê∞èñφä░δà╕δô£ δ│┤∞âü∞¥ä ∞₧ÉδÅÖ∞£╝δí£ δ│┤δé╝ ∞êÿ ∞₧ê∞è╡δïêδïñ.♪◙∞╢öΩ░Çφòÿδáñδ⌐┤ : δ╢Ç∞ù¼ φòá δ░▒δ╢ä∞£¿Ω│╝ δïñ∞ñæ∞áä∞åí δ▓íφä░∞ùÉ ∞╢öΩ░Ç φòá CRyptoCrowd ∞ú╝∞åîδÑ╝ ∞₧àδáÑφòÿ∞ï¡∞ï£∞ÿñ.♪◙∞é¡∞á£φòÿδáñδ⌐┤ ∞é¡∞á£φòá ∞ú╝∞åîδÑ╝ ∞₧àδáÑφòÿΩ│á ∞é¡∞á£δÑ╝ δêäδªàδïêδïñ.♪◙φÖ£∞ä▒φÖöδÑ╝ φü┤δª¡φòÿ∞ºÇ ∞òè∞£╝δ⌐┤ δïñ∞ñæ∞áä∞åí∞¥┤ φÖ£∞ä▒φÖöδÉÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add to MultiSend Vector</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí δ▓íφä░ ∞╢öΩ░Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add</source>♪◙        <translation>∞╢öΩ░Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Deactivate MultiSend</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí δ╣äφÖ£∞ä▒φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Deactivate</source>♪◙        <translation>δ╣äφÖ£∞ä▒φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose an address from the address book</source>♪◙        <translation>∞ú╝∞åîδí¥∞ùÉ∞ä£ ∞ú╝∞åî ∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage of stake to send</source>♪◙        <translation>∞áä∞åíφòá ∞èñφàî∞¥┤φü¼ δ╣ä∞£¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage:</source>♪◙        <translation>δ░▒δ╢ä∞£¿:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address to send portion of stake to</source>♪◙        <translation>∞èñφàî∞¥┤φü¼ ∞¥╝δ╢ÇδÑ╝ δ│┤δé╝ ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address:</source>♪◙        <translation>∞ú╝∞åî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label:</source>♪◙        <translation>Label:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a label for this address to add it to your address book</source>♪◙        <translation>∞ú╝∞åîδí¥∞ùÉ ∞╢öΩ░Çφòÿδáñδ⌐┤ ∞¥┤ ∞ú╝∞åî∞¥ÿ δ¥╝δ▓¿∞¥ä ∞₧àδáÑφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete Address From MultiSend Vector</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí δ▓íφä░∞ùÉ∞ä£ ∞ú╝∞åî ∞é¡∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete</source>♪◙        <translation>∞é¡∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Activate MultiSend</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí φÖ£∞ä▒φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Activate</source>♪◙        <translation>φÖ£∞ä▒φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>View MultiSend Vector</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí δ▓íφä░ δ│┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>View MultiSend</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí δ│┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send For Stakes</source>♪◙        <translation>∞èñφàî∞¥┤φü¼δÑ╝ ∞£äφò£ ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send For Masternode Rewards</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ δ│┤∞âü ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(δ¥╝δ▓¿ ∞ùå∞¥î)</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address:♪◙</source>♪◙        <translation>∞₧àδáÑδÉ£ ∞ú╝∞åî:♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source> is invalid.♪◙Please check the address and try again.</source>♪◙        <translation>∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞è╡δïêδïñ.♪◙∞ú╝∞åîδÑ╝ φÖò∞¥╕φòÿΩ│á δïñ∞ï£ ∞ï£δÅäφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The total amount of your MultiSend vector is over 100% of your stake reward♪◙</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí δ▓íφä░∞¥ÿ ∞┤¥ Ω╕ê∞òí∞¥┤ ∞èñφàî∞¥┤φü¼ δ│┤∞âü Ω╕ê∞òí∞¥ÿ 100 % ∞¥┤∞âü∞₧àδïêδïñ♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please Enter 1 - 100 for percent.</source>♪◙        <translation>φì╝∞ä╝φè╕δí£ 1 - 100∞¥ä ∞₧àδáÑφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Saved the MultiSend to memory, but failed saving properties to the database.♪◙</source>♪◙        <translation>MultiSendδÑ╝ δ⌐öδ¬¿δª¼∞ùÉ ∞áÇ∞₧Ñφûê∞ºÇδºî δì░∞¥┤φä░δ▓á∞¥┤∞èñ∞ùÉ δîÇφò£ ∞åì∞ä▒ ∞áÇ∞₧Ñ∞ùÉ ∞ïñφî¿φûê∞è╡δïêδïñ.♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend Vector♪◙</source>♪◙        <translation>δïñ∞ñæ∞áä∞åí δ▓íφä░♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Removed </source>♪◙        <translation>∞á£Ω▒░δÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Could not locate address♪◙</source>♪◙        <translation>∞ú╝∞åîδÑ╝ ∞░╛∞¥ä ∞êÿ ∞ùå∞è╡δïêδïñ♪◙</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>MultisigDialog</name>♪◙    <message>♪◙        <source>Multisignature Address Interactions</source>♪◙        <translation>δ⌐Çφï░ ∞ä£δ¬à ∞ú╝∞åî ∞âüφÿ╕ ∞₧æ∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create MultiSignature Address</source>♪◙        <translation>δ⌐Çφï░∞ï£Ω╖╕δäê∞│É ∞ú╝∞åî ∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>How many people must sign to verify a transaction</source>♪◙        <translation>∞û╝δºêδéÿ δºÄ∞¥Ç ∞é¼δ₧îδôñ∞¥┤ Ω▒░δ₧ÿδÑ╝ φÖò∞¥╕φòÿΩ╕░ ∞£äφò┤ ∞ä£δ¬àφò┤∞ò╝φò⌐δïêΩ╣î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the minimum number of signatures required to sign transactions</source>♪◙        <translation>Ω▒░δ₧ÿ∞ùÉ ∞ä£δ¬àφòÿδèö δì░ φòä∞Üöφò£ ∞╡£∞åî ∞ä£δ¬à ∞êÿδÑ╝ ∞₧àδáÑφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address Label:</source>♪◙        <translation>∞ú╝∞åî ∞¥┤δªä:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add another address that could sign to verify a transaction from the multisig address.</source>♪◙        <translation>multisig ∞ú╝∞åî∞ùÉ∞ä£ φè╕δ₧£∞₧¡∞àÿ∞¥ä φÖò∞¥╕φòÿΩ╕░ ∞£äφò┤ ∞ä£δ¬à φòá ∞êÿ∞₧êδèö δïñδÑ╕ ∞ú╝∞åîδÑ╝ ∞╢öΩ░Çφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add Address / Key</source>♪◙        <translation>∞ú╝∞åî / φéñ ∞╢öΩ░Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Local addresses or public keys that can sign:</source>♪◙        <translation>∞ä£δ¬à φòá ∞êÿ∞₧êδèö δí£∞╗¼ ∞ú╝∞åî δÿÉδèö Ω│╡Ω░£ φéñ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a new multisig address</source>♪◙        <translation>∞ïáΩ╖£ δ⌐Çφï░∞ï£Ω╖╕ ∞ú╝∞åî ∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create</source>♪◙        <translation>∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status:</source>♪◙        <translation>∞âüφâ£:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use below to quickly import an address by its redeem. Don't forget to add a label before clicking import!♪◙Keep in mind, the wallet will rescan the blockchain to find transactions containing the new address.♪◙Please be patient after clicking import.</source>♪◙        <translation>∞òäδ₧ÿ ∞ú╝∞åîδÑ╝ ∞é¼∞Ü⌐φòÿ∞ù¼ ∞ú╝∞åîδÑ╝ ∞ïá∞åìφòÿΩ▓î Ω░Ç∞á╕∞ÿ╡δïêδïñ. Ω░Ç∞á╕ ∞ÿñΩ╕░δÑ╝ φü┤δª¡φòÿΩ╕░ ∞áä∞ùÉ δáê∞¥┤δ╕ö∞¥ä ∞╢öΩ░Çφòÿδèö Ω▓â∞¥ä ∞₧è∞ºÇ δºê∞ï¡∞ï£∞ÿñ!♪◙∞ºÇΩ░æ∞¥Ç δ╕öδí¥ ∞▓┤∞¥╕∞¥ä δïñ∞ï£ ∞èñ∞║öφòÿ∞ù¼ ∞âê ∞ú╝∞åîΩ░Ç φÅ¼φò¿ δÉ£ Ω▒░δ₧ÿδÑ╝ ∞░╛∞è╡δïêδïñ .♪◙Ω░Ç∞á╕ ∞ÿñΩ╕░δÑ╝ φü┤δª¡ φò£ φ¢ä Ω╕░δïñδáñ∞ú╝∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Import Redeem</source>♪◙        <translation>δª¼δöñ∞╜öδô£ Ω░Ç∞á╕∞ÿñΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create MultiSignature Tx</source>♪◙        <translation>δº║∞¥îδºÉ Tx δºîδôñΩ╕░ ( A)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Inputs:</source>♪◙        <translation>∞₧àδáÑ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Control</source>♪◙        <translation>∞╜ö∞¥╕ ∞äñ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity Selected:</source>♪◙        <translation>∞äáφâ¥δÉ£ ∞êÿδƒë :</translation>♪◙    </message>♪◙    <message>♪◙        <source>0</source>♪◙        <translation>0</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add an input to fund the outputs</source>♪◙        <translation>∞╢£δáÑ∞¥ä∞£äφò£ ∞₧àδáÑ∞¥ä ∞╢öΩ░Çφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add a Raw Input</source>♪◙        <translation> Raw ∞₧àδáÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address / Amount:</source>♪◙        <translation>∞ú╝∞åî / Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add destinations to send CRyptoCrowd to</source>♪◙        <translation>CRyptoCrowdδÑ╝ δ│┤δé╝ δ¬⌐∞áü∞ºÇ ∞╢öΩ░Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add Destination</source>♪◙        <translation>∞╢öΩ░Ç δ░Å δîÇ∞âü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a transaction object using the given inputs to the given outputs</source>♪◙        <translation>∞ú╝∞û┤∞ºä ∞╢£δáÑ∞ùÉ ∞ú╝∞û┤∞ºä ∞₧àδáÑ∞¥ä ∞é¼∞Ü⌐φòÿ∞ù¼ φè╕δ₧£∞₧¡∞àÿ Ω░¥∞▓┤δÑ╝ δºîδô¡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create</source>♪◙        <translation>∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign MultiSignature Tx</source>♪◙        <translation>δ⌐Çφï░ ∞ï£Ω╖╕δïê∞▓ÿ Tx ∞ä£δ¬à ( S)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction Hex:</source>♪◙        <translation>Transaction Hex:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign the transaction from this wallet or from provided private keys</source>♪◙        <translation>∞¥┤ ∞ºÇΩ░æ∞¥┤δéÿ ∞á£Ω│╡δÉ£ Ω░£∞¥╕ φéñ∞ùÉ∞ä£ Ω▒░δ₧ÿ∞ùÉ ∞ä£δ¬àφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign</source>♪◙        <translation>∞ä£δ¬à</translation>♪◙    </message>♪◙    <message>♪◙        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DISABLED until transaction has been signed enough times.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>♪◙        <translation>Ω▒░δ₧ÿΩ░Ç ∞╢⌐δ╢äφ₧ê ∞ä£δ¬à δÉá δòîΩ╣î∞ºÇ 1234DISABLED</translation>♪◙    </message>♪◙    <message>♪◙        <source>Commit</source>♪◙        <translation>Commit</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add private keys to sign the transaction with</source>♪◙        <translation>Ω░£∞¥╕ φéñδÑ╝ ∞╢öΩ░Çφòÿ∞ù¼ δïñ∞¥î∞¥ä ∞é¼∞Ü⌐φòÿ∞ù¼ φè╕δ₧£∞₧¡∞àÿ∞ùÉ ∞ä£δ¬àφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add Private Key</source>♪◙        <translation>Ω░£∞¥╕φéñ ∞╢öΩ░Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign with only private keys (Not Recommened)</source>♪◙        <translation>Ω░£∞¥╕ φéñδºî ∞é¼∞Ü⌐φòÿ∞ù¼ ∞ä£δ¬à (Ω╢î∞₧Ñφòÿ∞ºÇ ∞òè∞¥î)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid Tx Hash.</source>♪◙        <translation>δº₧∞ºÇ ∞òèδèö Tx Hash.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Vout position must be positive.</source>♪◙        <translation>Vout ∞£ä∞╣ÿδèö ∞ûæ∞êÿ ∞ù¼∞ò╝φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum possible addresses reached. (15)</source>♪◙        <translation>Ω░ÇδèÑφò£ ∞ú╝∞åî ∞╡£δîÇ∞╣ÿ ∞₧àδïêδïñ. (15)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Vout Position: </source>♪◙        <translation>Vout φÅ¼∞ºÇ∞àÿ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount: </source>♪◙        <translation>Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum (15)</source>♪◙        <translation>∞╡£δîÇ (15)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ObfuscationConfig</name>♪◙    <message>♪◙        <source>Configure Obfuscation</source>♪◙        <translation>δé£δÅàφÖö Ω╡¼∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Basic Privacy</source>♪◙        <translation>Ω╕░δ│╕ ∞¥╡δ¬àφÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>High Privacy</source>♪◙        <translation>δåÆ∞¥Ç ∞¥╡δ¬àφÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum Privacy</source>♪◙        <translation>∞╡£δîÇ ∞¥╡δ¬àφÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please select a privacy level.</source>♪◙        <translation>∞¥╡δ¬àφÖö δáêδ▓¿∞¥ä ∞äáφâ¥φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>♪◙        <translation>2Ω░£∞¥ÿ Ω░£δ│ä δºê∞èñφä░δà╕δô£δÑ╝ ∞¥┤∞Ü⌐φòÿ∞ù¼ ∞╡£δîÇ 10000 CRyptoCrowd δÑ╝ ∞ä₧∞¥ä ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>♪◙        <translation>8Ω░£∞¥ÿ Ω░£δ│ä δºê∞èñφä░δà╕δô£δÑ╝ ∞¥┤∞Ü⌐φòÿ∞ù¼ ∞╡£δîÇ 10000 CRyptoCrowd δÑ╝ ∞ä₧∞¥ä ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use 16 separate masternodes</source>♪◙        <translation>16Ω░£∞¥ÿ Ω░£δ│ä δºê∞èñφä░δà╕δô£δÑ╝ ∞é¼∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>♪◙        <translation>∞¥┤ ∞ÿ╡∞àÿ∞¥Ç Ω░Ç∞₧Ñ δ╣áδÑ┤Ω▓î ∞áä∞åíδÉÿδ⌐░ 10000 CRyptoCrowd ∞¥╡δ¬àφÖö∞ùÉ ∞ò╜ ~0.025 CRyptoCrowd∞¥ÿ δ╣ä∞Ü⌐∞¥┤ δôñ∞û┤Ω░æδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>♪◙        <translation>∞¥┤ ∞ÿ╡∞àÿ∞¥Ç ∞ñæΩ░ä ∞áòδÅä∞¥ÿ ∞åìδÅäδí£ ∞áä∞åíδÉÿδ⌐░ 10000 CRyptoCrowd ∞¥╡δ¬àφÖö∞ùÉ ∞ò╜ 0.05 CRyptoCrowd∞¥ÿ δ╣ä∞Ü⌐∞¥┤ δôñ∞û┤Ω░æδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>♪◙        <translation>∞¥┤Ω▓â∞¥Ç Ω░Ç∞₧Ñ δèÉδª¼Ω│á ∞òê∞áäφò£ ∞ÿ╡∞àÿ∞₧àδïêδïñ. ∞╡£Ω│á ∞¥╡δ¬à∞ä▒∞¥ä ∞é¼∞Ü⌐φòÿδ⌐┤ δ╣ä∞Ü⌐∞¥┤ δ░£∞â¥φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>♪◙        <translation>10000 CRyptoCrowd ∞¥╡δ¬àφÖö∞ùÉ 0.1 CRyptoCrowd Ω░Ç δô¡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Configuration</source>♪◙        <translation>δé£δÅàφÖö Ω╡¼∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>♪◙        <translation>δé£δÅàφÖöΩ░Ç ∞ä▒Ω│╡∞áü∞£╝δí£ δåÆΩ▓î ∞äñ∞áòδÉÿ∞ùê∞è╡δïêδïñ.(%1 δ░Å 2 rounds) CRyptoCrowd∞¥ÿ ∞äñ∞áò φÖöδ⌐┤∞¥ä ∞ù┤∞û┤ ∞û╕∞á£δôá∞ºÇ δïñ∞ï£ δ│ÇΩ▓╜φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>♪◙        <translation>δé£δÅàφÖöΩ░Ç ∞ä▒Ω│╡∞áü∞£╝δí£ δåÆΩ▓î ∞äñ∞áòδÉÿ∞ùê∞è╡δïêδïñ.(%1 δ░Å 8 rounds) CRyptoCrowd∞¥ÿ ∞äñ∞áò φÖöδ⌐┤∞¥ä ∞ù┤∞û┤ ∞û╕∞á£δôá∞ºÇ δïñ∞ï£ δ│ÇΩ▓╜φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>♪◙        <translation>δé£δÅàφÖöΩ░Ç ∞ä▒Ω│╡∞áü∞£╝δí£ δåÆΩ▓î ∞äñ∞áòδÉÿ∞ùê∞è╡δïêδïñ.(%1 δ░Å 16 rounds) CRyptoCrowd∞¥ÿ ∞äñ∞áò φÖöδ⌐┤∞¥ä ∞ù┤∞û┤ ∞û╕∞á£δôá∞ºÇ δïñ∞ï£ δ│ÇΩ▓╜φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>OpenURIDialog</name>♪◙    <message>♪◙        <source>Open URI</source>♪◙        <translation>URI ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open payment request from URI or file</source>♪◙        <translation>URI δÿÉδèö φîî∞¥╝∞ùÉ∞ä£ Ω▓░∞á£ ∞Üö∞▓¡ ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>URI:</source>♪◙        <translation>URI:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Select payment request file</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ φîî∞¥╝ ∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Select payment request file to open</source>♪◙        <translation>∞ù┤δáñΩ│áφòÿδèö Ω▓░∞á£ ∞Üö∞▓¡ φîî∞¥╝∞¥ä ∞äáφâ¥φò┤∞ú╝∞ä╕∞Üö</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>OptionsDialog</name>♪◙    <message>♪◙        <source>Options</source>♪◙        <translation>∞ÿ╡∞àÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Main</source>♪◙        <translation>δ⌐ö∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Size of database cache</source>♪◙        <translation>δì░∞¥┤φä░δ▓á∞¥┤∞èñ ∞║É∞ï£ φü¼Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>MB</source>♪◙        <translation>MB</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of script verification threads</source>♪◙        <translation>∞èñφü¼δª╜φè╕ Ω▓Ç∞ª¥ ∞èñδáêδô£ Ω░£∞êÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>(0 = auto, &lt;0 = leave that many cores free)</source>♪◙        <translation>(0 = ∞₧ÉδÅÖ, &lt;0 = δºÄ∞¥Ç ∞╜ö∞û┤δôñ∞¥ä ∞ù¼∞£áδí¡Ω▓î δæÉΩ╕░)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet</source>♪◙        <translation>∞ºÇΩ░æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>♪◙        <translation>φÖò∞¥╕δÉÿ∞ºÇ ∞òè∞¥Ç δ│ÇΩ▓╜∞é¼φò¡∞¥ä ∞é¼∞Ü⌐φòÿ∞ºÇ ∞òèδÅäδí¥ ∞äñ∞áòφòÿδ⌐┤ φò┤δï╣ φè╕δ₧£∞₧¡∞àÿ∞ùÉ φòÿδéÿ ∞¥┤∞âü∞¥ÿ ∞╗¿φÄî∞¥┤ ∞ºäφûëδÉÿ∞ò╝&lt;br/&gt;φè╕δ₧£∞₧¡∞àÿ∞ùÉ δ│ÇΩ▓╜∞é¼φò¡∞¥ä ∞áü∞Ü⌐φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.&lt;br/&gt;δÿÉφò£ ∞¥┤Ω▓â∞¥Ç ∞₧ö∞òí Ω│ä∞é░ δ░⌐∞ï¥∞ùÉδÅä ∞ÿüφûÑ∞¥ä ∞ñìδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>♪◙        <translation>δ¥╝∞Ü░φä░∞ùÉ∞ä£ CRyptoCrowd φü┤δ¥╝∞¥┤∞û╕φè╕ φÅ¼φè╕δÑ╝ ∞₧ÉδÅÖ∞£╝δí£ ∞ù╜δïêδïñ. ∞¥┤ Ω╕░δèÑ∞¥Ç δ¥╝∞Ü░φä░Ω░Ç UPnPδÑ╝ ∞ºÇ∞¢ÉφòÿΩ│á φÖ£∞ä▒φÖö δÉ£ Ω▓╜∞Ü░∞ùÉδºî ∞é¼∞Ü⌐φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Accept connections from outside</source>♪◙        <translation>∞Ö╕δ╢Ç∞ùÉ∞ä£∞¥ÿ ∞ù░Ω▓░ φùê∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allow incoming connections</source>♪◙        <translation>δôñ∞û┤∞ÿñδèö ∞ù░Ω▓░ φùê∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect through SOCKS5 proxy (default proxy):</source>♪◙        <translation>SOCKS5 φöäδí¥∞ï£δÑ╝ φå╡φò┤ ∞ù░Ω▓░ (Ω╕░δ│╕ φöäδí¥∞ï£):</translation>♪◙    </message>♪◙    <message>♪◙        <source>Expert</source>♪◙        <translation>∞áäδ¼╕∞áü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Automatically start CRyptoCrowd after logging in to the system.</source>♪◙        <translation>∞ï£∞èñφà£ δí£Ω╖╕∞¥╕ φ¢ä CRyptoCrowd∞¥ä ∞₧ÉδÅÖ∞£╝δí£ ∞ï£∞₧æφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start CRyptoCrowd on system login</source>♪◙        <translation>∞ï£∞èñφà£ δí£Ω╖╕∞¥╕∞ï£ CRyptoCrowd ∞ï£∞₧æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whether to show coin control features or not.</source>♪◙        <translation>δÅÖ∞áä ∞á£∞û┤ Ω╕░δèÑ∞¥ä φæ£∞ï£φòá∞ºÇ ∞ù¼δ╢ÇδÑ╝ δéÿφâÇδâàδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable coin control features</source>♪◙        <translation>∞╜ö∞¥╕ ∞á£∞û┤ Ω╕░δèÑ ∞é¼∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>♪◙        <translation>∞▓½ δ▓ê∞º╕ φòÿ∞£ä φâ¡∞ùÉ∞ä£ δ¬¿δôá δºê∞èñφä░ δà╕δô£δÑ╝ δéÿ∞ù┤φòÿδèö ∞╢öΩ░Ç φâ¡Ω│╝&lt;br/&gt;δæÉ δ▓ê∞º╕ φòÿ∞£ä φâ¡∞ùÉ∞ä£ δäñφè╕∞¢îφü¼∞¥ÿ δ¬¿δôá δºê∞èñφä░ δà╕δô£δÑ╝ φæ£∞ï£φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show Masternodes Tab</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ φâ¡ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend unconfirmed change</source>♪◙        <translation>φÖò∞¥╕δÉÿ∞ºÇ ∞òè∞¥Ç δ│ÇΩ▓╜∞é¼φò¡ ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network</source>♪◙        <translation>δäñφè╕∞¢îφü¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>♪◙        <translation>∞é¼∞Ü⌐∞₧É ∞¥╕φä░φÄÿ∞¥┤∞èñ ∞û╕∞û┤δÑ╝ ∞äñ∞áòφòá ∞êÿ ∞₧ê∞è╡δïêδïñ. ∞¥┤ ∞äñ∞áò∞¥Ç CRyptoCrowd∞¥ä δïñ∞ï£ ∞ï£∞₧æφò£ φ¢ä∞ùÉ ∞áü∞Ü⌐δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Language missing or translation incomplete? Help contributing translations here:♪◙https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>♪◙        <translation>∞ºÇ∞¢É ∞û╕∞û┤Ω░Ç ∞ùåΩ▒░δéÿ δ▓ê∞ù¡∞¥┤ δ╢ê∞Öä∞áäφò£Ω░Ç∞Üö? δ▓ê∞ù¡∞¥ä δÅä∞ÖÇ∞ú╝∞ä╕∞Üö :♪◙https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>♪◙    </message>♪◙    <message>♪◙        <source>Map port using UPnP</source>♪◙        <translation>UPnpδÑ╝ ∞é¼∞Ü⌐φòÿ∞ù¼ φÅ¼φè╕ δºñφòæ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>♪◙        <translation>δ│┤∞âüδ░¢∞¥Ç CRyptoCrowdδÑ╝ zXCRCδí£ ∞₧ÉδÅÖδ│ÇφÖÿ φÖ£∞ä▒φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable zXCRC Automint</source>♪◙        <translation>zXCRC ∞₧ÉδÅÖ∞â¥∞ä▒ φÖ£∞ä▒φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>♪◙        <translation>CRyptoCrowd∞êÿ∞ïá∞ï£ ∞₧ÉδÅÖδ│ÇφÖÿ zXCRC δ╣ä∞£¿ (∞╡£∞åîΩ░Æ:10%)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage of autominted zXCRC</source>♪◙        <translation>∞₧ÉδÅÖ δ│ÇφÖÿδÉÿδèö zXCRC δ╣ä∞£¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>♪◙        <translation>∞¥┤ δööδà╕δ»╕δäñ∞¥┤∞àÿ∞¥ÿ CRyptoCrowdΩ░Ç ∞╢⌐δ╢äφò┤∞ºê δòîΩ╣î∞ºÇ Zerocoin∞£╝δí£ ∞₧ÉδÅÖ∞áäφÖÿ∞¥Ç δ│┤δÑÿδÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Preferred Automint zXCRC Denomination</source>♪◙        <translation>∞äáφÿ╕φòÿδèö ∞₧ÉδÅÖ∞â¥∞ä▒ zXCRC δööδà╕δ»╕δäñ∞¥┤∞àÿ </translation>♪◙    </message>♪◙    <message>♪◙        <source>Stake split threshold:</source>♪◙        <translation>Stake split threshold:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>♪◙        <translation>SOCKS5 φöäδí¥∞ï£δÑ╝ φå╡φò┤ CRyptoCrowd δäñφè╕∞¢îφü¼∞ùÉ ∞ù░Ω▓░φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Proxy IP:</source>♪◙        <translation>φöäδí¥∞ï£ IP:</translation>♪◙    </message>♪◙    <message>♪◙        <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>♪◙        <translation>φöäδí¥∞ï£ IP ∞ú╝∞åî (∞ÿê: IPv4: 127.0.0.1 / IPv6: ::1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Port:</source>♪◙        <translation>φÅ¼φè╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Port of the proxy (e.g. 9050)</source>♪◙        <translation>φöäδí¥∞ï£ φÅ¼φè╕ (∞ÿê: 9050)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Window</source>♪◙        <translation>∞£êδÅä∞Ü░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show only a tray icon after minimizing the window.</source>♪◙        <translation>∞░╜ ∞╡£∞åîφÖö φ¢ä φè╕δáê∞¥┤ ∞òä∞¥┤∞╜ÿ∞£╝δí£δºî φæ£∞ï£.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize to the tray instead of the taskbar</source>♪◙        <translation>∞╡£∞åîφÖö∞ï£ ∞₧æ∞ùàφæ£∞ï£∞ñä∞¥┤ ∞òäδïî φè╕δáê∞¥┤δí£ ∞╡£∞åîφÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>♪◙        <translation>∞░╜ δï½Ω╕░∞ï£ φöäδí£Ω╖╕δ₧¿ ∞óàδúîφòÿ∞ºÇ ∞òèΩ│á ∞╡£∞åîφÖöφòÿΩ╕░. ∞¥┤ ∞ÿ╡∞àÿ∞¥ä ∞é¼∞Ü⌐φòÿδ⌐┤ δ⌐öδë┤∞ùÉ∞ä£ ∞óàδúîδÑ╝ ∞äáφâ¥φò┤∞ò╝ φöäδí£Ω╖╕δ₧¿∞¥┤ ∞óàδúîδÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize on close</source>♪◙        <translation>δï½Ω╕░∞ï£ ∞╡£∞åîφÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Display</source>♪◙        <translation>δöö∞èñφöîδáê∞¥┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>User Interface language:</source>♪◙        <translation>∞é¼∞Ü⌐∞₧É ∞¥╕φä░φÄÿ∞¥┤∞èñ ∞û╕∞û┤:</translation>♪◙    </message>♪◙    <message>♪◙        <source>User Interface Theme:</source>♪◙        <translation>∞é¼∞Ü⌐∞₧É ∞¥╕φä░φÄÿ∞¥┤∞èñ φàîδºê:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unit to show amounts in:</source>♪◙        <translation>Ω╕ê∞òí∞¥ä φæ£∞ï£ φòá δï¿∞£ä:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>♪◙        <translation>∞╜ö∞¥╕ ∞áä∞åí∞ï£ ∞¥╕φä░φÄÿ∞¥┤∞èñ∞ùÉ φæ£∞ï£φòá Ω╕░δ│╕ ∞ä╕δ╢äφÖö δï¿∞£äδÑ╝ ∞äáφâ¥φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decimal digits</source>♪◙        <translation>10∞ºä∞êÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Hide empty balances</source>♪◙        <translation>∞₧ö∞òí 0 ∞ê¿Ω╕░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ φâ¡∞ùÉ ∞╗¿φàì∞èñφè╕ δ⌐öδë┤ φò¡δ¬⌐∞£╝δí£ φæ£∞ï£δÉÿδèö ∞ä£δô£φîîφï░ URL (∞ÿê: δ╕öδí¥ φâÉ∞âë) URL∞¥ÿ %s δèö φè╕δ₧£∞₧¡∞àÿ φò┤∞ï£δí£ δîÇ∞▓┤δÉ⌐δïêδïñ. ∞ù¼δƒ¼ Ω░£∞¥ÿ URL∞¥Ç ∞ä╕δí£ δºëδîÇδí£ Ω╡¼δ╢äδÉ⌐δïêδïñ |.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Third party transaction URLs</source>♪◙        <translation>∞ä£δô£φîîφï░ φè╕δ₧£∞₧¡∞àÿ URL</translation>♪◙    </message>♪◙    <message>♪◙        <source>Active command-line options that override above options:</source>♪◙        <translation>∞£ä∞¥ÿ ∞ÿ╡∞àÿ∞¥ä δ¼┤∞ï£φòÿδèö φÖ£∞ä▒ δ¬àδá╣φûë ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all client options to default.</source>♪◙        <translation>δ¬¿δôá φü┤δ¥╝∞¥┤∞û╕φè╕ ∞ÿ╡∞àÿ∞¥ä Ω╕░δ│╕Ω░Æ∞£╝δí£ ∞₧¼∞äñ∞áò.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset Options</source>♪◙        <translation>∞ÿ╡∞àÿ ∞₧¼∞äñ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>OK</source>♪◙        <translation>∞ÿê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cancel</source>♪◙        <translation>∞╖¿∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Any</source>♪◙        <translation>∞û┤δûñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>default</source>♪◙        <translation>Ω╕░δ│╕Ω░Æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>none</source>♪◙        <translation>∞ùå∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm options reset</source>♪◙        <translation>∞ÿ╡∞àÿ ∞₧¼∞äñ∞áò φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Client restart required to activate changes.</source>♪◙        <translation>δ│ÇΩ▓╜ ∞é¼φò¡∞¥ä ∞áü∞Ü⌐φòÿδáñδ⌐┤ φü┤δ¥╝∞¥┤∞û╕φè╕δÑ╝ δïñ∞ï£ ∞ï£∞₧æφò┤∞ò╝φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Client will be shutdown, do you want to proceed?</source>♪◙        <translation>φü┤δ¥╝∞¥┤∞û╕φè╕Ω░Ç ∞óàδúîδÉ⌐δïêδïñ. Ω│ä∞åì ∞ºäφûëφòÿ∞ï£Ω▓á∞è╡δïêΩ╣î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>This change would require a client restart.</source>♪◙        <translation>∞¥┤ δ│ÇΩ▓╜∞¥Ç φü┤δ¥╝∞¥┤∞û╕φè╕Ω░Ç ∞₧¼∞ï£∞₧æ δÉÿ∞ò╝ ∞áü∞Ü⌐δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied proxy address is invalid.</source>♪◙        <translation>φöäδí¥∞ï£ ∞ú╝∞åîΩ░Ç ∞₧ÿδ¬╗δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied proxy port is invalid.</source>♪◙        <translation>∞á£Ω│╡δÉ£ φöäδí¥∞ï£ φÅ¼φè╕Ω░Ç ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied proxy settings are invalid.</source>♪◙        <translation>∞á£Ω│╡δÉ£ φöäδí¥∞ï£ ∞äñ∞áò∞¥┤ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>OverviewPage</name>♪◙    <message>♪◙        <source>Form</source>♪◙        <translation>Form</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available:</source>♪◙        <translation>∞é¼∞Ü⌐Ω░ÇδèÑ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your current spendable balance</source>♪◙        <translation>φÿä∞₧¼ ∞╢£Ω╕ê Ω░ÇδèÑφò£ ∞₧ö∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total Balance, including all unavailable coins.</source>♪◙        <translation>∞áä∞▓┤ ∞₧ö∞òí, (φÿä∞₧¼ ∞áä∞åí∞¥┤ δ╢êΩ░ÇδèÑφò£ ∞╜ö∞¥╕ φÅ¼φò¿)</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Balance</source>♪◙        <translation>CRyptoCrowd ∞₧ö∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pending:</source>♪◙        <translation>δîÇΩ╕░∞ñæ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>♪◙        <translation>∞òä∞ºü ∞è╣∞¥╕δÉÿ∞ºÇ ∞òè∞òä ∞é¼∞Ü⌐φòá ∞êÿ ∞ùå∞£╝δ⌐░, ∞₧öΩ│á∞ùÉ φÅ¼φò¿δÉÿ∞ºÇ ∞òè∞¥Ç ∞┤¥ φè╕δ₧£∞₧¡∞àÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Immature:</source>♪◙        <translation>δ»╕∞Öäδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staked or masternode rewards that has not yet matured</source>♪◙        <translation>∞òä∞ºü ∞ÖäδúîδÉÿ∞ºÇ ∞òè∞¥Ç ∞èñφàî∞¥┤φü¼ δ░Å δºê∞èñφä░δà╕δô£ δ│┤∞âü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Current locked balance in watch-only addresses</source>♪◙        <translation>φÿä∞₧¼ δ│┤Ω╕░∞áä∞Ü⌐ ∞ú╝∞åî∞¥ÿ ∞₧áΩ╕┤ ∞₧ö∞òí </translation>♪◙    </message>♪◙    <message>♪◙        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>♪◙        <translation>φÿä∞₧¼ CRyptoCrowd ∞₧ö∞òí, δ»╕φÖò∞áò, ∞â¥∞ä▒∞ñæ∞¥╕ ∞╜ö∞¥╕ φÅ¼φò¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Balance</source>♪◙        <translation>zXCRC ∞₧ö∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.♪◙These zXCRC are spendable.</source>♪◙        <translation>∞ä▒∞êÖφò£ : Ω╖╕Ω▓â∞¥┤ δ░£φûë δÉ£ φ¢ä Ω░Ö∞¥Ç δ¬à∞╣¡∞¥ÿ 20 Ω░£ ∞¥┤∞âü∞¥ÿ φÖò∞¥╕ δ░Å 1 Ω░£ δ»╝φè╕.♪◙∞¥┤ zXCRCδèö ∞ô╕δºîφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed: less than 20 confirmations♪◙Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>♪◙        <translation>δ»╕φÖò∞¥╕ : 20 φÜî δ»╕δºî φÖò∞¥╕♪◙δ»╕∞ä▒∞êÖ : φÖò∞¥╕δÉÿ∞ùê∞ºÇδºî δ░£φûë δÉ£ φ¢ä Ω░Ö∞¥Ç ∞óàφîî 1 Ω░£ δ»╕δºî</translation>♪◙    </message>♪◙    <message>♪◙        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>♪◙        <translation>φæ£∞ï£δÉ£ ∞áòδ│┤Ω░Ç ∞ÿñδ₧ÿδÉÿ∞ùê∞¥ä ∞êÿ ∞₧ê∞è╡δïêδïñ. ∞ù░Ω▓░∞¥┤ ∞ÖäδúîδÉÿδ⌐┤ ∞ºÇΩ░æ∞¥┤ CRyptoCrowd δäñφè╕∞¢îφü¼∞ÖÇ ∞₧ÉδÅÖ∞£╝δí£ δÅÖΩ╕░φÖöδÉá ∞ÿê∞áò∞¥┤∞ºÇδºî, ∞òä∞ºü φò┤δï╣ φöäδí£∞ä╕∞èñΩ░Ç ∞ÖäδúîδÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>OVERVIEW</source>♪◙        <translation>Ω░£∞Üö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Combined Balance (including unconfirmed and immature coins)</source>♪◙        <translation>∞áä∞▓┤ ∞₧ö∞òí (δ»╕φÖò∞áò, ∞â¥∞ä▒∞ñæ∞¥╕ ∞╜ö∞¥╕ φÅ¼φò¿)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Combined Balance</source>♪◙        <translation>∞áä∞▓┤ ∞₧ö∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed transactions to watch-only addresses</source>♪◙        <translation>∞¥╜Ω╕░ ∞áä∞Ü⌐ ∞ú╝∞åî∞¥ÿ δ»╕∞è╣∞¥╕ φè╕δ₧£∞₧¡∞àÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staked or masternode rewards in watch-only addresses that has not yet matured</source>♪◙        <translation>∞ÖäδúîδÉÿ∞ºÇ ∞òè∞¥Ç ∞¥╜Ω╕░ ∞áä∞Ü⌐ ∞ú╝∞åî∞¥ÿ ∞èñφàî∞¥┤φü¼ δ░Å δºê∞èñφä░δà╕δô£ δ│┤∞âü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total:</source>♪◙        <translation>∞┤¥:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Current total balance in watch-only addresses</source>♪◙        <translation>φÿä∞₧¼ ∞¥╜Ω╕░ ∞áä∞Ü⌐ ∞ú╝∞åî∞¥ÿ ∞┤¥ ∞₧ö∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Watch-only:</source>♪◙        <translation>∞¥╜Ω╕░ ∞áä∞Ü⌐:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your current balance in watch-only addresses</source>♪◙        <translation>∞¥╜Ω╕░ ∞áä∞Ü⌐ ∞ú╝∞åî∞¥ÿ φÿä∞₧¼ ∞₧ö∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spendable:</source>♪◙        <translation>∞╢£Ω╕ê Ω░ÇδèÑ ∞òí∞êÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>♪◙        <translation>∞₧áΩ╕ê CRyptoCrowd δÿÉδèö Masternode collaterals. ∞¥┤δôñ∞¥Ç zXCRC minting∞ùÉ∞ä£ ∞á£∞Ö╕δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Locked:</source>♪◙        <translation>∞₧áΩ╣Ç:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed:</source>♪◙        <translation>δ»╕∞è╣∞¥╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>♪◙        <translation>zXCRC ∞₧ö∞òí, δ»╕φÖò∞áò, ∞â¥∞ä▒∞ñæ∞¥╕ zXCRC φÅ¼φò¿.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recent transactions</source>♪◙        <translation>∞╡£Ω╖╝ φè╕δ₧£∞₧¡∞àÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>out of sync</source>♪◙        <translation>δÅÖΩ╕░φÖöδÉÿ∞ºÇ ∞òè∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Current percentage of zXCRC.♪◙If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).♪◙</source>♪◙        <translation>φÿä∞₧¼ zXCRC∞¥ÿ δ░▒δ╢ä∞£¿ .♪◙∞₧ÉδÅÖ ∞áÇ∞₧Ñ Ω╕░δèÑ∞¥┤ φÖ£∞ä▒φÖö δÉ£ Ω▓╜∞Ü░∞¥┤ δ╣ä∞£¿∞¥Ç Ω╡¼∞ä▒δÉ£ ∞₧ÉδÅÖ ∞áÇ∞₧Ñ δ╣ä∞£¿ (Ω╕░δ│╕Ω░Æ = 10 %)∞¥ä Ω╕░∞ñÇ∞£╝δí£ ∞áòφò┤∞ºæδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint is currently enabled and set to </source>♪◙        <translation>∞₧ÉδÅÖ ∞â¥∞ä▒Ω╕░δèÑ∞¥┤ φÿä∞₧¼ ∞₧æδÅÖ∞ñæ Ω╖╕δª¼Ω│á </translation>♪◙    </message>♪◙    <message>♪◙        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>♪◙        <translation>∞₧ÉδÅÖ∞â¥∞ä▒ Ω╕░δèÑ∞¥ä ∞é¼∞Ü⌐φòÿ∞ºÇ ∞òè∞£╝∞ï£δáñδ⌐┤, cryptocrowd.conf φÖö∞¥╝∞ùÉ enablezeromint=0 δÑ╝ ∞╢öΩ░Çφòÿ∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint is currently disabled.♪◙To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>♪◙        <translation>∞₧ÉδÅÖ ∞áÇ∞₧Ñ Ω╕░δèÑ∞¥┤ φÿä∞₧¼ ∞é¼∞Ü⌐ ∞ñæ∞ºÇδÉÿ∞ùê∞è╡δïêδïñ .♪◙∞₧ÉδÅÖ δ│ÇφÖÿ∞¥ä ∞é¼∞Ü⌐φòÿδáñδ⌐┤ CRyptoCrowdotx.conf∞ùÉ∞ä£ 'enablezeromint = 0'∞ùÉ∞ä£ 'enablezeromint = 1'δí£ δ│ÇΩ▓╜φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>PaymentServer</name>♪◙    <message>♪◙        <source>Payment request error</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ ∞ÿñδÑÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>URI handling</source>♪◙        <translation>URI ∞▓ÿδª¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request fetch URL is invalid: %1</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡∞¥ä δ╢êδƒ¼∞ÿñΩ╕░ ∞£äφò£ URL∞¥┤ ∞₧ÿδ¬╗ δÉÿ∞ùê∞è╡δïêδïñ: %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request file handling</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ φîî∞¥╝ ∞▓ÿδª¼ ∞ñæ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid payment address %1</source>♪◙        <translation>∞₧ÿδ¬╗δÉ£ Ω▓░∞á£ ∞ú╝∞åî %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>♪◙        <translation>CRyptoCrowd∞¥ä ∞ï£∞₧æφòá ∞êÿ ∞ùå∞è╡δïêδïñ: Ω▓░∞á£φòÿΩ╕░ ∞£äφò£ φü┤δª¡ ∞▓ÿδª¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>♪◙        <translation>URIδÑ╝ δ╢ä∞ä¥φòá ∞êÿ ∞ùå∞è╡δïêδïñ! ∞¥┤δèö ∞₧ÿδ¬╗δÉ£ CRyptoCrowd ∞ú╝∞åî δÿÉδèö URI δºñΩ░£δ│Ç∞êÿ ∞åÉ∞âü∞£╝δí£ ∞¥╕φò┤ δ░£∞â¥φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ φîî∞¥╝∞¥ä ∞¥╜∞û┤ ∞ÿ¼ ∞êÿ ∞ùå∞è╡δïêδïñ! ∞¥┤δèö Ω▓░∞á£ ∞Üö∞▓¡ φîî∞¥╝∞¥┤ ∞₧ÿδ¬╗δÉÿ∞ùê∞¥ä δòî δ░£∞â¥φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request rejected</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ Ω▒░δ╢Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request network doesn't match client network.</source>♪◙        <translation>Ω▓░∞á£Ω░Ç ∞Üö∞▓¡δÉ£ δäñφè╕∞¢îφü¼∞ÖÇ φü┤δ¥╝∞¥┤∞û╕φè╕∞¥ÿ δäñφè╕∞¢îφü¼Ω░Ç ∞¥╝∞╣ÿφòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request has expired.</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ Ω╕░Ω░ä∞¥┤ δºîδúîδÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request is not initialized.</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ Ω░Æ∞¥┤ ∞┤êΩ╕░φÖö δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unverified payment requests to custom payment scripts are unsupported.</source>♪◙        <translation>∞╗ñ∞èñφàÇ Ω▓░∞á£ ∞èñφü¼δª╜φè╕∞ùÉ δîÇφò£ φÖò∞¥╕δÉÿ∞ºÇ ∞òè∞¥Ç Ω▓░∞á£ ∞Üö∞▓¡∞¥Ç ∞ºÇ∞¢ÉδÉÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Requested payment amount of %1 is too small (considered dust).</source>♪◙        <translation>%1 ∞¥┤φòÿ∞¥ÿ Ω▓░∞á£ ∞Üö∞▓¡ Ω╕ê∞òí∞¥Ç δäêδ¼┤ ∞áü∞è╡δïêδïñ(φÿäΩ╕ê∞£╝δí£ Ω░ä∞ú╝δÉ¿).</translation>♪◙    </message>♪◙    <message>♪◙        <source>Refund from %1</source>♪◙        <translation>%1δí£ δ╢Çφä░ φÖÿδ╢ê δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ Ω╕ê∞òí %1∞¥Ç δäêδ¼┤ φü╜δïêδïñ (%2 δ░ö∞¥┤φè╕, %3 δ░ö∞¥┤φè╕ φùê∞Ü⌐).</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request DoS protection</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡ DoS δ│┤φÿ╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error communicating with %1: %2</source>♪◙        <translation>%1: %2 φå╡∞ïáφòÿδèö ∞ñæ ∞ÿñδÑÿ δ░£∞â¥: </translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request cannot be parsed!</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡∞¥ä φÖò∞¥╕φòá ∞êÿ ∞ùå∞è╡δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bad response from server %1</source>♪◙        <translation>%1 ∞ä£δ▓äδí£ δ╢Çφä░ ∞¥æδï╡ ∞ùå∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network request error</source>♪◙        <translation>δäñφè╕∞¢îφü¼ ∞Üö∞▓¡ ∞ÿñδÑÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment acknowledged</source>♪◙        <translation>Ω▓░∞á£ φÖò∞¥╕ δÉ¿</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>PeerTableModel</name>♪◙    <message>♪◙        <source>Address/Hostname</source>♪◙        <translation>∞ú╝∞åî/∞é¼∞Ü⌐∞₧É ∞¥┤δªä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version</source>♪◙        <translation>δ▓ä∞áä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ping Time</source>♪◙        <translation>∞¥æδï╡ ∞ï£Ω░ä</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>PrivacyDialog</name>♪◙    <message>♪◙        <source>Zerocoin Actions:</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ Ω┤Çδª¼:</translation>♪◙    </message>♪◙    <message>♪◙        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>♪◙        <translation>φæ£∞ï£δÉ£ ∞áòδ│┤Ω░Ç ∞ÿñδ₧ÿδÉÿ∞ùê∞¥ä ∞êÿ ∞₧ê∞è╡δïêδïñ. ∞ù░Ω▓░∞¥┤ ∞ÖäδúîδÉÿδ⌐┤ ∞ºÇΩ░æ∞¥┤ CRyptoCrowd δäñφè╕∞¢îφü¼∞ÖÇ ∞₧ÉδÅÖ∞£╝δí£ δÅÖΩ╕░φÖöδÉá ∞ÿê∞áò∞¥┤∞ºÇδºî, ∞òä∞ºü φò┤δï╣ φöäδí£∞ä╕∞èñΩ░Ç ∞ÖäδúîδÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mint Zerocoin</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>0</source>♪◙        <translation>0</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC</source>♪◙        <translation>zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>♪◙        <translation>∞ú╝φÖö ∞é¼∞Ü⌐ Ω░ÇδèÑ ∞ù¼δ╢Çδèö φÖò∞áòδÉÿΩ│á ∞₧áΩ╕░∞ºÇ ∞òè∞¥Ç ∞ú╝φÖö δÿÉδèö ∞ú╝∞áä∞¢É collaterals∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available for Minting:</source>♪◙        <translation>∞â¥∞ä▒ Ω░ÇδèÑφò£ ∞êÿδƒë:</translation>♪◙    </message>♪◙    <message>♪◙        <source>0.000ΓÇë000ΓÇë00 XCRC</source>♪◙        <translation>0.000ΓÇë000ΓÇë00 XCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞ºÇΩ░æ DB ∞₧¼∞äñ∞áò. δ╕öδí¥ ∞▓┤∞¥╕∞ùÉ φÅ¼φò¿∞ï£φéñ∞ºÇ ∞òè∞¥Ç φè╕δ₧£∞₧¡∞àÿ∞¥ä ∞é¡∞á£φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset</source>♪◙        <translation>∞┤êΩ╕░φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Control...</source>♪◙        <translation>∞╜ö∞¥╕ ∞╗¿φè╕δíñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity:</source>♪◙        <translation>∞êÿδƒë:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescan the complete blockchain for  Zerocoin mints and their meta-data.</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞â¥∞ä▒Ω│╝ δ⌐öφâÇδì░∞¥┤φâÇδÑ╝ ∞£äφò┤ δ╕öδí¥∞▓┤∞¥╕∞¥ä δïñ∞ï£ ∞èñ∞║öφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>ReScan</source>♪◙        <translation>δïñ∞ï£ ∞èñ∞║ö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status and/or Mesages from the last Mint Action.</source>♪◙        <translation>δºê∞ºÇδºë δ░£φûë ∞¥┤φ¢ä ∞âüφâ£δéÿ δ⌐ö∞ä╕∞ºÇ</translation>♪◙    </message>♪◙    <message>♪◙        <source>PRIVACY</source>♪◙        <translation>φöäδ¥╝∞¥┤δ▓ä∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter an amount of XCRC to convert to zXCRC</source>♪◙        <translation>zXCRCδí£ δ│ÇφÖÿφòá CRyptoCrowd ∞êÿδƒë∞¥ä ∞₧àδáÑφòÿ∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Control</source>♪◙        <translation>zXCRC ∞╗¿φè╕δíñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Selected:</source>♪◙        <translation>∞äáφâ¥δÉ£ zXCRC :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity Selected:</source>♪◙        <translation>∞äáφâ¥δÉ£ ∞êÿδƒë :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend Zerocoin. Without 'Pay To:' address creates payments to yourself.</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞áä∞åí 'Pay To :' ∞ú╝∞åîΩ░Ç ∞ùå∞£╝δ⌐┤ ∞₧É∞ïá∞ùÉΩ▓î ∞ºÇδ╢êφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend Zerocoin</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available (mature and spendable) zXCRC for spending</source>♪◙        <translation>∞áä∞åí Ω░ÇδèÑφò£ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available Balance:</source>♪◙        <translation>Ω░ÇδèÑφò£ ∞₧ö∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available (mature and spendable) zXCRC for spending♪◙♪◙zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>♪◙        <translation>∞ºÇ∞╢£∞ùÉ ∞é¼∞Ü⌐φòá ∞êÿ∞₧êδèö ∞ä▒∞êÖφò£ ∞åîδ╣ä∞₧¼ zXCRC♪◙♪◙zXCRCδèö ∞ä▒δ¬à∞ä£Ω░Ç 20 Ω░£ ∞¥┤∞âü ∞₧êΩ│á δ¬à∞╣¡∞¥┤ δÅÖ∞¥╝φòÿ∞ºÇ ∞òè∞¥Ç 2 Ω░£ ∞¥┤∞âü∞¥ÿ δ»╝φè╕Ω░Ç ∞₧æ∞ä▒δÉÿ∞ùê∞¥ä δòî ∞ä▒∞êÖφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>0 zXCRC</source>♪◙        <translation>0 zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞áä∞åí ∞ï£φüÉδª¼φï░ δáêδ▓¿.  δåÆ∞¥ä∞êÿδí¥ ∞óï∞ºÇδºî, ∞ï£Ω░äΩ│╝ δºÄ∞¥Ç ∞₧É∞¢É∞¥┤ φòä∞Üöφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Security Level:</source>♪◙        <translation>∞ï£φüÉδª¼φï░ δáêδ▓¿:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Security Level 1 - 100 (default: 42)</source>♪◙        <translation>∞ï£φüÉδª¼φï░ δáêδ▓¿ 1 - 100 (Ω╕░δ│╕Ω░Æ: 42)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pay To:</source>♪◙        <translation>∞ºÇδ╢ê δîÇ∞âü:</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>♪◙        <translation>CRyptoCrowdδÑ╝ ∞áä∞åíφòá CRyptoCrowd ∞ú╝∞åî∞₧àδïêδïñ. δ╣ä∞û┤∞₧ê∞¥ä δòî ∞₧É∞ïá∞ùÉΩ▓î ∞ºÇδ╢êφòá ∞ú╝∞åîδÑ╝ ∞â¥∞ä▒φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>∞¥┤∞áä∞ùÉ ∞é¼∞Ü⌐φò£ ∞ú╝∞åî ∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>φü┤δª╜δ│┤δô£∞ùÉ∞ä£ ∞ú╝∞åî δ╢Ö∞ù¼ δäúΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label:</source>♪◙        <translation>δ¥╝δ▓¿:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a label for this address to add it to the list of used addresses</source>♪◙        <translation>∞¥┤ ∞ú╝∞åî∞¥ÿ δ¥╝δ▓¿∞¥ä ∞₧àδáÑφòÿ∞ù¼ ∞é¼∞Ü⌐δÉ£ ∞ú╝∞åî δ¬⌐δí¥∞ùÉ ∞╢öΩ░Çφòÿ∞ï¡∞ï£∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Convert Change to Zerocoin (might cost additional fees)</source>♪◙        <translation>∞₧öδÅê∞¥ä ∞á£δí£∞╜ö∞¥╕∞£╝δí£ δ│ÇφÖÿ (∞╢öΩ░Ç ∞ÜöΩ╕ê∞¥┤ δ╢ÇΩ│╝δÉá ∞êÿ ∞₧ê∞¥î)</translation>♪◙    </message>♪◙    <message>♪◙        <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>♪◙        <translation>∞¥┤ ∞ÿ╡∞àÿ∞¥ä ∞äáφâ¥φòÿδ⌐┤, ∞é¼∞Ü⌐φò£ δööδà╕δ»╕δäñ∞¥┤∞àÿ∞¥ÿ ∞êÿδÑ╝ ∞╡£∞åîφÖöφòÿδèö δîÇ∞ïá δé¿δèö ∞₧öδÅê∞¥ä ∞╡£∞åîφÖöφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize Change</source>♪◙        <translation>∞₧öδÅê ∞╡£∞åîφÖöφòÿΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information about the available Zerocoin funds.</source>♪◙        <translation>∞é¼∞Ü⌐Ω░ÇδèÑφò£ ∞á£δí£∞╜ö∞¥╕ ∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Stats:</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞âüφâ£ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total Balance including unconfirmed and immature zXCRC</source>♪◙        <translation>∞è╣∞¥╕∞ñæ∞¥┤Ω▒░δéÿ, ∞â¥∞ä▒∞ñæ∞¥╕ ∞á£δí£∞╜ö∞¥╕δÅä φÅ¼φò¿δÉ£ ∞áä∞▓┤ ∞₧ö∞òí∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total Zerocoin  Balance:</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞₧ö∞òí :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 1:</source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ Ω░Æ 1:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 1:</source>♪◙        <translation>Denom. Ω░Æ 1:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed: less than 20 confirmations♪◙Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>♪◙        <translation>δ»╕φÖò∞¥╕ : 20 φÜî δ»╕δºî φÖò∞¥╕♪◙δ»╕∞ä▒∞êÖ : φÖò∞¥╕δÉÿ∞ùê∞ºÇδºî δ░£φûë δÉ£ φ¢ä Ω░Ö∞¥Ç ∞óàφîî 1 Ω░£ δ»╕δºî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the current status of automatic zXCRC minting.♪◙♪◙To change the status (restart required):♪◙- enable: add 'enablezeromint=1' to cryptocrowd.conf♪◙- disable: add 'enablezeromint=0' to cryptocrowd.conf♪◙♪◙To change the percentage (no restart required):♪◙- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC♪◙♪◙</source>♪◙        <translation>φÿä∞₧¼ zXCRC ∞₧ÉδÅÖ ∞â¥∞ä▒ ∞âüφâ£δÑ╝ δ│┤∞ù¼∞ñìδïêδïñ.♪◙♪◙∞₧ÉδÅÖ∞â¥∞ä▒ ∞âüφâ£δÑ╝ δ│ÇΩ▓╜φòÿ∞ï£δáñδ⌐┤ (∞ºÇΩ░æ ∞₧¼∞ï£∞₧æ φòä∞Üöφò¿):♪◙- φÖ£∞ä▒φÖö: 'enablezeromint=1' δÑ╝ cryptocrowd.conf φîî∞¥╝∞ùÉ ∞╢öΩ░Ç♪◙- δ╣äφÖ£∞ä▒φÖö: 'enablezeromint=0' δÑ╝ cryptocrowd.conf φîî∞¥╝∞ùÉ ∞╢öΩ░Ç♪◙♪◙∞₧ÉδÅÖ ∞â¥∞ä▒ δ╣ä∞£¿ δ│ÇΩ▓╜φòÿ∞ï£δáñδ⌐┤ (∞ºÇΩ░æ ∞₧¼∞ï£∞₧æ φòä∞Üö∞ùå∞¥î):♪◙- δ⌐öδë┤ ∞äñ∞áò-&gt;∞ÿ╡∞àÿ-&gt;zXCRC ∞₧ÉδÅÖ∞â¥∞ä▒ δ╣ä∞£¿♪◙♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint Status</source>♪◙        <translation>∞₧ÉδÅÖ∞â¥∞ä▒ ∞âüφâ£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Global Supply:</source>♪◙        <translation>∞┤¥ Ω│╡Ω╕ëδƒë:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 1:</source>♪◙        <translation>Denom. 1:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 5:</source>♪◙        <translation>Denom. 5:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 10:</source>♪◙        <translation>Denom. 10:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 50:</source>♪◙        <translation>Denom. 50:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 100:</source>♪◙        <translation>Denom. 100:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 500:</source>♪◙        <translation>Denom. 500:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 1000:</source>♪◙        <translation>Denom. 1000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 5000:</source>♪◙        <translation>Denom. 5000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>0 x</source>♪◙        <translation>0 x</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 5:</source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ Ω░Æ 5:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 5:</source>♪◙        <translation>Denom. Ω░Æ 5:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 10:</source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ  Ω░Æ 10:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 10:</source>♪◙        <translation>Denom. Ω░Æ 10:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 50:</source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ Ω░Æ 50:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 50:</source>♪◙        <translation>Denom. Ω░Æ 50:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 100:</source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ Ω░Æ 100:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 100:</source>♪◙        <translation>Denom. Ω░Æ 100:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 500:</source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ Ω░Æ 500:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 500:</source>♪◙        <translation>Denom. Ω░Æ 500:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 1000:</source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ Ω░Æ 1000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 1000:</source>♪◙        <translation>Denom. Ω░Æ 1000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 5000:</source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ Ω░Æ 5000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 5000:</source>♪◙        <translation>Denom. Ω░Æ 5000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Priority:</source>♪◙        <translation>∞Ü░∞äá ∞ê£∞£ä:</translation>♪◙    </message>♪◙    <message>♪◙        <source>TextLabel</source>♪◙        <translation>φàì∞èñφè╕δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fee:</source>♪◙        <translation>∞êÿ∞êÿδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Dust:</source>♪◙        <translation>φÿäΩ╕ê:</translation>♪◙    </message>♪◙    <message>♪◙        <source>no</source>♪◙        <translation>∞òäδïê∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes:</source>♪◙        <translation>Bytes:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient funds!</source>♪◙        <translation>∞₧ÉΩ╕ê∞¥┤ ∞╢⌐δ╢äφòÿ∞ºÇ ∞òè∞è╡δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coins automatically selected</source>♪◙        <translation>∞╜ö∞¥╕ ∞₧ÉδÅÖ∞£╝δí£ ∞äáφâ¥δÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>medium</source>♪◙        <translation>∞ñæΩ░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Control Features</source>♪◙        <translation>∞╜ö∞¥╕ ∞á£∞û┤ Ω╕░δèÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>♪◙        <translation>∞¥┤ ∞ÿ╡∞àÿ∞¥┤ φÖ£∞ä▒φÖöδÉÿ∞ùê∞ºÇδºî, δ│ÇΩ▓╜ ∞ú╝∞åîΩ░Ç δ╣ä∞û┤∞₧êΩ▒░δéÿ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω▓╜∞Ü░ δ│ÇΩ▓╜∞é¼φò¡∞¥Ç ∞âêδí£ ∞â¥∞ä▒δÉ£ ∞ú╝∞åîδí£ ∞áä∞åíδÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom change address</source>♪◙        <translation>∞╗ñ∞èñφàÇ ∞ú╝∞åî δ│ÇΩ▓╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount After Fee:</source>♪◙        <translation>∞êÿ∞êÿδúî ∞░¿Ω░É Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change:</source>♪◙        <translation>∞₧öδÅê:</translation>♪◙    </message>♪◙    <message>♪◙        <source>out of sync</source>♪◙        <translation>δÅÖΩ╕░φÖöδÉÿ∞ºÇ ∞òè∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mint Status: Okay</source>♪◙        <translation>∞â¥∞ä▒ ∞âüφâ£ : Okay</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy quantity</source>♪◙        <translation>∞êÿδƒë δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>Ω╕ê∞òí δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Starting ResetMintZerocoin: rescanning complete blockchain, this will need up to 30 minutes depending on your hardware.♪◙Please be patient...</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞â¥∞ä▒ ∞┤êΩ╕░φÖö ∞ºäφûë∞ñæ... : ∞áä∞▓┤ δ╕öδí¥∞▓┤∞¥╕∞¥ä δïñ∞ï£ Ω▓Ç∞âëφò⌐δïêδïñ. φòÿδô£∞¢¿∞û┤∞ùÉ δö░δ¥╝ ∞╡£δîÇ 30δ╢ä∞¥┤ Ω▒╕δª┤∞êÿ ∞₧ê∞è╡δïêδïñ.♪◙Ω╕░δïñδáñ∞ú╝∞ä╕∞Üö...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spending Zerocoin.♪◙Computationally expensive, might need several minutes depending on the selected Security Level and your hardware.♪◙Please be patient...</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞áä∞åí∞ñæ∞₧àδïêδïñ.♪◙∞ï£φüÉδª¼φï░ δáêδ▓¿Ω│╝ ∞ù¼δƒ¼δ╢ä∞¥ÿ φòÿδô£∞¢¿∞û┤∞ùÉ δö░δ¥╝ ∞êÿ δ╢ä∞¥┤ Ω▒╕δª╜δïêδïñ.♪◙∞í░Ω╕êδºî Ω╕░δïñδáñ∞ú╝∞ä╕∞Üö...</translation>♪◙    </message>♪◙    <message>♪◙        <source>) needed.♪◙Maximum allowed: </source>♪◙        <translation>) Ω░Ç φòä∞Üöφò¿.♪◙Ω░ÇδèÑφò£ ∞╡£δîÇΩ░Æ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Spend #: </source>♪◙        <translation>zXCRC ∞áä∞åí # :</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Mint</source>♪◙        <translation>zXCRC ∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source> &lt;b&gt;enabled&lt;/b&gt;.</source>♪◙        <translation> &lt;b&gt; φÖ£∞ä▒φÖöδÉ¿ &lt;/b&gt;.</translation>♪◙    </message>♪◙    <message>♪◙        <source> &lt;b&gt;disabled&lt;/b&gt;.</source>♪◙        <translation> &lt;b&gt;δ╣äφÖ£∞ä▒φÖöδÉ¿&lt;/b&gt;.</translation>♪◙    </message>♪◙    <message>♪◙        <source> Configured target percentage: &lt;b&gt;</source>♪◙        <translation> Ω╡¼∞ä▒δÉ£ δ¬⌐φæ£ δ╣ä∞£¿ : &lt;b&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC is currently disabled due to maintenance.</source>♪◙        <translation>zXCRCδèö φÿä∞₧¼ ∞áÉΩ▓Ç∞ñæ∞¥┤δ¥╝ ∞é¼∞Ü⌐φòÿ∞ïñ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC is currently undergoing maintenance.</source>♪◙        <translation>zXCRCδèö φÿä∞₧¼ ∞áÉΩ▓Ç∞ñæ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>♪◙        <translation>Denom. Ω░Æ &lt;b&gt;1&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;5&lt;/b&gt;:</source>♪◙        <translation>Denom. Ω░Æ &lt;b&gt;5&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;10&lt;/b&gt;:</source>♪◙        <translation>Denom. Ω░Æ &lt;b&gt;10&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;50&lt;/b&gt;:</source>♪◙        <translation>Denom. Ω░Æ &lt;b&gt;50&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;100&lt;/b&gt;:</source>♪◙        <translation>Denom. Ω░Æ &lt;b&gt;100&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;500&lt;/b&gt;:</source>♪◙        <translation>Denom. Ω░Æ &lt;b&gt;500&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;1000&lt;/b&gt;:</source>♪◙        <translation>Denom. Ω░Æ &lt;b&gt;1000&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;5000&lt;/b&gt;:</source>♪◙        <translation>Denom. Ω░Æ &lt;b&gt;5000&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint Status:</source>♪◙        <translation>∞₧ÉδÅÖ∞â¥∞ä▒ ∞âüφâ£:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;1&lt;/b&gt;:</source>♪◙        <translation>Denom. &lt;b&gt;1&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;5&lt;/b&gt;:</source>♪◙        <translation>Denom. &lt;b&gt;5&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;10&lt;/b&gt;:</source>♪◙        <translation>Denom. &lt;b&gt;10&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;50&lt;/b&gt;:</source>♪◙        <translation>Denom. &lt;b&gt;50&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;100&lt;/b&gt;:</source>♪◙        <translation>Denom. &lt;b&gt;100&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;500&lt;/b&gt;:</source>♪◙        <translation>Denom. &lt;b&gt;500&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;1000&lt;/b&gt;:</source>♪◙        <translation>Denom. &lt;b&gt;1000&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;5000&lt;/b&gt;:</source>♪◙        <translation>Denom. &lt;b&gt;5000&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>♪◙        <translation>Error : ∞ºÇΩ░æ∞¥┤ ∞₧áΩ▓¿∞₧ê∞è╡δïêδïñ. δ¿╝∞áÇ ∞ºÇΩ░æ∞¥ä ∞ù┤∞û┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message: Enter an amount &gt; 0.</source>♪◙        <translation>Message: 0 ∞¥┤∞âü∞¥ÿ ∞êÿδƒë∞¥ä ∞₧àδáÑφòÿ∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minting </source>♪◙        <translation>∞â¥∞ä▒∞ñæ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Successfully minted </source>♪◙        <translation>∞ä▒Ω│╡∞áü∞£╝δí£ δ░£φûëδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source> zXCRC in </source>♪◙        <translation> zXCRC in </translation>♪◙    </message>♪◙    <message>♪◙        <source> sec. Used denominations:♪◙</source>♪◙        <translation> ∞┤ê. ∞é¼∞Ü⌐δÉ£ δööδà╕δ»╕δäñ∞¥┤∞àÿ:♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Duration: </source>♪◙        <translation>Ω▓╜Ω│╝∞ï£Ω░ä:</translation>♪◙    </message>♪◙    <message>♪◙        <source> sec.♪◙</source>♪◙        <translation>∞┤ê.♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Starting ResetSpentZerocoin: </source>♪◙        <translation>∞áä∞åíδÉ£ ∞á£δí£∞╜ö∞¥╕ δª¼∞àï ∞ï£∞₧æ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>No 'Pay To' address provided, creating local payment</source>♪◙        <translation>∞ú╝∞åîδÑ╝ ∞₧àδáÑφòÿ∞ºÇ ∞òè∞òä, ∞ïáΩ╖£ ∞ú╝∞åîδÑ╝ ∞â¥∞ä▒φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid XCRC address</source>♪◙        <translation>∞₧ÿδ¬╗δÉ£ CRyptoCrowd ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid Send Amount</source>♪◙        <translation>∞₧ÿδ¬╗δÉ£ ∞áä∞åí ∞êÿδƒë</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm additional Fees</source>♪◙        <translation>∞╢öΩ░Ç ∞êÿ∞êÿδúî φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to send?&lt;br /&gt;&lt;br /&gt;</source>♪◙        <translation>∞áòδºÉδí£ δ│┤δé┤∞ï£Ω▓á∞è╡δïêΩ╣î?&lt;br /&gt;&lt;br /&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source> to address </source>♪◙        <translation>∞ú╝∞åîδí£</translation>♪◙    </message>♪◙    <message>♪◙        <source> to a newly generated (unused and therefore anonymous) local address &lt;br /&gt;</source>♪◙        <translation>∞âêδí£ ∞â¥∞ä▒δÉ£ Ω░£∞¥╕ ∞ºÇΩ░æ ∞ú╝∞åî(δ»╕∞é¼∞Ü⌐δÉ£ ∞¥╡δ¬à∞¥ÿ) &lt;br /&gt; δí£</translation>♪◙    </message>♪◙    <message>♪◙        <source>with Security Level </source>♪◙        <translation>∞ï£φüÉδª¼φï░ δáêδ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm send coins</source>♪◙        <translation>∞╜ö∞¥╕ ∞áä∞åí φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>♪◙        <translation>zXCRC δ▓ä∞áä 1∞¥Ç ∞ä▒Ω│╡∞áü∞£╝δí£ δ│┤δé┤Ω╕░ ∞£äφò┤∞ä£ 100 ∞ï£φüÉδª¼φï░ δáêδ▓¿∞¥┤ φòä∞Üöφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to spend zXCRC</source>♪◙        <translation>zXCRC ∞áä∞åí ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to fetch mint associated with serial hash</source>♪◙        <translation>Failed to fetch mint associated with serial hash</translation>♪◙    </message>♪◙    <message>♪◙        <source>Too much inputs (</source>♪◙        <translation>δäêδ¼┤ δºÄ∞¥Ç ∞₧àδáÑ (</translation>♪◙    </message>♪◙    <message>♪◙        <source>♪◙Either mint higher denominations (so fewer inputs are needed) or reduce the amount to spend.</source>♪◙        <translation>δåÆ∞¥Ç δööδà╕δ»╕δäñ∞àÿ Ω░Æ∞£╝δí£ ∞â¥∞ä▒φòÿΩ▒░δéÿ, δ│┤δé┤∞ïñ Ω╕ê∞òí∞¥ä ∞ñä∞ù¼∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend Zerocoin failed with status = </source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞åíΩ╕ê ∞ïñφî¿ ∞âüφâ£ =</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>PrivacyDialog</source>♪◙        <comment>Enter an amount of XCRC to convert to zXCRC</comment>♪◙        <translation><numerusform>PrivacyDialog</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>denomination: </source>♪◙        <translation>δööδà╕δ»╕δäñ∞¥┤∞àÿ: </translation>♪◙    </message>♪◙    <message>♪◙        <source>serial: </source>♪◙        <translation>∞ï£δª¼∞û╝:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend is 1 of : </source>♪◙        <translation>Spend is 1 of : </translation>♪◙    </message>♪◙    <message>♪◙        <source>value out: </source>♪◙        <translation>∞╢£δáÑ Ω░Æ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>address: </source>♪◙        <translation>∞ú╝∞åî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending successful, return code: </source>♪◙        <translation>∞ä▒Ω│╡ ∞Öäδúî, δª¼φä┤ ∞╜öδô£ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>txid: </source>♪◙        <translation>txid:</translation>♪◙    </message>♪◙    <message>♪◙        <source>fee: </source>♪◙        <translation>∞êÿ∞êÿδúî:</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>QObject</name>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>Ω╕ê∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a CRyptoCrowd address (e.g. %1)</source>♪◙        <translation>CRyptoCrowd ∞ú╝∞åîδÑ╝ ∞₧àδáÑφòÿ∞ä╕∞Üö (∞ÿê %1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 d</source>♪◙        <translation>%1 ∞¥╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 h</source>♪◙        <translation>%1 ∞ï£Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 m</source>♪◙        <translation>%1 δ╢ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 s</source>♪◙        <translation>%1 ∞┤ê</translation>♪◙    </message>♪◙    <message>♪◙        <source>NETWORK</source>♪◙        <translation>δäñφè╕∞¢îφü¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>BLOOM</source>♪◙        <translation>BLOOM</translation>♪◙    </message>♪◙    <message>♪◙        <source>UNKNOWN</source>♪◙        <translation>UNKNOWN</translation>♪◙    </message>♪◙    <message>♪◙        <source>None</source>♪◙        <translation>None</translation>♪◙    </message>♪◙    <message>♪◙        <source>N/A</source>♪◙        <translation>N/A</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 ms</source>♪◙        <translation>%1 ms</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>QRImageWidget</name>♪◙    <message>♪◙        <source>Save Image...</source>♪◙        <translation>∞¥┤δ»╕∞ºÇ ∞áÇ∞₧Ñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Image</source>♪◙        <translation>∞¥┤δ»╕∞ºÇ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Save QR Code</source>♪◙        <translation>QR ∞╜öδô£ ∞áÇ∞₧Ñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>PNG Image (*.png)</source>♪◙        <translation>PNG φÿò∞ï¥ ∞¥┤δ»╕∞ºÇ (*.png)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>RPCConsole</name>♪◙    <message>♪◙        <source>Tools window</source>♪◙        <translation>δÅäΩ╡¼ ∞░╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>General</source>♪◙        <translation>∞¥╝δ░ÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Name</source>♪◙        <translation>∞¥┤δªä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Client name</source>♪◙        <translation>φü┤δ¥╝∞¥┤∞û╕φè╕ ∞¥┤δªä</translation>♪◙    </message>♪◙    <message>♪◙        <source>N/A</source>♪◙        <translation>N/A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of connections</source>♪◙        <translation>∞ù░Ω▓░δÉ£ ∞êÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open</source>♪◙        <translation>∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Startup time</source>♪◙        <translation>∞ï£∞₧æ ∞ï£Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network</source>♪◙        <translation>δäñφè╕∞¢îφü¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last block time</source>♪◙        <translation>∞╡£Ω╖╝ δ╕öδí¥ ∞ï£Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debug log file</source>♪◙        <translation>δí£Ω╖╕ φîî∞¥╝ δööδ▓äΩ╖╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Using OpenSSL version</source>♪◙        <translation>OpenSSL δ▓ä∞áä ∞é¼∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Build date</source>♪◙        <translation>δ╣îδô£ δéá∞º£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Current number of blocks</source>♪◙        <translation>φÿä∞₧¼ δ╕öδí¥ Ω░£∞êÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Client version</source>♪◙        <translation>φü┤δ¥╝∞¥┤∞û╕φè╕ δ▓ä∞áä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Using BerkeleyDB version</source>♪◙        <translation>∞é¼∞Ü⌐∞ñæ∞¥╕ BerkeleyDB δ▓ä∞áä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Block chain</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>♪◙        <translation>φÿä∞₧¼ δì░∞¥┤φä░ δööδáëφåáδª¼∞ùÉ∞ä£ CRyptoCrowd δööδ▓äΩ╖╕ δí£Ω╖╕ φîî∞¥╝∞¥ä ∞ù╜δïêδïñ. δí£Ω╖╕ φîî∞¥╝∞¥┤ φü┤ Ω▓╜∞Ü░, ∞ò╜Ω░ä∞¥ÿ ∞ï£Ω░ä∞¥┤ Ω▒╕δª┤ ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of Masternodes</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω░£∞êÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Console</source>♪◙        <translation>∞╜ÿ∞åö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear console</source>♪◙        <translation>∞╜ÿ∞åö ∞┤êΩ╕░φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network Traffic</source>♪◙        <translation>δäñφè╕∞¢îφü¼ φè╕δ₧ÿφö╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear</source>♪◙        <translation>∞┤êΩ╕░φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Totals</source>♪◙        <translation>∞┤¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received</source>♪◙        <translation>δ░¢∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent</source>♪◙        <translation>δ│┤δâä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Peers</source>♪◙        <translation>φö╝∞û┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Banned peers</source>♪◙        <translation>∞á£φò£δÉ£ φö╝∞û┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Select a peer to view detailed information.</source>♪◙        <translation>∞₧É∞ä╕φò£ ∞áòδ│┤δÑ╝ δ│┤Ω╕░ ∞£äφò┤ φö╝∞û┤δÑ╝ ∞äáφâ¥ φòÿ∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whitelisted</source>♪◙        <translation>φÖö∞¥┤φè╕δª¼∞èñφè╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Direction</source>♪◙        <translation>∞£ä∞╣ÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Protocol</source>♪◙        <translation>φöäδí£φåá∞╜£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version</source>♪◙        <translation>δ▓ä∞áä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Services</source>♪◙        <translation>∞ä£δ╣ä∞èñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ban Score</source>♪◙        <translation>δ░┤ ∞èñ∞╜ö∞û┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connection Time</source>♪◙        <translation>∞ù░Ω▓░ ∞ï£Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last Send</source>♪◙        <translation>∞╡£Ω╖╝ δ│┤δâä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last Receive</source>♪◙        <translation>∞╡£Ω╖╝ δ░¢∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes Sent</source>♪◙        <translation>δ│┤δé╕ δ░ö∞¥┤φè╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes Received</source>♪◙        <translation>δ░¢∞¥Ç δ░ö∞¥┤φè╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ping Time</source>♪◙        <translation>∞¥æδï╡ ∞ï£Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet Repair</source>♪◙        <translation>∞ºÇΩ░æ δ│╡Ω╡¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete local Blockchain Folders</source>♪◙        <translation>∞₧É∞ïá∞¥ÿ ∞╗┤φô¿φä░∞¥ÿ δ╕öδí¥∞▓┤∞¥╕ φÅ┤δìö ∞é¡∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet In Use:</source>♪◙        <translation>∞é¼∞Ü⌐∞ñæ∞¥╕ ∞ºÇΩ░æ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Starting Block</source>♪◙        <translation>∞ï£∞₧æ δ╕öδí¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synced Headers</source>♪◙        <translation>δÅÖΩ╕░φÖöδÉ£ φùñδìö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synced Blocks</source>♪◙        <translation>δÅÖΩ╕░φÖöδÉ£ δ╕öδí¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>The duration of a currently outstanding ping.</source>♪◙        <translation>φÿä∞₧¼ δ»╕φò┤Ω▓░ ping∞¥ÿ ∞ºÇ∞åì ∞ï£Ω░ä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ping Wait</source>♪◙        <translation>φòæ δîÇΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Time Offset</source>♪◙        <translation>φâÇ∞₧ä ∞ÿñφöä∞àï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom Backup Path:</source>♪◙        <translation>δº₧∞╢ñ δ░▒∞ùà Ω▓╜δí£ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom zXCRC Backup Path:</source>♪◙        <translation>δº₧∞╢ñ zXCRC δ░▒∞ùà Ω▓╜δí£ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom Backups Threshold:</source>♪◙        <translation>δº₧∞╢ñ δ░▒∞ùà ∞ù¡∞╣ÿ(threshold) : </translation>♪◙    </message>♪◙    <message>♪◙        <source>Salvage wallet</source>♪◙        <translation>∞ºÇΩ░æ δ│╡Ω╡¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Attempt to recover private keys from a corrupt wallet.dat.</source>♪◙        <translation>∞åÉ∞âüδÉ£ wallet.datδí£ δ╢Çφä░ Ω░£∞¥╕φéñ δ│╡Ω╡¼ ∞ï£δÅä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescan blockchain files</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕ φîî∞¥╝ ∞₧¼∞èñ∞║ö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescan the block chain for missing wallet transactions.</source>♪◙        <translation>Ω▒░δ₧ÿδé┤∞ù¡ δ│╡Ω╡¼δÑ╝ ∞£äφò£ δ╕öδí¥∞▓┤∞¥╕ ∞₧¼Ω▓Ç∞âë</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recover transactions 1</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ δ│╡Ω╡¼ 1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recover transactions from blockchain (keep meta-data, e.g. account owner).</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕∞ùÉ∞ä£ Ω▒░δ₧ÿδé┤∞ù¡ δ│╡Ω╡¼ (δ⌐öφâÇ δì░∞¥┤φä░ ∞áÇ∞₧Ñ ∞ÿê: ∞é¼∞Ü⌐∞₧É ∞ú╝∞åî)♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recover transactions 2</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ δ│╡Ω╡¼ 2</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recover transactions from blockchain (drop meta-data).</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕∞ùÉ∞ä£ Ω▒░δ₧ÿδé┤∞ù¡ δ│╡Ω╡¼ (δ⌐öφâÇ δì░∞¥┤φä░ ∞é¡∞á£)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Upgrade wallet format</source>♪◙        <translation>∞ºÇΩ░æ Ω╡¼∞ä▒ ∞ùàΩ╖╕δáê∞¥┤δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rebuild block chain index from current blk000??.dat files.</source>♪◙        <translation>φÿä∞₧¼ blk000??.datδí£ δ╢Çφä░ δ╕öδí¥∞▓┤∞¥╕ ∞¥╕δì▒∞èñ ∞₧¼∞₧æ∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>-resync:</source>♪◙        <translation>-resync:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Deletes all local blockchain folders so the wallet synchronizes from scratch.</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕∞¥ä ∞₧¼δÅÖΩ╕░φÖöδÑ╝ ∞£äφò┤ δ¬¿δôá δ╕öδí¥∞▓┤∞¥╕ φÅ┤δìö ∞é¡∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>♪◙        <translation>∞òäδ₧ÿ δ▓äφè╝δôñ∞¥Ç ∞ºÇΩ░æ∞¥ä Ω│á∞╣ÿΩ╕░ ∞£äφò£ δ¬àδá╣∞û┤ ∞ÿ╡∞àÿδôñδí£ ∞ïñφûë∞ï£ ∞ºÇΩ░æ∞¥ä ∞₧¼∞ï£∞₧æφò⌐δïêδïñ, ∞åÉ∞âüδÉ£ δ╕öδí¥∞▓┤∞¥╕ φîî∞¥╝ δÿÉδèö δêäδ¥╜δÉÿ∞ùêΩ▒░δéÿ ∞ÿñδ₧ÿδÉ£ φè╕δ₧£∞₧¡∞àÿδôñ∞ùÉ δîÇφò£ δ¼╕∞á£δÑ╝ φò┤Ω▓░φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet repair options.</source>♪◙        <translation>∞ºÇΩ░æ δ│╡Ω╡¼ ∞ÿ╡∞àÿ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Upgrade wallet to latest format on startup. (Note: this is NOT an update of the wallet itself!)</source>♪◙        <translation>∞ï£∞₧æ∞ï£ ∞ºÇΩ░æ∞¥ä ∞╡£∞ïá φÅ¼δº╖∞£╝δí£ ∞ùàΩ╖╕δáê∞¥┤δô£ (∞░╕Ω│á : ∞ºÇΩ░æ ∞₧É∞▓┤∞¥ÿ ∞ùàδì░∞¥┤φè╕ ∞òäδïÿ!)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rebuild index</source>♪◙        <translation>∞âë∞¥╕ ∞₧¼Ω╡¼∞╢ò</translation>♪◙    </message>♪◙    <message>♪◙        <source>In:</source>♪◙        <translation>∞₧àδáÑ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Out:</source>♪◙        <translation>∞╢£δáÑ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Welcome to the CRyptoCrowd RPC console.</source>♪◙        <translation>CRyptoCrowd RPC ∞╜ÿ∞åö∞ùÉ ∞ÿñ∞ïá Ω▓â∞¥ä φÖÿ∞ÿüφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Disconnect Node</source>♪◙        <translation> ∞ù░Ω▓░∞¥┤ δüè∞û┤∞ºä δà╕δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ban Node for</source>♪◙        <translation>∞á£φò£δÉ£ δà╕δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>1 hour</source>♪◙        <translation>1 ∞ï£Ω░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>1 day</source>♪◙        <translation>1 ∞¥╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>1 week</source>♪◙        <translation>1 ∞ú╝∞¥╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>1 year</source>♪◙        <translation>1 δàä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unban Node</source>♪◙        <translation>∞á£φò£ φò┤∞ºÇδÉ£ δà╕δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>This will delete your local blockchain folders and the wallet will synchronize the complete Blockchain from scratch.&lt;br /&gt;&lt;br /&gt;</source>♪◙        <translation>Ω╖╕δƒ¼δ⌐┤ δí£∞╗¼ δ╕öδí¥ ∞▓┤∞¥╕ φÅ┤δìöΩ░Ç ∞é¡∞á£δÉÿΩ│á Wallet∞¥Ç ∞áä∞▓┤ Blockchain∞¥ä ∞▓ÿ∞¥îδ╢Çφä░ δÅÖΩ╕░φÖöφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This needs quite some time and downloads a lot of data.&lt;br /&gt;&lt;br /&gt;</source>♪◙        <translation>∞¥┤Ω▓â∞¥Ç ∞âüδï╣φò£ ∞ï£Ω░ä∞¥ä φòä∞Üöδí£φòÿδ⌐░ δºÄ∞¥Ç ∞ûæ∞¥ÿ δì░∞¥┤φä░δÑ╝ δïñ∞Ü┤δí£δô£φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your transactions and funds will be visible again after the download has completed.&lt;br /&gt;&lt;br /&gt;</source>♪◙        <translation>δïñ∞Ü┤δí£δô£Ω░Ç ∞ÖäδúîδÉÿδ⌐┤ Ω▒░δ₧ÿ∞ÖÇ ∞₧ÉΩ╕ê∞¥┤ δïñ∞ï£ φæ£∞ï£δÉ⌐δïêδïñ .12</translation>♪◙    </message>♪◙    <message>♪◙        <source>Do you want to continue?.&lt;br /&gt;</source>♪◙        <translation>Ω│ä∞åì ∞ºäφûëφòÿΩ▓á∞è╡δïêΩ╣î?&lt;br /&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm resync Blockchain</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕ δÅÖΩ╕░φÖöδÑ╝ δïñ∞ï£ φòÿ∞ï£Ω▓á∞è╡δïêΩ╣î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>♪◙        <translation>∞£ä ∞òäδ₧ÿ φÖö∞é┤φæ£δÑ╝ ∞é¼∞Ü⌐φòÿ∞ù¼ Ω╕░δí¥∞¥ä φâÉ∞âëφòÿΩ│á &lt;b&gt;Ctrl-L&lt;/b&gt; φÖöδ⌐┤∞¥ä ∞ºÇ∞¢üδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>♪◙        <translation>∞é¼∞Ü⌐Ω░ÇδèÑφò£ δ¬àδá╣∞¥ä δ│┤δáñδ⌐┤ &lt;b&gt;help&lt;/b&gt;δÑ╝ ∞₧àδáÑφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 B</source>♪◙        <translation>%1 B</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 KB</source>♪◙        <translation>%1 KB</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 MB</source>♪◙        <translation>%1 MB</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 GB</source>♪◙        <translation>%1 GB</translation>♪◙    </message>♪◙    <message>♪◙        <source>(node id: %1)</source>♪◙        <translation>(δà╕δô£ id: %1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>via %1</source>♪◙        <translation>via %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>never</source>♪◙        <translation>never</translation>♪◙    </message>♪◙    <message>♪◙        <source>Inbound</source>♪◙        <translation>∞¥╕δ░ö∞Ü┤δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Outbound</source>♪◙        <translation>∞òä∞¢âδ░ö∞Ü┤δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Yes</source>♪◙        <translation>Yes</translation>♪◙    </message>♪◙    <message>♪◙        <source>No</source>♪◙        <translation>No</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unknown</source>♪◙        <translation>Unknown</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ReceiveCoinsDialog</name>♪◙    <message>♪◙        <source>Reuse one of the previously used receiving addresses.&lt;br&gt;Reusing addresses has security and privacy issues.&lt;br&gt;Do not use this unless re-generating a payment request made before.</source>♪◙        <translation>∞¥┤∞áä∞ùÉ ∞é¼∞Ü⌐φò£ ∞êÿ∞ïá ∞ú╝∞åî ∞ñæ φòÿδéÿδÑ╝ δïñ∞ï£ ∞é¼∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ.&lt;br&gt;∞ú╝∞åî ∞₧¼∞é¼∞Ü⌐∞¥Ç δ│┤∞òê δ░Å Ω░£∞¥╕∞áòδ│┤δ│┤φÿ╕ δ¼╕∞á£Ω░Ç ∞₧ê∞è╡δïêδïñ.&lt;br&gt;∞¥┤∞áä∞ùÉ δºîδôá Ω▓░∞á£ ∞Üö∞▓¡∞¥ä δïñ∞ï£ ∞â¥∞ä▒φòÿ∞ºÇ ∞òèδèö φò£ ∞¥┤Ω▓â∞¥ä ∞é¼∞Ü⌐φòÿ∞ºÇ δºê∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reuse an existing receiving address (not recommended)</source>♪◙        <translation>Ω╕░∞í┤ ∞êÿ∞ïá ∞ú╝∞åî ∞₧¼∞é¼∞Ü⌐ (Ω╢î∞₧Ñφòÿ∞ºÇ ∞òè∞¥î)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message:</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>An optional label to associate with the new receiving address.</source>♪◙        <translation>∞âêδí£∞Ü┤ ∞êÿ∞ïá ∞ú╝∞åî∞ÖÇ ∞ù░Ω▓░φòá ∞äáφâ¥∞áü δ¥╝δ▓¿.</translation>♪◙    </message>♪◙    <message>♪◙        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>♪◙        <translation>∞Üö∞▓¡∞¥┤ ∞ù┤δª┤ δòî φæ£∞ï£δÉÿδèö Ω▓░∞á£ ∞Üö∞▓¡∞ùÉ ∞▓¿δ╢Çφòá ∞äáφâ¥∞áü δ⌐ö∞ä╕∞ºÇ ∞₧àδïêδïñ. ∞░╕Ω│á: CRyptoCrowd δäñφè╕∞¢îφü¼δÑ╝ φå╡φò£ Ω▓░∞á£δèö δ⌐ö∞ä╕∞ºÇΩ░Ç ∞áä∞åíδÉÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>RECEIVE</source>♪◙        <translation>δ░¢Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>♪◙        <translation>∞Üö∞▓¡∞¥┤ ∞ù┤δª┤ δòî φæ£∞ï£δÉÿδèö Ω▓░∞á£ ∞Üö∞▓¡∞ùÉ ∞▓¿δ╢Çφòá ∞äáφâ¥∞áü δ⌐ö∞ä╕∞ºÇ ∞₧àδïêδïñ.&lt;br&gt;∞░╕Ω│á: CRyptoCrowd δäñφè╕∞¢îφü¼δÑ╝ φå╡φò£ Ω▓░∞á£δèö δ⌐ö∞ä╕∞ºÇΩ░Ç ∞áä∞åíδÉÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡∞¥ä ∞ºäφûëφòÿδáñδ⌐┤ φò┤δï╣ ∞ûæ∞ï¥∞¥ä ∞₧àδáÑφòÿ∞ä╕∞Üö. δ¬¿δôá ∞₧àδáÑδ₧Ç∞¥Ç &lt;b&gt;∞äáφâ¥ ∞é¼φò¡&lt;/b&gt;∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label:</source>♪◙        <translation>δ¥╝δ▓¿:</translation>♪◙    </message>♪◙    <message>♪◙        <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>♪◙        <translation>∞Üö∞▓¡φòá ∞äáφâ¥∞áü Ω╕ê∞òí. ∞¥┤ Ω╕ê∞òí∞¥ä δ╣ä∞¢îδæÉΩ▒░δéÿ φè╣∞áò Ω╕ê∞òí∞¥ä ∞Üö∞▓¡φòÿ∞ºÇ ∞òè∞£╝δáñδ⌐┤ 0∞£╝δí£ δæÉ∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Request payment</source>♪◙        <translation>Ω▓░∞á£ ∞Üö∞▓¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear all fields of the form.</source>♪◙        <translation>δ¬¿δôá ∞₧àδáÑ ∞ûæ∞ï¥ ∞ºÇ∞Ü░Ω╕░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear</source>♪◙        <translation>∞ºÇ∞Ü░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Requested payments history</source>♪◙        <translation>∞Üö∞▓¡δÉ£ Ω▓░∞á£ δé┤∞ù¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the selected request (does the same as double clicking an entry)</source>♪◙        <translation>∞äáφâ¥φò£ ∞Üö∞▓¡∞¥ä φæ£∞ï£φò⌐δïêδïñ (φò¡δ¬⌐∞¥ä δæÉ δ▓ê φü┤δª¡φòÿδèö Ω▓âΩ│╝ δÅÖ∞¥╝)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show</source>♪◙        <translation>φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Remove the selected entries from the list</source>♪◙        <translation>∞äáφâ¥φò£ φò¡δ¬⌐∞¥ä δ¬⌐δí¥∞ùÉ∞ä£ ∞á£Ω▒░φòÿ∞ï¡∞ï£∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Remove</source>♪◙        <translation>∞á£Ω▒░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy label</source>♪◙        <translation>δ¥╝δ▓¿ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy message</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>Ω╕ê∞òí δ│╡∞é¼</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ReceiveRequestDialog</name>♪◙    <message>♪◙        <source>QR Code</source>♪◙        <translation>QR ∞╜öδô£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy URI</source>♪◙        <translation>URI δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Address</source>♪◙        <translation>∞ú╝∞åî δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Save Image...</source>♪◙        <translation>∞¥┤δ»╕∞ºÇ ∞áÇ∞₧Ñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Request payment to %1</source>♪◙        <translation>%1 Ω▓░∞á£ ∞Üö∞▓¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment information</source>♪◙        <translation>Ω▓░∞á£ ∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>URI</source>♪◙        <translation>URI</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>Ω╕ê∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Resulting URI too long, try to reduce the text for label / message.</source>♪◙        <translation>URI Ω▓░Ω│╝Ω░Ç δäêδ¼┤ Ω╕╕δ⌐┤, δ¥╝δ▓¿ / δ⌐ö∞ä╕∞ºÇ∞¥ÿ φàì∞èñφè╕δÑ╝ ∞ñä∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error encoding URI into QR Code.</source>♪◙        <translation>URIδÑ╝ QR ∞╜öδô£δí£ ∞¥╕∞╜öδö⌐φòÿδèö δÅä∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φòÿ∞ÿÇ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>RecentRequestsTableModel</name>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>δéá∞º£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>Ω╕ê∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(δ¥╝δ▓¿ ∞ùå∞¥î)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no message)</source>♪◙        <translation>(δ⌐ö∞ä╕∞ºÇ ∞ùå∞¥î)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no amount)</source>♪◙        <translation>(Ω╕ê∞òí ∞ùå∞¥î)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SendCoinsDialog</name>♪◙    <message>♪◙        <source>Send Coins</source>♪◙        <translation>∞╜ö∞¥╕ ∞áä∞åí </translation>♪◙    </message>♪◙    <message>♪◙        <source>SEND</source>♪◙        <translation>δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Control Features</source>♪◙        <translation>∞╜ö∞¥╕ ∞á£∞û┤ Ω╕░δèÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient funds!</source>♪◙        <translation>∞₧ÉΩ╕ê∞¥┤ ∞╢⌐δ╢äφòÿ∞ºÇ ∞òè∞è╡δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity:</source>♪◙        <translation>∞êÿδƒë:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes:</source>♪◙        <translation>δ░ö∞¥┤φè╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Priority:</source>♪◙        <translation>∞Ü░∞äá ∞ê£∞£ä:</translation>♪◙    </message>♪◙    <message>♪◙        <source>medium</source>♪◙        <translation>∞ñæΩ░ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fee:</source>♪◙        <translation>∞êÿ∞êÿδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Dust:</source>♪◙        <translation>φÿäΩ╕ê:</translation>♪◙    </message>♪◙    <message>♪◙        <source>no</source>♪◙        <translation>∞òäδïê∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>After Fee:</source>♪◙        <translation>∞╡£∞óà Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change:</source>♪◙        <translation>∞₧öδÅê:</translation>♪◙    </message>♪◙    <message>♪◙        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>♪◙        <translation>∞¥┤ ∞ÿ╡∞àÿ∞¥┤ φÖ£∞ä▒φÖöδÉÿ∞ùê∞ºÇδºî, δ│ÇΩ▓╜ ∞ú╝∞åîΩ░Ç δ╣ä∞û┤∞₧êΩ▒░δéÿ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω▓╜∞Ü░ δ│ÇΩ▓╜∞é¼φò¡∞¥Ç ∞âêδí£ ∞â¥∞ä▒δÉ£ ∞ú╝∞åîδí£ ∞áä∞åíδÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom change address</source>♪◙        <translation>∞╗ñ∞èñφàÇ ∞ú╝∞åî δ│ÇΩ▓╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Split UTXO</source>♪◙        <translation>UTXO δ╢äφòá</translation>♪◙    </message>♪◙    <message>♪◙        <source># of outputs</source>♪◙        <translation># ∞╢£δáÑ ∞êÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>UTXO Size:</source>♪◙        <translation>UTXO φü¼Ω╕░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>0 CRyptoCrowd</source>♪◙        <translation>0 CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction Fee:</source>♪◙        <translation>Ω▒░δ₧ÿ ∞êÿ∞êÿδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose...</source>♪◙        <translation>∞äáφâ¥...</translation>♪◙    </message>♪◙    <message>♪◙        <source>collapse fee-settings</source>♪◙        <translation>Ω░äδï¿φò£ ∞êÿ∞êÿδúî ∞äñ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize</source>♪◙        <translation>δï½Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>per kilobyte</source>♪◙        <translation>φé¼δí£δ░ö∞¥┤φè╕δï╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>total at least</source>♪◙        <translation>∞áä∞▓┤∞ùÉ∞ä£ ∞╡£∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>(read the tooltip)</source>♪◙        <translation>(φê┤φîü∞¥ä ∞¥╜∞û┤∞ú╝∞ä╕∞Üö)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom:</source>♪◙        <translation>∞╗ñ∞èñφàÇ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>♪◙        <translation>(∞èñδºêφè╕ ∞êÿ∞êÿδúîΩ░Ç ∞òä∞ºü ∞┤êΩ╕░φÖö δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ. ∞¥╝δ░ÿ∞áü∞£╝δí£ δ¬ç δ╕öδí¥∞¥┤ ∞ºÇδéÿ∞ò╝δÉ⌐δïêδïñ...)</translation>♪◙    </message>♪◙    <message>♪◙        <source>SwiftX</source>♪◙        <translation>SwiftX</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmation time:</source>♪◙        <translation>∞è╣∞¥╕ ∞ï£Ω░ä:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Coin Control...</source>♪◙        <translation>∞╜ö∞¥╕ ∞äñ∞áò ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coins automatically selected</source>♪◙        <translation>∞₧ÉδÅÖ∞£╝δí£ ∞äáφâ¥δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ∞¥┤ 250δ░ö∞¥┤φè╕ ∞¥╕ Ω▓╜∞Ü░ ∞é¼∞Ü⌐∞₧É ∞ºÇ∞áò ∞êÿ∞êÿδúîΩ░Ç 1000 uXCRCsδí£ ∞äñ∞áòδÉÿΩ│á,&lt;br /&gt;1000 uXCRCs ∞òê∞ùÉδèö ∞╡£∞åî "φé¼δí£δ░ö∞¥┤φè╕δï╣" 250 uXCRCs δºî ∞ºÇδ╢êφò⌐δïêδïñ. 1 φé¼δí£δ░ö∞¥┤φè╕δ│┤δïñ φü░ φè╕δ₧£∞₧¡∞àÿ∞¥ÿ Ω▓╜∞Ü░ δ¬¿δæÉ φé¼δí£δ░ö∞¥┤φè╕ δï¿∞£äδí£ ∞ºÇδ╢êφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ∞¥┤ 250δ░ö∞¥┤φè╕ ∞¥╕ Ω▓╜∞Ü░ ∞é¼∞Ü⌐∞₧É ∞ºÇ∞áò ∞êÿ∞êÿδúîΩ░Ç 1000 uXCRCsδí£ ∞äñ∞áòδÉÿΩ│á,&lt;br /&gt;1000 uXCRCs ∞òê∞ùÉδèö ∞áä∞▓┤∞ùÉ∞ä£ ∞╡£∞åî "φé¼δí£δ░ö∞¥┤φè╕δï╣" 250 uXCRCs δºî ∞ºÇδ╢êφò⌐δïêδïñ. 1 φé¼δí£δ░ö∞¥┤φè╕δ│┤δïñ φü░ φè╕δ₧£∞₧¡∞àÿ∞¥ÿ Ω▓╜∞Ü░ δ¬¿δæÉ φé¼δí£δ░ö∞¥┤φè╕ δï¿∞£äδí£ ∞ºÇδ╢êφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>♪◙        <translation>δ╕öδí¥∞¥ÿ Ω│╡Ω░äδ│┤δïñ φè╕δ₧£∞₧¡∞àÿδƒë∞¥┤ ∞áü∞£╝δ⌐┤ ∞╡£∞åî ∞êÿ∞êÿδúîδºî ∞ºÇδ╢êφòÿδ⌐┤ δÉ⌐δïêδïñ.&lt;br /&gt;φòÿ∞ºÇδºî CRyptoCrowd φè╕δ₧£∞₧¡∞àÿ ∞êÿΩ░Ç δºÄ∞£╝δ⌐┤ δ»╕φÖò∞¥╕δÉ£ φè╕δ₧£∞₧¡∞àÿδí£ δäñφè╕∞¢îφü¼Ω░Ç ∞▓ÿδª¼φòá ∞êÿδÅä ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>normal</source>♪◙        <translation>δ│┤φå╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>fast</source>♪◙        <translation>δ╣áδÑ╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recommended</source>♪◙        <translation>Ω╢î∞₧Ñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send as zero-fee transaction if possible</source>♪◙        <translation>Ω░ÇδèÑφòÿδïñδ⌐┤ ∞á£δí£ ∞êÿ∞êÿδúî φè╕δ₧£∞₧¡∞àÿ∞£╝δí£ ∞áä∞åíφòÿ∞ï¡∞ï£∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>(confirmation may take longer)</source>♪◙        <translation>(∞è╣∞¥╕∞¥┤ ∞ÿñδ₧ÿΩ▒╕δª┤ ∞êÿ ∞₧ê∞è╡δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm the send action</source>♪◙        <translation>∞áä∞åí ∞₧æ∞ùà φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send</source>♪◙        <translation>∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear all fields of the form.</source>♪◙        <translation>δ¬¿δôá ∞₧àδáÑ ∞ûæ∞ï¥ ∞ºÇ∞Ü░Ω╕░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>∞áä∞▓┤ ∞ºÇ∞Ü░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send to multiple recipients at once</source>♪◙        <translation>φò£δ▓ê∞ùÉ ∞ù¼δƒ¼ Ω││ ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add Recipient</source>♪◙        <translation>δ░¢δèö ∞é¼δ₧î ∞╢öΩ░Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Anonymized XCRC</source>♪◙        <translation>∞¥╡δ¬àφÖöδÉ£ CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Balance:</source>♪◙        <translation>∞₧ö∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy quantity</source>♪◙        <translation>∞êÿδƒë δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>Ω╕ê∞òí δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy fee</source>♪◙        <translation>∞êÿ∞êÿδúî δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy after fee</source>♪◙        <translation>∞¥┤∞Ü⌐ ∞êÿ∞êÿδúî δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy bytes</source>♪◙        <translation>δ░ö∞¥┤φè╕ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy priority</source>♪◙        <translation>∞Ü░∞äá ∞é¼φò¡ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy dust</source>♪◙        <translation>φÿäΩ╕ê δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy change</source>♪◙        <translation>δ│ÇΩ▓╜ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>The split block tool does not work when sending to outside addresses. Try again.</source>♪◙        <translation>δ╢äφòá δ╕öδí¥ δÅäΩ╡¼δèö ∞Ö╕δ╢Ç ∞ú╝∞åîδí£ δ│┤δé╝ δòî ∞₧æδÅÖφòÿ∞ºÇ ∞òè∞è╡δïêδïñ. δïñ∞ï£ ∞ï£δÅäφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The split block tool does not work with multiple addresses. Try again.</source>♪◙        <translation>δ╢äφòá δ╕öδí¥ δÅäΩ╡¼δèö ∞ù¼δƒ¼ ∞ú╝∞åî∞ùÉ∞ä£ ∞₧æδÅÖφòÿ∞ºÇ ∞òè∞è╡δïêδïñ. δïñ∞ï£ ∞ï£δÅäφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Invalid XCRC address</source>♪◙        <translation>Ω▓╜Ω│á: ∞₧ÿδ¬╗δÉ£ CRyptoCrowd ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 to %2</source>♪◙        <translation>%1 ∞ùÉ∞ä£ %2</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to send?</source>♪◙        <translation>∞áòδºÉ δ│┤δé┤∞ï£Ω▓á∞è╡δïêΩ╣î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>are added as transaction fee</source>♪◙        <translation>Ω▒░δ₧ÿ ∞êÿ∞êÿδúîΩ░Ç ∞╢öΩ░ÇδÉ⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total Amount = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</source>♪◙        <translation>∞┤¥ Ω╕ê∞òí = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm send coins</source>♪◙        <translation>∞╜ö∞¥╕ ∞áä∞åí φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>A fee %1 times higher than %2 per kB is considered an insanely high fee.</source>♪◙        <translation>KBδï╣ %1δ│┤δïñ %2δ░░ δºÄ∞¥Ç ∞êÿ∞êÿδúîδèö δäêδ¼┤ δåÆ∞¥Ç ∞êÿ∞êÿδúî∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>Estimated to begin confirmation within %n block(s).</source>♪◙        <translation><numerusform>%n Ω░£∞¥ÿ δ╕öδí¥ δé┤∞ùÉ∞ä£ ∞╗¿φÄî∞¥┤ ∞ï£∞₧æφòá Ω▓â∞£╝δí£ ∞╢ö∞áòδÉ¿.</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>The recipient address is not valid, please recheck.</source>♪◙        <translation>∞êÿ∞ïá∞₧É ∞ú╝∞åîΩ░Ç ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞è╡δïêδïñ. δïñ∞ï£ φÖò∞¥╕φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>using SwiftX</source>♪◙        <translation>SwiftX ∞é¼∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source> split into %1 outputs using the UTXO splitter.</source>♪◙        <translation>UTXO ∞èñφöîδª¼φä░δÑ╝ ∞é¼∞Ü⌐φòÿ∞ù¼ %1 ∞╢£δáÑ∞£╝δí£ δ╢äφòáφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</source>♪◙        <translation>&lt;b&gt;(φæ£∞ï£δÉ£ %2Ω░£ φò¡δ¬⌐∞ñæ %1Ω░£)&lt;/b&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>The amount to pay must be larger than 0.</source>♪◙        <translation>∞ºÇδ╢ê φòá Ω╕ê∞òí∞¥Ç 0δ│┤δïñ ∞╗ñ∞ò╝φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The amount exceeds your balance.</source>♪◙        <translation>∞₧àδáÑφò£ Ω╕ê∞òí∞¥┤ ∞₧ö∞òí∞¥ä ∞┤êΩ│╝φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The total exceeds your balance when the %1 transaction fee is included.</source>♪◙        <translation>%1 φè╕δ₧£∞₧¡∞àÿ ∞êÿ∞êÿδúîΩ░Ç φÅ¼φò¿φòÿδ⌐┤ φÿä∞₧¼ ∞₧ö∞òí∞¥ä ∞┤êΩ│╝φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Duplicate address found, can only send to each address once per send operation.</source>♪◙        <translation>∞ñæδ│╡δÉ£ ∞ú╝∞åîδÑ╝ δ░£Ω▓¼φûê∞è╡δïêδïñ. Ω░ü ∞ú╝∞åîδèö ∞áä∞åí ∞₧æ∞ùàδï╣ φò£ δ▓ê∞ö⌐δºî δ│┤δé╝ ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction creation failed!</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞â¥∞ä▒ ∞ïñφî¿!</translation>♪◙    </message>♪◙    <message>♪◙        <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ∞¥┤ Ω▒░δ╢ÇδÉÿ∞ùê∞è╡δïêδïñ! ∞ºÇΩ░æ∞ùÉ ∞₧êδèö ∞╜ö∞¥╕ ∞ñæ ∞¥╝δ╢ÇΩ░Ç ∞¥┤δ»╕ ∞é¼∞Ü⌐δÉ£ Ω▓╜∞Ü░∞¥╝ ∞êÿ ∞₧ê∞è╡δïêδïñ. wallet.dat ∞é¼δ│╕∞¥ä ∞é¼∞Ü⌐φòÿΩ│á ∞╜ö∞¥╕∞¥ä ∞¥┤δ»╕ ∞é¼∞Ü⌐φòÿΩ│á φÿä∞₧¼ ∞ù¼Ω╕░∞ùÉ φæ£∞ï£δÉÿ∞ºÇ ∞òè∞¥Ç Ω▓╜∞Ü░∞ùÉ ∞¥┤δƒ░ φÿä∞âü∞¥┤ δ░£∞â¥φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: The wallet was unlocked only to anonymize coins.</source>♪◙        <translation>∞ÿñδÑÿ: φÿä∞₧¼ ∞ºÇΩ░æ∞¥┤ ∞¥╡δ¬à ∞▓ÿδª¼δÑ╝ ∞£äφò┤ ∞₧áΩ╕êφò┤∞á£ δÉÿ∞û┤ ∞₧ê∞è╡δïêδïñ. ∞¥╡δ¬àφÖö δ░Å ∞èñφàî∞¥┤φé╣ ∞áä∞Ü⌐∞¥ä φò┤∞á£φòÿ∞ï£Ω│á δïñ∞ï£ ∞ï£δÅäφòÿ∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: The wallet was unlocked only to anonymize coins. Unlock canceled.</source>♪◙        <translation>∞ùÉδƒ¼ : φÿä∞₧¼ ∞ºÇΩ░æ∞¥Ç ∞╜ö∞¥╕ ∞¥╡δ¬àφÖöδÑ╝ ∞£äφò┤∞ä£δºî ∞₧áΩ╕êφò┤∞á£δÉÿ∞ùê∞è╡δïêδïñ. ∞₧áΩ╕êφò┤∞á£Ω░Ç ∞╖¿∞åîδÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pay only the minimum fee of %1</source>♪◙        <translation>%1∞¥ÿ ∞╡£∞åî ∞êÿ∞êÿδúîδºî ∞ºÇδ╢êφòÿ∞ï¡∞ï£∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Unknown change address</source>♪◙        <translation>Ω▓╜Ω│á: ∞òî ∞êÿ ∞ùåδèö δ│ÇΩ▓╜ ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(δ¥╝δ▓¿ ∞ùå∞¥î)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SendCoinsEntry</name>♪◙    <message>♪◙        <source>This is a normal payment.</source>♪◙        <translation>∞¥┤Ω▓â∞¥Ç ∞¥╝δ░ÿ Ω▓░∞á£∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pay To:</source>♪◙        <translation>∞ºÇδ╢ê δîÇ∞âü:</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address to send the payment to</source>♪◙        <translation>δ│┤δé╝ CRyptoCrowd ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>∞¥┤∞áä∞ùÉ ∞é¼∞Ü⌐φò£ ∞ú╝∞åî ∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>φü┤δª╜δ│┤δô£∞ùÉ∞ä£ ∞ú╝∞åî δ╢Ö∞ù¼ δäúΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Remove this entry</source>♪◙        <translation>∞¥┤ φò¡δ¬⌐ ∞é¡∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label:</source>♪◙        <translation>δ¥╝δ▓¿:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a label for this address to add it to the list of used addresses</source>♪◙        <translation>∞¥┤ ∞ú╝∞åî∞¥ÿ δ¥╝δ▓¿∞¥ä ∞₧àδáÑφòÿ∞ù¼ ∞é¼∞Ü⌐δÉ£ ∞ú╝∞åî δ¬⌐δí¥∞ùÉ ∞╢öΩ░Çφòÿ∞ï¡∞ï£∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message:</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>♪◙        <translation>∞░╕∞í░∞Ü⌐∞£╝δí£ φè╕δ₧£∞₧¡∞àÿΩ│╝ φò¿Ω╗ÿ Ω╕░δí¥δÉÿδèö CRyptoCrowd : URI∞ùÉ ∞▓¿δ╢ÇδÉ£ δ⌐ö∞ä╕∞ºÇ∞₧àδïêδïñ. ∞░╕Ω│á: ∞¥┤ δ⌐ö∞ä╕∞ºÇδèö CRyptoCrowd δäñφè╕∞¢îφü¼δÑ╝ φå╡φò┤ ∞áä∞åíδÉÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is an unverified payment request.</source>♪◙        <translation>φÖò∞¥╕δÉÿ∞ºÇ ∞òè∞¥Ç Ω▓░∞á£ ∞Üö∞▓¡∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pay To:</source>♪◙        <translation>δ│┤δé╝ ∞ú╝∞åî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Memo:</source>♪◙        <translation>δ⌐öδ¬¿:</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is a verified payment request.</source>♪◙        <translation>φÖò∞¥╕δÉ£ Ω▓░∞á£ ∞Üö∞▓¡∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a label for this address to add it to your address book</source>♪◙        <translation>∞ú╝∞åîδí¥∞ùÉ ∞╢öΩ░Çφòÿδáñδ⌐┤ ∞¥┤ ∞ú╝∞åî∞¥ÿ δ¥╝δ▓¿∞¥ä ∞₧àδáÑφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ShutdownWindow</name>♪◙    <message>♪◙        <source>CRyptoCrowd Core is shutting down...</source>♪◙        <translation>CRyptoCrowd CoreΩ░Ç ∞óàδúîδÉ⌐δïêδïñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Do not shut down the computer until this window disappears.</source>♪◙        <translation>∞¥┤ ∞░╜∞¥┤ ∞é¼δ¥╝∞ºê δòîΩ╣î∞ºÇ ∞╗┤φô¿φä░δÑ╝ ∞óàδúîφòÿ∞ºÇ δºê∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SignVerifyMessageDialog</name>♪◙    <message>♪◙        <source>Signatures - Sign / Verify a Message</source>♪◙        <translation>∞ä£δ¬à - ∞ä£δ¬à / δ⌐ö∞ä╕∞ºÇ Ω▓Ç∞ª¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign Message</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ ∞ä£δ¬à</translation>♪◙    </message>♪◙    <message>♪◙        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>♪◙        <translation>∞₧É∞ïá∞¥ÿ ∞ú╝∞åîδí£ δ⌐ö∞ä╕∞ºÇ∞ùÉ ∞ä£δ¬àφòá ∞êÿ ∞₧ê∞è╡δïêδïñ. φö╝∞ï▒ Ω│╡Ω▓⌐∞£╝δí£ ∞é¼∞Ü⌐∞₧ÉδÑ╝ ∞åì∞¥╝ ∞êÿ ∞₧ê∞£╝δ»Çδí£ ∞ä£δ¬à∞ùÉ ∞ú╝∞¥ÿφò┤∞ú╝∞ä╕∞Üö. δÅÖ∞¥ÿφòÿδèö δ░ö∞ùÉ φò£φòÿ∞ù¼ ∞ä£δ¬àφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address to sign the message with</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇδÑ╝ ∞ä£δ¬àφòÿΩ╕░ ∞£äφò£ CRyptoCrowd ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>∞¥┤∞áä∞ùÉ ∞é¼∞Ü⌐φò£ ∞ú╝∞åî ∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>φü┤δª╜δ│┤δô£∞ùÉ∞ä£ ∞ú╝∞åî δ╢Ö∞ù¼ δäúΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the message you want to sign here</source>♪◙        <translation>∞ä£δ¬àφòá δ⌐ö∞ä╕∞ºÇδÑ╝ ∞₧àδáÑφò┤∞ú╝∞ä╕∞Üö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Signature</source>♪◙        <translation>∞ä£δ¬à</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the current signature to the system clipboard</source>♪◙        <translation>φÿä∞₧¼ ∞ä£δ¬à∞¥ä ∞ï£∞èñφà£ φü┤δª╜ δ│┤δô£∞ùÉ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign the message to prove you own this CRyptoCrowd address</source>♪◙        <translation>∞¥┤ CRyptoCrowd ∞ú╝∞åîδÑ╝ ∞åî∞£áφòÿΩ│á ∞₧êδïñδèö Ω▓â∞¥ä ∞ª¥δ¬àφòÿΩ╕░ ∞£äφò┤ δ⌐ö∞ä╕∞ºÇ∞ùÉ ∞ä£δ¬àφòÿ∞ï¡∞ï£∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address the message was signed with</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ∞ùÉ ∞ä£δ¬àδÉ£ CRyptoCrowd ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇΩ░Ç ∞ºÇ∞áòδÉ£ CRyptoCrowd ∞ú╝∞åîδí£ ∞ä£δ¬àδÉÿ∞ùêδèö∞ºÇ φÖò∞¥╕φò┤∞ú╝∞ä╕∞Üö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign Message</source>♪◙        <translation>∞ä£δ¬à δ⌐ö∞ä╕∞ºÇ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all sign message fields</source>♪◙        <translation>δ¬¿δôá ∞ä£δ¬à δ⌐ö∞ä╕∞ºÇ ∞₧àδáÑ ∞ºÇ∞Ü░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>∞áä∞▓┤ ∞ºÇ∞Ü░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify Message</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇδÑ╝ φÖò∞¥╕φòÿΩ╕░ ∞£äφò┤ ∞ä£δ¬à ∞ú╝∞åî, δ⌐ö∞ä╕∞ºÇ (∞ñä δ░öΩ┐ê, Ω│╡δ░▒, φâ¡ δô▒∞¥ä ∞áòφÖòφòÿΩ▓î δ│╡∞é¼φò┤∞ú╝∞ä╕∞Üö) δ░Å ∞ä£δ¬à∞¥ä ∞₧àδáÑφòÿ∞ï¡∞ï£∞ÿñ. ∞ñæΩ░ä∞₧É Ω│╡Ω▓⌐∞ùÉ ∞ú╝∞¥ÿφò┤∞ä£ ∞ä£δ¬à∞¥ä ∞₧àδáÑφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify Message</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all verify message fields</source>♪◙        <translation>δ¬¿δôá φÖò∞¥╕ δ⌐ö∞ä╕∞ºÇ ∞ÿü∞ù¡ ∞ºÇ∞Ü░Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Click "Sign Message" to generate signature</source>♪◙        <translation>"∞ä£δ¬à δ⌐ö∞ä╕∞ºÇ"δÑ╝ φü┤δª¡φòÿ∞ù¼ ∞ä£δ¬à ∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address is invalid.</source>♪◙        <translation>∞₧àδáÑφò£ ∞ú╝∞åîΩ░Ç ∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the address and try again.</source>♪◙        <translation>∞ú╝∞åîδÑ╝ δïñ∞ï£ φÖò∞¥╕φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address does not refer to a key.</source>♪◙        <translation>∞₧àδáÑφò£ ∞ú╝∞åîΩ░Ç φéñδÑ╝ ∞░╕∞í░φòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock was cancelled.</source>♪◙        <translation>∞ºÇΩ░æ ∞₧áΩ╕ê φò┤∞á£Ω░Ç ∞╖¿∞åîδÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Private key for the entered address is not available.</source>♪◙        <translation>∞₧àδáÑφò£ ∞ú╝∞åî∞¥ÿ Ω░£∞¥╕ φéñδÑ╝ ∞é¼∞Ü⌐φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message signing failed.</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ ∞ä£δ¬à ∞ïñφî¿.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message signed.</source>♪◙        <translation>∞ä£δ¬àδÉ£ δ⌐ö∞ä╕∞ºÇ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The signature could not be decoded.</source>♪◙        <translation>∞ä£δ¬à∞¥ä δöö∞╜öδö⌐ φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the signature and try again.</source>♪◙        <translation>∞ä£δ¬à∞¥ä φÖò∞¥╕φòÿΩ│á δïñ∞ï£ ∞ï£δÅäφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The signature did not match the message digest.</source>♪◙        <translation>∞ä£δ¬à∞¥┤ δ⌐ö∞ä╕∞ºÇ ∞Üö∞ò╜Ω│╝ ∞¥╝∞╣ÿφòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message verification failed.</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ φÖò∞¥╕∞ùÉ ∞ïñφî¿φòÿ∞ÿÇ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message verified.</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ φÖò∞¥╕ δÉ¿.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SplashScreen</name>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version %1</source>♪◙        <translation>δ▓ä∞áä %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>The Bitcoin Core developers</source>♪◙        <translation>δ╣äφè╕∞╜ö∞¥╕ Core Ω░£δ░£∞₧É</translation>♪◙    </message>♪◙    <message>♪◙        <source>The Dash Core developers</source>♪◙        <translation>Dash Core Ω░£δ░£∞₧É</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd Core developers</source>♪◙        <translation>CRyptoCrowd Core Ω░£δ░£∞₧É</translation>♪◙    </message>♪◙    <message>♪◙        <source>[testnet]</source>♪◙        <translation>[φàî∞èñφè╕δä╖]</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TrafficGraphWidget</name>♪◙    <message>♪◙        <source>KB/s</source>♪◙        <translation>KB/s</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TransactionDesc</name>♪◙    <message numerus="yes">♪◙        <source>Open for %n more block(s)</source>♪◙        <translation><numerusform>%n δ╕öδƒ¡ δìö ∞ù┤Ω╕░</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Open until %1</source>♪◙        <translation>%1Ω╣î∞ºÇ ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>conflicted</source>♪◙        <translation>∞╢⌐δÅîδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/offline</source>♪◙        <translation>%1/∞ÿñφöäδ¥╝∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/unconfirmed</source>♪◙        <translation>%1/δ»╕φÖò∞¥╕ δÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 confirmations</source>♪◙        <translation>%1 φÖò∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/offline (verified via SwiftX)</source>♪◙        <translation>%1/∞ÿñφöäδ¥╝∞¥╕ (swifttxδÑ╝ φå╡φò┤ φÖò∞¥╕ δÉ¿)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/confirmed (verified via SwiftX)</source>♪◙        <translation>%1/φÖò∞¥╕ δÉ¿ (swifttxδÑ╝ φå╡φò┤ φÖò∞¥╕ δÉ¿)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 confirmations (verified via SwiftX)</source>♪◙        <translation>%1 φÖò∞¥╕ (swifttxδÑ╝ φå╡φò┤ φÖò∞¥╕ δÉ¿)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/offline (SwiftX verification in progress - %2 of %3 signatures)</source>♪◙        <translation>%1/∞ÿñφöäδ¥╝∞¥╕ (SwiftTX φÖò∞¥╕ ∞ºäφûë ∞ñæ - %2 ∞ñæ %3 ∞ä£δ¬à)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/confirmed (SwiftX verification in progress - %2 of %3 signatures )</source>♪◙        <translation>%1/φÖò∞¥╕ δÉ¿ (SwiftTX φÖò∞¥╕ ∞ºäφûë ∞ñæ - %2 ∞ñæ %3 ∞ä£δ¬à)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 confirmations (SwiftX verification in progress - %2 of %3 signatures)</source>♪◙        <translation>%1 φÖò∞¥╕ (SwiftTX φÖò∞¥╕ ∞ºäφûë ∞ñæ - %2 ∞ñæ %3 ∞ä£δ¬à)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/offline (SwiftX verification failed)</source>♪◙        <translation>%1/∞ÿñφöäδ¥╝∞¥╕ (SwiftTX φÖò∞¥╕ ∞ïñφî¿)♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/confirmed (SwiftX verification failed)</source>♪◙        <translation>%1/φÖò∞¥╕ δÉ¿ (SwiftTX φÖò∞¥╕ ∞ïñφî¿)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status</source>♪◙        <translation>∞âüφâ£</translation>♪◙    </message>♪◙    <message>♪◙        <source>, has not been successfully broadcast yet</source>♪◙        <translation>, ∞òä∞ºü ∞ä▒Ω│╡∞áü∞£╝δí£ δ╕îδí£δô£∞║É∞èñφè╕δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>, broadcast through %n node(s)</source>♪◙        <translation><numerusform>, %n δà╕δô£δÑ╝ φå╡φò£ δ╕îδí£δô£∞║É∞èñφè╕</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>δéá∞º£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Source</source>♪◙        <translation>∞¢Éδ│╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Generated</source>♪◙        <translation>∞â¥∞ä▒ δÉ£</translation>♪◙    </message>♪◙    <message>♪◙        <source>From</source>♪◙        <translation>From</translation>♪◙    </message>♪◙    <message>♪◙        <source>unknown</source>♪◙        <translation>unknown</translation>♪◙    </message>♪◙    <message>♪◙        <source>To</source>♪◙        <translation>δîÇ∞âü</translation>♪◙    </message>♪◙    <message>♪◙        <source>own address</source>♪◙        <translation>δé┤ ∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>watch-only</source>♪◙        <translation>∞¥╜Ω╕░ ∞áä∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>label</source>♪◙        <translation>δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Credit</source>♪◙        <translation>φü¼δáêδöº</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>matures in %n more block(s)</source>♪◙        <translation><numerusform>%n δ╕öδí¥∞òê∞ùÉ ∞â¥∞ä▒δÉ¿</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>not accepted</source>♪◙        <translation>φùê∞Ü⌐δÉÿ∞ºÇ ∞òè∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debit</source>♪◙        <translation>∞¥╕∞╢£∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total debit</source>♪◙        <translation>∞┤¥ ∞¥╕∞╢£∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total credit</source>♪◙        <translation>∞┤¥ φü¼δáêδöº</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction fee</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞êÿ∞êÿδúî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Net amount</source>♪◙        <translation>∞ê£∞êÿ∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message</source>♪◙        <translation>δ⌐ö∞ä╕∞ºÇ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Comment</source>♪◙        <translation>∞╜öδ⌐ÿφè╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction ID</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ID</translation>♪◙    </message>♪◙    <message>♪◙        <source>Output index</source>♪◙        <translation>∞╢£δáÑ ∞¥╕δì▒∞èñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Merchant</source>♪◙        <translation>∞âü∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>♪◙        <translation>∞â¥∞ä▒δÉ£ ∞╜ö∞¥╕∞¥Ç ∞é¼∞Ü⌐δÉÿΩ╕░ ∞áä %1 δ╕öδí¥∞¥┤ ∞ÖäδúîδÉÿ∞ò╝ φò⌐δïêδïñ. ∞¥┤ δ╕öδí¥∞¥ä ∞â¥∞ä▒φòÿδ⌐┤ δäñφè╕∞¢îφü¼∞ùÉ δ╕îδí£δô£∞║É∞èñφîàδÉÿ∞û┤ δ╕öδí¥∞▓┤∞¥╕∞ùÉ ∞╢öΩ░Ç δÉ⌐δïêδïñ. ∞▓┤∞¥╕∞¥┤ ∞ïñφî¿φò£ Ω▓╜∞Ü░ "∞è╣∞¥╕δÉÿ∞ºÇ ∞òè∞¥î"∞£╝δí£ δ░öδÇî∞û┤ ∞é¼∞Ü⌐φòá ∞êÿ ∞ùå∞è╡δïêδïñ. δïñδÑ╕ δà╕δô£Ω░Ç δï╣∞ïáΩ│╝ Ω▓╣∞│É∞ä£ δ¬ç ∞┤ê ∞¥┤δé┤ δ╕öδí¥∞¥ä ∞â¥∞ä▒φòÿδ⌐┤ δòîδòîδí£ ∞¥┤δƒ░ ∞¥╝∞¥┤ δ░£∞â¥φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debug information</source>♪◙        <translation>δööδ▓äΩ╖╕ ∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Inputs</source>♪◙        <translation>∞₧àδáÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>Ω╕ê∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>true</source>♪◙        <translation>φùê∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>false</source>♪◙        <translation>Ω▒░δ╢Ç</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TransactionDescDialog</name>♪◙    <message>♪◙        <source>Transaction details</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞ä╕δ╢Ç ∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>This pane shows a detailed description of the transaction</source>♪◙        <translation>∞¥┤ ∞░╜∞¥Ç φè╕δ₧£∞₧¡∞àÿ∞ùÉ δîÇφò£ ∞₧É∞ä╕φò£ ∞äñδ¬à∞¥ä δ│┤∞ù¼∞ñìδïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TransactionTableModel</name>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>δéá∞º£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type</source>♪◙        <translation>δ╢äδÑÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>∞ú╝∞åî</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>Open for %n more block(s)</source>♪◙        <translation><numerusform>%n δ╕öδƒ¡ δìö ∞ù┤Ω╕░</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Open until %1</source>♪◙        <translation>%1Ω╣î∞ºÇ ∞ù┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Offline</source>♪◙        <translation>∞ÿñφöäδ¥╝∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed</source>♪◙        <translation>δ»╕φÖò∞¥╕δÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirming (%1 of %2 recommended confirmations)</source>♪◙        <translation>φÖò∞¥╕ ∞ñæ (%2 ∞ñæ %1 φÖò∞¥╕ ∞ñæ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmed (%1 confirmations)</source>♪◙        <translation>φÖò∞¥╕ δÉ¿ (%1 φÖò∞¥╕)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Conflicted</source>♪◙        <translation>∞╢⌐δÅîδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Immature (%1 confirmations, will be available after %2)</source>♪◙        <translation>∞ÖäδúîδÉÿ∞ºÇ ∞òè∞¥î (%1 φÖò∞¥╕∞¥┤ %2 φ¢ä∞ùÉ Ω░ÇδèÑφò⌐δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>This block was not received by any other nodes and will probably not be accepted!</source>♪◙        <translation>∞¥┤ δ╕öδí¥∞¥Ç δïñδÑ╕ δà╕δô£∞ùÉ ∞¥ÿφò┤ ∞êÿ∞ïáδÉÿ∞ºÇ ∞òè∞òÿ∞£╝δ⌐░ ∞òäδºêδÅä ∞è╣∞¥╕δÉÿ∞ºÇ ∞òè∞¥ä Ω▓â∞₧àδïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received with</source>♪◙        <translation>∞êÿ∞ïáδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode Reward</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ δ│┤∞âü </translation>♪◙    </message>♪◙    <message>♪◙        <source>Received from</source>♪◙        <translation>∞êÿ∞ïáδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received via Obfuscation</source>♪◙        <translation>δé£δÅàφÖöδÑ╝ φå╡φò┤ ∞êÿ∞ïá δÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Stake</source>♪◙        <translation>CRyptoCrowd stake</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Stake</source>♪◙        <translation>zXCRC stake</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Denominate</source>♪◙        <translation>δé£δÅàφÖö φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Collateral Payment</source>♪◙        <translation>δé£δÅàφÖö δ│┤∞ª¥ Ω▓░∞á£ </translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Make Collateral Inputs</source>♪◙        <translation>δé£δÅàφÖöδí£ δ│┤∞ª¥ ∞₧àδáÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Create Denominations</source>♪◙        <translation>δé£δÅàφÖö φæ£∞ï£ δºîδôñΩ╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Converted CRyptoCrowd to zXCRC</source>♪◙        <translation>CRyptoCrowdδÑ╝ zXCRCδí£ δ│ÇφÖÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spent zXCRC</source>♪◙        <translation>zXCRC ∞é¼∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received CRyptoCrowd from zXCRC</source>♪◙        <translation>zXCRCδÑ╝ CRyptoCrowdδí£ δ░¢∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minted Change as zXCRC from zXCRC Spend</source>♪◙        <translation>zXCRC ∞áä∞åíφ¢ä δé¿∞¥Ç zXCRCδí£ ∞₧öδÅê ∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Converted zXCRC to CRyptoCrowd</source>♪◙        <translation>zXCRCδÑ╝ CRyptoCrowdδí£ δ│ÇφÖÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Anonymous (zXCRC Transaction)</source>♪◙        <translation>Anonymous (zXCRC Ω▒░δ₧ÿ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Anonymous (zXCRC Stake)</source>♪◙        <translation>Anonymous (zXCRC ∞èñφàî∞¥┤φé╣)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent to</source>♪◙        <translation>δîÇ∞âü ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Orphan Block - Generated but not accepted. This does not impact your holdings.</source>♪◙        <translation>Ω│á∞òä δ╕öδí¥ - ∞â¥∞ä▒δÉÿ∞ùê∞ºÇδºî ∞è╣∞¥╕δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ. ∞¥┤Ω▓â∞¥Ç δï╣∞ïá∞¥ÿ ∞åî∞£á∞òí∞ùÉ ∞ÿüφûÑ∞¥ä ∞ú╝∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment to yourself</source>♪◙        <translation>∞₧É∞ïá∞ùÉΩ▓î ∞ºÇδ╢ê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mined</source>♪◙        <translation>∞▒äΩ╡┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscated</source>♪◙        <translation>δé£δÅàφÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>watch-only</source>♪◙        <translation>∞¥╜Ω╕░ ∞áä∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>(n/a)</source>♪◙        <translation>(n/a)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction status. Hover over this field to show number of confirmations.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞âüφâ£. ∞¥┤ ∞ÿü∞ù¡∞ùÉ δºê∞Ü░∞èñδÑ╝ ∞ÿ¼δª¼δ⌐┤ ∞è╣∞¥╕ ∞êÿΩ░Ç φæ£∞ï£δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Date and time that the transaction was received.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ∞¥┤ ∞êÿ∞ïá δÉ£ δéá∞º£∞ÖÇ ∞ï£Ω░ä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type of transaction.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞£áφÿò.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whether or not a watch-only address is involved in this transaction.</source>♪◙        <translation>∞¥╜Ω╕░ ∞áä∞Ü⌐ ∞ú╝∞åî φè╕δ₧£∞₧¡∞àÿ φÅ¼φò¿ ∞ù¼δ╢Ç.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Destination address of transaction.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ δ¬⌐∞áü∞ºÇ ∞ú╝∞åî.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount removed from or added to balance.</source>♪◙        <translation>∞₧ö∞òí∞ùÉ∞ä£ ∞á£Ω▒░δÉÿΩ▒░δéÿ ∞╢öΩ░ÇδÉ£ Ω╕ê∞òí.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TransactionView</name>♪◙    <message>♪◙        <source>All</source>♪◙        <translation>∞áä∞▓┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Today</source>♪◙        <translation>∞ÿñδèÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>This week</source>♪◙        <translation>∞¥┤δ▓ê ∞ú╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>This month</source>♪◙        <translation>∞¥┤δ▓ê δï¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last month</source>♪◙        <translation>∞ºÇδé£ δï¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>This year</source>♪◙        <translation>∞ÿ¼φò┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Range...</source>♪◙        <translation>δ▓ö∞£ä...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Most Common</source>♪◙        <translation>Ω╕░δ│╕∞áü∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received with</source>♪◙        <translation>∞êÿ∞ïá δÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent to</source>♪◙        <translation>δîÇ∞âü ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>To yourself</source>♪◙        <translation>∞₧É∞ïá∞ùÉΩ▓î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mined</source>♪◙        <translation>∞▒äΩ╡┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minted</source>♪◙        <translation>δ░£φûë</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode Reward</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ δ│┤∞âü </translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Mint</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞â¥∞ä▒</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Spend</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Spend to Self</source>♪◙        <translation>∞₧É∞ïá∞ùÉΩ▓î ∞á£δí£∞╜ö∞¥╕ ∞áä∞åí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Other</source>♪◙        <translation>Ω╕░φâÇ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter address or label to search</source>♪◙        <translation>Ω▓Ç∞âë φòá ∞ú╝∞åî δÿÉδèö δ¥╝δ▓¿ ∞₧àδáÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Min amount</source>♪◙        <translation>∞╡£∞åî Ω╕ê∞òí</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy address</source>♪◙        <translation>∞ú╝∞åî δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy label</source>♪◙        <translation>δ¥╝δ▓¿ δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>Ω╕ê∞òí δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy transaction ID</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ID δ│╡∞é¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit label</source>♪◙        <translation>δ¥╝δ▓¿ ∞êÿ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show transaction details</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞ä╕δ╢Ç ∞áòδ│┤ φæ£∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export Transaction History</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ δé┤∞ù¡ δé┤δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Comma separated file (*.csv)</source>♪◙        <translation>∞╜ñδºêδí£ Ω╡¼δ╢ä δÉ£ φîî∞¥╝ (*.csv)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmed</source>♪◙        <translation>φÖò∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Watch-only</source>♪◙        <translation>∞¥╜Ω╕░ ∞áä∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>δéá∞º£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type</source>♪◙        <translation>δ╢äδÑÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>δ¥╝δ▓¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>∞ú╝∞åî</translation>♪◙    </message>♪◙    <message>♪◙        <source>ID</source>♪◙        <translation>ID</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Failed</source>♪◙        <translation>δé┤δ│┤δé┤Ω╕░ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>There was an error trying to save the transaction history to %1.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ Ω╕░δí¥∞¥ä %1δí£ ∞áÇ∞₧Ñφòÿδèö δÅÖ∞òê ∞ÿñδÑÿΩ░Ç δ░£∞â¥φòÿ∞ÿÇ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Successful</source>♪◙        <translation>δé┤δ│┤δé┤Ω╕░ ∞ä▒Ω│╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received CRyptoCrowd from zXCRC</source>♪◙        <translation>zXCRCδÑ╝ CRyptoCrowdδí£ δ░¢∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Spend, Change in zXCRC</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞áä∞åí, ∞₧öδÅê∞¥Ç zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>The transaction history was successfully saved to %1.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ Ω╕░δí¥∞¥┤ %1∞ùÉ ∞ä▒Ω│╡∞áü∞£╝δí£ ∞áÇ∞₧ÑδÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Range:</source>♪◙        <translation>δ▓ö∞£ä:</translation>♪◙    </message>♪◙    <message>♪◙        <source>to</source>♪◙        <translation>δîÇ∞âü</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>UnitDisplayStatusBarControl</name>♪◙    <message>♪◙        <source>Unit to show amounts in. Click to select another unit.</source>♪◙        <translation>Ω╕ê∞òí∞¥ä φæ£∞ï£φòá δï¿∞£ä. δïñδÑ╕ δï¿∞£äδÑ╝ ∞äáφâ¥φòÿδáñδ⌐┤ φü┤δª¡φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>WalletFrame</name>♪◙    <message>♪◙        <source>No wallet has been loaded.</source>♪◙        <translation>∞ºÇΩ░æ∞¥┤ δí£δô£δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>WalletModel</name>♪◙    <message>♪◙        <source>Send Coins</source>♪◙        <translation>∞╜ö∞¥╕ ∞áä∞åí </translation>♪◙    </message>♪◙    <message>♪◙        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>♪◙        <translation>SwiftTXδèö ∞òä∞ºü δåÆ∞¥Ç Ω░Æ∞¥ä ∞áä∞åíφòÿδèö Ω▓â∞¥ä ∞ºÇ∞¢Éφòÿ∞ºÇ ∞òè∞è╡δïêδïñ. φè╕δ₧£∞₧¡∞àÿ∞¥Ç φÿä∞₧¼ %1 CRyptoCrowdδí£ ∞á£φò£δÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>WalletView</name>♪◙    <message>♪◙        <source>HISTORY</source>♪◙        <translation>Ω▒░δ₧ÿδé┤∞ù¡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export</source>♪◙        <translation>δé┤δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export the data in the current tab to a file</source>♪◙        <translation>φÿä∞₧¼ ∞äáφâ¥δÉ£ φâ¡∞¥ÿ δì░∞¥┤φä░δÑ╝ φîî∞¥╝δí£ δé┤δ│┤δé┤Ω╕░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Selected amount:</source>♪◙        <translation>∞äáφâ¥φò£ Ω╕ê∞òí:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Backup Wallet</source>♪◙        <translation>∞ºÇΩ░æ δ░▒∞ùà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet Data (*.dat)</source>♪◙        <translation>∞ºÇΩ░æ δì░∞¥┤φä░ (*.dat)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>zXCRCControlDialog</name>♪◙    <message>♪◙        <source>Select zXCRC to Spend</source>♪◙        <translation>∞é¼∞Ü⌐φòá zXCRC ∞äáφâ¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity</source>♪◙        <translation>∞êÿδƒë</translation>♪◙    </message>♪◙    <message>♪◙        <source>0</source>♪◙        <translation>0</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC</source>♪◙        <translation>zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Select/Deselect All</source>♪◙        <translation>∞áä∞▓┤ ∞äáφâ¥ / φò┤∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Is Spendable</source>♪◙        <translation>∞áä∞åíΩ░ÇδèÑφò£ ∞╜ö∞¥╕∞êÿ</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>cryptocrowd-core</name>♪◙    <message>♪◙        <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>♪◙        <translation>(1 = tx δ⌐öφâÇ δì░∞¥┤φä░ ∞£á∞ºÇ ∞ÿê : Ω│ä∞áò ∞åî∞£á∞₧É δ░Å ∞ºÇδ╢ê ∞Üö∞▓¡ ∞áòδ│┤, 2 = tx δ⌐öφâÇ δì░∞¥┤φä░ ∞é¡∞á£)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>♪◙        <translation>∞ºÇ∞áòδÉ£ ∞åî∞èñ∞ùÉ∞ä£ JSON-RPC ∞ù░Ω▓░∞¥ä φùê∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ. δï¿∞¥╝ IP (∞ÿê : 1.2.3.4), δäñφè╕∞¢îφü¼/δä╖δºê∞èñφü¼ (∞ÿê : 1.2.3.4/255.255.255.0) δÿÉδèö δäñφè╕∞¢îφü¼ / CIDR (∞ÿê : 1.2.3.4/24)∞ùÉ δîÇφò┤ &lt;ip&gt; Ω░Ç ∞£áφÜ¿φò⌐δïêδïñ. ∞¥┤ ∞ÿ╡∞àÿ∞¥Ç ∞ù¼δƒ¼δ▓ê ∞ºÇ∞áòφòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>♪◙        <translation>∞ú╝∞û┤∞ºä ∞ú╝∞åîδÑ╝ ∞ºÇ∞áòφòÿΩ│á φò¡∞âü ∞êÿ∞ïáφòÿδÅäδí¥ φòÿ∞ï¡∞ï£∞ÿñ. [host]:IPv6 φÅ¼φè╕ φæ£Ω╕░δ▓ò ∞é¼∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>♪◙        <translation>∞ú╝∞û┤∞ºä ∞ú╝∞åî∞ùÉ δ░ö∞¥╕δö⌐φòÿΩ│á φö╝∞û┤ ∞ù░Ω▓░∞¥ä φùê∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ. IPv6 [host]:port φæ£Ω╕░δ▓ò ∞é¼∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>♪◙        <translation>JSON-RPC∞ù░Ω▓░ ∞êÿ∞ïá∞¥ä ∞£äφò┤ ∞ú╝∞û┤∞ºä ∞ú╝∞åîδÑ╝ ∞ºÇ∞áòφò⌐δïêδïñ. [host]: IPv6 φÅ¼φè╕ φæ£Ω╕░δ▓ò ∞é¼∞Ü⌐. ∞¥┤ ∞ÿ╡∞àÿ∞¥Ç ∞ù¼δƒ¼δ▓ê ∞ºÇ∞áòφòá ∞êÿ ∞₧ê∞è╡δïêδïñ. (Ω╕░δ│╕Ω░Æ : δ¬¿δôá ∞¥╕φä░φÄÿ∞¥┤∞èñ∞ùÉ ∞ºÇ∞áò)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Calculated accumulator checkpoint is not what is recorded by block index</source>♪◙        <translation>Ω│ä∞é░δÉ£ δêä∞é░Ω╕░ ∞▓┤φü¼φÅ¼∞¥╕φè╕δèö δ╕öδí¥ ∞¥╕δì▒∞èñ∞ùÉ ∞¥ÿφò┤ Ω╕░δí¥δÉÿδèö Ω▓â∞¥┤ ∞òäδïÖδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot obtain a lock on data directory %s. CRyptoCrowd Core is probably already running.</source>♪◙        <translation>        &lt;translation&gt;∞₧áΩ▓¿∞ºä δì░∞¥┤φä░ δööδáëφåáδª¼ %s δÑ╝ Ω░Ç∞á╕∞ÿ¼ ∞êÿ ∞ùå∞è╡δïêδïñ. CRyptoCrowd Coreδèö ∞¥┤δ»╕ ∞ïñφûë ∞ñæ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>♪◙        <translation>∞╡£∞óà budget φê¼φæ£ ∞₧ÉδÅÖ ∞₧æδÅÖ Ω░Æ∞¥ä δ│ÇΩ▓╜φò⌐δïêδïñ. mode=auto: ∞ÿñ∞ºü δé┤Ω░Ç ∞â¥∞ä▒φò£ budgetΩ│╝ ∞╡£∞óà budget∞¥┤ ∞áòφÖòφ₧ê ∞¥╝∞╣ÿφòáδòî φê¼φæ£φò⌐δïêδïñ. (string, Ω╕░δ│╕Ω░Æ: ∞₧ÉδÅÖ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>♪◙        <translation>∞ù░∞åì∞áü∞¥╕ δ¼┤δúî φè╕δ₧£∞₧¡∞àÿ∞¥ä δ╢äδï╣ &lt;n&gt;*1000 bytesδí£ ∞á£φò£φò⌐δïêδïñ. (Ω╕░δ│╕Ω░Æ:%u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>♪◙        <translation>umask 077δîÇ∞ïá ∞ï£∞èñφà£ Ω╕░δ│╕ Ω╢îφò£∞£╝δí£ ∞âêδí£∞Ü┤ φîî∞¥╝δôñ∞¥ä δºîδô¡δïêδïñ. (∞ºÇΩ░æ Ω╕░δèÑ∞¥┤ δ╣äφÖ£∞ä▒φÖö∞¥╝ δòîδºî φÜ¿Ω│╝Ω░Ç δ░£φ£ÿδÉ⌐δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>♪◙        <translation>∞ºÇΩ░æ∞¥ÿ δ¬¿δôá φè╕δ₧£∞₧¡∞àÿδôñ∞¥ä ∞é¡∞á£φòÿΩ│á ∞ÿñ∞ºü δ╕öδí¥∞▓┤∞¥╕∞¥ä φå╡φò£ φè╕δ₧£∞₧¡∞àÿ δ╢Çδ╢äδôñδºî δ│╡Ω╡¼φò⌐δïêδïñ -∞ï£∞₧æ ∞ï£ δïñ∞ï£ ∞èñ∞║ö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete all zerocoin spends and mints that have been recorded to the blockchain database and reindex them (0-1, default: %u)</source>♪◙        <translation>Delete all zerocoin spends and mints that have been recorded to the blockchain database and reindex them (0-1, default: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>♪◙        <translation>MIT ∞åîφöäφè╕∞¢¿∞û┤ δ¥╝∞¥┤∞ä╝∞èñ∞ùÉ δö░δ¥╝ δ░░φÅ¼, ∞▓¿δ╢Ç φîî∞¥╝ COPYING δÿÉδèö &lt;http://www.opensource.org/licenses/mit-license.php&gt; δÑ╝ ∞░╕∞í░φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</source>♪◙        <translation>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>♪◙        <translation>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>♪◙        <translation>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable spork administration functionality with the appropriate private key.</source>♪◙        <translation>∞ÿ¼δ░öδÑ╕ Ω░£∞¥╕φéñδí£ spork Ω┤Çδª¼ Ω╕░δèÑ∞¥ä ∞é¼∞Ü⌐ Ω░ÇδèÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>♪◙        <translation>δª¼Ω╖╕δáê∞àÿ φàî∞èñφè╕∞ùÉ δôñ∞û┤Ω░æδïêδïñ. φè╣∞êÿ ∞▓┤∞¥╕∞¥ä ∞é¼∞Ü⌐φòÿδ⌐░ δ╕öδí¥δôñ∞¥ä δ░öδí£ φæ╕δèö Ω▓â∞¥┤ Ω░ÇδèÑφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Listening for incoming connections failed (listen returned error %s)</source>♪◙        <translation>∞ÿñδÑÿ: ∞ÿñδèö ∞ù░Ω▓░δôñ∞¥ä ∞êÿ∞ïáφòÿδèöδì░ ∞ïñφî¿φûê∞è╡δïêδïñ.(∞êÿ∞ïá ∞ñæ ∞ÿñδÑÿ δ░ÿφÖÿδÉ¿ %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: The transaction is larger than the maximum allowed transaction size!</source>♪◙        <translation>Error: φè╕δ₧£∞á¥∞àÿ∞¥ÿ φü¼Ω╕░Ω░Ç φÿÇ∞Ü⌐δÉ£ φü¼Ω╕░δÑ╝ δäÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>♪◙        <translation>∞ÿñδÑÿ : ∞ºÇ∞¢Éφòÿ∞ºÇ ∞òèδèö ∞¥╕∞êÿ -socksΩ░Ç δ░£Ω▓¼δÉÿ∞ùê∞è╡δïêδïñ. SOCKS δ▓ä∞áä ∞äñ∞áò∞¥Ç δìö ∞¥┤∞âü Ω░ÇδèÑφòÿ∞ºÇ ∞òè∞£╝δ⌐░ SOCKS5 φöäδí¥∞ï£δºî ∞ºÇ∞¢Éφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>♪◙        <translation>Ω┤Çδá¿δÉ£ Ω▓╜Ω│á δÿÉδèö φÅ¼φü¼Ω░Ç Ω╕╕∞û┤∞ºê Ω▓╜∞Ü░ δ¬àδá╣∞¥ä ∞ïñφûëφòÿ∞ï¡∞ï£∞ÿñ. (δ¬àδá╣ δé┤ %s δèö δ⌐ö∞ï£∞ºÇδí£ δîÇ∞▓┤ δÉÿ∞ùê∞è╡δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>♪◙        <translation>∞ºÇΩ░æ φè╕δ₧£∞₧¡∞àÿ∞¥┤ δ│ÇΩ▓╜δÉá Ω▓╜∞Ü░ δ¬àδá╣∞¥ä ∞ïñφûëφòÿ∞ï¡∞ï£∞ÿñ.(δ¬àδá╣ δé┤ %s δèö TxIDδí£ δîÇ∞▓┤ δÉÿ∞ùê∞è╡δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>♪◙        <translation>∞╡£Ω│á δ╕öδí¥∞¥┤ δ│ÇΩ▓╜δÉá Ω▓╜∞Ü░ δ¬àδá╣∞¥ä ∞ïñφûëφòÿ∞ï¡∞ï£∞ÿñ (δ¬àδá╣ δé┤ %s δèö δ╕öδí¥ φò┤∞ï£δí£ δîÇ∞▓┤ δÉÿ∞ùê∞è╡δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>♪◙        <translation>∞¥┤Ω▓âδ│┤δïñ ∞₧æ∞¥Ç ∞êÿ∞êÿδúî (XCRC/kB)δèö ∞ñæΩ│ä ∞êÿ∞êÿδúîΩ░Ç ∞ùåδèö Ω▓â∞£╝δí£ Ω░ä∞ú╝δÉ⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>♪◙        <translation>∞¥┤Ω▓âδ│┤δïñ ∞₧æ∞¥Ç ∞êÿ∞êÿδúî (XCRC/kB)δèö φè╕δ₧£∞₧¡∞àÿ ∞â¥∞ä▒ ∞êÿ∞êÿδúîΩ░Ç ∞ùåδèö Ω▓â∞£╝δí£ Ω░ä∞ú╝δÉ⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>♪◙        <translation>δ⌐öδ¬¿δª¼ φÆÇ∞ùÉ∞ä£ δöö∞èñφü¼δí£ δºñ &lt;n&gt; δ⌐öΩ░Çδ░ö∞¥┤φè╕δºîφü╝ δì░∞¥┤φä░δ▓á∞¥┤∞èñ φÖ£δÅÖ φöîδƒ¼∞ë¼δÑ╝ Ω╕░δí¥φò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>♪◙        <translation>δ»╕φÖò∞¥╕ φæ£∞ï£δÉ£ ∞╢£δáÑδôñ∞¥ä ∞░╛Ω│á Ω│ä∞åìφòÿΩ╕░ ∞£äφò£ φÖò∞¥╕∞¥ä δ░¢Ω╕░ ∞áäΩ╣î∞ºÇ Ω╕░δïñδª╜δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>♪◙        <translation>paytxfeeΩ░Ç ∞äñ∞áòδÉÿ∞û┤ ∞₧ê∞ºÇ ∞òèδèö Ω▓╜∞Ü░ ∞╢⌐δ╢äφò£ ∞êÿ∞êÿδúîδÑ╝ δäú∞û┤∞ò╝δºî φÅëΩ╖á∞¥┤δé┤ nδ╕öδí¥δôñ∞¥ä φÖò∞¥╕φòÿΩ│á φè╕δ₧£∞₧¡∞àÿδÑ╝ ∞ï£∞₧æφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>♪◙        <translation>∞¥┤ δ¬¿δô£∞ùÉ∞ä£ -genproclimitδèö ∞ªë∞ï£ ∞â¥∞ä▒δÉÿδèö δ╕öδí¥ ∞êÿδÑ╝ ∞á£∞û┤φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient or insufficient confirmed funds, you might need to wait a few minutes and try again.</source>♪◙        <translation>φÖò∞áò δÉ£ ∞₧ÉΩ╕ê∞¥┤ δ╢ê∞╢⌐δ╢äφòÿΩ▒░δéÿ δ╢Ç∞í▒φò£ Ω▓╜∞Ü░ δ¬ç δ╢ä φ¢ä∞ùÉ δïñ∞ï£ ∞ï£δÅäφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>♪◙        <translation>-maxtxfee=&lt;amount&gt;∞ùÉ δîÇφò£ ∞₧ÿδ¬╗δÉ£ Ω╕ê∞òí: '%s' (φè╕δ₧£∞₧¡∞àÿ ∞áò∞ºÇδÑ╝ δºë∞¥äδáñδ⌐┤ ∞áü∞û┤δÅä %s∞¥ÿ minrelay ∞êÿ∞êÿδúîΩ░Ç ∞₧ê∞û┤∞ò╝ φò⌐δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Keep the specified amount available for spending at all times (default: 0)</source>♪◙        <translation>φò¡∞âü ∞åíΩ╕êφòá∞êÿ ∞₧êδÅäδí¥ ∞ºÇ∞áòδÉ£ ∞êÿδƒë ∞£á∞ºÇ (Ω╕░δ│╕Ω░Æ : 0)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Log transaction priority and fee per kB when mining blocks (default: %u)</source>♪◙        <translation>δ╕öδí¥∞¥ä ∞▒äΩ╡┤ φòá δòî φè╕δ₧£∞₧¡∞àÿ ∞Ü░∞äá ∞ê£∞£ä δ░Å kB δï╣ ∞êÿ∞êÿδúîδÑ╝ Ω╕░δí¥φò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>♪◙        <translation>getrawtransaction rpc φÿ╕∞╢£∞ùÉ∞ä£ ∞é¼∞Ü⌐δÉÿδèö ∞áä∞▓┤ φè╕δ₧£∞₧¡∞àÿ ∞âë∞¥╕δÑ╝ ∞£á∞ºÇδ│┤∞êÿφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>♪◙        <translation>δì░∞¥┤φä░ ∞║Éδª¼∞û┤ δé┤∞ùÉ∞ä£ ∞Ü░δª¼Ω░Ç ∞ñæΩ│äφòÿΩ│á ∞▒äΩ╡┤φòÿδèö φè╕δ₧£∞₧¡∞àÿ δì░∞¥┤φä░∞¥ÿ ∞╡£δîÇ ∞é¼∞¥┤∞ªê (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum total fees to use in a single wallet transaction, setting too low may abort large transactions (default: %s)</source>♪◙        <translation>δï¿∞¥╝ ∞ºÇΩ░æ φè╕δ₧£∞₧¡∞àÿ∞ùÉ∞ä£ ∞é¼∞Ü⌐φòÿΩ╕░ ∞£äφò£ ∞╡£δîÇ ∞áä∞▓┤ ∞êÿ∞êÿδúî, δäêδ¼┤ δé«∞¥Ç Ω░Æ∞¥┤ ∞äñ∞áòδÉÿ∞û┤ ∞₧ê∞£╝δ⌐┤ φü░ φè╕δ₧£∞₧¡∞àÿ∞¥┤ ∞£á∞ïñδÉá ∞êÿ ∞₧ê∞è╡δïêδïñ (Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>♪◙        <translation>∞₧¼∞ù░Ω▓░δí£ ∞¥╕φò┤ φö╝∞û┤Ω░Ç ∞ÿñ∞₧æδÅÖ∞¥ä ∞£á∞ºÇφòÿδèö ∞┤ê δï¿∞£ä ∞ï£Ω░ä (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>♪◙        <translation>δé£δÅàφÖöδèö ∞áòφÖòφò£ Ω╕ê∞òí∞¥ä ∞é¼∞Ü⌐φòÿ∞ù¼ ∞₧ÉΩ╕ê∞¥ä ∞åíΩ╕êφòÿΩ╕░ δòîδ¼╕∞ùÉ δìö δºÄ∞¥Ç ∞╜ö∞¥╕∞¥ä ∞¥╡δ¬àφÖöφò┤∞ò╝ φòá ∞êÿδÅä ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>♪◙        <translation>δööδ▓äΩ╣à ∞áòδ│┤ ∞╢£δáÑ (Ω╕░δ│╕Ω░Æ: %u, &lt;category&gt; Ω│╡Ω╕ë∞¥Ç ∞äáφâ¥∞₧àδïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>♪◙        <translation>DNS Ω▓Ç∞âë∞¥ä φå╡φò£ φö╝∞û┤ ∞ú╝∞åî ∞┐╝δª¼, ∞ú╝∞åîΩ░Ç δ╢Ç∞í▒φòá Ω▓╜∞Ü░ (-connect ∞òäδïî ∞¥┤∞âü Ω╕░δ│╕Ω░Æ:1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>♪◙        <translation>δ¬¿δôá φöäδí¥∞ï£ ∞ù░Ω▓░δºêδïñ ∞₧ÉΩ▓⌐ ∞ª¥δ¬à δ¼┤∞₧æ∞£äφÖö. ∞¥┤δáçΩ▓îφòÿδ⌐┤ Tor ∞èñφè╕δª╝∞¥ä Ω▓⌐δª¼φòá∞êÿ ∞₧ê∞è╡δïêδïñ. (Ω╕░δ│╕Ω░Æ : %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Require high priority for relaying free or low-fee transactions (default:%u)</source>♪◙        <translation>δ¼┤δúî δÿÉδèö δé«∞¥Ç ∞êÿ∞êÿδúî φè╕δ₧£∞₧¡∞àÿδÑ╝ ∞ñæΩ│äφòÿδèöδì░ δåÆ∞¥Ç ∞Ü░∞äá ∞ê£∞£äΩ░Ç φòä∞Üöφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send trace/debug info to console instead of debug.log file (default: %u)</source>♪◙        <translation>debug.log φîî∞¥╝ δîÇ∞ïá ∞╢ö∞áü/δööδ▓äΩ╖╕ ∞áòδ│┤δÑ╝ ∞╜ÿ∞åö∞ùÉ δ│┤δâàδïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>♪◙        <translation>∞╡£∞Ü░∞äá/δé«∞¥Ç ∞êÿ∞êÿδúî φè╕δ₧£∞₧¡∞àÿ∞¥ÿ ∞╡£δîÇ φü¼Ω╕░δÑ╝ δ░ö∞¥┤φè╕ δï¿∞£äδí£ ∞äñ∞áòφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>♪◙        <translation>∞èñφü¼δª╜φè╕ φùê∞Ü⌐ ∞èñδáêδô£∞¥ÿ Ω░£∞êÿδÑ╝ ∞äñ∞áòφò⌐δïêδïñ. (%u ∞ùÉ∞ä£ %d, 0 = ∞₧ÉδÅÖ, &lt;0 = ∞╢⌐δ╢äφò£ ∞╜ö∞û┤δôñ∞¥ä δé¿Ω▓¿δæÉ∞ä╕∞Üö, Ω╕░δ│╕Ω░Æ: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>♪◙        <translation>φÖ£∞ä▒φÖö ∞ï£∞ùÉ ∞╜ö∞¥╕ ∞â¥∞ä▒∞¥ä ∞£äφò£ ∞èñδáêδô£ ∞ê½∞₧ÉδÑ╝ ∞äñ∞áòφò⌐δïêδïñ (-1= δ¬¿δôá ∞╜ö∞û┤, Ω╕░δ│╕Ω░Æ: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</source>♪◙        <translation>∞ä▒Ω│╡∞áü∞£╝δí£ ∞₧áΩ╕┤ φè╕δ₧£∞₧¡∞àÿ∞ùÉ δîÇφò£ φÖò∞¥╕∞¥ä N∞£╝δí£ δéÿφâÇδâàδïêδïñ (0-9999, Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Support filtering of blocks and transaction with bloom filters (default: %u)</source>♪◙        <translation>bloomφòäφä░δÑ╝ ∞é¼∞Ü⌐φò£ δ╕öδí¥ δ░Å φè╕δ₧£∞₧¡∞àÿ φòäφä░δºü ∞ºÇ∞¢É (Ω╕░δ│╕Ω░Æ : %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>♪◙        <translation>∞¥┤ ∞á£φÆê∞¥Ç OpenSSL∞¥┤ Ω░£δ░£φò£ Open SSL φê┤φé╖ &lt;https://www.openssl.org/&gt; ∞ùÉ∞ä£ ∞é¼∞Ü⌐φòÿΩ╕░ ∞£äφò£ φöäδí£∞á¥φè╕ ∞åîφöäφè╕∞¢¿∞û┤, Eric Young∞¥┤ Ω░£δ░£φò£ ∞òöφÿ╕φÖö ∞åîφöäφè╕∞¢¿∞û┤, Thomas BernardΩ░Ç Ω░£δ░£φò£ UPnP ∞åîφöäφè╕∞¢¿∞û┤Ω░Ç φÅ¼φò¿δÉÿ∞û┤ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to bind to %s on this computer. CRyptoCrowd Core is probably already running.</source>♪◙        <translation>∞¥┤ ∞╗┤φô¿φä░δÑ╝ %s δí£ ∞ºÇ∞áòφòÿδèöΩ▓â∞¥Ç δ╢êΩ░ÇδèÑφò⌐δïêδïñ. CRyptoCrowd Coreδèö ∞¥┤δ»╕ ∞ïñφûë ∞ñæ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>♪◙        <translation>∞¥┤ φè╕δ₧£∞₧¡∞àÿδÑ╝ ∞£äφò┤ δé£δÅàφÖö φæ£Ω╕░δÉ£ ∞╢⌐δ╢äφò£ Ω╕ê∞òí∞¥ä ∞░╛∞¥ä ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRyptoCrowd.</source>♪◙        <translation>∞¥┤ φè╕δ₧£∞₧¡∞àÿδÑ╝ ∞£äφò┤ δé£δÅàφÖö φæ£Ω╕░Ω░Ç ∞òêδÉ£ ∞╢⌐δ╢äφò£ Ω╕ê∞òí∞¥ä ∞░╛∞¥ä ∞êÿ ∞ùå∞è╡δïêδïñ. 10000 CRyptoCrowdΩ│╝ ∞¥╝∞╣ÿφòÿ∞ºÇ ∞òè∞¥î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRyptoCrowd.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ∞ùÉ δîÇφò£ ∞╢⌐δ╢äφò£ Ω╕ê∞òí∞¥ä ∞░╛∞¥ä ∞êÿ ∞ùå∞è╡δïêδïñ. 10000 CRyptoCrowd∞ÖÇ Ω░Ö∞ºÇ ∞òè∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>♪◙        <translation>Tor hidden servicesδÑ╝ φå╡φòÿ∞ù¼ φö╝∞û┤∞ùÉΩ▓î δÅäδï¼φòÿΩ╕░ ∞£äφò┤ δÅàδª╜δÉ£ SOCKS5 φöäδí¥∞ï£δÑ╝ ∞é¼∞Ü⌐φò⌐δïêδïñ(Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: -maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>♪◙        <translation>Ω▓╜Ω│á: -maxrtxfeeΩ░Ç δºñ∞Ü░ δåÆΩ▓î ∞äñ∞áò δÉÿ∞ùê∞è╡δïêδïñ! ∞¥┤δáçΩ▓î φü░ ∞êÿ∞êÿδúîδèö δï¿ φò£δ▓ê∞¥ÿ δï¿∞¥╝ φè╕δ₧£∞₧¡∞àÿ∞ùÉ ∞ºÇδ╢êδÉá ∞êÿδÅä ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>♪◙        <translation>Ω▓╜Ω│á : -paytxfeeΩ░Ç δºñ∞Ü░ δåÆΩ▓î ∞äñ∞áòδÉÿ∞ùê∞è╡δïêδïñ! ∞¥┤Ω▓â∞¥Ç ∞áä∞åíφòá Ω▓╜∞Ü░ ∞ºÇδ╢ê φòá φè╕δ₧£∞₧¡∞àÿ ∞êÿ∞êÿδúî∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRyptoCrowd Core will not work properly.</source>♪◙        <translation>Ω▓╜Ω│á: ∞╗┤φô¿φä░∞¥ÿ δéá∞º£∞ÖÇ ∞ï£Ω░ä∞¥┤ ∞ÿ¼δ░öδÑ┤Ω▓î ∞äñ∞áòδÉÿ∞û┤ ∞₧êδèö∞ºÇ φÖò∞¥╕φò┤ ∞ú╝∞ä╕∞Üö! δºî∞¥╝ ∞ï£Ω│äΩ░Ç ∞₧ÿδ¬╗δÉÿ∞û┤ ∞₧êδïñδ⌐┤ CRyptoCrowd ∞╜ö∞û┤δèö ∞áò∞âü∞áü∞£╝δí£ ∞₧æδÅÖφòÿ∞ºÇ ∞òè∞¥ä ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>♪◙        <translation>Ω▓╜Ω│á: δäñφè╕∞¢îφü¼Ω░Ç ∞Öä∞áäφ₧ê δÅÖ∞¥ÿφòÿ∞ºÇ ∞òèδèö Ω▓â Ω░Ö∞è╡δïêδïñ! ∞¥╝δ╢Ç δºê∞¥┤δäê∞ùÉ δ¼╕∞á£Ω░Ç δ░£∞â¥φò£ Ω▓â∞£╝δí£ δ│┤∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>♪◙        <translation>Ω▓╜Ω│á: ∞Ü░δª¼∞¥ÿ φö╝∞û┤δôñΩ│╝ ∞Öäδ▓╜φòÿΩ▓î ∞¥╝∞╣ÿφòÿ∞ºÇ ∞òè∞è╡δïêδïñ! ∞ùàΩ╖╕δáê∞¥┤δô£ δÿÉδèö δïñδÑ╕ δà╕δô£δôñ∞¥ÿ ∞ùàΩ╖╕δáê∞¥┤δô£Ω░Ç φòä∞Üöφòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>♪◙        <translation>Ω▓╜Ω│á : wallet.dat∞¥ä ∞¥╜δèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ! δ¬¿δôá φéñΩ░Ç ∞ÿ¼δ░öδÑ┤Ω▓î ∞¥╜φÿÇ ∞ºÇ∞ºÇδºî φè╕δ₧£∞₧¡∞àÿ δì░∞¥┤φä░ δÿÉδèö ∞ú╝∞åîδí¥ φò¡δ¬⌐∞¥┤ δêäδ¥╜δÉÿ∞ùêΩ▒░δéÿ ∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞¥ä ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>♪◙        <translation>Ω▓╜Ω│á : wallet.dat∞ùÉ ∞åÉ∞âüδÉ£ δì░∞¥┤φä░Ω░Ç δ│╡Ω╡¼δÉÿ∞ùê∞è╡δïêδïñ. δ│╕δ₧ÿ wallet.dat∞¥Ç wallet∞£╝δí£ ∞áÇ∞₧ÑδÉÿ∞ùê∞è╡δïêδïñ. {timestamp}.bak %s; ∞₧ö∞òí δÿÉδèö φè╕δ₧£∞₧¡∞àÿΩ░Ç ∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞¥Ç Ω▓╜∞Ü░ δ░▒∞ùà∞ùÉ∞ä£ δ│╡∞¢Éφò┤∞ò╝φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>♪◙        <translation>∞ú╝∞û┤∞ºä δä╖δºê∞èñφü¼ δÿÉδèö IP ∞ú╝∞åîδí£δ╢Çφä░ φÖö∞¥┤φè╕δª¼∞èñφè╕ φö╝∞û┤Ω░Ç ∞ù░Ω▓░δÉÿΩ│á ∞₧ê∞è╡δïêδïñ. ∞ù¼δƒ¼ δ▓ê ∞ºÇ∞áòδÉá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>♪◙        <translation>φÖö∞¥┤φè╕δª¼∞èñφè╕ φö╝∞û┤δôñ∞¥Ç DoS δ░┤ δÉá ∞êÿ ∞ùå∞£╝δ⌐░ Ω╖╕δôñ∞¥┤ ∞¥┤δ»╕ δ⌐öδ¬¿δª¼ φÆÇ∞ùÉ ∞₧ê∞¥ä∞ºÇδ¥╝δÅä Ω╖╕δôñ∞¥ÿ φè╕δ₧£∞₧¡∞àÿδèö φò¡∞âü ∞ñæΩ│äδÉ⌐δïêδïñ. ∞ÿêδÑ╝δôñδ⌐┤ Ω▓î∞¥┤φè╕∞¢¿∞¥┤ Ω░Ö∞¥Ç Ω▓â∞ùÉ ∞£á∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</source>♪◙        <translation>φÖÿΩ▓╜∞äñ∞áò∞ùÉ∞ä£ masternodeprivkeyδÑ╝ ∞ºÇ∞áòφò┤∞ò╝ φò⌐δïêδïñ. δÅä∞¢ÇδºÉ∞¥ä ∞░╕∞í░φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>(51472 could be used only on mainnet)</source>♪◙        <translation>(51472 ∞¥Ç δ⌐ö∞¥╕δä╖∞ùÉ∞ä£δºî ∞é¼∞Ü⌐δÉá ∞êÿ ∞₧ê∞è╡δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(default: %s)</source>♪◙        <translation>(Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(default: 1)</source>♪◙        <translation>(Ω╕░δ│╕Ω░Æ: 1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(must be 51472 for mainnet)</source>♪◙        <translation>(δ⌐ö∞¥╕δä╖ ∞¥╝Ω▓╜∞Ü░ 51472)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Accept command line and JSON-RPC commands</source>♪◙        <translation> command line Ω│╝ JSON-RPC ∞áü∞Ü⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>♪◙        <translation>∞Ö╕δ╢Ç∞ùÉ∞ä£∞¥ÿ ∞áæ∞åì∞¥ä φùê∞Ü⌐ (1 -φöäδí¥∞ï£ δÿÉδèö -∞ù░Ω▓░∞¥┤ ∞ùå∞¥ä Ω▓╜∞Ü░ Ω╕░δ│╕Ω░Æ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Accept public REST requests (default: %u)</source>♪◙        <translation>Ω│╡Ω░£ REST ∞Üö∞▓¡ ∞êÿδ¥╜(Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add a node to connect to and attempt to keep the connection open</source>♪◙        <translation>∞ù░Ω▓░φòá δà╕δô£δÑ╝ ∞╢öΩ░ÇφòÿΩ│á Ω│ä∞åìφò┤∞ä£ ∞ù░Ω▓░∞¥ä ∞£á∞ºÇφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>♪◙        <translation>-addnode, -seednode, -connect∞¥ä ∞£äφò┤ DNS ∞í░φÜîδÑ╝ φùê∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Already have that input.</source>♪◙        <translation>∞¥┤δ»╕ ∞ù░Ω▓░ ∞ñæ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Always query for peer addresses via DNS lookup (default: %u)</source>♪◙        <translation>φö╝∞û┤ ∞ú╝∞åî∞ùÉΩ▓î DNS ∞í░φÜîδÑ╝ φå╡φò£ ∞ºÇ∞åì∞áü∞¥╕ ∞áòδ│┤ ∞êÿ∞ïá ∞Üö∞▓¡∞¥ä φò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Attempt to recover private keys from a corrupt wallet.dat</source>♪◙        <translation>∞åÉ∞âüδÉ£ wallet.dat∞£╝δí£ δ╢Çφä░ Ω░£∞¥╕ φéñ δ│╡Ω╡¼δÑ╝ ∞ï£δÅäφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Automatically create Tor hidden service (default: %d)</source>♪◙        <translation>∞₧ÉδÅÖ Tor φ₧êδôá ∞ä£δ▓ä∞èñ ∞â¥∞ä▒ (Ω╕░δ│╕Ω░Æ: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Block creation options:</source>♪◙        <translation>δ╕öδí¥ ∞â¥∞ä▒ ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Calculating missing accumulators...</source>♪◙        <translation>δêäδ¥╜δÉ£ δêä∞é░Ω╕░ Ω│ä∞é░∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can't denominate: no compatible inputs left.</source>♪◙        <translation>φæ£∞ï£φòá ∞êÿ ∞ùå∞¥î: δé¿∞òä∞₧êδèö φÿ╕φÖÿδÉ£ ∞ù░Ω▓░∞¥┤ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can't find random Masternode.</source>♪◙        <translation>∞₧ä∞¥ÿ∞¥ÿ δºê∞èñφä░δà╕δô£δÑ╝ ∞░╛∞¥ä ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can't mix while sync in progress.</source>♪◙        <translation>δÅÖΩ╕░φÖöΩ░Ç ∞ºäφûë ∞ñæ∞¥╝ δòî∞ùÉδèö δ»╣∞ï▒∞¥ä φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot downgrade wallet</source>♪◙        <translation>∞ºÇΩ░æ∞¥ä δïñ∞Ü┤Ω╖╕δáê∞¥┤δô£ φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot resolve -bind address: '%s'</source>♪◙        <translation>∞ú╝∞åîδÑ╝ δ│ÇφÖÿφòá ∞êÿ ∞ùå∞è╡δïêδïñ ∞ú╝∞åî -bind: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot resolve -externalip address: '%s'</source>♪◙        <translation>∞ú╝∞åîδÑ╝ δ│ÇφÖÿφòá ∞êÿ ∞ùå∞è╡δïêδïñ -externalip ∞ú╝∞åî: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot resolve -whitebind address: '%s'</source>♪◙        <translation>φò┤Ω▓░φòá ∞êÿ ∞ùå∞è╡δïêδïñ -whitebind ∞ú╝∞åî: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot write default address</source>♪◙        <translation>Ω╕░δ│╕ ∞ú╝∞åîδÑ╝ ∞é¼∞Ü⌐φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Collateral not valid.</source>♪◙        <translation>Collateral∞¥┤ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect only to the specified node(s)</source>♪◙        <translation>∞ºÇ∞áòδÉ£ δà╕δô£(s)δí£δºî ∞ù░Ω▓░∞¥┤ Ω░ÇδèÑφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect through SOCKS5 proxy</source>♪◙        <translation>SOCKS5 φöäδí¥∞ï£δÑ╝ φå╡φò┤ ∞ù░Ω▓░φò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect to a node to retrieve peer addresses, and disconnect</source>♪◙        <translation>δà╕δô£∞ùÉ ∞ù░Ω▓░φòÿ∞ù¼ φö╝∞û┤ ∞ú╝∞åîδÑ╝ Ω▓Ç∞âëφòÿΩ│á ∞ù░Ω▓░∞¥ä δüè∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connection options:</source>♪◙        <translation>∞ù░Ω▓░ ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>♪◙        <translation>Copyright (C) 2009-%i δ╣äφè╕∞╜ö∞¥╕ Core Ω░£δ░£∞₧Éδôñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copyright (C) 2014-%i The Dash Core Developers</source>♪◙        <translation>Copyright (C) 2014-%i The Dash Core Ω░£δ░£∞₧Éδôñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copyright (C) 2015-%i The CRyptoCrowd Core Developers</source>♪◙        <translation>Copyright (C) 2015-%i The CRyptoCrowd Core Ω░£δ░£∞₧É</translation>♪◙    </message>♪◙    <message>♪◙        <source>Corrupted block database detected</source>♪◙        <translation>∞åÉ∞âüδÉ£ δ╕öδí¥ δì░∞¥┤φä░δ▓á∞¥┤∞èñΩ░Ç δ░£Ω▓¼δÉÿ∞ùê∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Could not parse masternode.conf</source>♪◙        <translation>masternode.conf δÑ╝ δ╢ä∞ä¥φòá ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debugging/Testing options:</source>♪◙        <translation>δööδ▓äΩ╣à/φàî∞èñφîà ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete blockchain folders and resync from scratch</source>♪◙        <translation>δ╕öδí¥ ∞▓┤∞¥╕ φÅ┤δìö ∞é¡∞á£ δ░Å ∞▓ÿ∞¥îδ╢Çφä░ δïñ∞ï£ δÅÖΩ╕░φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Disable OS notifications for incoming transactions (default: %u)</source>♪◙        <translation>Ω▒░δ₧ÿ∞ï£ ∞êÿ∞ïá ∞òîδª╝∞░╜ φò┤∞á£  (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Disable safemode, override a real safe mode event (default: %u)</source>♪◙        <translation>∞òê∞áäδ¬¿δô£ δ╣äφÖ£∞ä▒φÖö, ∞ïñ∞ï£Ω░ä ∞òê∞áäδ¬¿δô£ ∞¥┤δ▓ñφè╕ ∞ñæδï¿ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Discover own IP address (default: 1 when listening and no -externalip)</source>♪◙        <translation>∞₧É∞ïá∞¥ÿ IP ∞ú╝∞åîδÑ╝ ∞░╛∞è╡δïêδïñ (Ω╕░δ│╕Ω░Æ: 1 ∞êÿ∞ïá∞ñæ∞¥┤Ω▒░δéÿ -∞Ö╕δ╢Ç∞òä∞¥┤φö╝Ω░Ç ∞ùå∞¥ä Ω▓╜∞Ü░)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Do not load the wallet and disable wallet RPC calls</source>♪◙        <translation>∞ºÇΩ░æ RPC φÿ╕∞╢£∞¥ä δ╣äφÖ£∞ä▒φÖöφòÿΩ│á ∞ºÇΩ░æ∞¥ä δ╢êδƒ¼∞ÿñ∞ºÇ δºê∞ï£∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Do you want to rebuild the block database now?</source>♪◙        <translation>δ╕öδí¥ δì░∞¥┤φä░δ▓á∞¥┤∞èñδÑ╝ δïñ∞ï£ ∞₧æ∞ä▒φòÿ∞ï£Ω╕░δÑ╝ ∞¢Éφòÿ∞ï¡δïêΩ╣î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Done loading</source>♪◙        <translation>δí£δö⌐ ∞Öäδúî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable automatic Zerocoin minting (0-1, default: %u)</source>♪◙        <translation>∞₧ÉδÅÖ ∞á£δí£∞╜ö∞¥╕ ∞â¥∞ä▒ (0-1, Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish hash transaction (locked via SwiftX) in &lt;address&gt;</source>♪◙        <translation>&lt;address&gt; ∞ùÉ∞ä£ φò┤∞ï£ ∞áä∞åí Ω▓î∞ï£ Ω░ÇδèÑ (SwiftTXδí£ ∞äñ∞áòδÉ£)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish raw transaction (locked via SwiftX) in &lt;address&gt;</source>♪◙        <translation>&lt;address&gt;∞ùÉ∞ä£ Raw φè╕δ₧£∞₧¡∞àÿ Ω▓î∞ï£ ∞ºÇ∞¢É (SwiftTXδÑ╝ φå╡φò┤ ∞₧áΩ▓¿∞ºä)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable the client to act as a masternode (0-1, default: %u)</source>♪◙        <translation>φü┤δ¥╝∞¥┤∞û╕φè╕Ω░Ç δºê∞èñφä░δà╕δô£δí£ ∞₧æδÅÖφòÿδèö Ω▓â∞¥ä φÖ£∞ä▒φÖö (0-1, Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Entries are full.</source>♪◙        <translation>φò¡δ¬⌐∞¥┤ Ω░Çδô¥ ∞░╝∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error connecting to Masternode.</source>♪◙        <translation>Masternode∞ùÉ ∞ù░Ω▓░φòÿδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error initializing block database</source>♪◙        <translation>δ╕öδí¥ δì░∞¥┤φä░δ▓á∞¥┤∞èñδÑ╝ ∞┤êΩ╕░φÖöφòÿδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error initializing wallet database environment %s!</source>♪◙        <translation>∞ºÇΩ░æ δì░∞¥┤φä░δ▓á∞¥┤∞èñ φÖÿΩ▓╜  %s ∞¥ä ∞┤êΩ╕░φÖöφòÿδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error loading block database</source>♪◙        <translation>δ╕öδí¥ δì░∞¥┤φä░δ▓á∞¥┤∞èñδÑ╝ δ╢êδƒ¼∞ÿñδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error loading wallet.dat</source>♪◙        <translation>wallet.dat∞¥ä δ╢êδƒ¼∞ÿñδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error loading wallet.dat: Wallet corrupted</source>♪◙        <translation>wallet.dat∞¥ä δ╢êδƒ¼∞ÿñδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ: ∞ºÇΩ░æ ∞åÉ∞âüδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>♪◙        <translation>wallet.datδÑ╝ δí£δô£φòÿδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ. ∞ºÇΩ░æ∞ùÉ ∞╡£∞ïá δ▓ä∞áä∞¥ÿ CRyptoCrowd ∞╜ö∞û┤Ω░Ç φòä∞Üöφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error opening block database</source>♪◙        <translation>δ╕öδí¥ δì░∞¥┤φä░δ▓á∞¥┤∞èñδÑ╝ ∞ù¼δèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error reading from database, shutting down.</source>♪◙        <translation>δì░∞¥┤φä░δ▓á∞¥┤∞èñ∞ùÉ∞ä£∞ä£ ∞¥╜∞û┤∞ÿñδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ. ∞óàδúîφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error recovering public key.</source>♪◙        <translation>Ω│╡Ω░£ φéñδÑ╝ δ│╡Ω╡¼φòÿδèö ∞ñæ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error</source>♪◙        <translation>∞ùÉδƒ¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: A fatal internal error occured, see debug.log for details</source>♪◙        <translation>∞ÿñδÑÿ : δé┤δ╢Ç∞ùÉ∞ä£ ∞╣ÿδ¬à∞áü∞¥╕ ∞ÿñδÑÿΩ░Ç δ░£∞â¥φûê∞è╡δïêδïñ. ∞₧É∞ä╕φò£ δé┤∞Ü⌐∞¥Ç debug.logδÑ╝ ∞░╕∞í░φòÿ∞ï¡∞ï£∞ÿñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Can't select current denominated inputs</source>♪◙        <translation>∞ÿñδÑÿ : φÿä∞₧¼ φæ£∞ï£δÉ£ ∞₧àδáÑ∞¥ä ∞äáφâ¥φòá ∞êÿ ∞ùå∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Disk space is low!</source>♪◙        <translation>∞ÿñδÑÿ : δöö∞èñφü¼ Ω│╡Ω░ä∞¥┤ δ╢Ç∞í▒φò⌐δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Unsupported argument -tor found, use -onion.</source>♪◙        <translation>∞ÿñδÑÿ : ∞ºÇ∞¢Éφòÿ∞ºÇ ∞òèδèö ∞¥╕∞êÿ -torΩ░Ç δ░£Ω▓¼δÉÿ∞ùê∞è╡δïêδïñ. -onion∞¥ä ∞é¼∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Wallet locked, unable to create transaction!</source>♪◙        <translation>∞ÿñδÑÿ : ∞ºÇΩ░æ∞¥┤ ∞₧áΩ▓╝∞è╡δïêδïñ, φè╕δ₧£∞₧¡∞àÿ∞¥ä ∞â¥∞ä▒φòá ∞êÿ ∞ùå∞è╡δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: You already have pending entries in the Obfuscation pool</source>♪◙        <translation>∞ÿñδÑÿ : ∞¥┤δ»╕ δé£δÅàφÖö Ω╖╕δú╣∞ùÉ δ│┤δÑÿ∞ñæ∞¥╕ φò¡δ¬⌐δôñ∞¥┤ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to calculate accumulator checkpoint</source>♪◙        <translation>∞╢ò ∞òòΩ╕░ ∞▓┤φü¼ φÅ¼∞¥╕φè╕δÑ╝ Ω│ä∞é░φòÿ∞ºÇ δ¬╗φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to listen on any port. Use -listen=0 if you want this.</source>♪◙        <translation>∞û┤δûáφò£ φÅ¼φè╕∞ùÉ∞ä£δÅä ∞êÿ∞ïáφòÿδèö Ω▓â∞ùÉ ∞ïñφî¿φûê∞è╡δïêδïñ. ∞¢Éφòÿ∞ïáδïñδ⌐┤ -listen=0 ∞¥ä ∞é¼∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to read block</source>♪◙        <translation>δ╕öδí¥∞¥ä δ░¢∞òä∞ÿñδèöδì░ ∞ïñφî¿φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>♪◙        <translation>δï╣∞ïá∞¥┤ δ│┤δé┤δèö φè╕δ₧£∞₧¡∞àÿ∞ùÉ ∞╢öΩ░Ç φòá ∞êÿ∞êÿδúî (XCRC/kB) (Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Finalizing transaction.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞Öäδúî.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Force safe mode (default: %u)</source>♪◙        <translation>Ω░ò∞á£ ∞òê∞áä δ¬¿δô£ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Found enough users, signing ( waiting %s )</source>♪◙        <translation>∞╢⌐δ╢äφò£ ∞é¼∞Ü⌐∞₧ÉδÑ╝ ∞░╛∞òÿ∞è╡δïêδïñ, ∞ä£δ¬à ∞ñæ ( %s Ω╕░δïñδª¼δèö ∞ñæ )</translation>♪◙    </message>♪◙    <message>♪◙        <source>Found enough users, signing ...</source>♪◙        <translation>∞╢⌐δ╢äφò£ ∞é¼∞Ü⌐∞₧ÉδÑ╝ ∞░╛∞òÿ∞è╡δïêδïñ, ∞ä£δ¬à ∞ñæ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Generate coins (default: %u)</source>♪◙        <translation>∞╜ö∞¥╕ ∞â¥∞ä▒ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>How many blocks to check at startup (default: %u, 0 = all)</source>♪◙        <translation>∞ï£∞₧æφòá δòî Ω▓Ç∞é¼φòá δ╕öδí¥∞¥ÿ ∞êÿ (Ω╕░δ│╕Ω░Æ: %u, 0=δ¬¿δæÉ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>If &lt;category&gt; is not supplied, output all debugging information.</source>♪◙        <translation>&lt;category&gt;Ω░Ç ∞á£Ω│╡δÉÿ∞ºÇ ∞òè∞£╝δ⌐┤, δ¬¿δôá δööδ▓äΩ╣à ∞áòδ│┤δÑ╝ ∞╢£δáÑφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Importing...</source>♪◙        <translation>Ω░Ç∞á╕∞ÿñδèö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Imports blocks from external blk000??.dat file</source>♪◙        <translation>δé┤δ╢Ç∞ùÉ blk000??.dat φîî∞¥╝δí£δ╢Çφä░ δ╕öδí¥δôñ∞¥ä Ω░Ç∞á╕∞ÿ┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Include IP addresses in debug output (default: %u)</source>♪◙        <translation>δööδ▓äΩ╖╕ ∞╢£δáÑ∞ùÉ IP ∞ú╝∞åîδÑ╝ φÅ¼φò¿φò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Incompatible mode.</source>♪◙        <translation>φÿ╕φÖÿδÉÿ∞ºÇ ∞òèδèö δ¬¿δô£.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Incompatible version.</source>♪◙        <translation>φÿ╕φÖÿδÉÿ∞ºÇ ∞òèδèö δ▓ä∞áä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Incorrect or no genesis block found. Wrong datadir for network?</source>♪◙        <translation>∞₧ÿδ¬╗δÉÿ∞ùêΩ▒░δéÿ δ╕öδí¥∞¥ä ∞░╛∞ºÇ δ¬╗φòÿ∞ÿÇ∞è╡δïêδïñ. δäñφè╕∞¢îφü¼∞ùÉ δîÇφò£ ∞₧ÿδ¬╗δÉ£ δì░∞¥┤φä░ δööδáëφåáδª¼ δ¼╕∞á£?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>∞áòδ│┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Initialization sanity check failed. CRyptoCrowd Core is shutting down.</source>♪◙        <translation>∞┤êΩ╕░φÖö ∞áòφÖò∞ä▒ Ω▓Ç∞é¼∞ùÉ ∞ïñφî¿ φûê∞è╡δïêδïñ. CRyptoCrowd CoreΩ░Ç ∞óàδúîδÉ⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Input is not valid.</source>♪◙        <translation>∞₧àδáÑ∞¥┤ ∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient funds</source>♪◙        <translation>∞₧ö∞òí∞¥┤ ∞╢⌐δ╢äφòÿ∞ºÇ ∞òè∞¥î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient funds.</source>♪◙        <translation>∞╢⌐δ╢äφòÿ∞ºÇ ∞òè∞¥Ç Ω╕ê∞òí.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid -onion address or hostname: '%s'</source>♪◙        <translation>∞₧ÿδ¬╗δÉ£ -onion ∞ú╝∞åîΩ▒░δéÿ φÿ╕∞èñφè╕δäñ∞₧ä : '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>♪◙        <translation>-maxtxfee=&lt;amount&gt; ∞ùÉ δîÇφò£ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω░Æ: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>♪◙        <translation>-minrelaytxfee=&lt;amount&gt;; ∞ùÉ δîÇφò£ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω░Æ: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>♪◙        <translation>-mintxfee=&lt;amount&gt;; ∞ùÉ δîÇφò£ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω░Æ: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>♪◙        <translation>-paytxfee=&lt;amount&gt; ∞ùÉ δîÇφò£ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω░Æ: '%s' (∞áü∞û┤δÅä %s Ω░Ç φòä∞Üöφò⌐δïêδïñ)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>♪◙        <translation>-paytxfee=&lt;amount&gt; ∞ùÉ δîÇφò£ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω░Æ: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>♪◙        <translation>-reservebalance=&lt;amount&gt;∞ùÉ δîÇφò£ Ω╕ê∞òí∞¥┤ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω░Æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount</source>♪◙        <translation>∞₧ÿδ¬╗δÉ£ ∞êÿδƒë</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid masternodeprivkey. Please see documenation.</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω░£∞¥╕ φéñΩ░Ç ∞₧ÿδ¬╗δÉÿ∞ùê∞è╡δïêδïñ. ∞äñδ¬à∞ä£δÑ╝ ∞░╕∞í░φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid netmask specified in -whitelist: '%s'</source>♪◙        <translation>-whitelist: '%s' ∞ùÉ ∞ºÇ∞áòδÉ£ δä╖δºê∞èñφü¼Ω░Ç ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid port detected in masternode.conf</source>♪◙        <translation>masternode.conf ∞ùÉ∞ä£ ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç φÅ¼φè╕Ω░Ç Ω░É∞ºÇδÉÿ∞ùê∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid private key.</source>♪◙        <translation>∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç Ω░£∞¥╕ φéñ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid script detected.</source>♪◙        <translation>∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç ∞èñφü¼δª╜φè╕Ω░Ç δ░£Ω▓¼δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage of automatically minted Zerocoin  (1-100, default: %u)</source>♪◙        <translation>∞₧ÉδÅÖ∞â¥∞ä▒ zXCRC δ╣ä∞£¿  (1-100, default: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>♪◙        <translation>CRyptoCrowd δ░Å zXCRC Ω│╡Ω╕ëδƒë δïñ∞ï£ ∞âë∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindexing zerocoin database...</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ δì░∞¥┤φâÇδ▓á∞¥┤∞èñ ∞₧¼∞âë∞¥╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindexing zerocoin failed</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞₧¼ ∞¥╕δì▒∞ï▒ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Selected coins value is less than payment target</source>♪◙        <translation>∞ºÇδ╢êδîÇ∞âüδ│┤δïñ ∞áü∞¥Ç ∞╜ö∞¥╕ ∞äáφâ¥δÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>SwiftX options:</source>♪◙        <translation>SwiftX ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is a pre-release test build - use at your own risk - do not use for staking or merchant applications!</source>♪◙        <translation>∞¥┤Ω▓â∞¥Ç ∞é¼∞áä δª┤δª¼∞èñ φàî∞èñφè╕ δ╣îδô£∞₧àδïêδïñ - ∞é¼∞Ü⌐∞âü ∞▒à∞₧ä∞¥Ç Ω╖Çφòÿ∞ùÉΩ▓î ∞₧ê∞è╡δïêδïñ. - staking∞¥┤δéÿ ∞âü∞ùà∞áü∞¥╕ ∞Ü⌐δÅäδí£δèö ∞áêδîÇ ∞é¼∞Ü⌐φòÿ∞ºÇ δºê∞ï¡∞ï£∞ÿñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source> mints deleted♪◙</source>♪◙        <translation>∞â¥∞ä▒ ∞é¡∞á£♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source> mints updated, </source>♪◙        <translation>∞â¥∞ä▒ ∞ùàδì░∞¥┤δô£</translation>♪◙    </message>♪◙    <message>♪◙        <source> unconfirmed transactions removed♪◙</source>♪◙        <translation>δ»╕φÖò∞¥╕δÉ£ Ω▒░δ₧ÿ ∞é¡∞á£δÉ¿♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>♪◙        <translation>CRyptoCrowd∞¥ÿ δ¬¿δôá φè╣∞áò Ω╕░δèÑδôñ∞¥ä δ╣äφÖ£∞ä▒φÖöφò⌐δïêδïñ(δºê∞èñφä░δà╕δô£, δé£δÅàφÖö, SwiftTX, Budgeting) (0-1, Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>♪◙        <translation>swiftTX φÖ£∞ä▒φÖö, ∞₧áΩ╕┤ φè╕δ₧£∞₧¡∞àÿδôñ∞ùÉ δîÇφò£ φÖò∞¥╕ φæ£∞ï£ (bool, Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>♪◙        <translation>∞ùÉδƒ¼ : Ω▒░δ₧ÿΩ░Ç Ω▒░δ╢ÇδÉÿ∞ùê∞è╡δïêδïñ. ∞ÿêδÑ╝ δôñ∞û┤ δïñδÑ╕ ∞é¼δ│╕ wallet.dat∞ùÉ∞ä£ ∞╜ö∞¥╕∞¥ä ∞é¼∞Ü⌐φûêδïñδ⌐┤ 2∞ñæ ∞é¼∞Ü⌐∞£╝δí£ ∞¥╕∞ï¥δÉá∞êÿ ∞₧ê∞è╡δïêδïñ. φÿ╣∞¥Ç, ∞¥╝δ╢ÇΩ░Ç ∞¥┤δ»╕ ∞åîδ╣ä δÉ£ Ω▓╜∞Ü░∞ùÉ ∞¥┤δƒ░ ∞¥╝∞¥┤ δ░£∞â¥φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>♪◙        <translation>∞ùÉδƒ¼ :∞¥┤ Ω▒░δ₧ÿ∞ùÉδèö ∞áä∞åíδƒë, δ│╡∞₧í∞ä▒ δÿÉδèö ∞╡£Ω╖╝∞ùÉ δ░¢∞¥Ç ∞₧ÉΩ╕ê∞¥ÿ ∞é¼∞Ü⌐δô▒∞£╝δí£ ∞¥╕φò┤ ∞áü∞û┤δÅä %s∞¥ÿ Ω▒░δ₧ÿ ∞êÿ∞êÿδúîΩ░Ç φòä∞Üöφò⌐δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Unsupported argument -checklevel found. Checklevel must be level 4.</source>♪◙        <translation>∞ùÉδƒ¼ : ∞ºÇ∞¢Éφòÿ∞ºÇ∞òèδèö argument -checklevel δ░£Ω▓¼δÉ£.  Checklevelδèö δáêδ▓¿ 4∞¥┤∞û┤∞ò╝ φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Execute command when the best block changes and its size is over (%s in cmd is replaced by block hash, %d with the block size)</source>♪◙        <translation>Execute command when the best block changes and its size is over (%s in cmd is replaced by block hash, %d with the block size)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to find coin set amongst held coins with less than maxNumber of Spends</source>♪◙        <translation>Failed to find coin set amongst held coins with less than maxNumber of Spends</translation>♪◙    </message>♪◙    <message>♪◙        <source>In rare cases, a spend with 7 coins exceeds our maximum allowable transaction size, please retry spend using 6 or less coins</source>♪◙        <translation>In rare cases, a spend with 7 coins exceeds our maximum allowable transaction size, please retry spend using 6 or less coins</translation>♪◙    </message>♪◙    <message>♪◙        <source>Preferred Denomination for automatically minted Zerocoin  (1/5/10/50/100/500/1000/5000), 0 for no preference. default: %u)</source>♪◙        <translation>∞₧ÉδÅÖ∞â¥∞ä▒ ∞á£δí£∞╜ö∞¥╕ ∞äáφÿ╕ δööδà╕δ»╕δäñ∞¥┤∞àÿ (1/5/10/50/100/500/1000/5000) 0∞é¼∞Ü⌐∞òêδÉ¿, Ω╕░δ│╕Ω░Æ : %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>♪◙        <translation>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>♪◙        <translation>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</translation>♪◙    </message>♪◙    <message>♪◙        <source>SwiftX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</source>♪◙        <translation>SwiftTXδèö ∞╡£∞åî 6φÜî φÖò∞¥╕∞¥┤ φòä∞Üöφò£ ∞₧àδáÑ∞£╝δí£ δ¬ç δ╢ä φ¢ä∞ùÉ δïñ∞ï£ ∞ï£δÅäφò┤∞ò╝ φòá ∞êÿ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>&lt;category&gt; can be:</source>♪◙        <translation>&lt;category&gt; Ω░ÇδèÑφò¿ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Attempt to force blockchain corruption recovery</source>♪◙        <translation>δ╕öδí¥∞▓┤∞¥╕ ∞åÉ∞âü δ│╡Ω╡¼ ∞ï£δÅä</translation>♪◙    </message>♪◙    <message>♪◙        <source>CoinSpend: Accumulator witness does not verify</source>♪◙        <translation>CoinSpend: δêä∞é░Ω╕░Ω░Ç ∞á£δîÇδí£ ∞₧æδÅÖφòÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Display the stake modifier calculations in the debug.log file.</source>♪◙        <translation>debug.log∞ùÉ stake ∞êÿ∞áò Ω│ä∞é░ Ω╕░δí¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Display verbose coin stake messages in the debug.log file.</source>♪◙        <translation>debug.log ∞ùÉ ∞╜ö∞¥╕ stake δ⌐ö∞ï£∞ºÇδÑ╝ ∞₧É∞ä╕φ₧ê Ω╕░δí¥</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish hash block in &lt;address&gt;</source>♪◙        <translation>&lt;address&gt; ∞ùÉ∞ä£ φò┤∞ï£ δ╕öδí¥ Ω▓î∞ï£ Ω░ÇδèÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish hash transaction in &lt;address&gt;</source>♪◙        <translation>&lt;address&gt; ∞ùÉ∞ä£ φò┤∞ï£ δ╢êδí¥ Ω▓î∞ï£ Ω░ÇδèÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish raw block in &lt;address&gt;</source>♪◙        <translation>&lt;address&gt;∞ùÉ∞ä£ Raw δ╕öδí¥ Ω▓î∞ï£ Ω░ÇδèÑ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish raw transaction in &lt;address&gt;</source>♪◙        <translation>&lt;address&gt; ∞ùÉ∞ä£ Raw φè╕δ₧£∞₧¡∞àÿ Ω▓î∞ï£ ∞ºÇ∞¢É</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable staking functionality (0-1, default: %u)</source>♪◙        <translation>∞èñφàî∞¥┤φé╣ Ω╕░δèÑ ∞é¼∞Ü⌐ (0-1, Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: A fatal internal error occurred, see debug.log for details</source>♪◙        <translation>Error: ∞╣ÿδ¬à∞áü ∞ùÉδƒ¼ δ░£∞â¥ log φîî∞¥╝∞¥ä φÖò∞¥╕φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: No valid utxo!</source>♪◙        <translation>Error: ∞£áφÜ¿φòÿ∞ºÇ ∞òèδèö utxo!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to create mint</source>♪◙        <translation>∞â¥∞ä▒ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to deserialize</source>♪◙        <translation>δöö∞ï£δª¼∞û╝ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to find Zerocoins in wallet.dat</source>♪◙        <translation>wallet.dat ∞ùÉ∞ä£ ∞á£δí£∞╜ö∞¥╕∞¥ä ∞¥╕∞ï¥ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to select a zerocoin</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞äáφâ¥ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to wipe zerocoinDB</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ DB ∞é¡∞á£ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to write coin serial number into wallet</source>♪◙        <translation>∞ºÇΩ░æ∞ùÉ ∞╜ö∞¥╕ ∞ï£δª¼∞û╝ δ▓êφÿ╕ ∞₧æ∞ä▒ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>♪◙        <translation>δ⌐öδ¬¿δª¼∞ùÉ∞ä£ ∞ù░Ω▓░ δ╢êΩ░ÇδèÑφò£ φè╕δ₧£∞₧¡∞àÿ∞¥ä &lt;n&gt;Ω░£Ω╣î∞ºÇ ∞£á∞ºÇφòÿ∞ï¡∞ï£∞ÿñ. (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last Obfuscation was too recent.</source>♪◙        <translation>∞╡£Ω╖╝∞ùÉ δºê∞ºÇδºë∞£╝δí£ δé£δÅàφÖöδÑ╝ ∞ºäφûëφûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last successful Obfuscation action was too recent.</source>♪◙        <translation>∞╡£Ω╖╝∞ùÉ δºê∞ºÇδºë∞£╝δí£ ∞ä▒Ω│╡φò£ δé£δÅàφÖö ∞₧æ∞ùà∞¥┤ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Limit size of signature cache to &lt;n&gt; entries (default: %u)</source>♪◙        <translation>∞ï£Ω╖╕δïê∞▓ÿ ∞║É∞ï£∞¥ÿ φü¼Ω╕░ ∞á£φò£∞¥ä &lt;n&gt; φò¡δ¬⌐∞£╝δí£ φò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Line: %d</source>♪◙        <translation>Line: %d</translation>♪◙    </message>♪◙    <message>♪◙        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>♪◙        <translation>&lt;port&gt;∞ùÉ∞ä£ JSON-RPC ∞ù░Ω▓░ δîÇΩ╕░ (Ω╕░δ│╕Ω░Æ: %u δÿÉδèö φàî∞èñφè╕δä╖: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>♪◙        <translation>&lt;port&gt;∞ùÉ∞ä£ ∞ù░Ω▓░ δîÇΩ╕░ (Ω╕░δ│╕Ω░Æ: %u δÿÉδèö φàî∞èñφè╕δä╖: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading addresses...</source>♪◙        <translation>∞ú╝∞åîδÑ╝ δ╢êδƒ¼∞ÿñδèö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading block index...</source>♪◙        <translation>δ╕öδí¥ ∞¥╕δì▒∞èñδÑ╝ δ╢êδƒ¼∞ÿñδèö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading budget cache...</source>♪◙        <translation>budget ∞║É∞ï£δÑ╝ δ╢êδƒ¼∞ÿñδèö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading masternode cache...</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ ∞║É∞ï£δÑ╝ δ╢êδƒ¼∞ÿñδèö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading masternode payment cache...</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω▓░∞á£ ∞║É∞ï£δÑ╝ δ╢êδƒ¼∞ÿñδèö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading sporks...</source>♪◙        <translation>sporks δí£δö⌐∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading wallet... (%3.2f %%)</source>♪◙        <translation>∞ºÇΩ░æ∞¥ä δ╢êδƒ¼∞ÿñδèö ∞ñæΓÇª (%3.2f %%)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading wallet...</source>♪◙        <translation>∞ºÇΩ░æ∞¥ä δ╢êδƒ¼∞ÿñδèö ∞ñæΓÇª</translation>♪◙    </message>♪◙    <message>♪◙        <source>Location of the auth cookie (default: data dir)</source>♪◙        <translation>auth ∞┐áΩ╕░ ∞£ä∞╣ÿ (default: data dir)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock is already in place.</source>♪◙        <translation>∞¥┤δ»╕ ∞ÿ¼δ░öδÑ┤Ω▓î ∞₧áΩ▓¿∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock masternodes from masternode configuration file (default: %u)</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω╡¼∞ä▒ φîî∞¥╝∞ùÉ∞ä£ δºê∞èñφä░δà╕δô£δÑ╝ ∞₧áΩ╕ëδïêδïñ. (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lookup(): Invalid -proxy address or hostname: '%s'</source>♪◙        <translation>Lookup(): Invalid -proxy address or hostname: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>♪◙        <translation>∞╡£δîÇ &lt;n&gt; ∞ù░Ω▓░∞¥ä φö╝∞û┤δôñΩ│╝ ∞£á∞ºÇφò⌐δïêδïñ. (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode options:</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode queue is full.</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ δîÇΩ╕░∞ù┤∞¥┤ Ω░Çδô¥ ∞░╝∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode:</source>♪◙        <translation>δºê∞èñφä░δà╕δô£:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>♪◙        <translation>∞ù░Ω▓░ δï╣ ∞╡£δîÇ ∞êÿ∞ïá δ▓äφì╝, &lt;n&gt;*1000 δ░ö∞¥┤φè╕ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>♪◙        <translation>∞ù░Ω▓░ δï╣ ∞╡£δîÇ ∞áä∞åí δ▓äφì╝, &lt;n&gt;*1000 δ░ö∞¥┤φè╕ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mint did not make it into blockchain</source>♪◙        <translation>∞╜ö∞¥╕∞â¥∞ä▒∞¥┤ δ╕öδí¥∞▓┤∞¥╕∞ùÉ Ω╕░δí¥δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Missing input transaction information.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞áòδ│┤ ∞₧àδáÑ∞ùÉ δêäδ¥╜δÉ£ δ╢Çδ╢ä∞¥┤ ∞₧ê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mixing in progress...</source>♪◙        <translation>δ»╣∞ï▒∞¥┤ ∞ºäφûë ∞ñæ∞₧àδïêδïñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Need address because change is not exact</source>♪◙        <translation>∞₧öδÅê∞¥ä δ░¢∞¥ä ∞ú╝∞åîΩ░Ç φòä∞Üöφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Need to specify a port with -whitebind: '%s'</source>♪◙        <translation>-whitebind: '%s' ∞¥ÿ φÅ¼φè╕δÑ╝ ∞ºÇ∞áòφò┤∞ò╝ φò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>No Masternodes detected.</source>♪◙        <translation>δºê∞èñφä░δà╕δô£Ω░Ç δ░£Ω▓¼δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>No compatible Masternode found.</source>♪◙        <translation>φÿ╕φÖÿδÉÿδèö δºê∞èñφä░δà╕δô£Ω░Ç δ░£Ω▓¼δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>No funds detected in need of denominating.</source>♪◙        <translation>δ╢äδÑÿΩ░Ç φòä∞Üöφò£ ∞₧ÉΩ╕ê∞¥┤ δ░£Ω▓¼δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>No matching denominations found for mixing.</source>♪◙        <translation>δ»╣∞ï▒∞ùÉ δîÇφò£ ∞¥╝∞╣ÿφòÿδèö φæ£Ω╕░δÑ╝ ∞░╛∞¥ä ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Node relay options:</source>♪◙        <translation>δà╕δô£ ∞ñæΩ│ä ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Non-standard public key detected.</source>♪◙        <translation>δ╣ä φæ£∞ñÇ Ω│╡Ω░£ φéñΩ░Ç Ω░É∞ºÇδÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not compatible with existing transactions.</source>♪◙        <translation>Ω╕░∞í┤ φè╕δ₧£∞₧¡∞àÿΩ│╝ φÿ╕φÖÿδÉÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not enough file descriptors available.</source>♪◙        <translation>∞é¼∞Ü⌐ Ω░ÇδèÑφò£ φîî∞¥╝ δöö∞èñφü¼δª╜φä░Ω░Ç ∞╢⌐δ╢äφòÿ∞ºÇ ∞òè∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not in the Masternode list.</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ δ¬⌐δí¥∞ùÉ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of automatic wallet backups (default: 10)</source>♪◙        <translation>∞₧ÉδÅÖ ∞ºÇΩ░æ δ░▒∞ùà φÜƒ∞êÿ (Ω╕░δ│╕Ω░Æ: 10)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of custom location backups to retain (default: %d)</source>♪◙        <translation>Number of custom location backups to retain (default: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation is idle.</source>♪◙        <translation>δé£δÅàφÖöδèö ∞£áφ£┤∞âüφâ£∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation request complete:</source>♪◙        <translation>δé£δÅàφÖö ∞Üö∞▓¡ ∞Öäδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation request incomplete:</source>♪◙        <translation>δé£δÅàφÖö ∞Üö∞▓¡ δ»╕∞Öäδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Only accept block chain matching built-in checkpoints (default: %u)</source>♪◙        <translation>δé┤∞₧ÑδÉ£ ∞▓┤φü¼ φÅ¼∞¥╕φè╕∞ÖÇ ∞¥╝∞╣ÿφòÿδèö δ╕öδí¥∞▓┤∞¥╕δºî φùê∞Ü⌐ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>♪◙        <translation>δäñφè╕∞¢îφü¼∞ùÉ ∞ù░Ω▓░δÉ£ δà╕δô£∞ùÉδºî ∞ù░Ω▓░ &lt;net&gt; (ipv4, ipv6 δÿÉδèö onion)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Options:</source>♪◙        <translation>∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Password for JSON-RPC connections</source>♪◙        <translation>JSON-RPC ∞ù░Ω▓░ δ╣äδ░Çδ▓êφÿ╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>isValid(): Invalid -proxy address or hostname: '%s'</source>♪◙        <translation>isValid(): Invalid -proxy address or hostname: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Preparing for resync...</source>♪◙        <translation>∞₧¼δÅÖΩ╕░φÖö ∞ñÇδ╣ä∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Prepend debug output with timestamp (default: %u)</source>♪◙        <translation>δööδ▓äΩ╖╕ ∞╢£δáÑ ∞ò₧∞ùÉ φâÇ∞₧ä∞èñφâ¼φöäδÑ╝ ∞╢öΩ░Çφò⌐δïêδïñ. (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Print version and exit</source>♪◙        <translation>δ▓ä∞áä ∞╢£δáÑφ¢ä ∞óàδúî</translation>♪◙    </message>♪◙    <message>♪◙        <source>RPC server options:</source>♪◙        <translation>RPC ∞ä£δ▓ä ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Randomly drop 1 of every &lt;n&gt; network messages</source>♪◙        <translation>&lt;n&gt;Ω░£∞¥ÿ δäñφè╕∞¢îφü¼ δ⌐ö∞ä╕∞ºÇδºêδïñ δ¼┤∞₧æ∞£äδí£ 1Ω░£ ∞é¡∞á£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>♪◙        <translation>&lt;n&gt;Ω░£∞¥ÿ δäñφè╕∞¢îφü¼ δ⌐ö∞ä╕∞ºÇδºêδïñ δ¼┤∞₧æ∞£äδí£ 1 φì╝∞ªê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rebuild block chain index from current blk000??.dat files</source>♪◙        <translation>φÿä∞₧¼ blk000??.dat φîî∞¥╝∞¥ÿ δ╕öδí¥∞▓┤∞¥╕ ∞¥╕δì▒∞èñδÑ╝ δïñ∞ï£ Ω╡¼∞╢òφò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receive and display P2P network alerts (default: %u)</source>♪◙        <translation>P2P δäñφü¼∞¢îφü¼δí£ δ╢Çφä░ Ω▓╜Ω│áδÑ╝ δ░¢Ω│á δ│┤∞ù¼∞ñìδïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindex the accumulator database</source>♪◙        <translation>δêä∞áü Ω╕░ δì░∞¥┤φä░δ▓á∞¥┤∞èñ δïñ∞ï£ ∞âë∞¥╕φÖö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Relay and mine data carrier transactions (default: %u)</source>♪◙        <translation>δª┤δáê∞¥┤ δ░Å ∞▒äΩ╡┤ δì░∞¥┤φä░ ∞¥┤δÅÖδºñ∞▓┤ φè╕δ₧£∞₧¡∞àÿ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Relay non-P2SH multisig (default: %u)</source>♪◙        <translation>non-P2SH multisig ∞ñæΩ│ä (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescan the block chain for missing wallet transactions</source>♪◙        <translation>δêäδ¥╜δÉ£ ∞ºÇΩ░æ φè╕δ₧£∞₧¡∞àÿ∞ùÉ δîÇφò┤ δ╕öδí¥∞▓┤∞¥╕∞¥ä δïñ∞ï£ ∞èñ∞║öφò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescanning...</source>♪◙        <translation>δïñ∞ï£ ∞èñ∞║öφòÿδèö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>ResetMintZerocoin finished: </source>♪◙        <translation>∞â¥∞ä▒δÉ£ ∞á£δí£∞╜ö∞¥╕ ∞┤êΩ╕░φÖö ∞Öäδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>ResetSpentZerocoin finished: </source>♪◙        <translation>∞é¼∞Ü⌐δÉ£ ∞á£δí£∞╜ö∞¥╕ ∞┤êΩ╕░φÖö ∞Öäδúî:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Run a thread to flush wallet periodically (default: %u)</source>♪◙        <translation>∞ú╝Ω╕░∞áü∞£╝δí£ ∞ºÇΩ░æ∞¥ä φöîδƒ¼∞ë¼φòÿδèö ∞èñδáêδô£δÑ╝ ∞ïñφûëφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Run in the background as a daemon and accept commands</source>♪◙        <translation>δ░▒Ω╖╕δ¥╝∞Ü┤δô£∞ùÉ∞ä£ ∞âü∞ú╝φòÿδ⌐░ ∞ïñφûëφòÿΩ│á δ¬àδá╣∞¥ä δ░¢∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send transactions as zero-fee transactions if possible (default: %u)</source>♪◙        <translation>δ¼┤δúî ∞êÿ∞êÿδúî φè╕δ₧£∞₧¡∞àÿ∞¥┤ Ω░ÇδèÑφòá Ω▓╜∞Ü░ δ¼┤δúî ∞êÿ∞êÿδúîδí£ φè╕δ₧£∞₧¡∞àÿ∞¥ä ∞áä∞åíφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Session not complete!</source>♪◙        <translation>∞ä╕∞àÿ∞¥┤ ∞ÖäδúîδÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Session timed out.</source>♪◙        <translation>∞ä╕∞àÿ∞¥┤ δºîδúîδÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set database cache size in megabytes (%d to %d, default: %d)</source>♪◙        <translation>δì░∞¥┤φä░δ▓á∞¥┤∞èñ ∞║É∞ï£ φü¼Ω╕░δÑ╝ δ⌐öΩ░Çδ░ö∞¥┤φè╕ δï¿∞£äδí£ ∞äñ∞áòφò⌐δïêδïñ (%d ∞ùÉ∞ä£ %d, Ω╕░δ│╕Ω░Æ: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set external address:port to get to this masternode (example: %s)</source>♪◙        <translation>δºê∞èñφä░δà╕δô£∞ùÉ ∞áæ∞åìφòÿδáñδ⌐┤ ∞Ö╕δ╢Ç ∞ú╝∞åî:φÅ¼φè╕δÑ╝ ∞äñ∞áòφòÿ∞ï¡∞ï£∞ÿñ (∞ÿê∞ï£: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set key pool size to &lt;n&gt; (default: %u)</source>♪◙        <translation>φéñ φÆÇ φü¼Ω╕░δÑ╝ &lt;n&gt; δí£ ∞äñ∞áòφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set maximum block size in bytes (default: %d)</source>♪◙        <translation>∞╡£δîÇ δ╕öδí¥ φü¼Ω╕░δÑ╝ δ░ö∞¥┤φè╕ δï¿∞£äδí£ ∞äñ∞áòφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set minimum block size in bytes (default: %u)</source>♪◙        <translation>∞╡£∞åî δ╕öδí¥ φü¼Ω╕░δÑ╝ δ░ö∞¥┤φè╕ δï¿∞£äδí£ ∞äñ∞áòφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the Maximum reorg depth (default: %u)</source>♪◙        <translation>∞╡£δîÇ ∞₧¼Ω╡¼∞ä▒ Ω╣è∞¥┤ ∞äñ∞áò (Ω╕░δ│╕Ω░Æ : %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the masternode private key</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω░£∞¥╕ φéñδÑ╝ ∞äñ∞áòφò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the number of threads to service RPC calls (default: %d)</source>♪◙        <translation>RPC φÿ╕∞╢£ ∞ä£δ╣ä∞èñ ∞èñδáêδô£∞¥ÿ Ω░»∞êÿδÑ╝ ∞äñ∞áòφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sets the DB_PRIVATE flag in the wallet db environment (default: %u)</source>♪◙        <translation>∞ºÇΩ░æ db φÖÿΩ▓╜∞ùÉ∞ä£ DB_PRIVATE φöîδ₧ÿΩ╖╕δÑ╝ ∞äñ∞áòφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ : %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show all debugging options (usage: --help -help-debug)</source>♪◙        <translation>δ¬¿δôá δööδ▓äΩ╣à ∞ÿ╡∞àÿ φæ£∞ï£ (∞é¼∞Ü⌐ δ░⌐δ▓ò: --help -help-debug)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>♪◙        <translation>φü┤δ¥╝∞¥┤∞û╕φè╕ ∞ï£∞₧æ∞ï£∞ùÉ debug.log φîî∞¥╝∞¥ä ∞╢ò∞åî∞ï£φé╡δïêδïñ (Ω╕░δ│╕Ω░Æ:1 ∞òäδïÉΩ▓╜∞Ü░ -debug)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Signing failed.</source>♪◙        <translation>∞¥╕∞ª¥∞ùÉ ∞ïñφî¿φûê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Signing timed out.</source>♪◙        <translation>∞¥╕∞ª¥ ∞ï£Ω░ä ∞┤êΩ│╝.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Signing transaction failed</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞¥╕∞ª¥ ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify configuration file (default: %s)</source>♪◙        <translation>Ω╡¼∞ä▒ φîî∞¥╝ ∞ºÇ∞áò (Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>♪◙        <translation>∞ù░Ω▓░ ∞ï£Ω░ä ∞┤êΩ│╝ δï¿∞£äδÑ╝ 100δ╢ä∞¥ÿ 1∞┤ê δï¿∞£äδí£ ∞ºÇ∞áò (∞╡£∞åîΩ░Æ: 1, Ω╕░δ│╕Ω░Æ: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify data directory</source>♪◙        <translation>δì░∞¥┤φä░ δööδáëφåáδª¼ ∞ºÇ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify masternode configuration file (default: %s)</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ Ω╡¼∞ä▒φîî∞¥╝ ∞ºÇ∞áò (Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify pid file (default: %s)</source>♪◙        <translation>pid φîî∞¥╝ ∞ºÇ∞áò (Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify wallet file (within data directory)</source>♪◙        <translation>∞ºÇΩ░æ φîî∞¥╝ ∞ºÇ∞áò (δì░∞¥┤φä░ δööδáëφåáδª¼ δé┤∞ùÉ∞ä£δºî)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify your own public address</source>♪◙        <translation>∞₧É∞ïá∞¥ÿ Ω│╡∞Ü⌐ ∞ú╝∞åîδÑ╝ ∞ºÇ∞áò</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend Valid</source>♪◙        <translation>∞£áφÜ¿φò£ ∞ºÇ∞╢£</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend unconfirmed change when sending transactions (default: %u)</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞áä∞åí∞ï£ ∞è╣∞¥╕δÉÿ∞ºÇ ∞òè∞¥Ç δ│ÇΩ▓╜∞é¼φò¡∞¥ä ∞áä∞åíφò⌐δïêδïñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staking options:</source>♪◙        <translation>∞èñφàî∞¥┤φé╣ ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Stop running after importing blocks from disk (default: %u)</source>♪◙        <translation>δöö∞èñφü¼∞ùÉ∞ä£ δ╕öδí¥∞¥ä Ω░Ç∞á╕∞ÿñδ⌐┤ ∞ïñφûë ∞ñæ∞ºÇ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Submitted following entries to masternode: %u / %d</source>♪◙        <translation>δºê∞èñφä░δà╕δô£∞ùÉ δïñ∞¥î φò¡δ¬⌐δôñ∞¥ä ∞á£∞╢£φûê∞è╡δïêδïñ: %u / %d</translation>♪◙    </message>♪◙    <message>♪◙        <source>Submitted to masternode, waiting for more entries ( %u / %d ) %s</source>♪◙        <translation>δºê∞èñφä░δà╕δô£∞ùÉ ∞á£∞╢£φûê∞è╡δïêδïñ, δé¿∞¥Ç φò¡δ¬⌐δôñ Ω╕░δïñδª¼δèö∞ñæ ( %u / %d ) %s</translation>♪◙    </message>♪◙    <message>♪◙        <source>Submitted to masternode, waiting in queue %s</source>♪◙        <translation>δºê∞èñφä░δà╕δô£∞ùÉ ∞á£∞╢£φûê∞è╡δïêδïñ, δîÇΩ╕░∞ù┤∞¥ä Ω╕░δïñδª¼δèö ∞ñæ %s</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronization failed</source>♪◙        <translation>δÅÖΩ╕░φÖö ∞ïñφî¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronization finished</source>♪◙        <translation>δÅÖΩ╕░φÖö ∞Öäδúî</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronization pending...</source>♪◙        <translation>δÅÖΩ╕░φÖö δîÇΩ╕░∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing budgets...</source>♪◙        <translation>budgets δÅÖΩ╕░φÖö ∞ñæ∞₧àδïêδïñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing masternode winners...</source>♪◙        <translation>δºê∞èñφä░δà╕δô£ ∞è╣∞₧ÉδÑ╝ δÅÖΩ╕░φÖö ∞ñæ∞₧àδïêδïñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing masternodes...</source>♪◙        <translation>δºê∞èñφä░δà╕δô£∞ÖÇ δÅÖΩ╕░φÖö∞ñæ∞₧àδïêδïñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing sporks...</source>♪◙        <translation>sporks∞ÖÇ δÅÖΩ╕░φÖö ∞ñæ∞₧àδïêδïñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Syncing zXCRC wallet...</source>♪◙        <translation>zXCRC ∞ºÇΩ░æ δÅÖΩ╕░φÖö∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>The coin spend has been used</source>♪◙        <translation>∞áä∞åí∞¥┤ ∞¥┤δ»╕ δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The new spend coin transaction did not verify</source>♪◙        <translation>∞ïáΩ╖£δí£ ∞áä∞åíδÉ£ Ω▒░δ₧ÿΩ░Ç φÖò∞¥╕δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The selected mint coin is an invalid coin</source>♪◙        <translation>∞äáφâ¥φò£ ∞â¥∞ä▒ ∞╜ö∞¥╕∞¥Ç ∞£áφÜ¿φòÿ∞ºÇ ∞òè∞¥Ç δÅÖ∞áä∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The transaction did not verify</source>♪◙        <translation>Ω▒░δ₧ÿΩ░Ç φÖò∞¥╕δÉÿ∞ºÇ ∞òè∞òÿ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This help message</source>♪◙        <translation>δÅä∞¢ÇδºÉ δ⌐ö∞ï£∞ºÇ∞₧àδïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is experimental software.</source>♪◙        <translation>∞¥┤Ω▓â∞¥Ç ∞ïñφùÿ∞Ü⌐ ∞åîφöäφè╕∞¢¿∞û┤∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is intended for regression testing tools and app development.</source>♪◙        <translation>∞¥┤Ω▓â∞¥Ç δª¼Ω╖╕δáê∞àÿ φàî∞èñφîà δ░Å ∞ò▒ Ω░£δ░£∞¥ä ∞£äφò┤ δºîδôñ∞û┤∞íî∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is not a Masternode.</source>♪◙        <translation>δºê∞èñφä░δà╕δô£Ω░Ç ∞òäδïÖδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Threshold for disconnecting misbehaving peers (default: %u)</source>♪◙        <translation>∞á£δîÇδí£ δÅÖ∞₧æφòÿ∞ºÇ ∞òèδèö φö╝∞û┤∞ÖÇ ∞ù░Ω▓░∞¥ä δüè∞¥ä ∞₧äΩ│äΩ░Æ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Too many spends needed</source>♪◙        <translation>δäêδ¼┤ δºÄ∞¥Ç ∞ºÇ∞╢£∞¥┤ φòä∞Üöφò¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tor control port password (default: empty)</source>♪◙        <translation>Tor ∞╗¿φè╕δíñ φÅ¼φè╕ ∞òöφÿ╕ (Ω╕░δ│╕Ω░Æ: Ω│╡δ░▒)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tor control port to use if onion listening enabled (default: %s)</source>♪◙        <translation>onion φÖ£∞ä▒φÖöδÉÿ∞ùê∞¥ä Ω▓╜∞Ü░ ∞é¼∞Ü⌐φòá Tor ∞╜öφè╕δíñ φÅ¼φè╕ (Ω╕░δ│╕Ω░Æ: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction Created</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞╖¿∞åîδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction Mint Started</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞â¥∞ä▒ ∞ï£∞₧æδÉ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction amount too small</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ Ω╕ê∞òí∞¥┤ δäêδ¼┤ ∞áü∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction amounts must be positive</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ Ω╕ê∞òí∞ùÉ δ░ÿδô£∞ï£ ∞ûæ∞êÿΩ░Æ∞¥┤ δôñ∞û┤Ω░Ç∞ò╝ φò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction created successfully.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ∞¥┤ ∞ä▒Ω│╡∞áü∞£╝δí£ ∞â¥∞ä▒δÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction fees are too high.</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ ∞êÿ∞êÿδúîΩ░Ç δäêδ¼┤ δåÆ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction not valid.</source>♪◙        <translation>∞ÿ¼δ░öδÑ┤∞ºÇ ∞òè∞¥Ç φè╕δ₧£∞₧¡∞àÿ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction too large for fee policy</source>♪◙        <translation>∞êÿ∞êÿδúî ∞áò∞▒à∞ùÉ δ╣äφò┤ φè╕δ₧£∞₧¡∞àÿ∞¥┤ δäêδ¼┤ δºÄ∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction too large</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ∞¥┤ δäêδ¼┤ φü╜δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transmitting final transaction.</source>♪◙        <translation>∞╡£∞óà φè╕δ₧£∞₧¡∞àÿδÑ╝ ∞áä∞åí ∞ñæ∞₧àδïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Try to spend with a higher security level to include more coins</source>♪◙        <translation>δåÆ∞¥Ç δ│┤∞òê ∞êÿ∞ñÇ∞£╝δí£ δìö δºÄ∞¥Ç ∞╜ö∞¥╕∞¥ä ∞áä∞åíφò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Trying to spend an already spent serial #, try again.</source>♪◙        <translation>∞¥┤δ»╕ ∞áä∞åíδÉ£ δª¼∞û╝ δ▓êφÿ╕δÑ╝ δ│┤δé┤δáñΩ│á φûê∞è╡δïêδïñ. δïñ∞ï£ ∞ï£δÅäφòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to bind to %s on this computer (bind returned error %s)</source>♪◙        <translation>∞¥┤ ∞╗┤φô¿φä░∞ùÉ∞ä£ %s δí£ δ░ö∞¥╕δô£φòá ∞êÿ ∞ùå∞è╡δïêδïñ (δ░ö∞¥╕δô£ δª¼φä┤ ∞ÿñδÑÿ %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to find transaction containing mint</source>♪◙        <translation>∞╜ö∞¥╕ ∞â¥∞ä▒∞¥┤ φÅ¼φò¿δÉ£ Ω▒░δ₧ÿδÑ╝ ∞░╛∞¥ä ∞êÿ ∞ùå∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to sign spork message, wrong key?</source>♪◙        <translation>∞èñφÅ¼φü¼ δ⌐ö∞ï£∞ºÇδÑ╝ ∞¥╕∞ª¥φòá ∞êÿ ∞ùå∞è╡δïêδïñ, φéñδÑ╝ φÖò∞¥╕φò┤∞ú╝∞ä╕∞Üö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to start HTTP server. See debug log for details.</source>♪◙        <translation>HTTP ∞ä£δ▓äδÑ╝ ∞ï£∞₧æφòá∞êÿ ∞ùå∞è╡δïêδïñ. log φîî∞¥╝∞¥ä φÖò∞¥╕φò┤∞ú╝∞ä╕∞Üö.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unknown network specified in -onlynet: '%s'</source>♪◙        <translation>-onlynet: '%s' ∞ùÉ ∞òî ∞êÿ ∞ùåδèö δäñφè╕∞¢îφü¼Ω░Ç ∞ºÇ∞áòδÉÿ∞ùê∞è╡δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unknown state: id = %u</source>♪◙        <translation>∞òî ∞êÿ∞ùåδèö ∞âüφâ£: id = %u</translation>♪◙    </message>♪◙    <message>♪◙        <source>Upgrade wallet to latest format</source>♪◙        <translation>∞ºÇΩ░æ∞¥ä ∞╡£∞ïá φÅ¼δº╖∞£╝δí£ ∞ùàΩ╖╕δáê∞¥┤δô£φò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use UPnP to map the listening port (default: %u)</source>♪◙        <translation>∞êÿ∞ïá φÅ¼φè╕δÑ╝ δºñφòæφòÿδáñδ⌐┤ UPnPδÑ╝ ∞é¼∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ (Ω╕░δ│╕Ω░Æ: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use UPnP to map the listening port (default: 1 when listening)</source>♪◙        <translation>∞êÿ∞ïá φÅ¼φè╕δÑ╝ δºñφòæφòÿδáñδ⌐┤ UPnPδÑ╝ ∞é¼∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ (Ω╕░δ│╕Ω░Æ: 1 ∞êÿ∞ïá ∞âüφâ£∞¥╝ δòî)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use a custom max chain reorganization depth (default: %u)</source>♪◙        <translation>δº₧∞╢ñ ∞╡£δîÇ ∞▓┤∞¥╕ ∞₧¼Ω╡¼∞ä▒ Ω╣è∞¥┤ ∞é¼∞Ü⌐ (Ω╕░δ│╕Ω░Æ : %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use the test network</source>♪◙        <translation>φàî∞èñφè╕ δäñφè╕∞¢îφü¼δÑ╝ ∞é¼∞Ü⌐φò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Username for JSON-RPC connections</source>♪◙        <translation>JSON-RPC ∞ù░Ω▓░ ∞é¼∞Ü⌐∞₧É ∞¥┤δªä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>♪◙        <translation>Value is below the smallest available denomination (= 1) of zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Value more than Obfuscation pool maximum allows.</source>♪◙        <translation>δé£δÅàφÖö φÆÇ∞¥ÿ ∞╡£δîÇ φùê∞Ü⌐ Ω░Æδ│┤δïñ δåÆ∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verifying blocks...</source>♪◙        <translation>δ╕öδí¥ ∞¥╕∞ª¥ ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verifying wallet...</source>♪◙        <translation>∞ºÇΩ░æ ∞¥╕∞ª¥ ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>♪◙        <translation>zXCRC δ▓ä∞áä 1∞¥Ç ∞ä▒Ω│╡∞áü∞£╝δí£ δ│┤δé┤Ω╕░ ∞£äφò┤∞ä£ 100 ∞ï£φüÉδª¼φï░ δáêδ▓¿∞¥┤ φòä∞Üöφò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet %s resides outside data directory %s</source>♪◙        <translation>∞ºÇΩ░æ %s Ω░Ç δì░∞¥┤φä░ δööδáëφåáδª¼ ∞Ö╕δ╢Ç∞ùÉ ∞í┤∞₧¼φò⌐δïêδïñ %s</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet is locked.</source>♪◙        <translation>∞ºÇΩ░æ∞¥┤ ∞₧áΩ▓╝∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>♪◙        <translation>∞ºÇΩ░æ∞¥ä δïñ∞ï£ ∞₧æ∞ä▒φò┤∞ò╝ φò⌐δïêδïñ: ∞Öäδúîφòÿδáñδ⌐┤ CRyptoCrowd ∞╜ö∞û┤δÑ╝ ∞₧¼∞ï£∞₧æφò┤∞ò╝ φò⌐δïêδïñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet options:</source>♪◙        <translation>∞ºÇΩ░æ ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet window title</source>♪◙        <translation>∞ºÇΩ░æ ∞░╜ ∞á£δ¬⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning</source>♪◙        <translation>Ω▓╜Ω│á</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: This version is obsolete, upgrade required!</source>♪◙        <translation>Ω▓╜Ω│á : φÿä∞₧¼ ∞é¼∞Ü⌐∞ñæ∞¥╕ δ▓ä∞áä∞¥Ç δìö∞¥┤∞âü ∞é¼∞Ü⌐δÉÿ∞ºÇ ∞òè∞£╝δ»Çδí£ ∞ùàΩ╖╕δáê∞¥┤δô£Ω░Ç φòä∞Üöφò⌐δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>♪◙        <translation>Ω▓╜Ω│á : ∞ºÇ∞¢Éφòÿ∞ºÇ ∞òèδèö ∞¥╕∞êÿ -benchmark δ¼┤∞ï£δÉ¿ -debug = benchδÑ╝ ∞é¼∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Unsupported argument -debugnet ignored, use -debug=net.</source>♪◙        <translation>Ω▓╜Ω│á : ∞ºÇ∞¢Éφòÿ∞ºÇ ∞òèδèö ∞¥╕∞êÿ -debugnet δ¼┤∞ï£δÉ¿ -debug=netδÑ╝ ∞é¼∞Ü⌐φòÿ∞ï¡∞ï£∞ÿñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Will retry...</source>♪◙        <translation>δïñ∞ï£ ∞ï£δÅäφò⌐δïêδïñ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>You don't have enough Zerocoins in your wallet</source>♪◙        <translation>∞ºÇΩ░æ∞ùÉ zXCRC Ω░Ç δ╢Ç∞í▒φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>You need to rebuild the database using -reindex to change -txindex</source>♪◙        <translation>-treindexδÑ╝ δ│ÇΩ▓╜φòÿδáñδ⌐┤ -reindexδÑ╝ ∞é¼∞Ü⌐φòÿ∞ù¼ δì░∞¥┤φä░δ▓á∞¥┤∞èñδÑ╝ δïñ∞ï£ δ╣îδô£φò┤∞ò╝φò⌐δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your entries added successfully.</source>♪◙        <translation>φò¡δ¬⌐∞¥┤ ∞ä▒Ω│╡∞áü∞£╝δí£ ∞╢öΩ░ÇδÉÿ∞ùê∞è╡δïêδïñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your transaction was accepted into the pool!</source>♪◙        <translation>φè╕δ₧£∞₧¡∞àÿ∞¥┤ φÆÇδí£ ∞áæ∞êÿδÉÿ∞ùê∞è╡δïêδïñ!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zapping all transactions from wallet...</source>♪◙        <translation>∞ºÇΩ░æ δé┤ δ¬¿δôá φè╕δ₧£∞₧¡∞àÿδôñ∞¥ä ∞₧¼φòæφòÿδèö ∞ñæ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>ZeroMQ notification options:</source>♪◙        <translation>ZeroMQ ∞òîδª╝ ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin options:</source>♪◙        <translation>∞á£δí£∞╜ö∞¥╕ ∞ÿ╡∞àÿ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>on startup</source>♪◙        <translation>∞ï£∞₧æ ∞ï£</translation>♪◙    </message>♪◙    <message>♪◙        <source>wallet.dat corrupt, salvage failed</source>♪◙        <translation>wallet.dat φîî∞¥╝∞¥┤ ∞åÉ∞âüδÉÿ∞û┤ δ│╡Ω╡¼∞ùÉ ∞ïñφî¿φûê∞è╡δïêδïñ</translation>♪◙    </message>♪◙</context>♪◙</TS>
+<TS language="ko_KR" version="2.1">
+<context>
+    <name>AddressBookPage</name>
+    <message>
+        <source>Right-click to edit address or label</source>
+        <translation>주소 및 라벨을 수정하려면 마우스 오른쪽 버튼을 클릭해주세요.</translation>
+    </message>
+    <message>
+        <source>Create a new address</source>
+        <translation>새로운 주소 만들기</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation>생성</translation>
+    </message>
+    <message>
+        <source>Copy the currently selected address to the system clipboard</source>
+        <translation>현재 선택된 주소를 복사합니다.</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>복사</translation>
+    </message>
+    <message>
+        <source>Delete the currently selected address from the list</source>
+        <translation>현재 선택된 주소를 목록에서 삭제합니다.</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>삭제</translation>
+    </message>
+    <message>
+        <source>Export the data in the current tab to a file</source>
+        <translation>현재 선택된 탭의 데이터를 파일로 내보내기</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>내보내기</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>닫기</translation>
+    </message>
+    <message>
+        <source>Choose the address to send coins to</source>
+        <translation>송금할 주소를 선택해주세요.</translation>
+    </message>
+    <message>
+        <source>Choose the address to receive coins with</source>
+        <translation>입금 받을 주소를 선택해주세요.</translation>
+    </message>
+    <message>
+        <source>Choose</source>
+        <translation>선택</translation>
+    </message>
+    <message>
+        <source>Sending addresses</source>
+        <translation>보낼 주소</translation>
+    </message>
+    <message>
+        <source>Receiving addresses</source>
+        <translation>받을 주소</translation>
+    </message>
+    <message>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>이 주소들은 송금할 CRyptoCrowd 주소입니다. 송금하기 전 항상 금액과 주소를 확인해주세요.</translation>
+    </message>
+    <message>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>이 주소들은 입금 받을 CRyptoCrowd 주소입니다. 매 거래마다 새로운 입금 주소를 사용하는 것이 좋습니다.</translation>
+    </message>
+    <message>
+        <source>Copy Address</source>
+        <translation>주소 복사</translation>
+    </message>
+    <message>
+        <source>Copy Label</source>
+        <translation>라벨 복사</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>수정</translation>
+    </message>
+    <message>
+        <source>Export Address List</source>
+        <translation>주소록 내보내기</translation>
+    </message>
+    <message>
+        <source>Comma separated file (*.csv)</source>
+        <translation>콤마로 구분 된 파일 (*.csv)</translation>
+    </message>
+    <message>
+        <source>Exporting Failed</source>
+        <translation>내보내기 실패</translation>
+    </message>
+    <message>
+        <source>There was an error trying to save the address list to %1. Please try again.</source>
+        <translation>%1 에 주소 목록을 저장하는 동안 오류가 발생하였습니다. 다시 시도해주세요.</translation>
+    </message>
+</context>
+<context>
+    <name>AddressTableModel</name>
+    <message>
+        <source>Label</source>
+        <translation>라벨</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>주소</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(라벨 없음)</translation>
+    </message>
+</context>
+<context>
+    <name>AskPassphraseDialog</name>
+    <message>
+        <source>Passphrase Dialog</source>
+        <translation>암호 대화상자</translation>
+    </message>
+    <message>
+        <source>Enter passphrase</source>
+        <translation>암호 입력</translation>
+    </message>
+    <message>
+        <source>New passphrase</source>
+        <translation>새로운 암호</translation>
+    </message>
+    <message>
+        <source>Repeat new passphrase</source>
+        <translation>새로운 암호 확인</translation>
+    </message>
+    <message>
+        <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
+        <translation>운영체제 계정이 손상되었을 때 일반적인 송금을 비활성화 합니다. 실질적인 보안을 제공하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>For anonymization, automint, and staking only</source>
+        <translation>익명성 스테이킹 전용 모드</translation>
+    </message>
+    <message>
+        <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
+        <translation>지갑에 새로운 암호를 입력해주세요. &lt;br/&gt;&lt;b&gt;10자리 이상의 임의의 문자&lt;/b&gt; 또는, &lt;b&gt;8개 이상의 단어&lt;/b&gt;로 구성된 암호를 입력해주세요.</translation>
+    </message>
+    <message>
+        <source>Encrypt wallet</source>
+        <translation>지갑 암호화</translation>
+    </message>
+    <message>
+        <source>This operation needs your wallet passphrase to unlock the wallet.</source>
+        <translation>이 작업은 지갑의 암호를 풀어 지갑을 잠금해제를 진행해야 합니다.</translation>
+    </message>
+    <message>
+        <source>Unlock wallet</source>
+        <translation>지갑 잠금해제</translation>
+    </message>
+    <message>
+        <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
+        <translation>이 작업은 지갑 암호화 해제를 하셔야 가능합니다.</translation>
+    </message>
+    <message>
+        <source>Decrypt wallet</source>
+        <translation>지갑 암호화 해제</translation>
+    </message>
+    <message>
+        <source>Change passphrase</source>
+        <translation>암호 변경</translation>
+    </message>
+    <message>
+        <source>Enter the old and new passphrase to the wallet.</source>
+        <translation>지갑에 사용할 이전 암호와 새로운 암호를 입력해주세요.</translation>
+    </message>
+    <message>
+        <source>Confirm wallet encryption</source>
+        <translation>지갑 암호화 확인</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd는 이제 암호화 프로세스를 마치기 위해 닫힐것입니다. 지갑을 암호화하더라도 맬웨어로 인한 CRyptoCrowds 의 도난당하는 것을 완벽하게 보호 할 수는 없습니다.</translation>
+    </message>
+    <message>
+        <source>Are you sure you wish to encrypt your wallet?</source>
+        <translation>지갑을 암호화 하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>경고: 지갑 암호화 후 암호를 분실하게 되면 &lt;b&gt;모든 CRyptoCrowd를 잃게 됩니다&lt;/b&gt;!</translation>
+    </message>
+    <message>
+        <source>Wallet encrypted</source>
+        <translation>지갑 암호화 완료</translation>
+    </message>
+    <message>
+        <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
+        <translation>중요: 이전에 지갑 파일로 백업 한 경우 지갑 파일을 암호화 된 지갑 파일로 대체해야 합니다. 보안상 문제로, 암호화되지 않은 지갑 파일의 이전 백업은 새롭게 암호화 된 지갑을 사용하게 되면 쓸모없게 될 것입니다.</translation>
+    </message>
+    <message>
+        <source>Wallet encryption failed</source>
+        <translation>지갑 암호화 실패</translation>
+    </message>
+    <message>
+        <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
+        <translation>내부 오류로 인해 지갑 암호화에 실패했습니다. 지갑이 암호화되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>The supplied passphrases do not match.</source>
+        <translation>암호가 일치하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Wallet unlock failed</source>
+        <translation>지갑 잠금해제 실패</translation>
+    </message>
+    <message>
+        <source>The passphrase entered for the wallet decryption was incorrect.</source>
+        <translation>입력한 지갑 암호가 올바르지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Wallet decryption failed</source>
+        <translation>지갑 암호화 해제 실패</translation>
+    </message>
+    <message>
+        <source>Wallet passphrase was successfully changed.</source>
+        <translation>지갑 암호가 변경되었습니다.</translation>
+    </message>
+    <message>
+        <source>Warning: The Caps Lock key is on!</source>
+        <translation>경고: Caps Lock 키가 켜져있습니다!</translation>
+    </message>
+</context>
+<context>
+    <name>BanTableModel</name>
+    <message>
+        <source>IP/Netmask</source>
+        <translation>IP/Netmask</translation>
+    </message>
+    <message>
+        <source>Banned Until</source>
+        <translation>까지 제한됨</translation>
+    </message>
+</context>
+<context>
+    <name>Bip38ToolDialog</name>
+    <message>
+        <source>BIP 38 Tool</source>
+        <translation>BIP 38 도구</translation>
+    </message>
+    <message>
+        <source>BIP 38 Encrypt</source>
+        <translation>BIP 38 암호화</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>주소:</translation>
+    </message>
+    <message>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>BIP 38 알고리즘으로 암호화할 CRyptoCrowd 지갑 주소를 입력. 중간박스에 암호구절 입력. 암호화된 개인키를 계산하시려면 암호화 클릭</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address to encrypt</source>
+        <translation>암호화할 CRyptoCrowd 주소</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>이전에 사용한 주소 선택</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>클립보드에서 주소 붙여 넣기</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Passphrase: </source>
+        <translation>암호:</translation>
+    </message>
+    <message>
+        <source>Encrypted Key:</source>
+        <translation>암호화된 키:</translation>
+    </message>
+    <message>
+        <source>Copy the current signature to the system clipboard</source>
+        <translation>현재 서명을 시스템 클립 보드에 복사</translation>
+    </message>
+    <message>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>이 CRyptoCrowd 주소의 개인키 암호화</translation>
+    </message>
+    <message>
+        <source>Reset all fields</source>
+        <translation>리셋</translation>
+    </message>
+    <message>
+        <source>The encrypted private key</source>
+        <translation>암호화된 개인키</translation>
+    </message>
+    <message>
+        <source>Decrypt the entered key using the passphrase</source>
+        <translation>암호구절을 사용하여 입력 한 키 암호 해독</translation>
+    </message>
+    <message>
+        <source>Encrypt Key</source>
+        <translation>암호화  키</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>전체 지우기</translation>
+    </message>
+    <message>
+        <source>BIP 38 Decrypt</source>
+        <translation>BIP 38 암호화 해제</translation>
+    </message>
+    <message>
+        <source>Enter the BIP 38 encrypted private key. Enter the passphrase in the middle box. Click Decrypt Key to compute the private key. After the key is decrypted, clicking 'Import Address' will add this private key to the wallet.</source>
+        <translation>BIP 38 암호화 된 개인 키를 입력하십시오. 중간 입력창에 암호를 입력하십시오. 키를 암호해제 후 '주소 가져오기'를 클릭하면 개인 키가 지갑에 추가됩니다.</translation>
+    </message>
+    <message>
+        <source>Decrypt Key</source>
+        <translation>암호해제 키</translation>
+    </message>
+    <message>
+        <source>Decrypted Key:</source>
+        <translation>암호해제된 키</translation>
+    </message>
+    <message>
+        <source>Import Address</source>
+        <translation>주소 가져오기</translation>
+    </message>
+    <message>
+        <source>Click "Decrypt Key" to compute key</source>
+        <translation>"키 암호해제"를 클릭하여 키를 입력해주세요.</translation>
+    </message>
+    <message>
+        <source>The entered passphrase is invalid. </source>
+        <translation>입력한 암호 문구가 잘못되었습니다.</translation>
+    </message>
+    <message>
+        <source>Allowed: 0-9,a-z,A-Z,</source>
+        <translation>사용가능: 0-9,a-z,A-Z,</translation>
+    </message>
+    <message>
+        <source>The entered address is invalid.</source>
+        <translation>입력한 주소가 올바르지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Please check the address and try again.</source>
+        <translation>주소를 다시 확인해주세요.</translation>
+    </message>
+    <message>
+        <source>The entered address does not refer to a key.</source>
+        <translation>입력한 주소가 키를 참조하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Wallet unlock was cancelled.</source>
+        <translation>지갑 잠금 해제가 취소되었습니다.</translation>
+    </message>
+    <message>
+        <source>Private key for the entered address is not available.</source>
+        <translation>입력한 주소의 개인 키를 사용할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Failed to decrypt.</source>
+        <translation>암호해제에 실패하였습니다.</translation>
+    </message>
+    <message>
+        <source>Please check the key and passphrase and try again.</source>
+        <translation>키와 암호를 확인하고 다시 시도해주세요.</translation>
+    </message>
+    <message>
+        <source>Data Not Valid.</source>
+        <translation>데이터가 올바르지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Please try again.</source>
+        <translation>다시 시도해주세요.</translation>
+    </message>
+    <message>
+        <source>Please wait while key is imported</source>
+        <translation>키를 가져오는 동안 기다려주세요.</translation>
+    </message>
+    <message>
+        <source>Key Already Held By Wallet</source>
+        <translation>이미 지갑에서 사용된 키</translation>
+    </message>
+    <message>
+        <source>Error Adding Key To Wallet</source>
+        <translation>지갑에 키를 추가하는 도중 에러가 발생했습니다</translation>
+    </message>
+    <message>
+        <source>Successfully Added Private Key To Wallet</source>
+        <translation>지갑에 개인 키를 추가하였습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>BitcoinGUI</name>
+    <message>
+        <source>Wallet</source>
+        <translation>지갑</translation>
+    </message>
+    <message>
+        <source>Node</source>
+        <translation>노드</translation>
+    </message>
+    <message>
+        <source>Overview</source>
+        <translation>개요</translation>
+    </message>
+    <message>
+        <source>Show general overview of wallet</source>
+        <translation>지갑의 일반적인 개요 표시</translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation>보내기</translation>
+    </message>
+    <message>
+        <source>Receive</source>
+        <translation>받기</translation>
+    </message>
+    <message>
+        <source>Transactions</source>
+        <translation>거래내역</translation>
+    </message>
+    <message>
+        <source>Browse transaction history</source>
+        <translation>겨래내역 보기</translation>
+    </message>
+    <message>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>zXCRC 생성 및 관리</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>종료</translation>
+    </message>
+    <message>
+        <source>Quit application</source>
+        <translation>어플리케이션 종료</translation>
+    </message>
+    <message>
+        <source>About Qt</source>
+        <translation>Qt 정보</translation>
+    </message>
+    <message>
+        <source>Show information about Qt</source>
+        <translation>Qt에 대한 정보 표시</translation>
+    </message>
+    <message>
+        <source>Options...</source>
+        <translation>옵션...</translation>
+    </message>
+    <message>
+        <source>Show / Hide</source>
+        <translation>보이기 / 숨기기</translation>
+    </message>
+    <message>
+        <source>Show or hide the main Window</source>
+        <translation>기본 창 보이기 또는 숨기기</translation>
+    </message>
+    <message>
+        <source>Encrypt Wallet...</source>
+        <translation>지갑 암호화...</translation>
+    </message>
+    <message>
+        <source>Encrypt the private keys that belong to your wallet</source>
+        <translation>지갑 개인 키 암호화</translation>
+    </message>
+    <message>
+        <source>Backup Wallet...</source>
+        <translation>지갑 백업</translation>
+    </message>
+    <message>
+        <source>Backup wallet to another location</source>
+        <translation>다른 위치에 지갑 백업</translation>
+    </message>
+    <message>
+        <source>Change Passphrase...</source>
+        <translation>암호 변경...</translation>
+    </message>
+    <message>
+        <source>Change the passphrase used for wallet encryption</source>
+        <translation>지갑 암호화에 사용되는 암호 변경</translation>
+    </message>
+    <message>
+        <source>Unlock Wallet...</source>
+        <translation>지갑 잠금해제...</translation>
+    </message>
+    <message>
+        <source>Unlock wallet</source>
+        <translation>지갑 잠금해제</translation>
+    </message>
+    <message>
+        <source>Lock Wallet</source>
+        <translation>지갑 잠금</translation>
+    </message>
+    <message>
+        <source>Sign message...</source>
+        <translation>메세지 서명...</translation>
+    </message>
+    <message>
+        <source>Verify message...</source>
+        <translation>메시지 확인...</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>정보</translation>
+    </message>
+    <message>
+        <source>Show diagnostic information</source>
+        <translation>진단 정보 표시</translation>
+    </message>
+    <message>
+        <source>Debug console</source>
+        <translation>디버그 콘솔</translation>
+    </message>
+    <message>
+        <source>Open debugging console</source>
+        <translation>디버깅 콘솔 열기</translation>
+    </message>
+    <message>
+        <source>Network Monitor</source>
+        <translation>네트워크 모니터</translation>
+    </message>
+    <message>
+        <source>Show network monitor</source>
+        <translation>네트워크 모니터 표시</translation>
+    </message>
+    <message>
+        <source>Peers list</source>
+        <translation>피어 목록</translation>
+    </message>
+    <message>
+        <source>Show peers info</source>
+        <translation>피어 정보 표시</translation>
+    </message>
+    <message>
+        <source>Wallet Repair</source>
+        <translation>지갑 복구</translation>
+    </message>
+    <message>
+        <source>Show wallet repair options</source>
+        <translation>지갑 복구 옵션 표시</translation>
+    </message>
+    <message>
+        <source>Open configuration file</source>
+        <translation>구성 파일 열기</translation>
+    </message>
+    <message>
+        <source>Show Automatic Backups</source>
+        <translation>자동 백업 폴더 열기</translation>
+    </message>
+    <message>
+        <source>Show automatically created wallet backups</source>
+        <translation>자동 생성된 지갑 백업 표시</translation>
+    </message>
+    <message>
+        <source>Sending addresses...</source>
+        <translation>송금 주소</translation>
+    </message>
+    <message>
+        <source>Show the list of used sending addresses and labels</source>
+        <translation>송금 주소 및 라벨 목록 표시</translation>
+    </message>
+    <message>
+        <source>Receiving addresses...</source>
+        <translation>입금 주소</translation>
+    </message>
+    <message>
+        <source>Show the list of used receiving addresses and labels</source>
+        <translation>입금 주소 및 라벨 목록 표시</translation>
+    </message>
+    <message>
+        <source>Multisignature creation...</source>
+        <translation>멀티시그너쳐 생성...</translation>
+    </message>
+    <message>
+        <source>Create a new multisignature address and add it to this wallet</source>
+        <translation>신규 멀티시그너쳐 주소 생성 및 전송</translation>
+    </message>
+    <message>
+        <source>Multisignature spending...</source>
+        <translation>멀티시그너쳐 전송중...</translation>
+    </message>
+    <message>
+        <source>Spend from a multisignature address</source>
+        <translation>멀티시그너쳐 주소에서 전송</translation>
+    </message>
+    <message>
+        <source>Multisignature signing...</source>
+        <translation>멀티시그너쳐 서명중...</translation>
+    </message>
+    <message>
+        <source>Sign with a multisignature address</source>
+        <translation>멀티시그너쳐 주소로 서명</translation>
+    </message>
+    <message>
+        <source>Open URI...</source>
+        <translation>URI 열기...</translation>
+    </message>
+    <message>
+        <source>Command-line options</source>
+        <translation>명령행 옵션</translation>
+    </message>
+    <message numerus="yes">
+        <source>Processed %n blocks of transaction history.</source>
+        <translation><numerusform>%n 블록의 거래내역 확인됨</numerusform></translation>
+    </message>
+    <message>
+        <source>Synchronizing additional data: %p%</source>
+        <translation>추가 데이터 동기화: %p%</translation>
+    </message>
+    <message>
+        <source>%1 behind. Scanning block %2</source>
+        <translation>%1 남음. %2 블록 스캔중...</translation>
+    </message>
+    <message>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>
+        <translation>현재 지갑은 &lt;b&gt;암호화&lt;/b&gt; 되어 &lt;b&gt;잠긴&lt;/b&gt; 상태로 스테이킹 전용모드로 안전하게 구동중입니다.</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>파일</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>설정</translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation>도구</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>도움말</translation>
+    </message>
+    <message>
+        <source>Tabs toolbar</source>
+        <translation>탭 도구 모음</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>CRyptoCrowd 주소로 입금하기</translation>
+    </message>
+    <message>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>결제 요청 (QR 코드 및 CRyptoCrowd: URI 생성)</translation>
+    </message>
+    <message>
+        <source>Privacy</source>
+        <translation>프라이버시</translation>
+    </message>
+    <message>
+        <source>Masternodes</source>
+        <translation>마스터노드</translation>
+    </message>
+    <message>
+        <source>Browse masternodes</source>
+        <translation>마스터노드 검색</translation>
+    </message>
+    <message>
+        <source>About CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core 정보</translation>
+    </message>
+    <message>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core에 대한 정보 표시</translation>
+    </message>
+    <message>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>CRyptoCrowd에 대한 구성 옵션 수정</translation>
+    </message>
+    <message>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>CRyptoCrowd 주소로 메시지에 서명하여 소유하고 있음을 증명하십시오.</translation>
+    </message>
+    <message>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>메시지가 지정된 CRyptoCrowd 주소로 서명되었는지 확인합니다.</translation>
+    </message>
+    <message>
+        <source>BIP38 tool</source>
+        <translation>BIP38 도구</translation>
+    </message>
+    <message>
+        <source>Encrypt and decrypt private keys using a passphrase</source>
+        <translation>암호를 사용하여 개인 키 암호화 및 암호해제</translation>
+    </message>
+    <message>
+        <source>MultiSend</source>
+        <translation>다중전송</translation>
+    </message>
+    <message>
+        <source>MultiSend Settings</source>
+        <translation>다중전송 설정</translation>
+    </message>
+    <message>
+        <source>Open Wallet Configuration File</source>
+        <translation>지갑 구성 파일 열기</translation>
+    </message>
+    <message>
+        <source>Open Masternode Configuration File</source>
+        <translation>마스터노드 구성 파일 열기</translation>
+    </message>
+    <message>
+        <source>Open Masternode configuration file</source>
+        <translation>마스터노드 구성 파일 열기</translation>
+    </message>
+    <message>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>CRyptoCrowd: URI 또는 ​​결제 요청 열기</translation>
+    </message>
+    <message>
+        <source>Blockchain explorer</source>
+        <translation>블록체인 탐색기</translation>
+    </message>
+    <message>
+        <source>Block explorer window</source>
+        <translation>블록 탐색 창</translation>
+    </message>
+    <message>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>CRyptoCrowd Core 도움말 메세지를 표시하여 사용 가능한 CRyptoCrowd 명령행 옵션 목록 표시</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core 클라이언트</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n active connection(s) to CRyptoCrowd network</source>
+        <translation><numerusform>%n 개의 CRyptoCrowd 네트웍에 연결됨</numerusform></translation>
+    </message>
+    <message>
+        <source>Synchronizing with network...</source>
+        <translation>네트워크 동기화중...</translation>
+    </message>
+    <message>
+        <source>Importing blocks from disk...</source>
+        <translation>디스크에서 블록 가져오기...</translation>
+    </message>
+    <message>
+        <source>Reindexing blocks on disk...</source>
+        <translation>디스크 블록 재색인...</translation>
+    </message>
+    <message>
+        <source>No block source available...</source>
+        <translation>사용 가능한 블록 소스 없음...</translation>
+    </message>
+    <message>
+        <source>Up to date</source>
+        <translation>최신</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s)</source>
+        <translation><numerusform>%n 시간</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n day(s)</source>
+        <translation><numerusform>%n 일</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n week(s)</source>
+        <translation><numerusform>%n 주</numerusform></translation>
+    </message>
+    <message>
+        <source>%1 and %2</source>
+        <translation>%1 그리고 %2</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n year(s)</source>
+        <translation><numerusform>%n 년</numerusform></translation>
+    </message>
+    <message>
+        <source>Catching up...</source>
+        <translation>동기화 중...</translation>
+    </message>
+    <message>
+        <source>Last received block was generated %1 ago.</source>
+        <translation>마지막으로 받은 블록이 %1 전에 생성되었습니다.</translation>
+    </message>
+    <message>
+        <source>Transactions after this will not yet be visible.</source>
+        <translation>이후의 트랜잭션은 아직 표시되지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>에러</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>경고</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>정보</translation>
+    </message>
+    <message>
+        <source>Sent transaction</source>
+        <translation>보낸 내역</translation>
+    </message>
+    <message>
+        <source>Incoming transaction</source>
+        <translation>받은 내역</translation>
+    </message>
+    <message>
+        <source>Sent MultiSend transaction</source>
+        <translation>다중 보내기 방식으로 보냄</translation>
+    </message>
+    <message>
+        <source>Date: %1
+Amount: %2
+Type: %3
+Address: %4
+</source>
+        <translation>날짜: %1
+금액: %2
+유형: %3
+주소: %4
+</translation>
+    </message>
+    <message>
+        <source>Staking is active
+ MultiSend: %1</source>
+        <translation>스테이킹 활성화
+다중전송: %1</translation>
+    </message>
+    <message>
+        <source>Active</source>
+        <translation>누적 활성 시간</translation>
+    </message>
+    <message>
+        <source>Not Active</source>
+        <translation>비활성</translation>
+    </message>
+    <message>
+        <source>Staking is not active
+ MultiSend: %1</source>
+        <translation>스테이킹이 활성화 되지 않음
+다중전송: %1</translation>
+    </message>
+    <message>
+        <source>AutoMint is currently enabled and set to </source>
+        <translation>자동 생성기능이 현재 작동중 그리고 </translation>
+    </message>
+    <message>
+        <source>AutoMint is disabled</source>
+        <translation>자동생성이 비활성화 되었습니다.</translation>
+    </message>
+    <message>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
+        <translation>현재 지갑은 &lt;b&gt;암호화되어 &lt;b&gt;잠금해제되었습니다.</translation>
+    </message>
+    <message>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
+        <translation>지갑은 &lt;b&gt;암호화&lt;/ b&gt;되어 있으며 현재 &lt;b&gt;잠겨 있습니다&lt;/ b&gt;.</translation>
+    </message>
+</context>
+<context>
+    <name>BlockExplorer</name>
+    <message>
+        <source>Blockchain Explorer</source>
+        <translation>블록체인 탐색기</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>뒤로</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>앞으로</translation>
+    </message>
+    <message>
+        <source>Address / Block / Transaction</source>
+        <translation>주소 / 블록 / 트랜잭션</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>검색</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>텍스트라벨</translation>
+    </message>
+    <message>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>모든 트랜잭션이 표시되지는 않습니다. 모든 트랜잭션을 보려면 구성 파일 (cryptocrowd.conf)에 txindex = 1을 설정해야합니다.</translation>
+    </message>
+</context>
+<context>
+    <name>ClientModel</name>
+    <message>
+        <source>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Unknown: %5)</source>
+        <translation>전체 : %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / 미확인: %5)</translation>
+    </message>
+    <message>
+        <source>Network Alert</source>
+        <translation>네트워크 알림</translation>
+    </message>
+</context>
+<context>
+    <name>CoinControlDialog</name>
+    <message>
+        <source>Quantity:</source>
+        <translation>수량:</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>바이트:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>금액:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>우선 순위:</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>수수료:</translation>
+    </message>
+    <message>
+        <source>Coin Selection</source>
+        <translation>코인 선택</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>현금:</translation>
+    </message>
+    <message>
+        <source>After Fee:</source>
+        <translation>최종 금액:</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>잔돈:</translation>
+    </message>
+    <message>
+        <source>(un)select all</source>
+        <translation>모두 선택(해제)</translation>
+    </message>
+    <message>
+        <source>toggle lock state</source>
+        <translation>토글 잠금상태</translation>
+    </message>
+    <message>
+        <source>Tree mode</source>
+        <translation>트리 모드</translation>
+    </message>
+    <message>
+        <source>List mode</source>
+        <translation>목록 모드</translation>
+    </message>
+    <message>
+        <source>(1 locked)</source>
+        <translation>(1 잠김)</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>금액</translation>
+    </message>
+    <message>
+        <source>Received with label</source>
+        <translation>수신 된 라벨</translation>
+    </message>
+    <message>
+        <source>Received with address</source>
+        <translation>수신 된 주소</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>분류</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>날짜</translation>
+    </message>
+    <message>
+        <source>Confirmations</source>
+        <translation>확인</translation>
+    </message>
+    <message>
+        <source>Confirmed</source>
+        <translation>확정됨</translation>
+    </message>
+    <message>
+        <source>Priority</source>
+        <translation>우선 사항</translation>
+    </message>
+    <message>
+        <source>Copy address</source>
+        <translation>주소 복사</translation>
+    </message>
+    <message>
+        <source>Copy label</source>
+        <translation>라벨 복사</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>금액 복사</translation>
+    </message>
+    <message>
+        <source>Copy transaction ID</source>
+        <translation>트랜잭션 ID 복사</translation>
+    </message>
+    <message>
+        <source>Lock unspent</source>
+        <translation>잠금되지 않음</translation>
+    </message>
+    <message>
+        <source>Unlock unspent</source>
+        <translation>잠금해제되지 않음</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>수량 복사</translation>
+    </message>
+    <message>
+        <source>Copy fee</source>
+        <translation>수수료 복사</translation>
+    </message>
+    <message>
+        <source>Copy after fee</source>
+        <translation>이용 수수료 복사</translation>
+    </message>
+    <message>
+        <source>Copy bytes</source>
+        <translation>바이트 복사</translation>
+    </message>
+    <message>
+        <source>Copy priority</source>
+        <translation>우선 사항 복사</translation>
+    </message>
+    <message>
+        <source>Copy dust</source>
+        <translation>현금 복사</translation>
+    </message>
+    <message>
+        <source>Copy change</source>
+        <translation>변경 복사</translation>
+    </message>
+    <message>
+        <source>Please switch to "List mode" to use this function.</source>
+        <translation>이 기능을 사용하려면 "목록 모드"로 전환하십시오.</translation>
+    </message>
+    <message>
+        <source>highest</source>
+        <translation>9 최고</translation>
+    </message>
+    <message>
+        <source>higher</source>
+        <translation>8 매우 높음</translation>
+    </message>
+    <message>
+        <source>high</source>
+        <translation>7 높음</translation>
+    </message>
+    <message>
+        <source>medium-high</source>
+        <translation>6 약간 높음</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>5 중간</translation>
+    </message>
+    <message>
+        <source>low-medium</source>
+        <translation>4 낮은 중간</translation>
+    </message>
+    <message>
+        <source>low</source>
+        <translation>3 낮음</translation>
+    </message>
+    <message>
+        <source>lower</source>
+        <translation>2 매우 낮음</translation>
+    </message>
+    <message>
+        <source>lowest</source>
+        <translation>1 최저</translation>
+    </message>
+    <message>
+        <source>(%1 locked)</source>
+        <translation>(%1 잠김)</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation>없음</translation>
+    </message>
+    <message>
+        <source>yes</source>
+        <translation>예</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>아니오</translation>
+    </message>
+    <message>
+        <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>
+        <translation>트랜잭션 크기가 1000 byte 보다 클 경우 라벨이 빨간색으로 변경됩니다.</translation>
+    </message>
+    <message>
+        <source>This means a fee of at least %1 per kB is required.</source>
+        <translation>즉, KB 당 최소 %1 의 수수료가 필요합니다.</translation>
+    </message>
+    <message>
+        <source>Can vary +/- 1 byte per input.</source>
+        <translation>입력당 +/- 1 byte 조절 가능.</translation>
+    </message>
+    <message>
+        <source>Transactions with higher priority are more likely to get included into a block.</source>
+        <translation>우선 순위가 높은 트랜잭션이 블록에 포함 될 확률이 높아집니다.</translation>
+    </message>
+    <message>
+        <source>This label turns red, if the priority is smaller than "medium".</source>
+        <translation>우선 순위가 "중간" 보다 낮으면 라벨이 빨간색으로 변경됩니다.</translation>
+    </message>
+    <message>
+        <source>This label turns red, if any recipient receives an amount smaller than %1.</source>
+        <translation>받는 사람이 %1 보다 작은 금액을 받으면 라벨이 빨간색으로 변경됩니다.</translation>
+    </message>
+    <message>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Can vary +/- %1 uCRyptoCrowd per input.</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(라벨 없음)</translation>
+    </message>
+    <message>
+        <source>change from %1 (%2)</source>
+        <translation>%1 (%2) 에서 변경</translation>
+    </message>
+    <message>
+        <source>(change)</source>
+        <translation>(잔돈)</translation>
+    </message>
+</context>
+<context>
+    <name>EditAddressDialog</name>
+    <message>
+        <source>Edit Address</source>
+        <translation>주소 수정</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>라벨</translation>
+    </message>
+    <message>
+        <source>The label associated with this address list entry</source>
+        <translation>이 주소 목록과 관련된 라벨</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>주소</translation>
+    </message>
+    <message>
+        <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
+        <translation>이 주소 목록과 관련된 주소입니다. 주소를 보낼 때만 수정할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>New receiving address</source>
+        <translation>새로운 받는 주소</translation>
+    </message>
+    <message>
+        <source>New sending address</source>
+        <translation>새로운 보내는 주소</translation>
+    </message>
+    <message>
+        <source>Edit receiving address</source>
+        <translation>받는 주소 수정</translation>
+    </message>
+    <message>
+        <source>Edit sending address</source>
+        <translation>보내는 주소 수정</translation>
+    </message>
+    <message>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>입력된 주소 "%1"는 올바른 CRyptoCrowd 주소가 아닙니다.</translation>
+    </message>
+    <message>
+        <source>The entered address "%1" is already in the address book.</source>
+        <translation>입력한 주소 "%1"는 이미 주소록에 등록 되있습니다.</translation>
+    </message>
+    <message>
+        <source>Could not unlock wallet.</source>
+        <translation>지갑의 잠금을 해제할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>New key generation failed.</source>
+        <translation>새로운 키 생성에 실패하였습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>FreespaceChecker</name>
+    <message>
+        <source>A new data directory will be created.</source>
+        <translation>새로운 데이터 디렉토리가 생성됩니다.</translation>
+    </message>
+    <message>
+        <source>name</source>
+        <translation>이름</translation>
+    </message>
+    <message>
+        <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
+        <translation>디렉토리가 이미 존재합니다. 여기에 새로운 디렉토리를 만들려면 %1을 추가해주세요.</translation>
+    </message>
+    <message>
+        <source>Path already exists, and is not a directory.</source>
+        <translation>경로가 이미 존재하며 디렉토리가 아닙니다.</translation>
+    </message>
+    <message>
+        <source>Cannot create data directory here.</source>
+        <translation>여기에 디렉토리를 만들 수 없습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>HelpMessageDialog</name>
+    <message>
+        <source>version</source>
+        <translation>버전</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>(%1-bit)</source>
+        <translation>(%1-bit)</translation>
+    </message>
+    <message>
+        <source>About CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core 정보</translation>
+    </message>
+    <message>
+        <source>Command-line options</source>
+        <translation>명령행 옵션</translation>
+    </message>
+    <message>
+        <source>Usage:</source>
+        <translation>사용:</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>명령행 옵션</translation>
+    </message>
+    <message>
+        <source>UI Options:</source>
+        <translation>UI 옵션:</translation>
+    </message>
+    <message>
+        <source>Choose data directory on startup (default: %u)</source>
+        <translation>데이터 디렉토리 선택 (기본: %u)</translation>
+    </message>
+    <message>
+        <source>Show splash screen on startup (default: %u)</source>
+        <translation>실행시 초기화면 표시 (기본: %u)</translation>
+    </message>
+    <message>
+        <source>Set language, for example "de_DE" (default: system locale)</source>
+        <translation>언어 설정 예시 "de_DE" (기본값: 시스템 언어)</translation>
+    </message>
+    <message>
+        <source>Start minimized</source>
+        <translation>시작시 최소화</translation>
+    </message>
+    <message>
+        <source>Set SSL root certificates for payment request (default: -system-)</source>
+        <translation>결제 요청에 대한 SSL 루트 인증서 설정 (기본값: -system-)</translation>
+    </message>
+</context>
+<context>
+    <name>Intro</name>
+    <message>
+        <source>Welcome</source>
+        <translation>환영합니다</translation>
+    </message>
+    <message>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>CRyptoCrowd Core에 오신 것을 환영합니다.</translation>
+    </message>
+    <message>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>이 프로그램이 처음 실행되었으므로 CRyptoCrowd Core가 데이터를 저장할 위치를 선택할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd Core는 CRyptoCrowd 블록체인을 다운로드하여 저장합니다. 최소 %1GB의 데이터가 디렉토리에 저장되며 시간이 지날수록 증가합니다. 또한 지갑도 해당 디렉토리에 저장됩니다.</translation>
+    </message>
+    <message>
+        <source>Use the default data directory</source>
+        <translation>기본 데이터 디렉토리 사용</translation>
+    </message>
+    <message>
+        <source>Use a custom data directory:</source>
+        <translation>사용자 지정 데이터 디렉토리 사용:</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Error: Specified data directory "%1" cannot be created.</source>
+        <translation>오류: 지정된 데이터 디렉토리 "%1"을 생성할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>에러</translation>
+    </message>
+    <message>
+        <source>%1 GB of free space available</source>
+        <translation>%1 GB의 사용 가능한 여유 공간</translation>
+    </message>
+    <message>
+        <source>(of %1 GB needed)</source>
+        <translation>(%1 GB 필요)</translation>
+    </message>
+</context>
+<context>
+    <name>MasternodeList</name>
+    <message>
+        <source>Form</source>
+        <translation>Form</translation>
+    </message>
+    <message>
+        <source>MASTERNODES</source>
+        <translation>마스터노드</translation>
+    </message>
+    <message>
+        <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your node should be running but you still see "MISSING" in "Status" field.</source>
+        <translation>참고: </translation>
+    </message>
+    <message>
+        <source>Alias</source>
+        <translation>이름</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>주소</translation>
+    </message>
+    <message>
+        <source>Protocol</source>
+        <translation>프로토콜</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>상태</translation>
+    </message>
+    <message>
+        <source>Active</source>
+        <translation>누적 활성 시간</translation>
+    </message>
+    <message>
+        <source>Last Seen (UTC)</source>
+        <translation>최근 업데이트 (UTC)</translation>
+    </message>
+    <message>
+        <source>Pubkey</source>
+        <translation>공개키</translation>
+    </message>
+    <message>
+        <source>Start alias</source>
+        <translation>마스트노드 시작</translation>
+    </message>
+    <message>
+        <source>Start all</source>
+        <translation>전체 시작</translation>
+    </message>
+    <message>
+        <source>Start MISSING</source>
+        <translation>누락된 마스트노드 시작</translation>
+    </message>
+    <message>
+        <source>Update status</source>
+        <translation>업데이트 상태</translation>
+    </message>
+    <message>
+        <source>Status will be updated automatically in (sec):</source>
+        <translation>마스터노드 상태는 자동 업데이트됩니다:</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Start alias</source>
+        <translation>선택 시작</translation>
+    </message>
+    <message>
+        <source>Confirm masternode start</source>
+        <translation>마스터노드 시작 확인</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to start masternode %1?</source>
+        <translation>마스터노드 %1을 시작하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>Confirm all masternodes start</source>
+        <translation>모든 마스터노드 시작 확인</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to start ALL masternodes?</source>
+        <translation>모든 마스터노드를 시작하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>Command is not available right now</source>
+        <translation>현재 명령을 사용할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>You can't use this command until masternode list is synced</source>
+        <translation>마스터노드 목록이 동기화 될 때까지이 명령을 사용할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Confirm missing masternodes start</source>
+        <translation>누락된 마스터노드 확인 시작</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to start MISSING masternodes?</source>
+        <translation>누락된 마스터노드를 시작하시겠습니까?</translation>
+    </message>
+</context>
+<context>
+    <name>MultiSendDialog</name>
+    <message>
+        <source>MultiSend</source>
+        <translation>다중전송</translation>
+    </message>
+    <message>
+        <source>Enter whole numbers 1 - 100</source>
+        <translation>1 - 100의 정수 입력</translation>
+    </message>
+    <message>
+        <source>Enter % to Give (1-100)</source>
+        <translation>부여할 % 입력 (1-100)</translation>
+    </message>
+    <message>
+        <source>Enter Address to Send to</source>
+        <translation>보낼 주소 입력</translation>
+    </message>
+    <message>
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.
+To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.
+To Delete: Enter address to delete and press delete.
+MultiSend will not be activated unless you have clicked Activate</source>
+        <translation>다중전송을 사용하면 성취 한 뒤 다른 CRyptoCrowd 주소 목록에 최대 100% 스테이크 또는 마스터노드 보상을 자동으로 보낼 수 있습니다.
+추가하려면 : 부여 할 백분율과 다중전송 벡터에 추가 할 CRyptoCrowd 주소를 입력하십시오.
+삭제하려면 삭제할 주소를 입력하고 삭제를 누릅니다.
+활성화를 클릭하지 않으면 다중전송이 활성화되지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Add to MultiSend Vector</source>
+        <translation>다중전송 벡터 추가</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>추가</translation>
+    </message>
+    <message>
+        <source>Deactivate MultiSend</source>
+        <translation>다중전송 비활성화</translation>
+    </message>
+    <message>
+        <source>Deactivate</source>
+        <translation>비활성화</translation>
+    </message>
+    <message>
+        <source>Choose an address from the address book</source>
+        <translation>주소록에서 주소 선택</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Percentage of stake to send</source>
+        <translation>전송할 스테이크 비율</translation>
+    </message>
+    <message>
+        <source>Percentage:</source>
+        <translation>백분율:</translation>
+    </message>
+    <message>
+        <source>Address to send portion of stake to</source>
+        <translation>스테이크 일부를 보낼 주소</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>주소:</translation>
+    </message>
+    <message>
+        <source>Label:</source>
+        <translation>Label:</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to your address book</source>
+        <translation>주소록에 추가하려면 이 주소의 라벨을 입력해주세요.</translation>
+    </message>
+    <message>
+        <source>Delete Address From MultiSend Vector</source>
+        <translation>다중전송 벡터에서 주소 삭제</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>삭제</translation>
+    </message>
+    <message>
+        <source>Activate MultiSend</source>
+        <translation>다중전송 활성화</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>활성화</translation>
+    </message>
+    <message>
+        <source>View MultiSend Vector</source>
+        <translation>다중전송 벡터 보기</translation>
+    </message>
+    <message>
+        <source>View MultiSend</source>
+        <translation>다중전송 보기</translation>
+    </message>
+    <message>
+        <source>Send For Stakes</source>
+        <translation>스테이크를 위한 전송</translation>
+    </message>
+    <message>
+        <source>Send For Masternode Rewards</source>
+        <translation>마스터노드 보상 전송</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(라벨 없음)</translation>
+    </message>
+    <message>
+        <source>The entered address:
+</source>
+        <translation>입력된 주소:
+</translation>
+    </message>
+    <message>
+        <source> is invalid.
+Please check the address and try again.</source>
+        <translation>올바르지 않습니다.
+주소를 확인하고 다시 시도해주세요.</translation>
+    </message>
+    <message>
+        <source>The total amount of your MultiSend vector is over 100% of your stake reward
+</source>
+        <translation>다중전송 벡터의 총 금액이 스테이크 보상 금액의 100 % 이상입니다
+</translation>
+    </message>
+    <message>
+        <source>Please Enter 1 - 100 for percent.</source>
+        <translation>퍼센트로 1 - 100을 입력하십시오.</translation>
+    </message>
+    <message>
+        <source>Saved the MultiSend to memory, but failed saving properties to the database.
+</source>
+        <translation>MultiSend를 메모리에 저장했지만 데이터베이스에 대한 속성 저장에 실패했습니다.
+</translation>
+    </message>
+    <message>
+        <source>MultiSend Vector
+</source>
+        <translation>다중전송 벡터
+</translation>
+    </message>
+    <message>
+        <source>Removed </source>
+        <translation>제거됨</translation>
+    </message>
+    <message>
+        <source>Could not locate address
+</source>
+        <translation>주소를 찾을 수 없습니다
+</translation>
+    </message>
+</context>
+<context>
+    <name>MultisigDialog</name>
+    <message>
+        <source>Multisignature Address Interactions</source>
+        <translation>멀티 서명 주소 상호 작용</translation>
+    </message>
+    <message>
+        <source>Create MultiSignature Address</source>
+        <translation>멀티시그너쳐 주소 생성</translation>
+    </message>
+    <message>
+        <source>How many people must sign to verify a transaction</source>
+        <translation>얼마나 많은 사람들이 거래를 확인하기 위해 서명해야합니까?</translation>
+    </message>
+    <message>
+        <source>Enter the minimum number of signatures required to sign transactions</source>
+        <translation>거래에 서명하는 데 필요한 최소 서명 수를 입력하십시오.</translation>
+    </message>
+    <message>
+        <source>Address Label:</source>
+        <translation>주소 이름:</translation>
+    </message>
+    <message>
+        <source>Add another address that could sign to verify a transaction from the multisig address.</source>
+        <translation>multisig 주소에서 트랜잭션을 확인하기 위해 서명 할 수있는 다른 주소를 추가하십시오.</translation>
+    </message>
+    <message>
+        <source>Add Address / Key</source>
+        <translation>주소 / 키 추가</translation>
+    </message>
+    <message>
+        <source>Local addresses or public keys that can sign:</source>
+        <translation>서명 할 수있는 로컬 주소 또는 공개 키 :</translation>
+    </message>
+    <message>
+        <source>Create a new multisig address</source>
+        <translation>신규 멀티시그 주소 생성</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>생성</translation>
+    </message>
+    <message>
+        <source>Status:</source>
+        <translation>상태:</translation>
+    </message>
+    <message>
+        <source>Use below to quickly import an address by its redeem. Don't forget to add a label before clicking import!
+Keep in mind, the wallet will rescan the blockchain to find transactions containing the new address.
+Please be patient after clicking import.</source>
+        <translation>아래 주소를 사용하여 주소를 신속하게 가져옵니다. 가져 오기를 클릭하기 전에 레이블을 추가하는 것을 잊지 마십시오!
+지갑은 블록 체인을 다시 스캔하여 새 주소가 포함 된 거래를 찾습니다 .
+가져 오기를 클릭 한 후 기다려주십시오.</translation>
+    </message>
+    <message>
+        <source>Import Redeem</source>
+        <translation>리딤코드 가져오기</translation>
+    </message>
+    <message>
+        <source>Create MultiSignature Tx</source>
+        <translation>맺음말 Tx 만들기 ( A)</translation>
+    </message>
+    <message>
+        <source>Inputs:</source>
+        <translation>입력:</translation>
+    </message>
+    <message>
+        <source>Coin Control</source>
+        <translation>코인 설정</translation>
+    </message>
+    <message>
+        <source>Quantity Selected:</source>
+        <translation>선택된 수량 :</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>금액:</translation>
+    </message>
+    <message>
+        <source>Add an input to fund the outputs</source>
+        <translation>출력을위한 입력을 추가하십시오.</translation>
+    </message>
+    <message>
+        <source>Add a Raw Input</source>
+        <translation> Raw 입력</translation>
+    </message>
+    <message>
+        <source>Address / Amount:</source>
+        <translation>주소 / 금액:</translation>
+    </message>
+    <message>
+        <source>Add destinations to send CRyptoCrowd to</source>
+        <translation>CRyptoCrowd를 보낼 목적지 추가</translation>
+    </message>
+    <message>
+        <source>Add Destination</source>
+        <translation>추가 및 대상</translation>
+    </message>
+    <message>
+        <source>Create a transaction object using the given inputs to the given outputs</source>
+        <translation>주어진 출력에 주어진 입력을 사용하여 트랜잭션 객체를 만듭니다.</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>생성</translation>
+    </message>
+    <message>
+        <source>Sign MultiSignature Tx</source>
+        <translation>멀티 시그니처 Tx 서명 ( S)</translation>
+    </message>
+    <message>
+        <source>Transaction Hex:</source>
+        <translation>Transaction Hex:</translation>
+    </message>
+    <message>
+        <source>Sign the transaction from this wallet or from provided private keys</source>
+        <translation>이 지갑이나 제공된 개인 키에서 거래에 서명하십시오.</translation>
+    </message>
+    <message>
+        <source>Sign</source>
+        <translation>서명</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DISABLED until transaction has been signed enough times.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>거래가 충분히 서명 될 때까지 1234DISABLED</translation>
+    </message>
+    <message>
+        <source>Commit</source>
+        <translation>Commit</translation>
+    </message>
+    <message>
+        <source>Add private keys to sign the transaction with</source>
+        <translation>개인 키를 추가하여 다음을 사용하여 트랜잭션에 서명하십시오.</translation>
+    </message>
+    <message>
+        <source>Add Private Key</source>
+        <translation>개인키 추가</translation>
+    </message>
+    <message>
+        <source>Sign with only private keys (Not Recommened)</source>
+        <translation>개인 키만 사용하여 서명 (권장하지 않음)</translation>
+    </message>
+    <message>
+        <source>Invalid Tx Hash.</source>
+        <translation>맞지 않는 Tx Hash.</translation>
+    </message>
+    <message>
+        <source>Vout position must be positive.</source>
+        <translation>Vout 위치는 양수 여야합니다.</translation>
+    </message>
+    <message>
+        <source>Maximum possible addresses reached. (15)</source>
+        <translation>가능한 주소 최대치 입니다. (15)</translation>
+    </message>
+    <message>
+        <source>Vout Position: </source>
+        <translation>Vout 포지션 :</translation>
+    </message>
+    <message>
+        <source>Amount: </source>
+        <translation>금액:</translation>
+    </message>
+    <message>
+        <source>Maximum (15)</source>
+        <translation>최대 (15)</translation>
+    </message>
+</context>
+<context>
+    <name>ObfuscationConfig</name>
+    <message>
+        <source>Configure Obfuscation</source>
+        <translation>난독화 구성</translation>
+    </message>
+    <message>
+        <source>Basic Privacy</source>
+        <translation>기본 익명화</translation>
+    </message>
+    <message>
+        <source>High Privacy</source>
+        <translation>높은 익명화</translation>
+    </message>
+    <message>
+        <source>Maximum Privacy</source>
+        <translation>최대 익명화</translation>
+    </message>
+    <message>
+        <source>Please select a privacy level.</source>
+        <translation>익명화 레벨을 선택해주세요.</translation>
+    </message>
+    <message>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>2개의 개별 마스터노드를 이용하여 최대 10000 CRyptoCrowd 를 섞을 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>8개의 개별 마스터노드를 이용하여 최대 10000 CRyptoCrowd 를 섞을 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Use 16 separate masternodes</source>
+        <translation>16개의 개별 마스터노드를 사용</translation>
+    </message>
+    <message>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>이 옵션은 가장 빠르게 전송되며 10000 CRyptoCrowd 익명화에 약 ~0.025 CRyptoCrowd의 비용이 들어갑니다.</translation>
+    </message>
+    <message>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>이 옵션은 중간 정도의 속도로 전송되며 10000 CRyptoCrowd 익명화에 약 0.05 CRyptoCrowd의 비용이 들어갑니다.</translation>
+    </message>
+    <message>
+        <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
+        <translation>이것은 가장 느리고 안전한 옵션입니다. 최고 익명성을 사용하면 비용이 발생합니다.</translation>
+    </message>
+    <message>
+        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>
+        <translation>10000 CRyptoCrowd 익명화에 0.1 CRyptoCrowd 가 듭니다.</translation>
+    </message>
+    <message>
+        <source>Obfuscation Configuration</source>
+        <translation>난독화 구성</translation>
+    </message>
+    <message>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 2 rounds) CRyptoCrowd의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 8 rounds) CRyptoCrowd의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>난독화가 성공적으로 높게 설정되었습니다.(%1 및 16 rounds) CRyptoCrowd의 설정 화면을 열어 언제든지 다시 변경할 수 있습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>OpenURIDialog</name>
+    <message>
+        <source>Open URI</source>
+        <translation>URI 열기</translation>
+    </message>
+    <message>
+        <source>Open payment request from URI or file</source>
+        <translation>URI 또는 파일에서 결제 요청 열기</translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation>URI:</translation>
+    </message>
+    <message>
+        <source>Select payment request file</source>
+        <translation>결제 요청 파일 선택</translation>
+    </message>
+    <message>
+        <source>Select payment request file to open</source>
+        <translation>열려고하는 결제 요청 파일을 선택해주세요</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsDialog</name>
+    <message>
+        <source>Options</source>
+        <translation>옵션</translation>
+    </message>
+    <message>
+        <source>Main</source>
+        <translation>메인</translation>
+    </message>
+    <message>
+        <source>Size of database cache</source>
+        <translation>데이터베이스 캐시 크기</translation>
+    </message>
+    <message>
+        <source>MB</source>
+        <translation>MB</translation>
+    </message>
+    <message>
+        <source>Number of script verification threads</source>
+        <translation>스크립트 검증 스레드 개수</translation>
+    </message>
+    <message>
+        <source>(0 = auto, &lt;0 = leave that many cores free)</source>
+        <translation>(0 = 자동, &lt;0 = 많은 코어들을 여유롭게 두기)</translation>
+    </message>
+    <message>
+        <source>Wallet</source>
+        <translation>지갑</translation>
+    </message>
+    <message>
+        <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>
+        <translation>확인되지 않은 변경사항을 사용하지 않도록 설정하면 해당 트랜잭션에 하나 이상의 컨펌이 진행되야&lt;br/&gt;트랜잭션에 변경사항을 적용할 수 있습니다.&lt;br/&gt;또한 이것은 잔액 계산 방식에도 영향을 줍니다.</translation>
+    </message>
+    <message>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>라우터에서 CRyptoCrowd 클라이언트 포트를 자동으로 엽니다. 이 기능은 라우터가 UPnP를 지원하고 활성화 된 경우에만 사용할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Accept connections from outside</source>
+        <translation>외부에서의 연결 허용</translation>
+    </message>
+    <message>
+        <source>Allow incoming connections</source>
+        <translation>들어오는 연결 허용</translation>
+    </message>
+    <message>
+        <source>Connect through SOCKS5 proxy (default proxy):</source>
+        <translation>SOCKS5 프록시를 통해 연결 (기본 프록시):</translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation>전문적</translation>
+    </message>
+    <message>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
+        <translation>시스템 로그인 후 CRyptoCrowd을 자동으로 시작합니다.</translation>
+    </message>
+    <message>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>시스템 로그인시 CRyptoCrowd 시작</translation>
+    </message>
+    <message>
+        <source>Whether to show coin control features or not.</source>
+        <translation>동전 제어 기능을 표시할지 여부를 나타냅니다.</translation>
+    </message>
+    <message>
+        <source>Enable coin control features</source>
+        <translation>코인 제어 기능 사용</translation>
+    </message>
+    <message>
+        <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
+        <translation>첫 번째 하위 탭에서 모든 마스터 노드를 나열하는 추가 탭과&lt;br/&gt;두 번째 하위 탭에서 네트워크의 모든 마스터 노드를 표시하십시오.</translation>
+    </message>
+    <message>
+        <source>Show Masternodes Tab</source>
+        <translation>마스터노드 탭 표시</translation>
+    </message>
+    <message>
+        <source>Spend unconfirmed change</source>
+        <translation>확인되지 않은 변경사항 전송</translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation>네트워크</translation>
+    </message>
+    <message>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
+        <translation>사용자 인터페이스 언어를 설정할 수 있습니다. 이 설정은 CRyptoCrowd을 다시 시작한 후에 적용됩니다.</translation>
+    </message>
+    <message>
+        <source>Language missing or translation incomplete? Help contributing translations here:
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
+        <translation>지원 언어가 없거나 번역이 불완전한가요? 번역을 도와주세요 :
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
+    </message>
+    <message>
+        <source>Map port using UPnP</source>
+        <translation>UPnp를 사용하여 포트 매핑</translation>
+    </message>
+    <message>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>보상받은 CRyptoCrowd를 zXCRC로 자동변환 활성화</translation>
+    </message>
+    <message>
+        <source>Enable zXCRC Automint</source>
+        <translation>zXCRC 자동생성 활성화</translation>
+    </message>
+    <message>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>CRyptoCrowd수신시 자동변환 zXCRC 비율 (최소값:10%)</translation>
+    </message>
+    <message>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>자동 변환되는 zXCRC 비율</translation>
+    </message>
+    <message>
+        <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
+        <translation>이 디노미네이션의 CRyptoCrowd가 충분해질 때까지 Zerocoin으로 자동전환은 보류됩니다.</translation>
+    </message>
+    <message>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>선호하는 자동생성 zXCRC 디노미네이션 </translation>
+    </message>
+    <message>
+        <source>Stake split threshold:</source>
+        <translation>Stake split threshold:</translation>
+    </message>
+    <message>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>SOCKS5 프록시를 통해 CRyptoCrowd 네트워크에 연결해주세요.</translation>
+    </message>
+    <message>
+        <source>Proxy IP:</source>
+        <translation>프록시 IP:</translation>
+    </message>
+    <message>
+        <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
+        <translation>프록시 IP 주소 (예: IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation>포트:</translation>
+    </message>
+    <message>
+        <source>Port of the proxy (e.g. 9050)</source>
+        <translation>프록시 포트 (예: 9050)</translation>
+    </message>
+    <message>
+        <source>Window</source>
+        <translation>윈도우</translation>
+    </message>
+    <message>
+        <source>Show only a tray icon after minimizing the window.</source>
+        <translation>창 최소화 후 트레이 아이콘으로만 표시.</translation>
+    </message>
+    <message>
+        <source>Minimize to the tray instead of the taskbar</source>
+        <translation>최소화시 작업표시줄이 아닌 트레이로 최소화</translation>
+    </message>
+    <message>
+        <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
+        <translation>창 닫기시 프로그램 종료하지 않고 최소화하기. 이 옵션을 사용하면 메뉴에서 종료를 선택해야 프로그램이 종료됩니다.</translation>
+    </message>
+    <message>
+        <source>Minimize on close</source>
+        <translation>닫기시 최소화</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation>디스플레이</translation>
+    </message>
+    <message>
+        <source>User Interface language:</source>
+        <translation>사용자 인터페이스 언어:</translation>
+    </message>
+    <message>
+        <source>User Interface Theme:</source>
+        <translation>사용자 인터페이스 테마:</translation>
+    </message>
+    <message>
+        <source>Unit to show amounts in:</source>
+        <translation>금액을 표시 할 단위:</translation>
+    </message>
+    <message>
+        <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
+        <translation>코인 전송시 인터페이스에 표시할 기본 세분화 단위를 선택해주세요.</translation>
+    </message>
+    <message>
+        <source>Decimal digits</source>
+        <translation>10진수</translation>
+    </message>
+    <message>
+        <source>Hide empty balances</source>
+        <translation>잔액 0 숨기기</translation>
+    </message>
+    <message>
+        <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
+        <translation>트랜잭션 탭에 컨텍스트 메뉴 항목으로 표시되는 서드파티 URL (예: 블록 탐색) URL의 %s 는 트랜잭션 해시로 대체됩니다. 여러 개의 URL은 세로 막대로 구분됩니다 |.</translation>
+    </message>
+    <message>
+        <source>Third party transaction URLs</source>
+        <translation>서드파티 트랜잭션 URL</translation>
+    </message>
+    <message>
+        <source>Active command-line options that override above options:</source>
+        <translation>위의 옵션을 무시하는 활성 명령행 옵션:</translation>
+    </message>
+    <message>
+        <source>Reset all client options to default.</source>
+        <translation>모든 클라이언트 옵션을 기본값으로 재설정.</translation>
+    </message>
+    <message>
+        <source>Reset Options</source>
+        <translation>옵션 재설정</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>예</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>취소</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation>어떤</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <translation>기본값</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation>없음</translation>
+    </message>
+    <message>
+        <source>Confirm options reset</source>
+        <translation>옵션 재설정 확인</translation>
+    </message>
+    <message>
+        <source>Client restart required to activate changes.</source>
+        <translation>변경 사항을 적용하려면 클라이언트를 다시 시작해야합니다.</translation>
+    </message>
+    <message>
+        <source>Client will be shutdown, do you want to proceed?</source>
+        <translation>클라이언트가 종료됩니다. 계속 진행하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>This change would require a client restart.</source>
+        <translation>이 변경은 클라이언트가 재시작 되야 적용됩니다.</translation>
+    </message>
+    <message>
+        <source>The supplied proxy address is invalid.</source>
+        <translation>프록시 주소가 잘못되었습니다.</translation>
+    </message>
+    <message>
+        <source>The supplied proxy port is invalid.</source>
+        <translation>제공된 프록시 포트가 유효하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>The supplied proxy settings are invalid.</source>
+        <translation>제공된 프록시 설정이 유효하지 않습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>OverviewPage</name>
+    <message>
+        <source>Form</source>
+        <translation>Form</translation>
+    </message>
+    <message>
+        <source>Available:</source>
+        <translation>사용가능:</translation>
+    </message>
+    <message>
+        <source>Your current spendable balance</source>
+        <translation>현재 출금 가능한 잔액</translation>
+    </message>
+    <message>
+        <source>Total Balance, including all unavailable coins.</source>
+        <translation>전체 잔액, (현재 전송이 불가능한 코인 포함)</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Balance</source>
+        <translation>CRyptoCrowd 잔액</translation>
+    </message>
+    <message>
+        <source>Pending:</source>
+        <translation>대기중:</translation>
+    </message>
+    <message>
+        <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
+        <translation>아직 승인되지 않아 사용할 수 없으며, 잔고에 포함되지 않은 총 트랜잭션</translation>
+    </message>
+    <message>
+        <source>Immature:</source>
+        <translation>미완료:</translation>
+    </message>
+    <message>
+        <source>Staked or masternode rewards that has not yet matured</source>
+        <translation>아직 완료되지 않은 스테이크 및 마스터노드 보상</translation>
+    </message>
+    <message>
+        <source>Current locked balance in watch-only addresses</source>
+        <translation>현재 보기전용 주소의 잠긴 잔액 </translation>
+    </message>
+    <message>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
+        <translation>현재 CRyptoCrowd 잔액, 미확정, 생성중인 코인 포함</translation>
+    </message>
+    <message>
+        <source>zXCRC Balance</source>
+        <translation>zXCRC 잔액</translation>
+    </message>
+    <message>
+        <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
+These zXCRC are spendable.</source>
+        <translation>성숙한 : 그것이 발행 된 후 같은 명칭의 20 개 이상의 확인 및 1 개 민트.
+이 zXCRC는 쓸만합니다.</translation>
+    </message>
+    <message>
+        <source>Unconfirmed: less than 20 confirmations
+Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>
+        <translation>미확인 : 20 회 미만 확인
+미성숙 : 확인되었지만 발행 된 후 같은 종파 1 개 미만</translation>
+    </message>
+    <message>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 CRyptoCrowd 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>OVERVIEW</source>
+        <translation>개요</translation>
+    </message>
+    <message>
+        <source>Combined Balance (including unconfirmed and immature coins)</source>
+        <translation>전체 잔액 (미확정, 생성중인 코인 포함)</translation>
+    </message>
+    <message>
+        <source>Combined Balance</source>
+        <translation>전체 잔액</translation>
+    </message>
+    <message>
+        <source>Unconfirmed transactions to watch-only addresses</source>
+        <translation>읽기 전용 주소의 미승인 트랜잭션</translation>
+    </message>
+    <message>
+        <source>Staked or masternode rewards in watch-only addresses that has not yet matured</source>
+        <translation>완료되지 않은 읽기 전용 주소의 스테이크 및 마스터노드 보상</translation>
+    </message>
+    <message>
+        <source>Total:</source>
+        <translation>총:</translation>
+    </message>
+    <message>
+        <source>Current total balance in watch-only addresses</source>
+        <translation>현재 읽기 전용 주소의 총 잔액</translation>
+    </message>
+    <message>
+        <source>Watch-only:</source>
+        <translation>읽기 전용:</translation>
+    </message>
+    <message>
+        <source>Your current balance in watch-only addresses</source>
+        <translation>읽기 전용 주소의 현재 잔액</translation>
+    </message>
+    <message>
+        <source>Spendable:</source>
+        <translation>출금 가능 액수:</translation>
+    </message>
+    <message>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>잠금 CRyptoCrowd 또는 Masternode collaterals. 이들은 zXCRC minting에서 제외됩니다.</translation>
+    </message>
+    <message>
+        <source>Locked:</source>
+        <translation>잠김:</translation>
+    </message>
+    <message>
+        <source>Unconfirmed:</source>
+        <translation>미승인:</translation>
+    </message>
+    <message>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
+        <translation>zXCRC 잔액, 미확정, 생성중인 zXCRC 포함.</translation>
+    </message>
+    <message>
+        <source>Recent transactions</source>
+        <translation>최근 트랜잭션</translation>
+    </message>
+    <message>
+        <source>out of sync</source>
+        <translation>동기화되지 않음</translation>
+    </message>
+    <message>
+        <source>Current percentage of zXCRC.
+If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
+</source>
+        <translation>현재 zXCRC의 백분율 .
+자동 저장 기능이 활성화 된 경우이 비율은 구성된 자동 저장 비율 (기본값 = 10 %)을 기준으로 정해집니다.</translation>
+    </message>
+    <message>
+        <source>AutoMint is currently enabled and set to </source>
+        <translation>자동 생성기능이 현재 작동중 그리고 </translation>
+    </message>
+    <message>
+        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>
+        <translation>자동생성 기능을 사용하지 않으시려면, cryptocrowd.conf 화일에 enablezeromint=0 를 추가하세요.</translation>
+    </message>
+    <message>
+        <source>AutoMint is currently disabled.
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>
+        <translation>자동 저장 기능이 현재 사용 중지되었습니다 .
+자동 변환을 사용하려면 CRyptoCrowdotx.conf에서 'enablezeromint = 0'에서 'enablezeromint = 1'로 변경하십시오.</translation>
+    </message>
+</context>
+<context>
+    <name>PaymentServer</name>
+    <message>
+        <source>Payment request error</source>
+        <translation>결제 요청 오류</translation>
+    </message>
+    <message>
+        <source>URI handling</source>
+        <translation>URI 처리</translation>
+    </message>
+    <message>
+        <source>Payment request fetch URL is invalid: %1</source>
+        <translation>결제 요청을 불러오기 위한 URL이 잘못 되었습니다: %1</translation>
+    </message>
+    <message>
+        <source>Payment request file handling</source>
+        <translation>결제 요청 파일 처리 중</translation>
+    </message>
+    <message>
+        <source>Invalid payment address %1</source>
+        <translation>잘못된 결제 주소 %1</translation>
+    </message>
+    <message>
+        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
+        <translation>CRyptoCrowd을 시작할 수 없습니다: 결제하기 위한 클릭 처리</translation>
+    </message>
+    <message>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
+        <translation>URI를 분석할 수 없습니다! 이는 잘못된 CRyptoCrowd 주소 또는 URI 매개변수 손상으로 인해 발생할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
+        <translation>결제 요청 파일을 읽어 올 수 없습니다! 이는 결제 요청 파일이 잘못되었을 때 발생할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Payment request rejected</source>
+        <translation>결제 요청 거부</translation>
+    </message>
+    <message>
+        <source>Payment request network doesn't match client network.</source>
+        <translation>결제가 요청된 네트워크와 클라이언트의 네트워크가 일치하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Payment request has expired.</source>
+        <translation>결제 요청 기간이 만료되었습니다.</translation>
+    </message>
+    <message>
+        <source>Payment request is not initialized.</source>
+        <translation>결제 요청 값이 초기화 되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>Unverified payment requests to custom payment scripts are unsupported.</source>
+        <translation>커스텀 결제 스크립트에 대한 확인되지 않은 결제 요청은 지원되지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Requested payment amount of %1 is too small (considered dust).</source>
+        <translation>%1 이하의 결제 요청 금액은 너무 적습니다(현금으로 간주됨).</translation>
+    </message>
+    <message>
+        <source>Refund from %1</source>
+        <translation>%1로 부터 환불 되었습니다.</translation>
+    </message>
+    <message>
+        <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
+        <translation>결제 요청 금액 %1은 너무 큽니다 (%2 바이트, %3 바이트 허용).</translation>
+    </message>
+    <message>
+        <source>Payment request DoS protection</source>
+        <translation>결제 요청 DoS 보호</translation>
+    </message>
+    <message>
+        <source>Error communicating with %1: %2</source>
+        <translation>%1: %2 통신하는 중 오류 발생: </translation>
+    </message>
+    <message>
+        <source>Payment request cannot be parsed!</source>
+        <translation>결제 요청을 확인할 수 없습니다!</translation>
+    </message>
+    <message>
+        <source>Bad response from server %1</source>
+        <translation>%1 서버로 부터 응답 없음</translation>
+    </message>
+    <message>
+        <source>Network request error</source>
+        <translation>네트워크 요청 오류</translation>
+    </message>
+    <message>
+        <source>Payment acknowledged</source>
+        <translation>결제 확인 됨</translation>
+    </message>
+</context>
+<context>
+    <name>PeerTableModel</name>
+    <message>
+        <source>Address/Hostname</source>
+        <translation>주소/사용자 이름</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>버전</translation>
+    </message>
+    <message>
+        <source>Ping Time</source>
+        <translation>응답 시간</translation>
+    </message>
+</context>
+<context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>Zerocoin Actions:</source>
+        <translation>제로코인 관리:</translation>
+    </message>
+    <message>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 CRyptoCrowd 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>Mint Zerocoin</source>
+        <translation>제로코인 생성</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
+    </message>
+    <message>
+        <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
+        <translation>주화 사용 가능 여부는 확정되고 잠기지 않은 주화 또는 주전원 collaterals입니다.</translation>
+    </message>
+    <message>
+        <source>Available for Minting:</source>
+        <translation>생성 가능한 수량:</translation>
+    </message>
+    <message>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
+    </message>
+    <message>
+        <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
+        <translation>제로코인 지갑 DB 재설정. 블록 체인에 포함시키지 않은 트랜잭션을 삭제합니다.</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>초기화</translation>
+    </message>
+    <message>
+        <source>Coin Control...</source>
+        <translation>코인 컨트롤...</translation>
+    </message>
+    <message>
+        <source>Quantity:</source>
+        <translation>수량:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>금액:</translation>
+    </message>
+    <message>
+        <source>Rescan the complete blockchain for  Zerocoin mints and their meta-data.</source>
+        <translation>제로코인 생성과 메타데이타를 위해 블록체인을 다시 스캔합니다.</translation>
+    </message>
+    <message>
+        <source>ReScan</source>
+        <translation>다시 스캔</translation>
+    </message>
+    <message>
+        <source>Status and/or Mesages from the last Mint Action.</source>
+        <translation>마지막 발행 이후 상태나 메세지</translation>
+    </message>
+    <message>
+        <source>PRIVACY</source>
+        <translation>프라이버시</translation>
+    </message>
+    <message>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
+        <translation>zXCRC로 변환할 CRyptoCrowd 수량을 입력하세요.</translation>
+    </message>
+    <message>
+        <source>zXCRC Control</source>
+        <translation>zXCRC 컨트롤</translation>
+    </message>
+    <message>
+        <source>zXCRC Selected:</source>
+        <translation>선택된 zXCRC :</translation>
+    </message>
+    <message>
+        <source>Quantity Selected:</source>
+        <translation>선택된 수량 :</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin. Without 'Pay To:' address creates payments to yourself.</source>
+        <translation>제로코인 전송 'Pay To :' 주소가 없으면 자신에게 지불합니다.</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin</source>
+        <translation>제로코인 보내기</translation>
+    </message>
+    <message>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>전송 가능한 zXCRC</translation>
+    </message>
+    <message>
+        <source>Available Balance:</source>
+        <translation>가능한 잔액:</translation>
+    </message>
+    <message>
+        <source>Available (mature and spendable) zXCRC for spending
+
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>지출에 사용할 수있는 성숙한 소비재 zXCRC
+
+zXCRC는 성명서가 20 개 이상 있고 명칭이 동일하지 않은 2 개 이상의 민트가 작성되었을 때 성숙합니다.</translation>
+    </message>
+    <message>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
+    </message>
+    <message>
+        <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
+        <translation>제로코인 전송 시큐리티 레벨.  높을수록 좋지만, 시간과 많은 자원이 필요합니다.</translation>
+    </message>
+    <message>
+        <source>Security Level:</source>
+        <translation>시큐리티 레벨:</translation>
+    </message>
+    <message>
+        <source>Security Level 1 - 100 (default: 42)</source>
+        <translation>시큐리티 레벨 1 - 100 (기본값: 42)</translation>
+    </message>
+    <message>
+        <source>Pay To:</source>
+        <translation>지불 대상:</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>CRyptoCrowd를 전송할 CRyptoCrowd 주소입니다. 비어있을 때 자신에게 지불할 주소를 생성합니다.</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>이전에 사용한 주소 선택</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>클립보드에서 주소 붙여 넣기</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Label:</source>
+        <translation>라벨:</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to the list of used addresses</source>
+        <translation>이 주소의 라벨을 입력하여 사용된 주소 목록에 추가하십시오</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>금액:</translation>
+    </message>
+    <message>
+        <source>Convert Change to Zerocoin (might cost additional fees)</source>
+        <translation>잔돈을 제로코인으로 변환 (추가 요금이 부과될 수 있음)</translation>
+    </message>
+    <message>
+        <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
+        <translation>이 옵션을 선택하면, 사용한 디노미네이션의 수를 최소화하는 대신 남는 잔돈을 최소화합니다.</translation>
+    </message>
+    <message>
+        <source>Minimize Change</source>
+        <translation>잔돈 최소화하기</translation>
+    </message>
+    <message>
+        <source>Information about the available Zerocoin funds.</source>
+        <translation>사용가능한 제로코인 정보</translation>
+    </message>
+    <message>
+        <source>Zerocoin Stats:</source>
+        <translation>제로코인 상태 :</translation>
+    </message>
+    <message>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>승인중이거나, 생성중인 제로코인도 포함된 전체 잔액입니다.</translation>
+    </message>
+    <message>
+        <source>Total Zerocoin  Balance:</source>
+        <translation>제로코인 잔액 :</translation>
+    </message>
+    <message>
+        <source>Denominations with value 1:</source>
+        <translation>디노미네이션 값 1:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 1:</source>
+        <translation>Denom. 값 1:</translation>
+    </message>
+    <message>
+        <source>Unconfirmed: less than 20 confirmations
+Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>
+        <translation>미확인 : 20 회 미만 확인
+미성숙 : 확인되었지만 발행 된 후 같은 종파 1 개 미만</translation>
+    </message>
+    <message>
+        <source>Show the current status of automatic zXCRC minting.
+
+To change the status (restart required):
+- enable: add 'enablezeromint=1' to cryptocrowd.conf
+- disable: add 'enablezeromint=0' to cryptocrowd.conf
+
+To change the percentage (no restart required):
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
+
+</source>
+        <translation>현재 zXCRC 자동 생성 상태를 보여줍니다.
+
+자동생성 상태를 변경하시려면 (지갑 재시작 필요함):
+- 활성화: 'enablezeromint=1' 를 cryptocrowd.conf 파일에 추가
+- 비활성화: 'enablezeromint=0' 를 cryptocrowd.conf 파일에 추가
+
+자동 생성 비율 변경하시려면 (지갑 재시작 필요없음):
+- 메뉴 설정-&gt;옵션-&gt;zXCRC 자동생성 비율
+
+</translation>
+    </message>
+    <message>
+        <source>AutoMint Status</source>
+        <translation>자동생성 상태</translation>
+    </message>
+    <message>
+        <source>Global Supply:</source>
+        <translation>총 공급량:</translation>
+    </message>
+    <message>
+        <source>Denom. 1:</source>
+        <translation>Denom. 1:</translation>
+    </message>
+    <message>
+        <source>Denom. 5:</source>
+        <translation>Denom. 5:</translation>
+    </message>
+    <message>
+        <source>Denom. 10:</source>
+        <translation>Denom. 10:</translation>
+    </message>
+    <message>
+        <source>Denom. 50:</source>
+        <translation>Denom. 50:</translation>
+    </message>
+    <message>
+        <source>Denom. 100:</source>
+        <translation>Denom. 100:</translation>
+    </message>
+    <message>
+        <source>Denom. 500:</source>
+        <translation>Denom. 500:</translation>
+    </message>
+    <message>
+        <source>Denom. 1000:</source>
+        <translation>Denom. 1000:</translation>
+    </message>
+    <message>
+        <source>Denom. 5000:</source>
+        <translation>Denom. 5000:</translation>
+    </message>
+    <message>
+        <source>0 x</source>
+        <translation>0 x</translation>
+    </message>
+    <message>
+        <source>Denominations with value 5:</source>
+        <translation>디노미네이션 값 5:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 5:</source>
+        <translation>Denom. 값 5:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 10:</source>
+        <translation>디노미네이션  값 10:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 10:</source>
+        <translation>Denom. 값 10:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 50:</source>
+        <translation>디노미네이션 값 50:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 50:</source>
+        <translation>Denom. 값 50:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 100:</source>
+        <translation>디노미네이션 값 100:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 100:</source>
+        <translation>Denom. 값 100:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 500:</source>
+        <translation>디노미네이션 값 500:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 500:</source>
+        <translation>Denom. 값 500:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 1000:</source>
+        <translation>디노미네이션 값 1000:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 1000:</source>
+        <translation>Denom. 값 1000:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 5000:</source>
+        <translation>디노미네이션 값 5000:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 5000:</source>
+        <translation>Denom. 값 5000:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>우선 순위:</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>텍스트라벨</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>수수료:</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>현금:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>아니오</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>Bytes:</translation>
+    </message>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation>자금이 충분하지 않습니다!</translation>
+    </message>
+    <message>
+        <source>Coins automatically selected</source>
+        <translation>코인 자동으로 선택됨</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>중간</translation>
+    </message>
+    <message>
+        <source>Coin Control Features</source>
+        <translation>코인 제어 기능</translation>
+    </message>
+    <message>
+        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
+        <translation>이 옵션이 활성화되었지만, 변경 주소가 비어있거나 유효하지 않은 경우 변경사항은 새로 생성된 주소로 전송됩니다.</translation>
+    </message>
+    <message>
+        <source>Custom change address</source>
+        <translation>커스텀 주소 변경</translation>
+    </message>
+    <message>
+        <source>Amount After Fee:</source>
+        <translation>수수료 차감 금액:</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>잔돈:</translation>
+    </message>
+    <message>
+        <source>out of sync</source>
+        <translation>동기화되지 않음</translation>
+    </message>
+    <message>
+        <source>Mint Status: Okay</source>
+        <translation>생성 상태 : Okay</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>수량 복사</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>금액 복사</translation>
+    </message>
+    <message>
+        <source>Starting ResetMintZerocoin: rescanning complete blockchain, this will need up to 30 minutes depending on your hardware.
+Please be patient...</source>
+        <translation>제로코인 생성 초기화 진행중... : 전체 블록체인을 다시 검색합니다. 하드웨어에 따라 최대 30분이 걸릴수 있습니다.
+기다려주세요...</translation>
+    </message>
+    <message>
+        <source>Spending Zerocoin.
+Computationally expensive, might need several minutes depending on the selected Security Level and your hardware.
+Please be patient...</source>
+        <translation>제로코인 전송중입니다.
+시큐리티 레벨과 여러분의 하드웨어에 따라 수 분이 걸립니다.
+조금만 기다려주세요...</translation>
+    </message>
+    <message>
+        <source>) needed.
+Maximum allowed: </source>
+        <translation>) 가 필요함.
+가능한 최대값 :</translation>
+    </message>
+    <message>
+        <source>zXCRC Spend #: </source>
+        <translation>zXCRC 전송 # :</translation>
+    </message>
+    <message>
+        <source>zXCRC Mint</source>
+        <translation>zXCRC 생성</translation>
+    </message>
+    <message>
+        <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
+        <translation> &lt;b&gt; 활성화됨 &lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <source> &lt;b&gt;disabled&lt;/b&gt;.</source>
+        <translation> &lt;b&gt;비활성화됨&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <source> Configured target percentage: &lt;b&gt;</source>
+        <translation> 구성된 목표 비율 : &lt;b&gt;</translation>
+    </message>
+    <message>
+        <source>zXCRC is currently disabled due to maintenance.</source>
+        <translation>zXCRC는 현재 점검중이라 사용하실수 없습니다.</translation>
+    </message>
+    <message>
+        <source>zXCRC is currently undergoing maintenance.</source>
+        <translation>zXCRC는 현재 점검중입니다.</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
+        <translation>Denom. 값 &lt;b&gt;1&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;5&lt;/b&gt;:</source>
+        <translation>Denom. 값 &lt;b&gt;5&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;10&lt;/b&gt;:</source>
+        <translation>Denom. 값 &lt;b&gt;10&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;50&lt;/b&gt;:</source>
+        <translation>Denom. 값 &lt;b&gt;50&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;100&lt;/b&gt;:</source>
+        <translation>Denom. 값 &lt;b&gt;100&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;500&lt;/b&gt;:</source>
+        <translation>Denom. 값 &lt;b&gt;500&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;1000&lt;/b&gt;:</source>
+        <translation>Denom. 값 &lt;b&gt;1000&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;5000&lt;/b&gt;:</source>
+        <translation>Denom. 값 &lt;b&gt;5000&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>AutoMint Status:</source>
+        <translation>자동생성 상태:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;1&lt;/b&gt;:</source>
+        <translation>Denom. &lt;b&gt;1&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;5&lt;/b&gt;:</source>
+        <translation>Denom. &lt;b&gt;5&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;10&lt;/b&gt;:</source>
+        <translation>Denom. &lt;b&gt;10&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;50&lt;/b&gt;:</source>
+        <translation>Denom. &lt;b&gt;50&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;100&lt;/b&gt;:</source>
+        <translation>Denom. &lt;b&gt;100&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;500&lt;/b&gt;:</source>
+        <translation>Denom. &lt;b&gt;500&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;1000&lt;/b&gt;:</source>
+        <translation>Denom. &lt;b&gt;1000&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;5000&lt;/b&gt;:</source>
+        <translation>Denom. &lt;b&gt;5000&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>
+        <translation>Error : 지갑이 잠겨있습니다. 먼저 지갑을 열어주세요.</translation>
+    </message>
+    <message>
+        <source>Message: Enter an amount &gt; 0.</source>
+        <translation>Message: 0 이상의 수량을 입력하세요.</translation>
+    </message>
+    <message>
+        <source>Minting </source>
+        <translation>생성중입니다.</translation>
+    </message>
+    <message>
+        <source>Successfully minted </source>
+        <translation>성공적으로 발행됨</translation>
+    </message>
+    <message>
+        <source> zXCRC in </source>
+        <translation> zXCRC in </translation>
+    </message>
+    <message>
+        <source> sec. Used denominations:
+</source>
+        <translation> 초. 사용된 디노미네이션:
+</translation>
+    </message>
+    <message>
+        <source>Duration: </source>
+        <translation>경과시간:</translation>
+    </message>
+    <message>
+        <source> sec.
+</source>
+        <translation>초.
+</translation>
+    </message>
+    <message>
+        <source>Starting ResetSpentZerocoin: </source>
+        <translation>전송된 제로코인 리셋 시작중...</translation>
+    </message>
+    <message>
+        <source>No 'Pay To' address provided, creating local payment</source>
+        <translation>주소를 입력하지 않아, 신규 주소를 생성합니다.</translation>
+    </message>
+    <message>
+        <source>Invalid XCRC address</source>
+        <translation>잘못된 CRyptoCrowd 주소</translation>
+    </message>
+    <message>
+        <source>Invalid Send Amount</source>
+        <translation>잘못된 전송 수량</translation>
+    </message>
+    <message>
+        <source>Confirm additional Fees</source>
+        <translation>추가 수수료 확인</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to send?&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>정말로 보내시겠습니까?&lt;br /&gt;&lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source> to address </source>
+        <translation>주소로</translation>
+    </message>
+    <message>
+        <source> to a newly generated (unused and therefore anonymous) local address &lt;br /&gt;</source>
+        <translation>새로 생성된 개인 지갑 주소(미사용된 익명의) &lt;br /&gt; 로</translation>
+    </message>
+    <message>
+        <source>with Security Level </source>
+        <translation>시큐리티 레벨</translation>
+    </message>
+    <message>
+        <source>Confirm send coins</source>
+        <translation>코인 전송 확인</translation>
+    </message>
+    <message>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>zXCRC 버전 1은 성공적으로 보내기 위해서 100 시큐리티 레벨이 필요합니다.</translation>
+    </message>
+    <message>
+        <source>Failed to spend zXCRC</source>
+        <translation>zXCRC 전송 실패</translation>
+    </message>
+    <message>
+        <source>Failed to fetch mint associated with serial hash</source>
+        <translation>Failed to fetch mint associated with serial hash</translation>
+    </message>
+    <message>
+        <source>Too much inputs (</source>
+        <translation>너무 많은 입력 (</translation>
+    </message>
+    <message>
+        <source>
+Either mint higher denominations (so fewer inputs are needed) or reduce the amount to spend.</source>
+        <translation>높은 디노미네션 값으로 생성하거나, 보내실 금액을 줄여주세요.</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin failed with status = </source>
+        <translation>제로코인 송금 실패 상태 =</translation>
+    </message>
+    <message numerus="yes">
+        <source>PrivacyDialog</source>
+        <comment>Enter an amount of XCRC to convert to zXCRC</comment>
+        <translation><numerusform>PrivacyDialog</numerusform></translation>
+    </message>
+    <message>
+        <source>denomination: </source>
+        <translation>디노미네이션: </translation>
+    </message>
+    <message>
+        <source>serial: </source>
+        <translation>시리얼:</translation>
+    </message>
+    <message>
+        <source>Spend is 1 of : </source>
+        <translation>Spend is 1 of : </translation>
+    </message>
+    <message>
+        <source>value out: </source>
+        <translation>출력 값:</translation>
+    </message>
+    <message>
+        <source>address: </source>
+        <translation>주소:</translation>
+    </message>
+    <message>
+        <source>Sending successful, return code: </source>
+        <translation>성공 완료, 리턴 코드 :</translation>
+    </message>
+    <message>
+        <source>txid: </source>
+        <translation>txid:</translation>
+    </message>
+    <message>
+        <source>fee: </source>
+        <translation>수수료:</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Amount</source>
+        <translation>금액</translation>
+    </message>
+    <message>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>CRyptoCrowd 주소를 입력하세요 (예 %1)</translation>
+    </message>
+    <message>
+        <source>%1 d</source>
+        <translation>%1 일</translation>
+    </message>
+    <message>
+        <source>%1 h</source>
+        <translation>%1 시간</translation>
+    </message>
+    <message>
+        <source>%1 m</source>
+        <translation>%1 분</translation>
+    </message>
+    <message>
+        <source>%1 s</source>
+        <translation>%1 초</translation>
+    </message>
+    <message>
+        <source>NETWORK</source>
+        <translation>네트워크</translation>
+    </message>
+    <message>
+        <source>BLOOM</source>
+        <translation>BLOOM</translation>
+    </message>
+    <message>
+        <source>UNKNOWN</source>
+        <translation>UNKNOWN</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>None</translation>
+    </message>
+    <message>
+        <source>N/A</source>
+        <translation>N/A</translation>
+    </message>
+    <message>
+        <source>%1 ms</source>
+        <translation>%1 ms</translation>
+    </message>
+</context>
+<context>
+    <name>QRImageWidget</name>
+    <message>
+        <source>Save Image...</source>
+        <translation>이미지 저장...</translation>
+    </message>
+    <message>
+        <source>Copy Image</source>
+        <translation>이미지 복사</translation>
+    </message>
+    <message>
+        <source>Save QR Code</source>
+        <translation>QR 코드 저장</translation>
+    </message>
+    <message>
+        <source>PNG Image (*.png)</source>
+        <translation>PNG 형식 이미지 (*.png)</translation>
+    </message>
+</context>
+<context>
+    <name>RPCConsole</name>
+    <message>
+        <source>Tools window</source>
+        <translation>도구 창</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>정보</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>일반</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>이름</translation>
+    </message>
+    <message>
+        <source>Client name</source>
+        <translation>클라이언트 이름</translation>
+    </message>
+    <message>
+        <source>N/A</source>
+        <translation>N/A</translation>
+    </message>
+    <message>
+        <source>Number of connections</source>
+        <translation>연결된 수</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>열기</translation>
+    </message>
+    <message>
+        <source>Startup time</source>
+        <translation>시작 시간</translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation>네트워크</translation>
+    </message>
+    <message>
+        <source>Last block time</source>
+        <translation>최근 블록 시간</translation>
+    </message>
+    <message>
+        <source>Debug log file</source>
+        <translation>로그 파일 디버그</translation>
+    </message>
+    <message>
+        <source>Using OpenSSL version</source>
+        <translation>OpenSSL 버전 사용</translation>
+    </message>
+    <message>
+        <source>Build date</source>
+        <translation>빌드 날짜</translation>
+    </message>
+    <message>
+        <source>Current number of blocks</source>
+        <translation>현재 블록 개수</translation>
+    </message>
+    <message>
+        <source>Client version</source>
+        <translation>클라이언트 버전</translation>
+    </message>
+    <message>
+        <source>Using BerkeleyDB version</source>
+        <translation>사용중인 BerkeleyDB 버전</translation>
+    </message>
+    <message>
+        <source>Block chain</source>
+        <translation>블록체인</translation>
+    </message>
+    <message>
+        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>현재 데이터 디렉토리에서 CRyptoCrowd 디버그 로그 파일을 엽니다. 로그 파일이 클 경우, 약간의 시간이 걸릴 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Number of Masternodes</source>
+        <translation>마스터노드 개수</translation>
+    </message>
+    <message>
+        <source>Console</source>
+        <translation>콘솔</translation>
+    </message>
+    <message>
+        <source>Clear console</source>
+        <translation>콘솔 초기화</translation>
+    </message>
+    <message>
+        <source>Network Traffic</source>
+        <translation>네트워크 트래픽</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>초기화</translation>
+    </message>
+    <message>
+        <source>Totals</source>
+        <translation>총</translation>
+    </message>
+    <message>
+        <source>Received</source>
+        <translation>받음</translation>
+    </message>
+    <message>
+        <source>Sent</source>
+        <translation>보냄</translation>
+    </message>
+    <message>
+        <source>Peers</source>
+        <translation>피어</translation>
+    </message>
+    <message>
+        <source>Banned peers</source>
+        <translation>제한된 피어</translation>
+    </message>
+    <message>
+        <source>Select a peer to view detailed information.</source>
+        <translation>자세한 정보를 보기 위해 피어를 선택 하세요.</translation>
+    </message>
+    <message>
+        <source>Whitelisted</source>
+        <translation>화이트리스트</translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation>위치</translation>
+    </message>
+    <message>
+        <source>Protocol</source>
+        <translation>프로토콜</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>버전</translation>
+    </message>
+    <message>
+        <source>Services</source>
+        <translation>서비스</translation>
+    </message>
+    <message>
+        <source>Ban Score</source>
+        <translation>밴 스코어</translation>
+    </message>
+    <message>
+        <source>Connection Time</source>
+        <translation>연결 시간</translation>
+    </message>
+    <message>
+        <source>Last Send</source>
+        <translation>최근 보냄</translation>
+    </message>
+    <message>
+        <source>Last Receive</source>
+        <translation>최근 받음</translation>
+    </message>
+    <message>
+        <source>Bytes Sent</source>
+        <translation>보낸 바이트</translation>
+    </message>
+    <message>
+        <source>Bytes Received</source>
+        <translation>받은 바이트</translation>
+    </message>
+    <message>
+        <source>Ping Time</source>
+        <translation>응답 시간</translation>
+    </message>
+    <message>
+        <source>Wallet Repair</source>
+        <translation>지갑 복구</translation>
+    </message>
+    <message>
+        <source>Delete local Blockchain Folders</source>
+        <translation>자신의 컴퓨터의 블록체인 폴더 삭제</translation>
+    </message>
+    <message>
+        <source>Wallet In Use:</source>
+        <translation>사용중인 지갑:</translation>
+    </message>
+    <message>
+        <source>Starting Block</source>
+        <translation>시작 블록</translation>
+    </message>
+    <message>
+        <source>Synced Headers</source>
+        <translation>동기화된 헤더</translation>
+    </message>
+    <message>
+        <source>Synced Blocks</source>
+        <translation>동기화된 블록</translation>
+    </message>
+    <message>
+        <source>The duration of a currently outstanding ping.</source>
+        <translation>현재 미해결 ping의 지속 시간.</translation>
+    </message>
+    <message>
+        <source>Ping Wait</source>
+        <translation>핑 대기</translation>
+    </message>
+    <message>
+        <source>Time Offset</source>
+        <translation>타임 오프셋</translation>
+    </message>
+    <message>
+        <source>Custom Backup Path:</source>
+        <translation>맞춤 백업 경로 :</translation>
+    </message>
+    <message>
+        <source>Custom zXCRC Backup Path:</source>
+        <translation>맞춤 zXCRC 백업 경로 :</translation>
+    </message>
+    <message>
+        <source>Custom Backups Threshold:</source>
+        <translation>맞춤 백업 역치(threshold) : </translation>
+    </message>
+    <message>
+        <source>Salvage wallet</source>
+        <translation>지갑 복구</translation>
+    </message>
+    <message>
+        <source>Attempt to recover private keys from a corrupt wallet.dat.</source>
+        <translation>손상된 wallet.dat로 부터 개인키 복구 시도</translation>
+    </message>
+    <message>
+        <source>Rescan blockchain files</source>
+        <translation>블록체인 파일 재스캔</translation>
+    </message>
+    <message>
+        <source>Rescan the block chain for missing wallet transactions.</source>
+        <translation>거래내역 복구를 위한 블록체인 재검색</translation>
+    </message>
+    <message>
+        <source>Recover transactions 1</source>
+        <translation>트랜잭션 복구 1</translation>
+    </message>
+    <message>
+        <source>Recover transactions from blockchain (keep meta-data, e.g. account owner).</source>
+        <translation>블록체인에서 거래내역 복구 (메타 데이터 저장 예: 사용자 주소)
+</translation>
+    </message>
+    <message>
+        <source>Recover transactions 2</source>
+        <translation>트랜잭션 복구 2</translation>
+    </message>
+    <message>
+        <source>Recover transactions from blockchain (drop meta-data).</source>
+        <translation>블록체인에서 거래내역 복구 (메타 데이터 삭제)</translation>
+    </message>
+    <message>
+        <source>Upgrade wallet format</source>
+        <translation>지갑 구성 업그레이드</translation>
+    </message>
+    <message>
+        <source>Rebuild block chain index from current blk000??.dat files.</source>
+        <translation>현재 blk000??.dat로 부터 블록체인 인덱스 재작성</translation>
+    </message>
+    <message>
+        <source>-resync:</source>
+        <translation>-resync:</translation>
+    </message>
+    <message>
+        <source>Deletes all local blockchain folders so the wallet synchronizes from scratch.</source>
+        <translation>블록체인을 재동기화를 위해 모든 블록체인 폴더 삭제</translation>
+    </message>
+    <message>
+        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
+        <translation>아래 버튼들은 지갑을 고치기 위한 명령어 옵션들로 실행시 지갑을 재시작합니다, 손상된 블록체인 파일 또는 누락되었거나 오래된 트랜잭션들에 대한 문제를 해결합니다.</translation>
+    </message>
+    <message>
+        <source>Wallet repair options.</source>
+        <translation>지갑 복구 옵션.</translation>
+    </message>
+    <message>
+        <source>Upgrade wallet to latest format on startup. (Note: this is NOT an update of the wallet itself!)</source>
+        <translation>시작시 지갑을 최신 포맷으로 업그레이드 (참고 : 지갑 자체의 업데이트 아님!)</translation>
+    </message>
+    <message>
+        <source>Rebuild index</source>
+        <translation>색인 재구축</translation>
+    </message>
+    <message>
+        <source>In:</source>
+        <translation>입력:</translation>
+    </message>
+    <message>
+        <source>Out:</source>
+        <translation>출력:</translation>
+    </message>
+    <message>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>CRyptoCrowd RPC 콘솔에 오신 것을 환영합니다.</translation>
+    </message>
+    <message>
+        <source>Disconnect Node</source>
+        <translation> 연결이 끊어진 노드</translation>
+    </message>
+    <message>
+        <source>Ban Node for</source>
+        <translation>제한된 노드</translation>
+    </message>
+    <message>
+        <source>1 hour</source>
+        <translation>1 시간</translation>
+    </message>
+    <message>
+        <source>1 day</source>
+        <translation>1 일</translation>
+    </message>
+    <message>
+        <source>1 week</source>
+        <translation>1 주일</translation>
+    </message>
+    <message>
+        <source>1 year</source>
+        <translation>1 년</translation>
+    </message>
+    <message>
+        <source>Unban Node</source>
+        <translation>제한 해지된 노드</translation>
+    </message>
+    <message>
+        <source>This will delete your local blockchain folders and the wallet will synchronize the complete Blockchain from scratch.&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>그러면 로컬 블록 체인 폴더가 삭제되고 Wallet은 전체 Blockchain을 처음부터 동기화합니다.</translation>
+    </message>
+    <message>
+        <source>This needs quite some time and downloads a lot of data.&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>이것은 상당한 시간을 필요로하며 많은 양의 데이터를 다운로드합니다.</translation>
+    </message>
+    <message>
+        <source>Your transactions and funds will be visible again after the download has completed.&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>다운로드가 완료되면 거래와 자금이 다시 표시됩니다 .12</translation>
+    </message>
+    <message>
+        <source>Do you want to continue?.&lt;br /&gt;</source>
+        <translation>계속 진행하겠습니까?&lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>Confirm resync Blockchain</source>
+        <translation>블록체인 동기화를 다시 하시겠습니까?</translation>
+    </message>
+    <message>
+        <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
+        <translation>위 아래 화살표를 사용하여 기록을 탐색하고 &lt;b&gt;Ctrl-L&lt;/b&gt; 화면을 지웁니다.</translation>
+    </message>
+    <message>
+        <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>사용가능한 명령을 보려면 &lt;b&gt;help&lt;/b&gt;를 입력하십시오.</translation>
+    </message>
+    <message>
+        <source>%1 B</source>
+        <translation>%1 B</translation>
+    </message>
+    <message>
+        <source>%1 KB</source>
+        <translation>%1 KB</translation>
+    </message>
+    <message>
+        <source>%1 MB</source>
+        <translation>%1 MB</translation>
+    </message>
+    <message>
+        <source>%1 GB</source>
+        <translation>%1 GB</translation>
+    </message>
+    <message>
+        <source>(node id: %1)</source>
+        <translation>(노드 id: %1)</translation>
+    </message>
+    <message>
+        <source>via %1</source>
+        <translation>via %1</translation>
+    </message>
+    <message>
+        <source>never</source>
+        <translation>never</translation>
+    </message>
+    <message>
+        <source>Inbound</source>
+        <translation>인바운드</translation>
+    </message>
+    <message>
+        <source>Outbound</source>
+        <translation>아웃바운드</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Yes</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>No</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation>Unknown</translation>
+    </message>
+</context>
+<context>
+    <name>ReceiveCoinsDialog</name>
+    <message>
+        <source>Reuse one of the previously used receiving addresses.&lt;br&gt;Reusing addresses has security and privacy issues.&lt;br&gt;Do not use this unless re-generating a payment request made before.</source>
+        <translation>이전에 사용한 수신 주소 중 하나를 다시 사용하십시오.&lt;br&gt;주소 재사용은 보안 및 개인정보보호 문제가 있습니다.&lt;br&gt;이전에 만든 결제 요청을 다시 생성하지 않는 한 이것을 사용하지 마십시오.</translation>
+    </message>
+    <message>
+        <source>Reuse an existing receiving address (not recommended)</source>
+        <translation>기존 수신 주소 재사용 (권장하지 않음)</translation>
+    </message>
+    <message>
+        <source>Message:</source>
+        <translation>메세지:</translation>
+    </message>
+    <message>
+        <source>An optional label to associate with the new receiving address.</source>
+        <translation>새로운 수신 주소와 연결할 선택적 라벨.</translation>
+    </message>
+    <message>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다. 참고: CRyptoCrowd 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
+    </message>
+    <message>
+        <source>RECEIVE</source>
+        <translation>받기</translation>
+    </message>
+    <message>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>요청이 열릴 때 표시되는 결제 요청에 첨부할 선택적 메세지 입니다.&lt;br&gt;참고: CRyptoCrowd 네트워크를 통한 결제는 메세지가 전송되지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
+        <translation>결제 요청을 진행하려면 해당 양식을 입력하세요. 모든 입력란은 &lt;b&gt;선택 사항&lt;/b&gt;입니다.</translation>
+    </message>
+    <message>
+        <source>Label:</source>
+        <translation>라벨:</translation>
+    </message>
+    <message>
+        <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
+        <translation>요청할 선택적 금액. 이 금액을 비워두거나 특정 금액을 요청하지 않으려면 0으로 두세요.</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>금액:</translation>
+    </message>
+    <message>
+        <source>Request payment</source>
+        <translation>결제 요청</translation>
+    </message>
+    <message>
+        <source>Clear all fields of the form.</source>
+        <translation>모든 입력 양식 지우기.</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>지우기</translation>
+    </message>
+    <message>
+        <source>Requested payments history</source>
+        <translation>요청된 결제 내역</translation>
+    </message>
+    <message>
+        <source>Show the selected request (does the same as double clicking an entry)</source>
+        <translation>선택한 요청을 표시합니다 (항목을 두 번 클릭하는 것과 동일)</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>표시</translation>
+    </message>
+    <message>
+        <source>Remove the selected entries from the list</source>
+        <translation>선택한 항목을 목록에서 제거하십시오</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>제거</translation>
+    </message>
+    <message>
+        <source>Copy label</source>
+        <translation>라벨 복사</translation>
+    </message>
+    <message>
+        <source>Copy message</source>
+        <translation>메세지 복사</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>금액 복사</translation>
+    </message>
+</context>
+<context>
+    <name>ReceiveRequestDialog</name>
+    <message>
+        <source>QR Code</source>
+        <translation>QR 코드</translation>
+    </message>
+    <message>
+        <source>Copy URI</source>
+        <translation>URI 복사</translation>
+    </message>
+    <message>
+        <source>Copy Address</source>
+        <translation>주소 복사</translation>
+    </message>
+    <message>
+        <source>Save Image...</source>
+        <translation>이미지 저장...</translation>
+    </message>
+    <message>
+        <source>Request payment to %1</source>
+        <translation>%1 결제 요청</translation>
+    </message>
+    <message>
+        <source>Payment information</source>
+        <translation>결제 정보</translation>
+    </message>
+    <message>
+        <source>URI</source>
+        <translation>URI</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>마스터노드 주소</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>금액</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>라벨</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>메세지</translation>
+    </message>
+    <message>
+        <source>Resulting URI too long, try to reduce the text for label / message.</source>
+        <translation>URI 결과가 너무 길면, 라벨 / 메세지의 텍스트를 줄입니다.</translation>
+    </message>
+    <message>
+        <source>Error encoding URI into QR Code.</source>
+        <translation>URI를 QR 코드로 인코딩하는 도중 오류가 발생하였습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>RecentRequestsTableModel</name>
+    <message>
+        <source>Date</source>
+        <translation>날짜</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>라벨</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>메세지</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>금액</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(라벨 없음)</translation>
+    </message>
+    <message>
+        <source>(no message)</source>
+        <translation>(메세지 없음)</translation>
+    </message>
+    <message>
+        <source>(no amount)</source>
+        <translation>(금액 없음)</translation>
+    </message>
+</context>
+<context>
+    <name>SendCoinsDialog</name>
+    <message>
+        <source>Send Coins</source>
+        <translation>코인 전송 </translation>
+    </message>
+    <message>
+        <source>SEND</source>
+        <translation>보내기</translation>
+    </message>
+    <message>
+        <source>Coin Control Features</source>
+        <translation>코인 제어 기능</translation>
+    </message>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation>자금이 충분하지 않습니다!</translation>
+    </message>
+    <message>
+        <source>Quantity:</source>
+        <translation>수량:</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>바이트:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>금액:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>우선 순위:</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>중간</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>수수료:</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>현금:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>아니오</translation>
+    </message>
+    <message>
+        <source>After Fee:</source>
+        <translation>최종 금액:</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>잔돈:</translation>
+    </message>
+    <message>
+        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
+        <translation>이 옵션이 활성화되었지만, 변경 주소가 비어있거나 유효하지 않은 경우 변경사항은 새로 생성된 주소로 전송됩니다.</translation>
+    </message>
+    <message>
+        <source>Custom change address</source>
+        <translation>커스텀 주소 변경</translation>
+    </message>
+    <message>
+        <source>Split UTXO</source>
+        <translation>UTXO 분할</translation>
+    </message>
+    <message>
+        <source># of outputs</source>
+        <translation># 출력 수</translation>
+    </message>
+    <message>
+        <source>UTXO Size:</source>
+        <translation>UTXO 크기:</translation>
+    </message>
+    <message>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Transaction Fee:</source>
+        <translation>거래 수수료:</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation>선택...</translation>
+    </message>
+    <message>
+        <source>collapse fee-settings</source>
+        <translation>간단한 수수료 설정</translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation>닫기</translation>
+    </message>
+    <message>
+        <source>per kilobyte</source>
+        <translation>킬로바이트당</translation>
+    </message>
+    <message>
+        <source>total at least</source>
+        <translation>전체에서 최소</translation>
+    </message>
+    <message>
+        <source>(read the tooltip)</source>
+        <translation>(툴팁을 읽어주세요)</translation>
+    </message>
+    <message>
+        <source>Custom:</source>
+        <translation>커스텀:</translation>
+    </message>
+    <message>
+        <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
+        <translation>(스마트 수수료가 아직 초기화 되지 않았습니다. 일반적으로 몇 블록이 지나야됩니다...)</translation>
+    </message>
+    <message>
+        <source>SwiftX</source>
+        <translation>SwiftX</translation>
+    </message>
+    <message>
+        <source>Confirmation time:</source>
+        <translation>승인 시간:</translation>
+    </message>
+    <message>
+        <source>Open Coin Control...</source>
+        <translation>코인 설정 열기</translation>
+    </message>
+    <message>
+        <source>Coins automatically selected</source>
+        <translation>자동으로 선택됩니다.</translation>
+    </message>
+    <message>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>트랜잭션이 250바이트 인 경우 사용자 지정 수수료가 1000 uXCRCs로 설정되고,&lt;br /&gt;1000 uXCRCs 안에는 최소 "킬로바이트당" 250 uXCRCs 만 지불합니다. 1 킬로바이트보다 큰 트랜잭션의 경우 모두 킬로바이트 단위로 지불합니다.</translation>
+    </message>
+    <message>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>트랜잭션이 250바이트 인 경우 사용자 지정 수수료가 1000 uXCRCs로 설정되고,&lt;br /&gt;1000 uXCRCs 안에는 전체에서 최소 "킬로바이트당" 250 uXCRCs 만 지불합니다. 1 킬로바이트보다 큰 트랜잭션의 경우 모두 킬로바이트 단위로 지불합니다.</translation>
+    </message>
+    <message>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
+        <translation>블록의 공간보다 트랜잭션량이 적으면 최소 수수료만 지불하면 됩니다.&lt;br /&gt;하지만 CRyptoCrowd 트랜잭션 수가 많으면 미확인된 트랜잭션로 네트워크가 처리할 수도 있습니다.</translation>
+    </message>
+    <message>
+        <source>normal</source>
+        <translation>보통</translation>
+    </message>
+    <message>
+        <source>fast</source>
+        <translation>빠른</translation>
+    </message>
+    <message>
+        <source>Recommended</source>
+        <translation>권장</translation>
+    </message>
+    <message>
+        <source>Send as zero-fee transaction if possible</source>
+        <translation>가능하다면 제로 수수료 트랜잭션으로 전송하십시오</translation>
+    </message>
+    <message>
+        <source>(confirmation may take longer)</source>
+        <translation>(승인이 오래걸릴 수 있습니다)</translation>
+    </message>
+    <message>
+        <source>Confirm the send action</source>
+        <translation>전송 작업 확인</translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation>전송</translation>
+    </message>
+    <message>
+        <source>Clear all fields of the form.</source>
+        <translation>모든 입력 양식 지우기.</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>전체 지우기</translation>
+    </message>
+    <message>
+        <source>Send to multiple recipients at once</source>
+        <translation>한번에 여러 곳 전송</translation>
+    </message>
+    <message>
+        <source>Add Recipient</source>
+        <translation>받는 사람 추가</translation>
+    </message>
+    <message>
+        <source>Anonymized XCRC</source>
+        <translation>익명화된 CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Balance:</source>
+        <translation>잔액:</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>수량 복사</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>금액 복사</translation>
+    </message>
+    <message>
+        <source>Copy fee</source>
+        <translation>수수료 복사</translation>
+    </message>
+    <message>
+        <source>Copy after fee</source>
+        <translation>이용 수수료 복사</translation>
+    </message>
+    <message>
+        <source>Copy bytes</source>
+        <translation>바이트 복사</translation>
+    </message>
+    <message>
+        <source>Copy priority</source>
+        <translation>우선 사항 복사</translation>
+    </message>
+    <message>
+        <source>Copy dust</source>
+        <translation>현금 복사</translation>
+    </message>
+    <message>
+        <source>Copy change</source>
+        <translation>변경 복사</translation>
+    </message>
+    <message>
+        <source>The split block tool does not work when sending to outside addresses. Try again.</source>
+        <translation>분할 블록 도구는 외부 주소로 보낼 때 작동하지 않습니다. 다시 시도하십시오.</translation>
+    </message>
+    <message>
+        <source>The split block tool does not work with multiple addresses. Try again.</source>
+        <translation>분할 블록 도구는 여러 주소에서 작동하지 않습니다. 다시 시도하십시오.</translation>
+    </message>
+    <message>
+        <source>Warning: Invalid XCRC address</source>
+        <translation>경고: 잘못된 CRyptoCrowd 주소</translation>
+    </message>
+    <message>
+        <source>%1 to %2</source>
+        <translation>%1 에서 %2</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to send?</source>
+        <translation>정말 보내시겠습니까?</translation>
+    </message>
+    <message>
+        <source>are added as transaction fee</source>
+        <translation>거래 수수료가 추가됩니다</translation>
+    </message>
+    <message>
+        <source>Total Amount = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</source>
+        <translation>총 금액 = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>
+    </message>
+    <message>
+        <source>Confirm send coins</source>
+        <translation>코인 전송 확인</translation>
+    </message>
+    <message>
+        <source>A fee %1 times higher than %2 per kB is considered an insanely high fee.</source>
+        <translation>KB당 %1보다 %2배 많은 수수료는 너무 높은 수수료입니다.</translation>
+    </message>
+    <message numerus="yes">
+        <source>Estimated to begin confirmation within %n block(s).</source>
+        <translation><numerusform>%n 개의 블록 내에서 컨펌이 시작할 것으로 추정됨.</numerusform></translation>
+    </message>
+    <message>
+        <source>The recipient address is not valid, please recheck.</source>
+        <translation>수신자 주소가 유효하지 않습니다. 다시 확인해주세요.</translation>
+    </message>
+    <message>
+        <source>using SwiftX</source>
+        <translation>SwiftX 사용</translation>
+    </message>
+    <message>
+        <source> split into %1 outputs using the UTXO splitter.</source>
+        <translation>UTXO 스플리터를 사용하여 %1 출력으로 분할하십시오.</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</source>
+        <translation>&lt;b&gt;(표시된 %2개 항목중 %1개)&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>The amount to pay must be larger than 0.</source>
+        <translation>지불 할 금액은 0보다 커야합니다.</translation>
+    </message>
+    <message>
+        <source>The amount exceeds your balance.</source>
+        <translation>입력한 금액이 잔액을 초과합니다.</translation>
+    </message>
+    <message>
+        <source>The total exceeds your balance when the %1 transaction fee is included.</source>
+        <translation>%1 트랜잭션 수수료가 포함하면 현재 잔액을 초과합니다.</translation>
+    </message>
+    <message>
+        <source>Duplicate address found, can only send to each address once per send operation.</source>
+        <translation>중복된 주소를 발견했습니다. 각 주소는 전송 작업당 한 번씩만 보낼 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Transaction creation failed!</source>
+        <translation>트랜잭션 생성 실패!</translation>
+    </message>
+    <message>
+        <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
+        <translation>트랜잭션이 거부되었습니다! 지갑에 있는 코인 중 일부가 이미 사용된 경우일 수 있습니다. wallet.dat 사본을 사용하고 코인을 이미 사용하고 현재 여기에 표시되지 않은 경우에 이런 현상이 발생할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Error: The wallet was unlocked only to anonymize coins.</source>
+        <translation>오류: 현재 지갑이 익명 처리를 위해 잠금해제 되어 있습니다. 익명화 및 스테이킹 전용을 해제하시고 다시 시도하세요.</translation>
+    </message>
+    <message>
+        <source>Error: The wallet was unlocked only to anonymize coins. Unlock canceled.</source>
+        <translation>에러 : 현재 지갑은 코인 익명화를 위해서만 잠금해제되었습니다. 잠금해제가 취소됩니다.</translation>
+    </message>
+    <message>
+        <source>Pay only the minimum fee of %1</source>
+        <translation>%1의 최소 수수료만 지불하십시오</translation>
+    </message>
+    <message>
+        <source>Warning: Unknown change address</source>
+        <translation>경고: 알 수 없는 변경 주소</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(라벨 없음)</translation>
+    </message>
+</context>
+<context>
+    <name>SendCoinsEntry</name>
+    <message>
+        <source>This is a normal payment.</source>
+        <translation>이것은 일반 결제입니다.</translation>
+    </message>
+    <message>
+        <source>Pay To:</source>
+        <translation>지불 대상:</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address to send the payment to</source>
+        <translation>보낼 CRyptoCrowd 주소</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>이전에 사용한 주소 선택</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>클립보드에서 주소 붙여 넣기</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Remove this entry</source>
+        <translation>이 항목 삭제</translation>
+    </message>
+    <message>
+        <source>Label:</source>
+        <translation>라벨:</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to the list of used addresses</source>
+        <translation>이 주소의 라벨을 입력하여 사용된 주소 목록에 추가하십시오</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>금액:</translation>
+    </message>
+    <message>
+        <source>Message:</source>
+        <translation>메세지:</translation>
+    </message>
+    <message>
+        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>
+        <translation>참조용으로 트랜잭션과 함께 기록되는 CRyptoCrowd : URI에 첨부된 메세지입니다. 참고: 이 메세지는 CRyptoCrowd 네트워크를 통해 전송되지 않습니다.</translation>
+    </message>
+    <message>
+        <source>This is an unverified payment request.</source>
+        <translation>확인되지 않은 결제 요청입니다.</translation>
+    </message>
+    <message>
+        <source>Pay To:</source>
+        <translation>보낼 주소:</translation>
+    </message>
+    <message>
+        <source>Memo:</source>
+        <translation>메모:</translation>
+    </message>
+    <message>
+        <source>This is a verified payment request.</source>
+        <translation>확인된 결제 요청입니다.</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to your address book</source>
+        <translation>주소록에 추가하려면 이 주소의 라벨을 입력해주세요.</translation>
+    </message>
+</context>
+<context>
+    <name>ShutdownWindow</name>
+    <message>
+        <source>CRyptoCrowd Core is shutting down...</source>
+        <translation>CRyptoCrowd Core가 종료됩니다...</translation>
+    </message>
+    <message>
+        <source>Do not shut down the computer until this window disappears.</source>
+        <translation>이 창이 사라질 때까지 컴퓨터를 종료하지 마십시오.</translation>
+    </message>
+</context>
+<context>
+    <name>SignVerifyMessageDialog</name>
+    <message>
+        <source>Signatures - Sign / Verify a Message</source>
+        <translation>서명 - 서명 / 메세지 검증</translation>
+    </message>
+    <message>
+        <source>Sign Message</source>
+        <translation>메세지 서명</translation>
+    </message>
+    <message>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>자신의 주소로 메세지에 서명할 수 있습니다. 피싱 공격으로 사용자를 속일 수 있으므로 서명에 주의해주세요. 동의하는 바에 한하여 서명하십시오.</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>메세지를 서명하기 위한 CRyptoCrowd 주소</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>이전에 사용한 주소 선택</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>클립보드에서 주소 붙여 넣기</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Enter the message you want to sign here</source>
+        <translation>서명할 메세지를 입력해주세요</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation>서명</translation>
+    </message>
+    <message>
+        <source>Copy the current signature to the system clipboard</source>
+        <translation>현재 서명을 시스템 클립 보드에 복사</translation>
+    </message>
+    <message>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>이 CRyptoCrowd 주소를 소유하고 있다는 것을 증명하기 위해 메세지에 서명하십시오</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>메세지에 서명된 CRyptoCrowd 주소</translation>
+    </message>
+    <message>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>메세지가 지정된 CRyptoCrowd 주소로 서명되었는지 확인해주세요</translation>
+    </message>
+    <message>
+        <source>Sign Message</source>
+        <translation>서명 메세지</translation>
+    </message>
+    <message>
+        <source>Reset all sign message fields</source>
+        <translation>모든 서명 메세지 입력 지우기</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>전체 지우기</translation>
+    </message>
+    <message>
+        <source>Verify Message</source>
+        <translation>메세지 확인</translation>
+    </message>
+    <message>
+        <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
+        <translation>메세지를 확인하기 위해 서명 주소, 메세지 (줄 바꿈, 공백, 탭 등을 정확하게 복사해주세요) 및 서명을 입력하십시오. 중간자 공격에 주의해서 서명을 입력해주세요.</translation>
+    </message>
+    <message>
+        <source>Verify Message</source>
+        <translation>메세지 확인</translation>
+    </message>
+    <message>
+        <source>Reset all verify message fields</source>
+        <translation>모든 확인 메세지 영역 지우기</translation>
+    </message>
+    <message>
+        <source>Click "Sign Message" to generate signature</source>
+        <translation>"서명 메세지"를 클릭하여 서명 생성</translation>
+    </message>
+    <message>
+        <source>The entered address is invalid.</source>
+        <translation>입력한 주소가 올바르지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Please check the address and try again.</source>
+        <translation>주소를 다시 확인해주세요.</translation>
+    </message>
+    <message>
+        <source>The entered address does not refer to a key.</source>
+        <translation>입력한 주소가 키를 참조하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Wallet unlock was cancelled.</source>
+        <translation>지갑 잠금 해제가 취소되었습니다.</translation>
+    </message>
+    <message>
+        <source>Private key for the entered address is not available.</source>
+        <translation>입력한 주소의 개인 키를 사용할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Message signing failed.</source>
+        <translation>메세지 서명 실패.</translation>
+    </message>
+    <message>
+        <source>Message signed.</source>
+        <translation>서명된 메세지.</translation>
+    </message>
+    <message>
+        <source>The signature could not be decoded.</source>
+        <translation>서명을 디코딩 할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Please check the signature and try again.</source>
+        <translation>서명을 확인하고 다시 시도해주세요.</translation>
+    </message>
+    <message>
+        <source>The signature did not match the message digest.</source>
+        <translation>서명이 메세지 요약과 일치하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Message verification failed.</source>
+        <translation>메세지 확인에 실패하였습니다.</translation>
+    </message>
+    <message>
+        <source>Message verified.</source>
+        <translation>메세지 확인 됨.</translation>
+    </message>
+</context>
+<context>
+    <name>SplashScreen</name>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Version %1</source>
+        <translation>버전 %1</translation>
+    </message>
+    <message>
+        <source>The Bitcoin Core developers</source>
+        <translation>비트코인 Core 개발자</translation>
+    </message>
+    <message>
+        <source>The Dash Core developers</source>
+        <translation>Dash Core 개발자</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd Core developers</source>
+        <translation>CRyptoCrowd Core 개발자</translation>
+    </message>
+    <message>
+        <source>[testnet]</source>
+        <translation>[테스트넷]</translation>
+    </message>
+</context>
+<context>
+    <name>TrafficGraphWidget</name>
+    <message>
+        <source>KB/s</source>
+        <translation>KB/s</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionDesc</name>
+    <message numerus="yes">
+        <source>Open for %n more block(s)</source>
+        <translation><numerusform>%n 블럭 더 열기</numerusform></translation>
+    </message>
+    <message>
+        <source>Open until %1</source>
+        <translation>%1까지 열기</translation>
+    </message>
+    <message>
+        <source>conflicted</source>
+        <translation>충돌됨</translation>
+    </message>
+    <message>
+        <source>%1/offline</source>
+        <translation>%1/오프라인</translation>
+    </message>
+    <message>
+        <source>%1/unconfirmed</source>
+        <translation>%1/미확인 됨</translation>
+    </message>
+    <message>
+        <source>%1 confirmations</source>
+        <translation>%1 확인</translation>
+    </message>
+    <message>
+        <source>%1/offline (verified via SwiftX)</source>
+        <translation>%1/오프라인 (swifttx를 통해 확인 됨)</translation>
+    </message>
+    <message>
+        <source>%1/confirmed (verified via SwiftX)</source>
+        <translation>%1/확인 됨 (swifttx를 통해 확인 됨)</translation>
+    </message>
+    <message>
+        <source>%1 confirmations (verified via SwiftX)</source>
+        <translation>%1 확인 (swifttx를 통해 확인 됨)</translation>
+    </message>
+    <message>
+        <source>%1/offline (SwiftX verification in progress - %2 of %3 signatures)</source>
+        <translation>%1/오프라인 (SwiftTX 확인 진행 중 - %2 중 %3 서명)</translation>
+    </message>
+    <message>
+        <source>%1/confirmed (SwiftX verification in progress - %2 of %3 signatures )</source>
+        <translation>%1/확인 됨 (SwiftTX 확인 진행 중 - %2 중 %3 서명)</translation>
+    </message>
+    <message>
+        <source>%1 confirmations (SwiftX verification in progress - %2 of %3 signatures)</source>
+        <translation>%1 확인 (SwiftTX 확인 진행 중 - %2 중 %3 서명)</translation>
+    </message>
+    <message>
+        <source>%1/offline (SwiftX verification failed)</source>
+        <translation>%1/오프라인 (SwiftTX 확인 실패)
+</translation>
+    </message>
+    <message>
+        <source>%1/confirmed (SwiftX verification failed)</source>
+        <translation>%1/확인 됨 (SwiftTX 확인 실패)</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>상태</translation>
+    </message>
+    <message>
+        <source>, has not been successfully broadcast yet</source>
+        <translation>, 아직 성공적으로 브로드캐스트되지 않았습니다</translation>
+    </message>
+    <message numerus="yes">
+        <source>, broadcast through %n node(s)</source>
+        <translation><numerusform>, %n 노드를 통한 브로드캐스트</numerusform></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>날짜</translation>
+    </message>
+    <message>
+        <source>Source</source>
+        <translation>원본</translation>
+    </message>
+    <message>
+        <source>Generated</source>
+        <translation>생성 된</translation>
+    </message>
+    <message>
+        <source>From</source>
+        <translation>From</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <translation>unknown</translation>
+    </message>
+    <message>
+        <source>To</source>
+        <translation>대상</translation>
+    </message>
+    <message>
+        <source>own address</source>
+        <translation>내 주소</translation>
+    </message>
+    <message>
+        <source>watch-only</source>
+        <translation>읽기 전용</translation>
+    </message>
+    <message>
+        <source>label</source>
+        <translation>라벨</translation>
+    </message>
+    <message>
+        <source>Credit</source>
+        <translation>크레딧</translation>
+    </message>
+    <message numerus="yes">
+        <source>matures in %n more block(s)</source>
+        <translation><numerusform>%n 블록안에 생성됨</numerusform></translation>
+    </message>
+    <message>
+        <source>not accepted</source>
+        <translation>허용되지 않음</translation>
+    </message>
+    <message>
+        <source>Debit</source>
+        <translation>인출액</translation>
+    </message>
+    <message>
+        <source>Total debit</source>
+        <translation>총 인출액</translation>
+    </message>
+    <message>
+        <source>Total credit</source>
+        <translation>총 크레딧</translation>
+    </message>
+    <message>
+        <source>Transaction fee</source>
+        <translation>트랜잭션 수수료</translation>
+    </message>
+    <message>
+        <source>Net amount</source>
+        <translation>순수액</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>메세지</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>코멘트</translation>
+    </message>
+    <message>
+        <source>Transaction ID</source>
+        <translation>트랜잭션 ID</translation>
+    </message>
+    <message>
+        <source>Output index</source>
+        <translation>출력 인덱스</translation>
+    </message>
+    <message>
+        <source>Merchant</source>
+        <translation>상인</translation>
+    </message>
+    <message>
+        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>생성된 코인은 사용되기 전 %1 블록이 완료되야 합니다. 이 블록을 생성하면 네트워크에 브로드캐스팅되어 블록체인에 추가 됩니다. 체인이 실패한 경우 "승인되지 않음"으로 바뀌어 사용할 수 없습니다. 다른 노드가 당신과 겹쳐서 몇 초 이내 블록을 생성하면 때때로 이런 일이 발생할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Debug information</source>
+        <translation>디버그 정보</translation>
+    </message>
+    <message>
+        <source>Transaction</source>
+        <translation>트랜잭션</translation>
+    </message>
+    <message>
+        <source>Inputs</source>
+        <translation>입력</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>금액</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation>허용</translation>
+    </message>
+    <message>
+        <source>false</source>
+        <translation>거부</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionDescDialog</name>
+    <message>
+        <source>Transaction details</source>
+        <translation>트랜잭션 세부 정보</translation>
+    </message>
+    <message>
+        <source>This pane shows a detailed description of the transaction</source>
+        <translation>이 창은 트랜잭션에 대한 자세한 설명을 보여줍니다.</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionTableModel</name>
+    <message>
+        <source>Date</source>
+        <translation>날짜</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>분류</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>주소</translation>
+    </message>
+    <message numerus="yes">
+        <source>Open for %n more block(s)</source>
+        <translation><numerusform>%n 블럭 더 열기</numerusform></translation>
+    </message>
+    <message>
+        <source>Open until %1</source>
+        <translation>%1까지 열기</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>오프라인</translation>
+    </message>
+    <message>
+        <source>Unconfirmed</source>
+        <translation>미확인됨</translation>
+    </message>
+    <message>
+        <source>Confirming (%1 of %2 recommended confirmations)</source>
+        <translation>확인 중 (%2 중 %1 확인 중)</translation>
+    </message>
+    <message>
+        <source>Confirmed (%1 confirmations)</source>
+        <translation>확인 됨 (%1 확인)</translation>
+    </message>
+    <message>
+        <source>Conflicted</source>
+        <translation>충돌됨</translation>
+    </message>
+    <message>
+        <source>Immature (%1 confirmations, will be available after %2)</source>
+        <translation>완료되지 않음 (%1 확인이 %2 후에 가능합니다)</translation>
+    </message>
+    <message>
+        <source>This block was not received by any other nodes and will probably not be accepted!</source>
+        <translation>이 블록은 다른 노드에 의해 수신되지 않았으며 아마도 승인되지 않을 것입니다!</translation>
+    </message>
+    <message>
+        <source>Received with</source>
+        <translation>수신됨</translation>
+    </message>
+    <message>
+        <source>Masternode Reward</source>
+        <translation>마스터노드 보상 </translation>
+    </message>
+    <message>
+        <source>Received from</source>
+        <translation>수신됨</translation>
+    </message>
+    <message>
+        <source>Received via Obfuscation</source>
+        <translation>난독화를 통해 수신 됨</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Stake</source>
+        <translation>CRyptoCrowd stake</translation>
+    </message>
+    <message>
+        <source>zXCRC Stake</source>
+        <translation>zXCRC stake</translation>
+    </message>
+    <message>
+        <source>Obfuscation Denominate</source>
+        <translation>난독화 표시</translation>
+    </message>
+    <message>
+        <source>Obfuscation Collateral Payment</source>
+        <translation>난독화 보증 결제 </translation>
+    </message>
+    <message>
+        <source>Obfuscation Make Collateral Inputs</source>
+        <translation>난독화로 보증 입력</translation>
+    </message>
+    <message>
+        <source>Obfuscation Create Denominations</source>
+        <translation>난독화 표시 만들기</translation>
+    </message>
+    <message>
+        <source>Converted CRyptoCrowd to zXCRC</source>
+        <translation>CRyptoCrowd를 zXCRC로 변환</translation>
+    </message>
+    <message>
+        <source>Spent zXCRC</source>
+        <translation>zXCRC 사용</translation>
+    </message>
+    <message>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>zXCRC를 CRyptoCrowd로 받음</translation>
+    </message>
+    <message>
+        <source>Minted Change as zXCRC from zXCRC Spend</source>
+        <translation>zXCRC 전송후 남은 zXCRC로 잔돈 생성</translation>
+    </message>
+    <message>
+        <source>Converted zXCRC to CRyptoCrowd</source>
+        <translation>zXCRC를 CRyptoCrowd로 변환</translation>
+    </message>
+    <message>
+        <source>Anonymous (zXCRC Transaction)</source>
+        <translation>Anonymous (zXCRC 거래)</translation>
+    </message>
+    <message>
+        <source>Anonymous (zXCRC Stake)</source>
+        <translation>Anonymous (zXCRC 스테이킹)</translation>
+    </message>
+    <message>
+        <source>Sent to</source>
+        <translation>대상 전송</translation>
+    </message>
+    <message>
+        <source>Orphan Block - Generated but not accepted. This does not impact your holdings.</source>
+        <translation>고아 블록 - 생성되었지만 승인되지 않았습니다. 이것은 당신의 소유액에 영향을 주지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Payment to yourself</source>
+        <translation>자신에게 지불</translation>
+    </message>
+    <message>
+        <source>Mined</source>
+        <translation>채굴</translation>
+    </message>
+    <message>
+        <source>Obfuscated</source>
+        <translation>난독화</translation>
+    </message>
+    <message>
+        <source>watch-only</source>
+        <translation>읽기 전용</translation>
+    </message>
+    <message>
+        <source>(n/a)</source>
+        <translation>(n/a)</translation>
+    </message>
+    <message>
+        <source>Transaction status. Hover over this field to show number of confirmations.</source>
+        <translation>트랜잭션 상태. 이 영역에 마우스를 올리면 승인 수가 표시됩니다.</translation>
+    </message>
+    <message>
+        <source>Date and time that the transaction was received.</source>
+        <translation>트랜잭션이 수신 된 날짜와 시간.</translation>
+    </message>
+    <message>
+        <source>Type of transaction.</source>
+        <translation>트랜잭션 유형.</translation>
+    </message>
+    <message>
+        <source>Whether or not a watch-only address is involved in this transaction.</source>
+        <translation>읽기 전용 주소 트랜잭션 포함 여부.</translation>
+    </message>
+    <message>
+        <source>Destination address of transaction.</source>
+        <translation>트랜잭션 목적지 주소.</translation>
+    </message>
+    <message>
+        <source>Amount removed from or added to balance.</source>
+        <translation>잔액에서 제거되거나 추가된 금액.</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionView</name>
+    <message>
+        <source>All</source>
+        <translation>전체</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>오늘</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>이번 주</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>이번 달</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>지난 달</translation>
+    </message>
+    <message>
+        <source>This year</source>
+        <translation>올해</translation>
+    </message>
+    <message>
+        <source>Range...</source>
+        <translation>범위...</translation>
+    </message>
+    <message>
+        <source>Most Common</source>
+        <translation>기본적인</translation>
+    </message>
+    <message>
+        <source>Received with</source>
+        <translation>수신 됨</translation>
+    </message>
+    <message>
+        <source>Sent to</source>
+        <translation>대상 전송</translation>
+    </message>
+    <message>
+        <source>To yourself</source>
+        <translation>자신에게</translation>
+    </message>
+    <message>
+        <source>Mined</source>
+        <translation>채굴</translation>
+    </message>
+    <message>
+        <source>Minted</source>
+        <translation>발행</translation>
+    </message>
+    <message>
+        <source>Masternode Reward</source>
+        <translation>마스터노드 보상 </translation>
+    </message>
+    <message>
+        <source>Zerocoin Mint</source>
+        <translation>제로코인 생성</translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend</source>
+        <translation>제로코인 전송</translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend to Self</source>
+        <translation>자신에게 제로코인 전송</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation>기타</translation>
+    </message>
+    <message>
+        <source>Enter address or label to search</source>
+        <translation>검색 할 주소 또는 라벨 입력</translation>
+    </message>
+    <message>
+        <source>Min amount</source>
+        <translation>최소 금액</translation>
+    </message>
+    <message>
+        <source>Copy address</source>
+        <translation>주소 복사</translation>
+    </message>
+    <message>
+        <source>Copy label</source>
+        <translation>라벨 복사</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>금액 복사</translation>
+    </message>
+    <message>
+        <source>Copy transaction ID</source>
+        <translation>트랜잭션 ID 복사</translation>
+    </message>
+    <message>
+        <source>Edit label</source>
+        <translation>라벨 수정</translation>
+    </message>
+    <message>
+        <source>Show transaction details</source>
+        <translation>트랜잭션 세부 정보 표시</translation>
+    </message>
+    <message>
+        <source>Export Transaction History</source>
+        <translation>트랜잭션 내역 내보내기</translation>
+    </message>
+    <message>
+        <source>Comma separated file (*.csv)</source>
+        <translation>콤마로 구분 된 파일 (*.csv)</translation>
+    </message>
+    <message>
+        <source>Confirmed</source>
+        <translation>확정</translation>
+    </message>
+    <message>
+        <source>Watch-only</source>
+        <translation>읽기 전용</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>날짜</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>분류</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>라벨</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>주소</translation>
+    </message>
+    <message>
+        <source>ID</source>
+        <translation>ID</translation>
+    </message>
+    <message>
+        <source>Exporting Failed</source>
+        <translation>내보내기 실패</translation>
+    </message>
+    <message>
+        <source>There was an error trying to save the transaction history to %1.</source>
+        <translation>트랜잭션 기록을 %1로 저장하는 동안 오류가 발생하였습니다.</translation>
+    </message>
+    <message>
+        <source>Exporting Successful</source>
+        <translation>내보내기 성공</translation>
+    </message>
+    <message>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>zXCRC를 CRyptoCrowd로 받음</translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend, Change in zXCRC</source>
+        <translation>제로코인 전송, 잔돈은 zXCRC</translation>
+    </message>
+    <message>
+        <source>The transaction history was successfully saved to %1.</source>
+        <translation>트랜잭션 기록이 %1에 성공적으로 저장되었습니다.</translation>
+    </message>
+    <message>
+        <source>Range:</source>
+        <translation>범위:</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>대상</translation>
+    </message>
+</context>
+<context>
+    <name>UnitDisplayStatusBarControl</name>
+    <message>
+        <source>Unit to show amounts in. Click to select another unit.</source>
+        <translation>금액을 표시할 단위. 다른 단위를 선택하려면 클릭해주세요.</translation>
+    </message>
+</context>
+<context>
+    <name>WalletFrame</name>
+    <message>
+        <source>No wallet has been loaded.</source>
+        <translation>지갑이 로드되지 않았습니다.</translation>
+    </message>
+</context>
+<context>
+    <name>WalletModel</name>
+    <message>
+        <source>Send Coins</source>
+        <translation>코인 전송 </translation>
+    </message>
+    <message>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>
+        <translation>SwiftTX는 아직 높은 값을 전송하는 것을 지원하지 않습니다. 트랜잭션은 현재 %1 CRyptoCrowd로 제한됩니다.</translation>
+    </message>
+</context>
+<context>
+    <name>WalletView</name>
+    <message>
+        <source>HISTORY</source>
+        <translation>거래내역</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>내보내기</translation>
+    </message>
+    <message>
+        <source>Export the data in the current tab to a file</source>
+        <translation>현재 선택된 탭의 데이터를 파일로 내보내기</translation>
+    </message>
+    <message>
+        <source>Selected amount:</source>
+        <translation>선택한 금액:</translation>
+    </message>
+    <message>
+        <source>Backup Wallet</source>
+        <translation>지갑 백업</translation>
+    </message>
+    <message>
+        <source>Wallet Data (*.dat)</source>
+        <translation>지갑 데이터 (*.dat)</translation>
+    </message>
+</context>
+<context>
+    <name>zXCRCControlDialog</name>
+    <message>
+        <source>Select zXCRC to Spend</source>
+        <translation>사용할 zXCRC 선택</translation>
+    </message>
+    <message>
+        <source>Quantity</source>
+        <translation>수량</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
+    </message>
+    <message>
+        <source>Select/Deselect All</source>
+        <translation>전체 선택 / 해제</translation>
+    </message>
+    <message>
+        <source>Is Spendable</source>
+        <translation>전송가능한 코인수</translation>
+    </message>
+</context>
+<context>
+    <name>cryptocrowd-core</name>
+    <message>
+        <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
+        <translation>(1 = tx 메타 데이터 유지 예 : 계정 소유자 및 지불 요청 정보, 2 = tx 메타 데이터 삭제)</translation>
+    </message>
+    <message>
+        <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
+        <translation>지정된 소스에서 JSON-RPC 연결을 허용하십시오. 단일 IP (예 : 1.2.3.4), 네트워크/넷마스크 (예 : 1.2.3.4/255.255.255.0) 또는 네트워크 / CIDR (예 : 1.2.3.4/24)에 대해 &lt;ip&gt; 가 유효합니다. 이 옵션은 여러번 지정할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
+        <translation>주어진 주소를 지정하고 항상 수신하도록 하십시오. [host]:IPv6 포트 표기법 사용</translation>
+    </message>
+    <message>
+        <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
+        <translation>주어진 주소에 바인딩하고 피어 연결을 허용하십시오. IPv6 [host]:port 표기법 사용</translation>
+    </message>
+    <message>
+        <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>
+        <translation>JSON-RPC연결 수신을 위해 주어진 주소를 지정합니다. [host]: IPv6 포트 표기법 사용. 이 옵션은 여러번 지정할 수 있습니다. (기본값 : 모든 인터페이스에 지정)</translation>
+    </message>
+    <message>
+        <source>Calculated accumulator checkpoint is not what is recorded by block index</source>
+        <translation>계산된 누산기 체크포인트는 블록 인덱스에 의해 기록되는 것이 아닙니다.</translation>
+    </message>
+    <message>
+        <source>Cannot obtain a lock on data directory %s. CRyptoCrowd Core is probably already running.</source>
+        <translation>        &lt;translation&gt;잠겨진 데이터 디렉토리 %s 를 가져올 수 없습니다. CRyptoCrowd Core는 이미 실행 중입니다.</translation>
+    </message>
+    <message>
+        <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
+        <translation>최종 budget 투표 자동 작동 값을 변경합니다. mode=auto: 오직 내가 생성한 budget과 최종 budget이 정확히 일치할때 투표합니다. (string, 기본값: 자동)</translation>
+    </message>
+    <message>
+        <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
+        <translation>연속적인 무료 트랜잭션을 분당 &lt;n&gt;*1000 bytes로 제한합니다. (기본값:%u)</translation>
+    </message>
+    <message>
+        <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
+        <translation>umask 077대신 시스템 기본 권한으로 새로운 파일들을 만듭니다. (지갑 기능이 비활성화일 때만 효과가 발휘됩니다)</translation>
+    </message>
+    <message>
+        <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
+        <translation>지갑의 모든 트랜잭션들을 삭제하고 오직 블록체인을 통한 트랜잭션 부분들만 복구합니다 -시작 시 다시 스캔</translation>
+    </message>
+    <message>
+        <source>Delete all zerocoin spends and mints that have been recorded to the blockchain database and reindex them (0-1, default: %u)</source>
+        <translation>Delete all zerocoin spends and mints that have been recorded to the blockchain database and reindex them (0-1, default: %u)</translation>
+    </message>
+    <message>
+        <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
+        <translation>MIT 소프트웨어 라이센스에 따라 배포, 첨부 파일 COPYING 또는 &lt;http://www.opensource.org/licenses/mit-license.php&gt; 를 참조하십시오.</translation>
+    </message>
+    <message>
+        <source>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</source>
+        <translation>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</translation>
+    </message>
+    <message>
+        <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
+        <translation>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</translation>
+    </message>
+    <message>
+        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>
+        <translation>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</translation>
+    </message>
+    <message>
+        <source>Enable spork administration functionality with the appropriate private key.</source>
+        <translation>올바른 개인키로 spork 관리 기능을 사용 가능</translation>
+    </message>
+    <message>
+        <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>
+        <translation>리그레션 테스트에 들어갑니다. 특수 체인을 사용하며 블록들을 바로 푸는 것이 가능합니다.</translation>
+    </message>
+    <message>
+        <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
+        <translation>오류: 오는 연결들을 수신하는데 실패했습니다.(수신 중 오류 반환됨 %s)</translation>
+    </message>
+    <message>
+        <source>Error: The transaction is larger than the maximum allowed transaction size!</source>
+        <translation>Error: 트랜젝션의 크기가 혀용된 크기를 넘었습니다.</translation>
+    </message>
+    <message>
+        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
+        <translation>오류 : 지원하지 않는 인수 -socks가 발견되었습니다. SOCKS 버전 설정은 더 이상 가능하지 않으며 SOCKS5 프록시만 지원합니다.</translation>
+    </message>
+    <message>
+        <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
+        <translation>관련된 경고 또는 포크가 길어질 경우 명령을 실행하십시오. (명령 내 %s 는 메시지로 대체 되었습니다)</translation>
+    </message>
+    <message>
+        <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
+        <translation>지갑 트랜잭션이 변경될 경우 명령을 실행하십시오.(명령 내 %s 는 TxID로 대체 되었습니다)</translation>
+    </message>
+    <message>
+        <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
+        <translation>최고 블록이 변경될 경우 명령을 실행하십시오 (명령 내 %s 는 블록 해시로 대체 되었습니다)</translation>
+    </message>
+    <message>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>이것보다 작은 수수료 (XCRC/kB)는 중계 수수료가 없는 것으로 간주됩니다 (기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>이것보다 작은 수수료 (XCRC/kB)는 트랜잭션 생성 수수료가 없는 것으로 간주됩니다 (기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
+        <translation>메모리 풀에서 디스크로 매 &lt;n&gt; 메가바이트만큼 데이터베이스 활동 플러쉬를 기록합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>
+        <translation>미확인 표시된 출력들을 찾고 계속하기 위한 확인을 받기 전까지 기다립니다.</translation>
+    </message>
+    <message>
+        <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
+        <translation>paytxfee가 설정되어 있지 않는 경우 충분한 수수료를 넣어야만 평균이내 n블록들을 확인하고 트랜잭션를 시작합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
+        <translation>이 모드에서 -genproclimit는 즉시 생성되는 블록 수를 제어합니다.</translation>
+    </message>
+    <message>
+        <source>Insufficient or insufficient confirmed funds, you might need to wait a few minutes and try again.</source>
+        <translation>확정 된 자금이 불충분하거나 부족한 경우 몇 분 후에 다시 시도하십시오.</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
+        <translation>-maxtxfee=&lt;amount&gt;에 대한 잘못된 금액: '%s' (트랜잭션 정지를 막을려면 적어도 %s의 minrelay 수수료가 있어야 합니다)</translation>
+    </message>
+    <message>
+        <source>Keep the specified amount available for spending at all times (default: 0)</source>
+        <translation>항상 송금할수 있도록 지정된 수량 유지 (기본값 : 0)</translation>
+    </message>
+    <message>
+        <source>Log transaction priority and fee per kB when mining blocks (default: %u)</source>
+        <translation>블록을 채굴 할 때 트랜잭션 우선 순위 및 kB 당 수수료를 기록합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>
+        <translation>getrawtransaction rpc 호출에서 사용되는 전체 트랜잭션 색인를 유지보수합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
+        <translation>데이터 캐리어 내에서 우리가 중계하고 채굴하는 트랜잭션 데이터의 최대 사이즈 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Maximum total fees to use in a single wallet transaction, setting too low may abort large transactions (default: %s)</source>
+        <translation>단일 지갑 트랜잭션에서 사용하기 위한 최대 전체 수수료, 너무 낮은 값이 설정되어 있으면 큰 트랜잭션이 유실될 수 있습니다 (기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
+        <translation>재연결로 인해 피어가 오작동을 유지하는 초 단위 시간 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Obfuscation uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
+        <translation>난독화는 정확한 금액을 사용하여 자금을 송금하기 때문에 더 많은 코인을 익명화해야 할 수도 있습니다.</translation>
+    </message>
+    <message>
+        <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
+        <translation>디버깅 정보 출력 (기본값: %u, &lt;category&gt; 공급은 선택입니다)</translation>
+    </message>
+    <message>
+        <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
+        <translation>DNS 검색을 통한 피어 주소 쿼리, 주소가 부족할 경우 (-connect 아닌 이상 기본값:1)</translation>
+    </message>
+    <message>
+        <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>
+        <translation>모든 프록시 연결마다 자격 증명 무작위화. 이렇게하면 Tor 스트림을 격리할수 있습니다. (기본값 : %u)</translation>
+    </message>
+    <message>
+        <source>Require high priority for relaying free or low-fee transactions (default:%u)</source>
+        <translation>무료 또는 낮은 수수료 트랜잭션를 중계하는데 높은 우선 순위가 필요합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Send trace/debug info to console instead of debug.log file (default: %u)</source>
+        <translation>debug.log 파일 대신 추적/디버그 정보를 콘솔에 보냅니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
+        <translation>최우선/낮은 수수료 트랜잭션의 최대 크기를 바이트 단위로 설정합니다 (기본값: %d)</translation>
+    </message>
+    <message>
+        <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
+        <translation>스크립트 허용 스레드의 개수를 설정합니다. (%u 에서 %d, 0 = 자동, &lt;0 = 충분한 코어들을 남겨두세요, 기본값: %d)</translation>
+    </message>
+    <message>
+        <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
+        <translation>활성화 시에 코인 생성을 위한 스레드 숫자를 설정합니다 (-1= 모든 코어, 기본값: %d)</translation>
+    </message>
+    <message>
+        <source>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</source>
+        <translation>성공적으로 잠긴 트랜잭션에 대한 확인을 N으로 나타냅니다 (0-9999, 기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Support filtering of blocks and transaction with bloom filters (default: %u)</source>
+        <translation>bloom필터를 사용한 블록 및 트랜잭션 필터링 지원 (기본값 : %u)</translation>
+    </message>
+    <message>
+        <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>
+        <translation>이 제품은 OpenSSL이 개발한 Open SSL 툴킷 &lt;https://www.openssl.org/&gt; 에서 사용하기 위한 프로젝트 소프트웨어, Eric Young이 개발한 암호화 소프트웨어, Thomas Bernard가 개발한 UPnP 소프트웨어가 포함되어 있습니다.</translation>
+    </message>
+    <message>
+        <source>Unable to bind to %s on this computer. CRyptoCrowd Core is probably already running.</source>
+        <translation>이 컴퓨터를 %s 로 지정하는것은 불가능합니다. CRyptoCrowd Core는 이미 실행 중입니다.</translation>
+    </message>
+    <message>
+        <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
+        <translation>이 트랜잭션를 위해 난독화 표기된 충분한 금액을 찾을 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
+        <translation>이 트랜잭션를 위해 난독화 표기가 안된 충분한 금액을 찾을 수 없습니다. 10000 CRyptoCrowd과 일치하지 않음.</translation>
+    </message>
+    <message>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
+        <translation>트랜잭션에 대한 충분한 금액을 찾을 수 없습니다. 10000 CRyptoCrowd와 같지 않음</translation>
+    </message>
+    <message>
+        <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
+        <translation>Tor hidden services를 통하여 피어에게 도달하기 위해 독립된 SOCKS5 프록시를 사용합니다(기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Warning: -maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>
+        <translation>경고: -maxrtxfee가 매우 높게 설정 되었습니다! 이렇게 큰 수수료는 단 한번의 단일 트랜잭션에 지불될 수도 있습니다.</translation>
+    </message>
+    <message>
+        <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
+        <translation>경고 : -paytxfee가 매우 높게 설정되었습니다! 이것은 전송할 경우 지불 할 트랜잭션 수수료입니다.</translation>
+    </message>
+    <message>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRyptoCrowd Core will not work properly.</source>
+        <translation>경고: 컴퓨터의 날짜와 시간이 올바르게 설정되어 있는지 확인해 주세요! 만일 시계가 잘못되어 있다면 CRyptoCrowd 코어는 정상적으로 작동하지 않을 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
+        <translation>경고: 네트워크가 완전히 동의하지 않는 것 같습니다! 일부 마이너에 문제가 발생한 것으로 보입니다.</translation>
+    </message>
+    <message>
+        <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
+        <translation>경고: 우리의 피어들과 완벽하게 일치하지 않습니다! 업그레이드 또는 다른 노드들의 업그레이드가 필요할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
+        <translation>경고 : wallet.dat을 읽는 중 오류가 발생했습니다! 모든 키가 올바르게 읽혀 지지만 트랜잭션 데이터 또는 주소록 항목이 누락되었거나 올바르지 않을 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
+        <translation>경고 : wallet.dat에 손상된 데이터가 복구되었습니다. 본래 wallet.dat은 wallet으로 저장되었습니다. {timestamp}.bak %s; 잔액 또는 트랜잭션가 올바르지 않은 경우 백업에서 복원해야합니다.</translation>
+    </message>
+    <message>
+        <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
+        <translation>주어진 넷마스크 또는 IP 주소로부터 화이트리스트 피어가 연결되고 있습니다. 여러 번 지정될 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
+        <translation>화이트리스트 피어들은 DoS 밴 될 수 없으며 그들이 이미 메모리 풀에 있을지라도 그들의 트랜잭션는 항상 중계됩니다. 예를들면 게이트웨이 같은 것에 유용</translation>
+    </message>
+    <message>
+        <source>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</source>
+        <translation>환경설정에서 masternodeprivkey를 지정해야 합니다. 도움말을 참조하십시오.</translation>
+    </message>
+    <message>
+        <source>(51472 could be used only on mainnet)</source>
+        <translation>(51472 은 메인넷에서만 사용될 수 있습니다)</translation>
+    </message>
+    <message>
+        <source>(default: %s)</source>
+        <translation>(기본값: %s)</translation>
+    </message>
+    <message>
+        <source>(default: 1)</source>
+        <translation>(기본값: 1)</translation>
+    </message>
+    <message>
+        <source>(must be 51472 for mainnet)</source>
+        <translation>(메인넷 일경우 51472)</translation>
+    </message>
+    <message>
+        <source>Accept command line and JSON-RPC commands</source>
+        <translation> command line 과 JSON-RPC 적용</translation>
+    </message>
+    <message>
+        <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
+        <translation>외부에서의 접속을 허용 (1 -프록시 또는 -연결이 없을 경우 기본값)</translation>
+    </message>
+    <message>
+        <source>Accept public REST requests (default: %u)</source>
+        <translation>공개 REST 요청 수락(기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Add a node to connect to and attempt to keep the connection open</source>
+        <translation>연결할 노드를 추가하고 계속해서 연결을 유지하십시오.</translation>
+    </message>
+    <message>
+        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
+        <translation>-addnode, -seednode, -connect을 위해 DNS 조회를 허용하십시오.</translation>
+    </message>
+    <message>
+        <source>Already have that input.</source>
+        <translation>이미 연결 중입니다.</translation>
+    </message>
+    <message>
+        <source>Always query for peer addresses via DNS lookup (default: %u)</source>
+        <translation>피어 주소에게 DNS 조회를 통한 지속적인 정보 수신 요청을 합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Attempt to recover private keys from a corrupt wallet.dat</source>
+        <translation>손상된 wallet.dat으로 부터 개인 키 복구를 시도합니다.</translation>
+    </message>
+    <message>
+        <source>Automatically create Tor hidden service (default: %d)</source>
+        <translation>자동 Tor 히든 서버스 생성 (기본값: %d)</translation>
+    </message>
+    <message>
+        <source>Block creation options:</source>
+        <translation>블록 생성 옵션:</translation>
+    </message>
+    <message>
+        <source>Calculating missing accumulators...</source>
+        <translation>누락된 누산기 계산중...</translation>
+    </message>
+    <message>
+        <source>Can't denominate: no compatible inputs left.</source>
+        <translation>표시할 수 없음: 남아있는 호환된 연결이 없습니다.</translation>
+    </message>
+    <message>
+        <source>Can't find random Masternode.</source>
+        <translation>임의의 마스터노드를 찾을 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Can't mix while sync in progress.</source>
+        <translation>동기화가 진행 중일 때에는 믹싱을 할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Cannot downgrade wallet</source>
+        <translation>지갑을 다운그레이드 할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Cannot resolve -bind address: '%s'</source>
+        <translation>주소를 변환할 수 없습니다 주소 -bind: '%s'</translation>
+    </message>
+    <message>
+        <source>Cannot resolve -externalip address: '%s'</source>
+        <translation>주소를 변환할 수 없습니다 -externalip 주소: '%s'</translation>
+    </message>
+    <message>
+        <source>Cannot resolve -whitebind address: '%s'</source>
+        <translation>해결할 수 없습니다 -whitebind 주소: '%s'</translation>
+    </message>
+    <message>
+        <source>Cannot write default address</source>
+        <translation>기본 주소를 사용할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Collateral not valid.</source>
+        <translation>Collateral이 유효하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Connect only to the specified node(s)</source>
+        <translation>지정된 노드(s)로만 연결이 가능합니다.</translation>
+    </message>
+    <message>
+        <source>Connect through SOCKS5 proxy</source>
+        <translation>SOCKS5 프록시를 통해 연결합니다</translation>
+    </message>
+    <message>
+        <source>Connect to a node to retrieve peer addresses, and disconnect</source>
+        <translation>노드에 연결하여 피어 주소를 검색하고 연결을 끊습니다</translation>
+    </message>
+    <message>
+        <source>Connection options:</source>
+        <translation>연결 옵션:</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <translation>Copyright (C) 2009-%i 비트코인 Core 개발자들</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
+        <translation>Copyright (C) 2014-%i The Dash Core 개발자들</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2015-%i The CRyptoCrowd Core Developers</source>
+        <translation>Copyright (C) 2015-%i The CRyptoCrowd Core 개발자</translation>
+    </message>
+    <message>
+        <source>Corrupted block database detected</source>
+        <translation>손상된 블록 데이터베이스가 발견되었습니다</translation>
+    </message>
+    <message>
+        <source>Could not parse masternode.conf</source>
+        <translation>masternode.conf 를 분석할 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Debugging/Testing options:</source>
+        <translation>디버깅/테스팅 옵션:</translation>
+    </message>
+    <message>
+        <source>Delete blockchain folders and resync from scratch</source>
+        <translation>블록 체인 폴더 삭제 및 처음부터 다시 동기화</translation>
+    </message>
+    <message>
+        <source>Disable OS notifications for incoming transactions (default: %u)</source>
+        <translation>거래시 수신 알림창 해제  (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Disable safemode, override a real safe mode event (default: %u)</source>
+        <translation>안전모드 비활성화, 실시간 안전모드 이벤트 중단 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
+        <translation>자신의 IP 주소를 찾습니다 (기본값: 1 수신중이거나 -외부아이피가 없을 경우)</translation>
+    </message>
+    <message>
+        <source>Do not load the wallet and disable wallet RPC calls</source>
+        <translation>지갑 RPC 호출을 비활성화하고 지갑을 불러오지 마시오</translation>
+    </message>
+    <message>
+        <source>Do you want to rebuild the block database now?</source>
+        <translation>블록 데이터베이스를 다시 작성하시기를 원하십니까?</translation>
+    </message>
+    <message>
+        <source>Done loading</source>
+        <translation>로딩 완료</translation>
+    </message>
+    <message>
+        <source>Enable automatic Zerocoin minting (0-1, default: %u)</source>
+        <translation>자동 제로코인 생성 (0-1, 기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Enable publish hash transaction (locked via SwiftX) in &lt;address&gt;</source>
+        <translation>&lt;address&gt; 에서 해시 전송 게시 가능 (SwiftTX로 설정된)</translation>
+    </message>
+    <message>
+        <source>Enable publish raw transaction (locked via SwiftX) in &lt;address&gt;</source>
+        <translation>&lt;address&gt;에서 Raw 트랜잭션 게시 지원 (SwiftTX를 통해 잠겨진)</translation>
+    </message>
+    <message>
+        <source>Enable the client to act as a masternode (0-1, default: %u)</source>
+        <translation>클라이언트가 마스터노드로 작동하는 것을 활성화 (0-1, 기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Entries are full.</source>
+        <translation>항목이 가득 찼습니다.</translation>
+    </message>
+    <message>
+        <source>Error connecting to Masternode.</source>
+        <translation>Masternode에 연결하는 중 오류가 발생했습니다.</translation>
+    </message>
+    <message>
+        <source>Error initializing block database</source>
+        <translation>블록 데이터베이스를 초기화하는 중 오류가 발생했습니다.</translation>
+    </message>
+    <message>
+        <source>Error initializing wallet database environment %s!</source>
+        <translation>지갑 데이터베이스 환경  %s 을 초기화하는 중 오류가 발생했습니다!</translation>
+    </message>
+    <message>
+        <source>Error loading block database</source>
+        <translation>블록 데이터베이스를 불러오는 중 오류가 발생했습니다.</translation>
+    </message>
+    <message>
+        <source>Error loading wallet.dat</source>
+        <translation>wallet.dat을 불러오는 중 오류가 발생했습니다.</translation>
+    </message>
+    <message>
+        <source>Error loading wallet.dat: Wallet corrupted</source>
+        <translation>wallet.dat을 불러오는 중 오류가 발생했습니다: 지갑 손상됨</translation>
+    </message>
+    <message>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>
+        <translation>wallet.dat를 로드하는 중 오류가 발생했습니다. 지갑에 최신 버전의 CRyptoCrowd 코어가 필요합니다.</translation>
+    </message>
+    <message>
+        <source>Error opening block database</source>
+        <translation>블록 데이터베이스를 여는 중 오류가 발생했습니다.</translation>
+    </message>
+    <message>
+        <source>Error reading from database, shutting down.</source>
+        <translation>데이터베이스에서서 읽어오는 중 오류가 발생했습니다. 종료합니다.</translation>
+    </message>
+    <message>
+        <source>Error recovering public key.</source>
+        <translation>공개 키를 복구하는 중 오류가 발생했습니다.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>에러</translation>
+    </message>
+    <message>
+        <source>Error: A fatal internal error occured, see debug.log for details</source>
+        <translation>오류 : 내부에서 치명적인 오류가 발생했습니다. 자세한 내용은 debug.log를 참조하십시오</translation>
+    </message>
+    <message>
+        <source>Error: Can't select current denominated inputs</source>
+        <translation>오류 : 현재 표시된 입력을 선택할 수 없습니다</translation>
+    </message>
+    <message>
+        <source>Error: Disk space is low!</source>
+        <translation>오류 : 디스크 공간이 부족합니다!</translation>
+    </message>
+    <message>
+        <source>Error: Unsupported argument -tor found, use -onion.</source>
+        <translation>오류 : 지원하지 않는 인수 -tor가 발견되었습니다. -onion을 사용하십시오.</translation>
+    </message>
+    <message>
+        <source>Error: Wallet locked, unable to create transaction!</source>
+        <translation>오류 : 지갑이 잠겼습니다, 트랜잭션을 생성할 수 없습니다!</translation>
+    </message>
+    <message>
+        <source>Error: You already have pending entries in the Obfuscation pool</source>
+        <translation>오류 : 이미 난독화 그룹에 보류중인 항목들이 있습니다.</translation>
+    </message>
+    <message>
+        <source>Failed to calculate accumulator checkpoint</source>
+        <translation>축 압기 체크 포인트를 계산하지 못했습니다.</translation>
+    </message>
+    <message>
+        <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
+        <translation>어떠한 포트에서도 수신하는 것에 실패했습니다. 원하신다면 -listen=0 을 사용하십시오.</translation>
+    </message>
+    <message>
+        <source>Failed to read block</source>
+        <translation>블록을 받아오는데 실패했습니다.</translation>
+    </message>
+    <message>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>당신이 보내는 트랜잭션에 추가 할 수수료 (XCRC/kB) (기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Finalizing transaction.</source>
+        <translation>트랜잭션 완료.</translation>
+    </message>
+    <message>
+        <source>Force safe mode (default: %u)</source>
+        <translation>강제 안전 모드 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Found enough users, signing ( waiting %s )</source>
+        <translation>충분한 사용자를 찾았습니다, 서명 중 ( %s 기다리는 중 )</translation>
+    </message>
+    <message>
+        <source>Found enough users, signing ...</source>
+        <translation>충분한 사용자를 찾았습니다, 서명 중 ...</translation>
+    </message>
+    <message>
+        <source>Generate coins (default: %u)</source>
+        <translation>코인 생성 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>How many blocks to check at startup (default: %u, 0 = all)</source>
+        <translation>시작할 때 검사할 블록의 수 (기본값: %u, 0=모두)</translation>
+    </message>
+    <message>
+        <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
+        <translation>&lt;category&gt;가 제공되지 않으면, 모든 디버깅 정보를 출력합니다.</translation>
+    </message>
+    <message>
+        <source>Importing...</source>
+        <translation>가져오는 중...</translation>
+    </message>
+    <message>
+        <source>Imports blocks from external blk000??.dat file</source>
+        <translation>내부에 blk000??.dat 파일로부터 블록들을 가져옴</translation>
+    </message>
+    <message>
+        <source>Include IP addresses in debug output (default: %u)</source>
+        <translation>디버그 출력에 IP 주소를 포함합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Incompatible mode.</source>
+        <translation>호환되지 않는 모드.</translation>
+    </message>
+    <message>
+        <source>Incompatible version.</source>
+        <translation>호환되지 않는 버전.</translation>
+    </message>
+    <message>
+        <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
+        <translation>잘못되었거나 블록을 찾지 못하였습니다. 네트워크에 대한 잘못된 데이터 디렉토리 문제?</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>정보</translation>
+    </message>
+    <message>
+        <source>Initialization sanity check failed. CRyptoCrowd Core is shutting down.</source>
+        <translation>초기화 정확성 검사에 실패 했습니다. CRyptoCrowd Core가 종료됩니다.</translation>
+    </message>
+    <message>
+        <source>Input is not valid.</source>
+        <translation>입력이 올바르지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Insufficient funds</source>
+        <translation>잔액이 충분하지 않음</translation>
+    </message>
+    <message>
+        <source>Insufficient funds.</source>
+        <translation>충분하지 않은 금액.</translation>
+    </message>
+    <message>
+        <source>Invalid -onion address or hostname: '%s'</source>
+        <translation>잘못된 -onion 주소거나 호스트네임 : '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
+        <translation>-maxtxfee=&lt;amount&gt; 에 대한 유효하지 않은 값: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
+        <translation>-minrelaytxfee=&lt;amount&gt;; 에 대한 유효하지 않은 값: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
+        <translation>-mintxfee=&lt;amount&gt;; 에 대한 유효하지 않은 값: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
+        <translation>-paytxfee=&lt;amount&gt; 에 대한 유효하지 않은 값: '%s' (적어도 %s 가 필요합니다)</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
+        <translation>-paytxfee=&lt;amount&gt; 에 대한 유효하지 않은 값: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
+        <translation>-reservebalance=&lt;amount&gt;에 대한 금액이 유효하지 않은 값</translation>
+    </message>
+    <message>
+        <source>Invalid amount</source>
+        <translation>잘못된 수량</translation>
+    </message>
+    <message>
+        <source>Invalid masternodeprivkey. Please see documenation.</source>
+        <translation>마스터노드 개인 키가 잘못되었습니다. 설명서를 참조하십시오.</translation>
+    </message>
+    <message>
+        <source>Invalid netmask specified in -whitelist: '%s'</source>
+        <translation>-whitelist: '%s' 에 지정된 넷마스크가 유효하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Invalid port detected in masternode.conf</source>
+        <translation>masternode.conf 에서 유효하지 않은 포트가 감지되었습니다</translation>
+    </message>
+    <message>
+        <source>Invalid private key.</source>
+        <translation>유효하지 않은 개인 키입니다.</translation>
+    </message>
+    <message>
+        <source>Invalid script detected.</source>
+        <translation>유효하지 않은 스크립트가 발견되었습니다.</translation>
+    </message>
+    <message>
+        <source>Percentage of automatically minted Zerocoin  (1-100, default: %u)</source>
+        <translation>자동생성 zXCRC 비율  (1-100, default: %u)</translation>
+    </message>
+    <message>
+        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>
+        <translation>CRyptoCrowd 및 zXCRC 공급량 다시 색인</translation>
+    </message>
+    <message>
+        <source>Reindexing zerocoin database...</source>
+        <translation>제로코인 데이타베이스 재색인</translation>
+    </message>
+    <message>
+        <source>Reindexing zerocoin failed</source>
+        <translation>제로코인 재 인덱싱 실패</translation>
+    </message>
+    <message>
+        <source>Selected coins value is less than payment target</source>
+        <translation>지불대상보다 적은 코인 선택됨</translation>
+    </message>
+    <message>
+        <source>SwiftX options:</source>
+        <translation>SwiftX 옵션:</translation>
+    </message>
+    <message>
+        <source>This is a pre-release test build - use at your own risk - do not use for staking or merchant applications!</source>
+        <translation>이것은 사전 릴리스 테스트 빌드입니다 - 사용상 책임은 귀하에게 있습니다. - staking이나 상업적인 용도로는 절대 사용하지 마십시오!</translation>
+    </message>
+    <message>
+        <source> mints deleted
+</source>
+        <translation>생성 삭제
+</translation>
+    </message>
+    <message>
+        <source> mints updated, </source>
+        <translation>생성 업데이드</translation>
+    </message>
+    <message>
+        <source> unconfirmed transactions removed
+</source>
+        <translation>미확인된 거래 삭제됨
+</translation>
+    </message>
+    <message>
+        <source>Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>CRyptoCrowd의 모든 특정 기능들을 비활성화합니다(마스터노드, 난독화, SwiftTX, Budgeting) (0-1, 기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
+        <translation>swiftTX 활성화, 잠긴 트랜잭션들에 대한 확인 표시 (bool, 기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
+        <translation>에러 : 거래가 거부되었습니다. 예를 들어 다른 사본 wallet.dat에서 코인을 사용했다면 2중 사용으로 인식될수 있습니다. 혹은, 일부가 이미 소비 된 경우에 이런 일이 발생할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
+        <translation>에러 :이 거래에는 전송량, 복잡성 또는 최근에 받은 자금의 사용등으로 인해 적어도 %s의 거래 수수료가 필요합니다!</translation>
+    </message>
+    <message>
+        <source>Error: Unsupported argument -checklevel found. Checklevel must be level 4.</source>
+        <translation>에러 : 지원하지않는 argument -checklevel 발견된.  Checklevel는 레벨 4이어야 합니다.</translation>
+    </message>
+    <message>
+        <source>Execute command when the best block changes and its size is over (%s in cmd is replaced by block hash, %d with the block size)</source>
+        <translation>Execute command when the best block changes and its size is over (%s in cmd is replaced by block hash, %d with the block size)</translation>
+    </message>
+    <message>
+        <source>Failed to find coin set amongst held coins with less than maxNumber of Spends</source>
+        <translation>Failed to find coin set amongst held coins with less than maxNumber of Spends</translation>
+    </message>
+    <message>
+        <source>In rare cases, a spend with 7 coins exceeds our maximum allowable transaction size, please retry spend using 6 or less coins</source>
+        <translation>In rare cases, a spend with 7 coins exceeds our maximum allowable transaction size, please retry spend using 6 or less coins</translation>
+    </message>
+    <message>
+        <source>Preferred Denomination for automatically minted Zerocoin  (1/5/10/50/100/500/1000/5000), 0 for no preference. default: %u)</source>
+        <translation>자동생성 제로코인 선호 디노미네이션 (1/5/10/50/100/500/1000/5000) 0사용안됨, 기본값 : %u)</translation>
+    </message>
+    <message>
+        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</translation>
+    </message>
+    <message>
+        <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
+        <translation>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</translation>
+    </message>
+    <message>
+        <source>SwiftX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</source>
+        <translation>SwiftTX는 최소 6회 확인이 필요한 입력으로 몇 분 후에 다시 시도해야 할 수 있습니다.</translation>
+    </message>
+    <message>
+        <source>&lt;category&gt; can be:</source>
+        <translation>&lt;category&gt; 가능함 :</translation>
+    </message>
+    <message>
+        <source>Attempt to force blockchain corruption recovery</source>
+        <translation>블록체인 손상 복구 시도</translation>
+    </message>
+    <message>
+        <source>CoinSpend: Accumulator witness does not verify</source>
+        <translation>CoinSpend: 누산기가 제대로 작동하지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>Display the stake modifier calculations in the debug.log file.</source>
+        <translation>debug.log에 stake 수정 계산 기록</translation>
+    </message>
+    <message>
+        <source>Display verbose coin stake messages in the debug.log file.</source>
+        <translation>debug.log 에 코인 stake 메시지를 자세히 기록</translation>
+    </message>
+    <message>
+        <source>Enable publish hash block in &lt;address&gt;</source>
+        <translation>&lt;address&gt; 에서 해시 블록 게시 가능</translation>
+    </message>
+    <message>
+        <source>Enable publish hash transaction in &lt;address&gt;</source>
+        <translation>&lt;address&gt; 에서 해시 불록 게시 가능</translation>
+    </message>
+    <message>
+        <source>Enable publish raw block in &lt;address&gt;</source>
+        <translation>&lt;address&gt;에서 Raw 블록 게시 가능</translation>
+    </message>
+    <message>
+        <source>Enable publish raw transaction in &lt;address&gt;</source>
+        <translation>&lt;address&gt; 에서 Raw 트랜잭션 게시 지원</translation>
+    </message>
+    <message>
+        <source>Enable staking functionality (0-1, default: %u)</source>
+        <translation>스테이킹 기능 사용 (0-1, 기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Error: A fatal internal error occurred, see debug.log for details</source>
+        <translation>Error: 치명적 에러 발생 log 파일을 확인해주세요.</translation>
+    </message>
+    <message>
+        <source>Error: No valid utxo!</source>
+        <translation>Error: 유효하지 않는 utxo!</translation>
+    </message>
+    <message>
+        <source>Failed to create mint</source>
+        <translation>생성 실패</translation>
+    </message>
+    <message>
+        <source>Failed to deserialize</source>
+        <translation>디시리얼 실패</translation>
+    </message>
+    <message>
+        <source>Failed to find Zerocoins in wallet.dat</source>
+        <translation>wallet.dat 에서 제로코인을 인식 실패</translation>
+    </message>
+    <message>
+        <source>Failed to select a zerocoin</source>
+        <translation>제로코인 선택 실패</translation>
+    </message>
+    <message>
+        <source>Failed to wipe zerocoinDB</source>
+        <translation>제로코인 DB 삭제 실패</translation>
+    </message>
+    <message>
+        <source>Failed to write coin serial number into wallet</source>
+        <translation>지갑에 코인 시리얼 번호 작성 실패</translation>
+    </message>
+    <message>
+        <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
+        <translation>메모리에서 연결 불가능한 트랜잭션을 &lt;n&gt;개까지 유지하십시오. (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Last Obfuscation was too recent.</source>
+        <translation>최근에 마지막으로 난독화를 진행했습니다.</translation>
+    </message>
+    <message>
+        <source>Last successful Obfuscation action was too recent.</source>
+        <translation>최근에 마지막으로 성공한 난독화 작업이 있습니다.</translation>
+    </message>
+    <message>
+        <source>Limit size of signature cache to &lt;n&gt; entries (default: %u)</source>
+        <translation>시그니처 캐시의 크기 제한을 &lt;n&gt; 항목으로 합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Line: %d</source>
+        <translation>Line: %d</translation>
+    </message>
+    <message>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
+        <translation>&lt;port&gt;에서 JSON-RPC 연결 대기 (기본값: %u 또는 테스트넷: %u)</translation>
+    </message>
+    <message>
+        <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
+        <translation>&lt;port&gt;에서 연결 대기 (기본값: %u 또는 테스트넷: %u)</translation>
+    </message>
+    <message>
+        <source>Loading addresses...</source>
+        <translation>주소를 불러오는 중...</translation>
+    </message>
+    <message>
+        <source>Loading block index...</source>
+        <translation>블록 인덱스를 불러오는 중...</translation>
+    </message>
+    <message>
+        <source>Loading budget cache...</source>
+        <translation>budget 캐시를 불러오는 중...</translation>
+    </message>
+    <message>
+        <source>Loading masternode cache...</source>
+        <translation>마스터노드 캐시를 불러오는 중...</translation>
+    </message>
+    <message>
+        <source>Loading masternode payment cache...</source>
+        <translation>마스터노드 결제 캐시를 불러오는 중...</translation>
+    </message>
+    <message>
+        <source>Loading sporks...</source>
+        <translation>sporks 로딩중...</translation>
+    </message>
+    <message>
+        <source>Loading wallet... (%3.2f %%)</source>
+        <translation>지갑을 불러오는 중… (%3.2f %%)</translation>
+    </message>
+    <message>
+        <source>Loading wallet...</source>
+        <translation>지갑을 불러오는 중…</translation>
+    </message>
+    <message>
+        <source>Location of the auth cookie (default: data dir)</source>
+        <translation>auth 쿠기 위치 (default: data dir)</translation>
+    </message>
+    <message>
+        <source>Lock is already in place.</source>
+        <translation>이미 올바르게 잠겨있습니다.</translation>
+    </message>
+    <message>
+        <source>Lock masternodes from masternode configuration file (default: %u)</source>
+        <translation>마스터노드 구성 파일에서 마스터노드를 잠급니다. (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Lookup(): Invalid -proxy address or hostname: '%s'</source>
+        <translation>Lookup(): Invalid -proxy address or hostname: '%s'</translation>
+    </message>
+    <message>
+        <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
+        <translation>최대 &lt;n&gt; 연결을 피어들과 유지합니다. (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Masternode options:</source>
+        <translation>마스터노드 옵션:</translation>
+    </message>
+    <message>
+        <source>Masternode queue is full.</source>
+        <translation>마스터노드 대기열이 가득 찼습니다.</translation>
+    </message>
+    <message>
+        <source>Masternode:</source>
+        <translation>마스터노드:</translation>
+    </message>
+    <message>
+        <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
+        <translation>연결 당 최대 수신 버퍼, &lt;n&gt;*1000 바이트 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
+        <translation>연결 당 최대 전송 버퍼, &lt;n&gt;*1000 바이트 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Mint did not make it into blockchain</source>
+        <translation>코인생성이 블록체인에 기록되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>Missing input transaction information.</source>
+        <translation>트랜잭션 정보 입력에 누락된 부분이 있습니다.</translation>
+    </message>
+    <message>
+        <source>Mixing in progress...</source>
+        <translation>믹싱이 진행 중입니다...</translation>
+    </message>
+    <message>
+        <source>Need address because change is not exact</source>
+        <translation>잔돈을 받을 주소가 필요합니다.</translation>
+    </message>
+    <message>
+        <source>Need to specify a port with -whitebind: '%s'</source>
+        <translation>-whitebind: '%s' 의 포트를 지정해야 합니다</translation>
+    </message>
+    <message>
+        <source>No Masternodes detected.</source>
+        <translation>마스터노드가 발견되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>No compatible Masternode found.</source>
+        <translation>호환되는 마스터노드가 발견되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>No funds detected in need of denominating.</source>
+        <translation>분류가 필요한 자금이 발견되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>No matching denominations found for mixing.</source>
+        <translation>믹싱에 대한 일치하는 표기를 찾을 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Node relay options:</source>
+        <translation>노드 중계 옵션:</translation>
+    </message>
+    <message>
+        <source>Non-standard public key detected.</source>
+        <translation>비 표준 공개 키가 감지되었습니다.</translation>
+    </message>
+    <message>
+        <source>Not compatible with existing transactions.</source>
+        <translation>기존 트랜잭션과 호환되지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Not enough file descriptors available.</source>
+        <translation>사용 가능한 파일 디스크립터가 충분하지 않습니다.</translation>
+    </message>
+    <message>
+        <source>Not in the Masternode list.</source>
+        <translation>마스터노드 목록에 없습니다.</translation>
+    </message>
+    <message>
+        <source>Number of automatic wallet backups (default: 10)</source>
+        <translation>자동 지갑 백업 횟수 (기본값: 10)</translation>
+    </message>
+    <message>
+        <source>Number of custom location backups to retain (default: %d)</source>
+        <translation>Number of custom location backups to retain (default: %d)</translation>
+    </message>
+    <message>
+        <source>Obfuscation is idle.</source>
+        <translation>난독화는 유휴상태입니다.</translation>
+    </message>
+    <message>
+        <source>Obfuscation request complete:</source>
+        <translation>난독화 요청 완료:</translation>
+    </message>
+    <message>
+        <source>Obfuscation request incomplete:</source>
+        <translation>난독화 요청 미완료:</translation>
+    </message>
+    <message>
+        <source>Only accept block chain matching built-in checkpoints (default: %u)</source>
+        <translation>내장된 체크 포인트와 일치하는 블록체인만 허용 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
+        <translation>네트워크에 연결된 노드에만 연결 &lt;net&gt; (ipv4, ipv6 또는 onion)</translation>
+    </message>
+    <message>
+        <source>Options:</source>
+        <translation>옵션:</translation>
+    </message>
+    <message>
+        <source>Password for JSON-RPC connections</source>
+        <translation>JSON-RPC 연결 비밀번호</translation>
+    </message>
+    <message>
+        <source>isValid(): Invalid -proxy address or hostname: '%s'</source>
+        <translation>isValid(): Invalid -proxy address or hostname: '%s'</translation>
+    </message>
+    <message>
+        <source>Preparing for resync...</source>
+        <translation>재동기화 준비중...</translation>
+    </message>
+    <message>
+        <source>Prepend debug output with timestamp (default: %u)</source>
+        <translation>디버그 출력 앞에 타임스탬프를 추가합니다. (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Print version and exit</source>
+        <translation>버전 출력후 종료</translation>
+    </message>
+    <message>
+        <source>RPC server options:</source>
+        <translation>RPC 서버 옵션:</translation>
+    </message>
+    <message>
+        <source>Randomly drop 1 of every &lt;n&gt; network messages</source>
+        <translation>&lt;n&gt;개의 네트워크 메세지마다 무작위로 1개 삭제</translation>
+    </message>
+    <message>
+        <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>
+        <translation>&lt;n&gt;개의 네트워크 메세지마다 무작위로 1 퍼즈</translation>
+    </message>
+    <message>
+        <source>Rebuild block chain index from current blk000??.dat files</source>
+        <translation>현재 blk000??.dat 파일의 블록체인 인덱스를 다시 구축합니다</translation>
+    </message>
+    <message>
+        <source>Receive and display P2P network alerts (default: %u)</source>
+        <translation>P2P 네크워크로 부터 경고를 받고 보여줍니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Reindex the accumulator database</source>
+        <translation>누적 기 데이터베이스 다시 색인화</translation>
+    </message>
+    <message>
+        <source>Relay and mine data carrier transactions (default: %u)</source>
+        <translation>릴레이 및 채굴 데이터 이동매체 트랜잭션 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Relay non-P2SH multisig (default: %u)</source>
+        <translation>non-P2SH multisig 중계 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Rescan the block chain for missing wallet transactions</source>
+        <translation>누락된 지갑 트랜잭션에 대해 블록체인을 다시 스캔합니다</translation>
+    </message>
+    <message>
+        <source>Rescanning...</source>
+        <translation>다시 스캔하는 중...</translation>
+    </message>
+    <message>
+        <source>ResetMintZerocoin finished: </source>
+        <translation>생성된 제로코인 초기화 완료:</translation>
+    </message>
+    <message>
+        <source>ResetSpentZerocoin finished: </source>
+        <translation>사용된 제로코인 초기화 완료:</translation>
+    </message>
+    <message>
+        <source>Run a thread to flush wallet periodically (default: %u)</source>
+        <translation>주기적으로 지갑을 플러쉬하는 스레드를 실행합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Run in the background as a daemon and accept commands</source>
+        <translation>백그라운드에서 상주하며 실행하고 명령을 받습니다</translation>
+    </message>
+    <message>
+        <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
+        <translation>무료 수수료 트랜잭션이 가능할 경우 무료 수수료로 트랜잭션을 전송합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Session not complete!</source>
+        <translation>세션이 완료되지 않았습니다!</translation>
+    </message>
+    <message>
+        <source>Session timed out.</source>
+        <translation>세션이 만료되었습니다.</translation>
+    </message>
+    <message>
+        <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
+        <translation>데이터베이스 캐시 크기를 메가바이트 단위로 설정합니다 (%d 에서 %d, 기본값: %d)</translation>
+    </message>
+    <message>
+        <source>Set external address:port to get to this masternode (example: %s)</source>
+        <translation>마스터노드에 접속하려면 외부 주소:포트를 설정하십시오 (예시: %s)</translation>
+    </message>
+    <message>
+        <source>Set key pool size to &lt;n&gt; (default: %u)</source>
+        <translation>키 풀 크기를 &lt;n&gt; 로 설정합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Set maximum block size in bytes (default: %d)</source>
+        <translation>최대 블록 크기를 바이트 단위로 설정합니다 (기본값: %d)</translation>
+    </message>
+    <message>
+        <source>Set minimum block size in bytes (default: %u)</source>
+        <translation>최소 블록 크기를 바이트 단위로 설정합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Set the Maximum reorg depth (default: %u)</source>
+        <translation>최대 재구성 깊이 설정 (기본값 : %u)</translation>
+    </message>
+    <message>
+        <source>Set the masternode private key</source>
+        <translation>마스터노드 개인 키를 설정합니다</translation>
+    </message>
+    <message>
+        <source>Set the number of threads to service RPC calls (default: %d)</source>
+        <translation>RPC 호출 서비스 스레드의 갯수를 설정합니다 (기본값: %d)</translation>
+    </message>
+    <message>
+        <source>Sets the DB_PRIVATE flag in the wallet db environment (default: %u)</source>
+        <translation>지갑 db 환경에서 DB_PRIVATE 플래그를 설정합니다 (기본값 : %u)</translation>
+    </message>
+    <message>
+        <source>Show all debugging options (usage: --help -help-debug)</source>
+        <translation>모든 디버깅 옵션 표시 (사용 방법: --help -help-debug)</translation>
+    </message>
+    <message>
+        <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
+        <translation>클라이언트 시작시에 debug.log 파일을 축소시킵니다 (기본값:1 아닐경우 -debug)</translation>
+    </message>
+    <message>
+        <source>Signing failed.</source>
+        <translation>인증에 실패했습니다.</translation>
+    </message>
+    <message>
+        <source>Signing timed out.</source>
+        <translation>인증 시간 초과.</translation>
+    </message>
+    <message>
+        <source>Signing transaction failed</source>
+        <translation>트랜잭션 인증 실패</translation>
+    </message>
+    <message>
+        <source>Specify configuration file (default: %s)</source>
+        <translation>구성 파일 지정 (기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
+        <translation>연결 시간 초과 단위를 100분의 1초 단위로 지정 (최소값: 1, 기본값: %d)</translation>
+    </message>
+    <message>
+        <source>Specify data directory</source>
+        <translation>데이터 디렉토리 지정</translation>
+    </message>
+    <message>
+        <source>Specify masternode configuration file (default: %s)</source>
+        <translation>마스터노드 구성파일 지정 (기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Specify pid file (default: %s)</source>
+        <translation>pid 파일 지정 (기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Specify wallet file (within data directory)</source>
+        <translation>지갑 파일 지정 (데이터 디렉토리 내에서만)</translation>
+    </message>
+    <message>
+        <source>Specify your own public address</source>
+        <translation>자신의 공용 주소를 지정</translation>
+    </message>
+    <message>
+        <source>Spend Valid</source>
+        <translation>유효한 지출</translation>
+    </message>
+    <message>
+        <source>Spend unconfirmed change when sending transactions (default: %u)</source>
+        <translation>트랜잭션 전송시 승인되지 않은 변경사항을 전송합니다 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Staking options:</source>
+        <translation>스테이킹 옵션:</translation>
+    </message>
+    <message>
+        <source>Stop running after importing blocks from disk (default: %u)</source>
+        <translation>디스크에서 블록을 가져오면 실행 중지 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Submitted following entries to masternode: %u / %d</source>
+        <translation>마스터노드에 다음 항목들을 제출했습니다: %u / %d</translation>
+    </message>
+    <message>
+        <source>Submitted to masternode, waiting for more entries ( %u / %d ) %s</source>
+        <translation>마스터노드에 제출했습니다, 남은 항목들 기다리는중 ( %u / %d ) %s</translation>
+    </message>
+    <message>
+        <source>Submitted to masternode, waiting in queue %s</source>
+        <translation>마스터노드에 제출했습니다, 대기열을 기다리는 중 %s</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translation>동기화 실패</translation>
+    </message>
+    <message>
+        <source>Synchronization finished</source>
+        <translation>동기화 완료</translation>
+    </message>
+    <message>
+        <source>Synchronization pending...</source>
+        <translation>동기화 대기중...</translation>
+    </message>
+    <message>
+        <source>Synchronizing budgets...</source>
+        <translation>budgets 동기화 중입니다...</translation>
+    </message>
+    <message>
+        <source>Synchronizing masternode winners...</source>
+        <translation>마스터노드 승자를 동기화 중입니다...</translation>
+    </message>
+    <message>
+        <source>Synchronizing masternodes...</source>
+        <translation>마스터노드와 동기화중입니다...</translation>
+    </message>
+    <message>
+        <source>Synchronizing sporks...</source>
+        <translation>sporks와 동기화 중입니다...</translation>
+    </message>
+    <message>
+        <source>Syncing zXCRC wallet...</source>
+        <translation>zXCRC 지갑 동기화중...</translation>
+    </message>
+    <message>
+        <source>The coin spend has been used</source>
+        <translation>전송이 이미 되었습니다.</translation>
+    </message>
+    <message>
+        <source>The new spend coin transaction did not verify</source>
+        <translation>신규로 전송된 거래가 확인되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>The selected mint coin is an invalid coin</source>
+        <translation>선택한 생성 코인은 유효하지 않은 동전입니다.</translation>
+    </message>
+    <message>
+        <source>The transaction did not verify</source>
+        <translation>거래가 확인되지 않았습니다.</translation>
+    </message>
+    <message>
+        <source>This help message</source>
+        <translation>도움말 메시지입니다</translation>
+    </message>
+    <message>
+        <source>This is experimental software.</source>
+        <translation>이것은 실험용 소프트웨어입니다.</translation>
+    </message>
+    <message>
+        <source>This is intended for regression testing tools and app development.</source>
+        <translation>이것은 리그레션 테스팅 및 앱 개발을 위해 만들어졌습니다.</translation>
+    </message>
+    <message>
+        <source>This is not a Masternode.</source>
+        <translation>마스터노드가 아닙니다.</translation>
+    </message>
+    <message>
+        <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
+        <translation>제대로 동작하지 않는 피어와 연결을 끊을 임계값 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Too many spends needed</source>
+        <translation>너무 많은 지출이 필요함</translation>
+    </message>
+    <message>
+        <source>Tor control port password (default: empty)</source>
+        <translation>Tor 컨트롤 포트 암호 (기본값: 공백)</translation>
+    </message>
+    <message>
+        <source>Tor control port to use if onion listening enabled (default: %s)</source>
+        <translation>onion 활성화되었을 경우 사용할 Tor 코트롤 포트 (기본값: %s)</translation>
+    </message>
+    <message>
+        <source>Transaction Created</source>
+        <translation>트랜잭션 취소됨</translation>
+    </message>
+    <message>
+        <source>Transaction Mint Started</source>
+        <translation>트랜잭션 생성 시작됨</translation>
+    </message>
+    <message>
+        <source>Transaction amount too small</source>
+        <translation>트랜잭션 금액이 너무 적습니다</translation>
+    </message>
+    <message>
+        <source>Transaction amounts must be positive</source>
+        <translation>트랜잭션 금액에 반드시 양수값이 들어가야 합니다</translation>
+    </message>
+    <message>
+        <source>Transaction created successfully.</source>
+        <translation>트랜잭션이 성공적으로 생성되었습니다.</translation>
+    </message>
+    <message>
+        <source>Transaction fees are too high.</source>
+        <translation>트랜잭션 수수료가 너무 높습니다.</translation>
+    </message>
+    <message>
+        <source>Transaction not valid.</source>
+        <translation>올바르지 않은 트랜잭션입니다.</translation>
+    </message>
+    <message>
+        <source>Transaction too large for fee policy</source>
+        <translation>수수료 정책에 비해 트랜잭션이 너무 많습니다</translation>
+    </message>
+    <message>
+        <source>Transaction too large</source>
+        <translation>트랜잭션이 너무 큽니다</translation>
+    </message>
+    <message>
+        <source>Transmitting final transaction.</source>
+        <translation>최종 트랜잭션를 전송 중입니다.</translation>
+    </message>
+    <message>
+        <source>Try to spend with a higher security level to include more coins</source>
+        <translation>높은 보안 수준으로 더 많은 코인을 전송해주세요.</translation>
+    </message>
+    <message>
+        <source>Trying to spend an already spent serial #, try again.</source>
+        <translation>이미 전송된 리얼 번호를 보내려고 했습니다. 다시 시도하십시오.</translation>
+    </message>
+    <message>
+        <source>Unable to bind to %s on this computer (bind returned error %s)</source>
+        <translation>이 컴퓨터에서 %s 로 바인드할 수 없습니다 (바인드 리턴 오류 %s)</translation>
+    </message>
+    <message>
+        <source>Unable to find transaction containing mint</source>
+        <translation>코인 생성이 포함된 거래를 찾을 수 없습니다.</translation>
+    </message>
+    <message>
+        <source>Unable to sign spork message, wrong key?</source>
+        <translation>스포크 메시지를 인증할 수 없습니다, 키를 확인해주세요</translation>
+    </message>
+    <message>
+        <source>Unable to start HTTP server. See debug log for details.</source>
+        <translation>HTTP 서버를 시작할수 없습니다. log 파일을 확인해주세요.</translation>
+    </message>
+    <message>
+        <source>Unknown network specified in -onlynet: '%s'</source>
+        <translation>-onlynet: '%s' 에 알 수 없는 네트워크가 지정되었습니다</translation>
+    </message>
+    <message>
+        <source>Unknown state: id = %u</source>
+        <translation>알 수없는 상태: id = %u</translation>
+    </message>
+    <message>
+        <source>Upgrade wallet to latest format</source>
+        <translation>지갑을 최신 포맷으로 업그레이드합니다</translation>
+    </message>
+    <message>
+        <source>Use UPnP to map the listening port (default: %u)</source>
+        <translation>수신 포트를 매핑하려면 UPnP를 사용하십시오 (기본값: %u)</translation>
+    </message>
+    <message>
+        <source>Use UPnP to map the listening port (default: 1 when listening)</source>
+        <translation>수신 포트를 매핑하려면 UPnP를 사용하십시오 (기본값: 1 수신 상태일 때)</translation>
+    </message>
+    <message>
+        <source>Use a custom max chain reorganization depth (default: %u)</source>
+        <translation>맞춤 최대 체인 재구성 깊이 사용 (기본값 : %u)</translation>
+    </message>
+    <message>
+        <source>Use the test network</source>
+        <translation>테스트 네트워크를 사용합니다</translation>
+    </message>
+    <message>
+        <source>Username for JSON-RPC connections</source>
+        <translation>JSON-RPC 연결 사용자 이름</translation>
+    </message>
+    <message>
+        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>
+        <translation>Value is below the smallest available denomination (= 1) of zXCRC</translation>
+    </message>
+    <message>
+        <source>Value more than Obfuscation pool maximum allows.</source>
+        <translation>난독화 풀의 최대 허용 값보다 높습니다.</translation>
+    </message>
+    <message>
+        <source>Verifying blocks...</source>
+        <translation>블록 인증 중...</translation>
+    </message>
+    <message>
+        <source>Verifying wallet...</source>
+        <translation>지갑 인증 중...</translation>
+    </message>
+    <message>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>zXCRC 버전 1은 성공적으로 보내기 위해서 100 시큐리티 레벨이 필요합니다.</translation>
+    </message>
+    <message>
+        <source>Wallet %s resides outside data directory %s</source>
+        <translation>지갑 %s 가 데이터 디렉토리 외부에 존재합니다 %s</translation>
+    </message>
+    <message>
+        <source>Wallet is locked.</source>
+        <translation>지갑이 잠겼습니다.</translation>
+    </message>
+    <message>
+        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>
+        <translation>지갑을 다시 작성해야 합니다: 완료하려면 CRyptoCrowd 코어를 재시작해야 합니다</translation>
+    </message>
+    <message>
+        <source>Wallet options:</source>
+        <translation>지갑 옵션:</translation>
+    </message>
+    <message>
+        <source>Wallet window title</source>
+        <translation>지갑 창 제목</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>경고</translation>
+    </message>
+    <message>
+        <source>Warning: This version is obsolete, upgrade required!</source>
+        <translation>경고 : 현재 사용중인 버전은 더이상 사용되지 않으므로 업그레이드가 필요합니다!</translation>
+    </message>
+    <message>
+        <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>
+        <translation>경고 : 지원하지 않는 인수 -benchmark 무시됨 -debug = bench를 사용하십시오.</translation>
+    </message>
+    <message>
+        <source>Warning: Unsupported argument -debugnet ignored, use -debug=net.</source>
+        <translation>경고 : 지원하지 않는 인수 -debugnet 무시됨 -debug=net를 사용하십시오.</translation>
+    </message>
+    <message>
+        <source>Will retry...</source>
+        <translation>다시 시도합니다...</translation>
+    </message>
+    <message>
+        <source>You don't have enough Zerocoins in your wallet</source>
+        <translation>지갑에 zXCRC 가 부족합니다.</translation>
+    </message>
+    <message>
+        <source>You need to rebuild the database using -reindex to change -txindex</source>
+        <translation>-treindex를 변경하려면 -reindex를 사용하여 데이터베이스를 다시 빌드해야합니다.</translation>
+    </message>
+    <message>
+        <source>Your entries added successfully.</source>
+        <translation>항목이 성공적으로 추가되었습니다.</translation>
+    </message>
+    <message>
+        <source>Your transaction was accepted into the pool!</source>
+        <translation>트랜잭션이 풀로 접수되었습니다!</translation>
+    </message>
+    <message>
+        <source>Zapping all transactions from wallet...</source>
+        <translation>지갑 내 모든 트랜잭션들을 재핑하는 중...</translation>
+    </message>
+    <message>
+        <source>ZeroMQ notification options:</source>
+        <translation>ZeroMQ 알림 옵션:</translation>
+    </message>
+    <message>
+        <source>Zerocoin options:</source>
+        <translation>제로코인 옵션:</translation>
+    </message>
+    <message>
+        <source>on startup</source>
+        <translation>시작 시</translation>
+    </message>
+    <message>
+        <source>wallet.dat corrupt, salvage failed</source>
+        <translation>wallet.dat 파일이 손상되어 복구에 실패했습니다</translation>
+    </message>
+</context>
+</TS>

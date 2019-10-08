@@ -1,1 +1,6364 @@
-<TS language="ru" version="2.1">♪◙<context>♪◙    <name>AddressBookPage</name>♪◙    <message>♪◙        <source>Right-click to edit address or label</source>♪◙        <translation>╨⌐╨╡╨╗╨║╨╜╨╕╤é╨╡ ╨┐╤Ç╨░╨▓╨╛╨╣ ╨║╨╜╨╛╨┐╨║╨╛╨╣ ╨╝╤ï╤ê╨╕, ╤ç╤é╨╛╨▒╤ï ╨╕╨╖╨╝╨╡╨╜╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨╕╨╗╨╕ ╨╝╨╡╤é╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a new address</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╤é╤î ╨╜╨╛╨▓╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>New</source>♪◙        <translation>╨¥╨╛╨▓╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the currently selected address to the system clipboard</source>♪◙        <translation>╨í╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤é╨╡╨║╤â╤ë╨╕╨╣ ╨▓╤ï╨▒╤Ç╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨▓ ╨▒╤â╤ä╨╡╤Ç ╨╛╨▒╨╝╨╡╨╜╨░ ╤ü╨╕╤ü╤é╨╡╨╝╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete the currently selected address from the list</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╤î ╤é╨╡╨║╤â╤ë╨╕╨╣ ╨▓╤ï╨▒╤Ç╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖ ╤ü╨┐╨╕╤ü╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export the data in the current tab to a file</source>♪◙        <translation>╨¡╨║╤ü╨┐╨╛╤Ç╤é╨╕╤Ç╨╛╨▓╨░╤é╤î ╨┤╨░╨╜╨╜╤ï╨╡ ╤ü ╤é╨╡╨║╤â╤ë╨╡╨╣ ╨▓╨║╨╗╨░╨┤╨║╨╕ ╨▓ ╤ä╨░╨╣╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export</source>♪◙        <translation>╨¡╨║╤ü╨┐╨╛╤Ç╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Close</source>♪◙        <translation>╨ù╨░╨║╤Ç╤ï╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the address to send coins to</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨┤╨╗╤Å ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕ ╨╝╨╛╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the address to receive coins with</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨┤╨╗╤Å ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å ╨╝╨╛╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending addresses</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü╨░ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receiving addresses</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü╨░ ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>♪◙        <translation>╨¡╤é╨╛ ╨▓╨░╤ê╨╕ CRyptoCrowd-╨░╨┤╤Ç╨╡╤ü╨░ ╨┤╨╗╤Å ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕ ╨┐╨╗╨░╤é╨╡╨╢╨╡╨╣. ╨ƒ╨╡╤Ç╨╡╨┤ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╛╨╣ ╨╝╨╛╨╜╨╡╤é ╨▓╤ü╨╡╨│╨┤╨░ ╨┐╤Ç╨╛╨▓╨╡╤Ç╤Å╨╣╤é╨╡ ╤ü╤â╨╝╨╝╤â ╨╕ ╨░╨┤╤Ç╨╡╤ü ╨┐╨╛╨╗╤â╤ç╨░╤é╨╡╨╗╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>♪◙        <translation>╨¡╤é╨╛ ╨▓╨░╤ê╨╕ CRyptoCrowd-╨░╨┤╤Ç╨╡╤ü╨░ ╨┤╨╗╤Å ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å ╨┐╨╗╨░╤é╨╡╨╢╨╡╨╣. ╨ö╨╗╤Å ╨║╨░╨╢╨┤╨╛╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤Ç╨╡╨║╨╛╨╝╨╡╨╜╨┤╤â╨╡╤é╤ü╤Å ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╤î ╨╜╨╛╨▓╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Address</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Label</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨£╨╡╤é╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit</source>♪◙        <translation>╨á╨╡╨┤╨░╨║╤é╨╕╤Ç╨╛╨▓╨░╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export Address List</source>♪◙        <translation>╨¡╨║╤ü╨┐╨╛╤Ç╤é ╤ü╨┐╨╕╤ü╨║╨░ ╨░╨┤╤Ç╨╡╤ü╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Comma separated file (*.csv)</source>♪◙        <translation>╨ñ╨░╨╣╨╗ ╤ä╨╛╤Ç╨╝╨░╤é╨░ csv</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Failed</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╤ì╨║╤ü╨┐╨╛╤Ç╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>There was an error trying to save the address list to %1. Please try again.</source>♪◙        <translation>╨ƒ╤Ç╨╛╨╕╨╖╨╛╤ê╨╗╨░ ╨╛╤ê╨╕╨▒╨║╨░ ╨┐╤Ç╨╕ ╨┐╨╛╨┐╤ï╤é╨║╨╡ ╤ü╨╛╤à╤Ç╨░╨╜╨╕╤é╤î ╤ü╨┐╨╕╤ü╨╛╨║ ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ╨▓ %1. ╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╨╡╤ë╨╡ ╤Ç╨░╨╖.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>AddressTableModel</name>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>╨£╨╡╤é╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(╨╜╨╡╤é ╨╝╨╡╤é╨║╨╕)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>AskPassphraseDialog</name>♪◙    <message>♪◙        <source>Passphrase Dialog</source>♪◙        <translation>╨ö╨╕╨░╨╗╨╛╨│╨╛╨▓╨╛╨╡ ╨╛╨║╨╜╨╛ ╨║╨╛╨┤╨╛╨▓╨╛╨╣ ╤ä╤Ç╨░╨╖╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter passphrase</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨║╨╛╨┤╨╛╨▓╤â╤Ä ╤ä╤Ç╨░╨╖╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>New passphrase</source>♪◙        <translation>╨¥╨╛╨▓╨░╤Å ╨║╨╛╨┤╨╛╨▓╨░╤Å ╤ä╤Ç╨░╨╖╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Repeat new passphrase</source>♪◙        <translation>╨ƒ╨╛╨▓╤é╨╛╤Ç╨╕╤é╤î ╨╜╨╛╨▓╤â╤Ä ╨║╨╛╨┤╨╛╨▓╤â╤Ä ╤ä╤Ç╨░╨╖╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>♪◙        <translation>╨í╨╗╤â╨╢╨╕╤é ╨┤╨╗╤Å ╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å ╤é╤Ç╨╕╨▓╨╕╨░╨╗╤î╨╜╤ï╤à ╤ü╨╡╨╜╨┤╨╝╨╛╨╜╤ì╨╣, ╨║╨╛╨│╨┤╨░ ╤â╤ç╨╡╤é╨╜╨░╤Å ╨╖╨░╨┐╨╕╤ü╤î ╨₧╨í ╤ü╨║╨╛╨╝╨┐╤Ç╨╛╨╝╨╡╤é╨╕╤Ç╨╛╨▓╨░╨╜╨░. ╨¥╨╡ ╨╛╨▒╨╡╤ü╨┐╨╡╤ç╨╕╨▓╨░╨╡╤é ╤Ç╨╡╨░╨╗╤î╨╜╨╛╨╣ ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕. </translation>♪◙    </message>♪◙    <message>♪◙        <source>For anonymization, automint, and staking only</source>♪◙        <translation>╨ó╨╛╨╗╤î╨║╨╛ ╨┤╨╗╤Å ╨░╨╜╨╛╨╜╨╕╨╝╨╜╨╛╤ü╤é╨╕, ╨░╨▓╤é╨╛╤ü╨╛╨╖╨┤╨░╨╜╨╕╤Å ╨╕ ╤à╤Ç╨░╨╜╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨╜╨╛╨▓╤ï╨╣ ╨┐╨░╤Ç╨╛╨╗╤î ╨║ ╨║╨╛╤ê╨╡╨╗╤î╨║╤â. &lt;br/&gt;╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╨┐╤Ç╨╕ ╤ì╤é╨╛╨╝ ╨┤╨╡╤ü╤Å╤é╤î &lt;/b&gt;╨╕╨╗╨╕ ╨▒╨╛╨╗╨╗╨╡ ╤ü╨╗╤â╤ç╨░╨╣╨╜╤ï╤à ╤ü╨╕╨╝╨▓╨╛╨╗╨╛╨▓ &lt;/b&gt;╨╕╨╗╨╕ ╨▓╨╛╤ü╨╡╨╝ ╨╕ ╨▒╨╛╨╗╨╡╨╡ ╤ü╨╗╨╛╨▓.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt wallet</source>♪◙        <translation>╨ù╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>This operation needs your wallet passphrase to unlock the wallet.</source>♪◙        <translation>╨ö╨╗╤Å ╤ì╤é╨╛╨╣ ╨╛╨┐╨╡╤Ç╨░╤å╨╕╨╕ ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨║╨╛╨┤╨╛╨▓╨░╤Å ╤ä╤Ç╨░╨╖╨░ ╨▓╨░╤ê╨╡╨│╨╛ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░, ╤ç╤é╨╛╨▒╤ï ╤Ç╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock wallet</source>♪◙        <translation>╨í╨╜╤Å╤é╨╕╨╡ ╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>This operation needs your wallet passphrase to decrypt the wallet.</source>♪◙        <translation>╨ö╨╗╤Å ╨╛╨┐╨╡╤Ç╨░╤å╨╕╨╕ ╨┤╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╤Å ╨▓╨░╤ê╨╡╨│╨╛ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨╜╤â╨╢╨╜╨░ ╨║╨╛╨┤╨╛╨▓╨░╤Å ╤ä╤Ç╨░╨╖╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypt wallet</source>♪◙        <translation>╨á╨░╤ü╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change passphrase</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î ╨║╨╛╨┤╨╛╨▓╤â╤Ä ╤ä╤Ç╨░╨╖╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the old and new passphrase to the wallet.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╤ü╤é╨░╤Ç╤â╤Ä ╨╕ ╨╜╨╛╨▓╤â╤Ä ╨║╨╛╨┤╨╛╨▓╤â╤Ä ╤ä╤Ç╨░╨╖╤â ╨┤╨╗╤Å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm wallet encryption</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╤Å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>♪◙        <translation>CRyptoCrowd ╤ü╨╡╨╣╤ç╨░╤ü ╨╖╨░╨║╤Ç╨╛╨╡╤é╤ü╤Å, ╤ç╤é╨╛╨▒╤ï ╨╖╨░╨▓╨╡╤Ç╤ê╨╕╤é╤î ╨┐╤Ç╨╛╤å╨╡╤ü╤ü ╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╤Å. ╨ƒ╨╛╨╝╨╜╨╕╤é╨╡, ╤ç╤é╨╛ ╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨▓╨░╤ê╨╡╨│╨╛ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨╜╨╡ ╨╝╨╛╨╢╨╡╤é ╨┐╨╛╨╗╨╜╨╛╤ü╤é╤î╤Ä ╨╖╨░╤ë╨╕╤é╨╕╤é╤î ╨▓╨░╤ê╨╕ CRyptoCrowd ╨╛╤é ╨║╤Ç╨░╨╢╨╕ ╤ü ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨▓╤Ç╨╡╨┤╨╛╨╜╨╛╤ü╨╜╨╛╨│╨╛ ╨ƒ╨₧.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you wish to encrypt your wallet?</source>♪◙        <translation>╨Æ╤ï ╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╨╛ ╤à╨╛╤é╨╕╤é╨╡ ╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╤ü╨▓╨╛╨╣ ╨║╨╛╤ê╨╡╨╗╨╡╨║?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>♪◙        <translation>╨Æ╨╜╨╕╨╝╨░╨╜╨╕╨╡: ╨╡╤ü╨╗╨╕ ╨▓╤ï ╨╖╨░╤ê╨╕╤ä╤Ç╤â╨╡╤é╨╡ ╤ü╨▓╨╛╨╣ ╨║╨╛╤ê╨╡╨╗╤æ╨║ ╨╕ ╨┐╨╛╤é╨╡╤Ç╤Å╨╡╤é╨╡ ╨╛╤é ╨╜╨╡╨│╨╛ ╨┐╨░╤Ç╨╛╨╗╤î, ╤é╨╛ ╨▓╤ï &lt;b&gt;╨ƒ╨₧╨ó╨ò╨á╨»╨ò╨ó╨ò ╨Æ╨í╨ò ╨í╨Æ╨₧╨ÿ CRyptoCrowd&lt;/b&gt;!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encrypted</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║ ╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>♪◙        <translation>╨Æ╨É╨û╨¥╨₧: ╨▓╤ü╨╡ ╨┐╤Ç╨╡╨┤╤ï╨┤╤â╤ë╨╕╨╡ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╨╡ ╨║╨╛╨┐╨╕╨╕ ╨▓╨░╤ê╨╡╨│╨╛ ╤ä╨░╨╣╨╗╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨┤╨╛╨╗╨╢╨╜╤ï ╨▒╤ï╤é╤î ╨╖╨░╨╝╨╡╨╜╨╡╨╜╤ï ╨▓╨╜╨╛╨▓╤î ╤ü╨╛╨╖╨┤╨░╨╜╨╜╤ï╨╝ ╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╝ ╤ä╨░╨╣╨╗╨╛╨╝ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░. ╨ÿ╨╖ ╤ü╨╛╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╨╣ ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕ ╨┐╤Ç╨╡╨┤╤ï╨┤╤â╤ë╨╕╨╡ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╨╡ ╨║╨╛╨┐╨╕╨╕ ╨╜╨╡╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╜╨╛╨│╨╛ ╤ä╨░╨╣╨╗╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╤ü╤é╨░╨╜╤â╤é ╨▒╨╡╤ü╨┐╨╛╨╗╨╡╨╖╨╜╤ï╨╝╨╕, ╨║╨░╨║ ╤é╨╛╨╗╤î╨║╨╛ ╨▓╤ï ╨╜╨░╤ç╨╜╨╡╤é╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╤î ╨╜╨╛╨▓╤ï╨╣ ╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨║╨╛╤ê╨╡╨╗╨╡╨║.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encryption failed</source>♪◙        <translation>╨í╨▒╨╛╨╣ ╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╤Å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>♪◙        <translation>╨¿╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨╜╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╕╨╖-╨╖╨░ ╨▓╨╜╤â╤é╤Ç╨╡╨╜╨╜╨╡╨╣ ╨╛╤ê╨╕╨▒╨║╨╕. ╨Æ╨░╤ê ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨╜╨╡ ╨▒╤ï╨╗ ╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied passphrases do not match.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╡╨╜╨╜╤ï╨╡ ╨┐╨░╤Ç╨╛╨╗╤î╨╜╤ï╨╡ ╤ä╤Ç╨░╨╖╤ï ╨╜╨╡ ╤ü╨╛╨▓╨┐╨░╨┤╨░╤Ä╤é.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock failed</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╤Ç╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>The passphrase entered for the wallet decryption was incorrect.</source>♪◙        <translation>╨Ü╨╛╨┤╨╛╨▓╨░╤Å ╤ä╤Ç╨░╨╖╨░, ╨▓╨▓╨╡╨┤╨╡╨╜╨╜╨░╤Å ╨┤╨╗╤Å ╤Ç╨░╤ü╤ê╨╕╤ä╤Ç╨╛╨▓╨║╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░, ╨▒╤ï╨╗╨░ ╨╜╨╡╨▓╨╡╤Ç╨╜╨╛╨╣.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet decryption failed</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┤╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet passphrase was successfully changed.</source>♪◙        <translation>╨Ü╨╛╨┤╨╛╨▓╨░╤Å ╤ä╤Ç╨░╨╖╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: The Caps Lock key is on!</source>♪◙        <translation>╨Æ╨╜╨╕╨╝╨░╨╜╨╕╨╡: ╨Ü╨╗╨░╨▓╨╕╤ê╨░ Caps Lock ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╨░!</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>BanTableModel</name>♪◙    <message>♪◙        <source>IP/Netmask</source>♪◙        <translation>IP/Netmask</translation>♪◙    </message>♪◙    <message>♪◙        <source>Banned Until</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╡╤ë╨╡╨╜╨╛ ╨┤╨╛</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>Bip38ToolDialog</name>♪◙    <message>♪◙        <source>BIP 38 Tool</source>♪◙        <translation>BIP 38 ╨ú╤é╨╕╨╗╨╕╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP 38 Encrypt</source>♪◙        <translation>BIP 38 ╨¿╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address:</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü, ╨║╨╛╤é╨╛╤Ç╤ï╨╝ ╨▓╤ï ╤à╨╛╤é╨╕╤é╨╡ ╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╤Å BIP 38. ╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨┐╨░╤Ç╨╛╨╗╤î ╨▓ ╤ü╤Ç╨╡╨┤╨╜╨╡╨╝ ╨┐╨╛╨╗╨╡. ╨¥╨░╨╢╨╝╨╕╤é╨╡ "╨ù╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î", ╤ç╤é╨╛╨▒╤ï ╤ü╨╛╨╖╨┤╨░╤é╤î ╨╖╨░╤ê╨╕╨▓╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╤ü╨╡╨║╤Ç╨╡╤é╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address to encrypt</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü CRyptoCrowd ╨┤╨╗╤Å ╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╤é╤î ╤Ç╨░╨╜╨╡╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>╨Æ╤ü╤é╨░╨▓╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖ ╨▒╤â╤ä╨╡╤Ç╨░ ╨╛╨▒╨╝╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Passphrase: </source>♪◙        <translation>╨Ü╨╛╨┤╨╛╨▓╨░╤Å ╤ä╤Ç╨░╨╖╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypted Key:</source>♪◙        <translation>╨ù╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the current signature to the system clipboard</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤é╨╡╨║╤â╤ë╤â╤Ä ╨┐╨╛╨┤╨┐╨╕╤ü╤î ╨▓ ╤ü╨╕╤ü╤é╨╡╨╝╨╜╤ï╨╣ ╨▒╤â╤ä╨╡╤Ç ╨╛╨▒╨╝╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt the private key for this CRyptoCrowd address</source>♪◙        <translation>╨ù╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨╗╨╕╤ç╨╜╤ï╨╡ ╨║╨╗╤Ä╤ç╨╕ ╨┤╨╗╤Å ╤ì╤é╨╛╨│╨╛ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü╨░ </translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all fields</source>♪◙        <translation>╨í╨▒╤Ç╨╛╤ü╨╕╤é╤î ╨▓╤ü╨╡ ╨┐╨╛╨╗╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>The encrypted private key</source>♪◙        <translation>╨ù╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╡ ╨╗╨╕╤ç╨╜╤ï╨╡ ╨║╨╗╤Ä╤ç╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypt the entered key using the passphrase</source>♪◙        <translation>╨ö╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨▓╨▓╨╡╨┤╨╡╨╜╨╜╤ï╤à ╨║╨╗╤Ä╤ç╨╡╨╣ ╤ü ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨║╨╛╨┤╨╛╨▓╨╛╨╣ ╤ä╤Ç╨░╨╖╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt Key</source>♪◙        <translation>╨ù╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨Ü╨╗╤Ä╤ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>╨₧╤ç╨╕╤ü╤é╨╕╤é╤î ╨Æ╤ü╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP 38 Decrypt</source>♪◙        <translation>BIP 38 ╨ö╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the BIP 38 encrypted private key. Enter the passphrase in the middle box. Click Decrypt Key to compute the private key. After the key is decrypted, clicking 'Import Address' will add this private key to the wallet.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╤ü ╨┐╨╛╨╝╨╛╤ë╤î╤Ä BIP 38 ╤ü╨╡╨║╤Ç╨╡╤é╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç. ╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╤ü╨╡╨║╤Ç╨╡╤é╨╜╤â╤Ä ╤ä╤Ç╨░╨╖╤â ╨▓ ╤ü╤Ç╨╡╨┤╨╜╨╡╨╝ ╨╛╨║╨╜╨╡. ╨¥╨░╨╢╨╝╨╕╤é╨╡ ╨ö╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨Ü╨╗╤Ä╤ç ╤ç╤é╨╛╨▒╤ï ╤ü╨╛╨╖╨┤╨░╤é╤î ╤ü╨╡╨║╤Ç╨╡╤é╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç. ╨¥╨░╨╢╨░╨▓ ╨╜╨░ ╨ÿ╨╝╨┐╨╛╤Ç╤é╨╕╤Ç╨╛╨▓╨░╤é╤î ╨É╨┤╤Ç╨╡╤ü ╨┐╨╛╤ü╨╗╨╡ ╨┤╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨║╨╕, ╨▓╤ï ╨┤╨╛╨▒╨░╨▓╨╕╤é╨╡ ╤ü╨╡╨║╤Ç╨╡╤é╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç ╨║ ╨║╨╛╤ê╨╡╨╗╤î╨║╤â.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypt Key</source>♪◙        <translation>╨ö╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨Ü╨╗╤Ä╤ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypted Key:</source>♪◙        <translation>╨ö╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨Ü╨╗╤Ä╤ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Import Address</source>♪◙        <translation>╨ÿ╨╝╨┐╨╛╤Ç╤é╨╕╤Ç╨╛╨▓╨░╤é╤î ╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Click "Decrypt Key" to compute key</source>♪◙        <translation>╨¥╨░╨╢╨╝╨╕╤é╨╡ "╨ö╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨Ü╨╗╤Ä╤ç" ╨┤╨╗╤Å ╨│╨╡╨╜╨╡╤Ç╨░╤å╨╕╨╕ ╨║╨╗╤Ä╤ç╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered passphrase is invalid. </source>♪◙        <translation>╨¥╨╡╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╨╛ ╨▓╨▓╨╡╨┤╨╡╨╜╨░ ╨║╨╛╨┤╨╛╨▓╨░╤Å ╤ä╤Ç╨░╨╖╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allowed: 0-9,a-z,A-Z,</source>♪◙        <translation>╨ö╨╛╨┐╤â╤ü╨║╨░╨╡╤é╤ü╤Å: 0-9,a-z,A-Z,</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address is invalid.</source>♪◙        <translation>╨¥╨╡╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╨╛ ╨▓╨▓╨╡╨┤╨╡╨╜ ╨░╨┤╤Ç╨╡╤ü.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the address and try again.</source>♪◙        <translation>╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┐╤Ç╨╛╨▓╨╡╤Ç╤î╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨╕ ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╤ü╨╜╨╛╨▓╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address does not refer to a key.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╡╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╜╨╡ ╤ü╨▓╤Å╨╖╨░╨╜ ╤ü ╨║╨╗╤Ä╤ç╨╛╨╝.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock was cancelled.</source>♪◙        <translation>╨í╨╜╤Å╤é╨╕╨╡ ╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨▒╤ï╨╗╨╛ ╨╛╤é╨╝╨╡╨╜╨╡╨╜╨╛.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Private key for the entered address is not available.</source>♪◙        <translation>╨ƒ╨╡╤Ç╤ü╨╛╨╜╨░╨╗╤î╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç ╨┤╨╗╤Å ╨▓╨▓╨╡╨┤╨╡╨╜╨╜╨╛╨│╨╛ ╨░╨┤╤Ç╨╡╤ü╨░ ╨╜╨╡╨┤╨╛╤ü╤é╤â╨┐╨╡╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to decrypt.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┤╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the key and passphrase and try again.</source>♪◙        <translation>╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┐╤Ç╨╛╨▓╨╡╤Ç╤î╤é╨╡ ╨║╨╗╤Ä╤ç ╨╕ ╨║╨╛╨┤╨╛╨▓╤â╤Ä ╤ä╤Ç╨░╨╖╤â ╨╕ ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╤ü╨╜╨╛╨▓╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Data Not Valid.</source>♪◙        <translation>╨ö╨░╨╜╨╜╤ï╨╡ ╨╜╨╡╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please try again.</source>♪◙        <translation>╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╤ü╨╜╨╛╨▓╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please wait while key is imported</source>♪◙        <translation>╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┤╨╛╨╢╨┤╨╕╤é╨╡╤ü╤î ╨╕╨╝╨┐╨╛╤Ç╤é╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å ╨║╨╗╤Ä╤ç╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Key Already Held By Wallet</source>♪◙        <translation>╨Ü╨╗╤Ä╤ç ╤â╨╢╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╤é╤ü╤Å ╨║╨╛╤ê╨╡╨╗╤î╨║╨╛╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error Adding Key To Wallet</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨┐╤Ç╨╕ ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╨╕╨╕ ╨║╨╗╤Ä╤ç╨░ ╨║ ╨║╨╛╤ê╨╡╨╗╤î╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Successfully Added Private Key To Wallet</source>♪◙        <translation>╨ƒ╨╡╤Ç╤ü╨╛╨╜╨░╨╗╤î╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜ ╨║ ╨║╨╛╤ê╨╡╨╗╤î╨║╤â</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>BitcoinGUI</name>♪◙    <message>♪◙        <source>Wallet</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Node</source>♪◙        <translation>╨ú╨╖╨╡╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>Overview</source>♪◙        <translation>╨₧╨▒╨╖╨╛╤Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show general overview of wallet</source>♪◙        <translation>╨₧╨▒╤ë╨╕╨╣ ╨╛╨▒╨╖╨╛╤Ç ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receive</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transactions</source>♪◙        <translation>╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Browse transaction history</source>♪◙        <translation>╨ƒ╤Ç╨╛╤ü╨╝╨╛╤é╤Ç ╨╕╤ü╤é╨╛╤Ç╨╕╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Privacy Actions for zXCRC</source>♪◙        <translation>╨ö╨╡╨╣╤ü╤é╨▓╨╕╤Å ╨║╨╛╨╜╤ä╨╕╨┤╨╡╨╜╤å╨╕╨░╨╗╤î╨╜╨╛╤ü╤é╨╕ ╨┤╨╗╤Å ╨╖╨┐╨╕╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exit</source>♪◙        <translation>╨Æ╤ï╤à╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quit application</source>♪◙        <translation>╨ù╨░╨▓╨╡╤Ç╤ê╨╕╤é╤î ╤Ç╨░╨▒╨╛╤é╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>About Qt</source>♪◙        <translation>╨₧ Qt</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show information about Qt</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Ä ╨╛ Qt</translation>♪◙    </message>♪◙    <message>♪◙        <source>Options...</source>♪◙        <translation>╨₧╨┐╤å╨╕╨╕...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show / Hide</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î / ╨í╨║╤Ç╤ï╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show or hide the main Window</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨╕╨╗╨╕ ╤ü╨║╤Ç╤ï╤é╤î ╨╛╤ü╨╜╨╛╨▓╨╜╨╛╨╡ ╨₧╨║╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt Wallet...</source>♪◙        <translation>╨ù╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt the private keys that belong to your wallet</source>♪◙        <translation>╨ù╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╤é╤î ╨╗╨╕╤ç╨╜╤ï╨╡ ╨║╨╗╤Ä╤ç╨╕, ╨┐╤Ç╨╕╨╜╨░╨┤╨╗╨╡╨╢╨░╤ë╨╕╨╡ ╨▓╨░╤ê╨╡╨╝╤â ╨║╨╛╤ê╨╡╨╗╤î╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Backup Wallet...</source>♪◙        <translation>╨á╨╡╨╖╨╡╤Ç╨▓╨╜╨░╤Å ╨║╨╛╨┐╨╕╤Å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Backup wallet to another location</source>♪◙        <translation>╨í╨┤╨╡╨╗╨░╤é╤î ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤â╤Ä ╨║╨╛╨┐╨╕╤Ä ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨▓ ╨┤╤Ç╤â╨│╨╛╨╝ ╨╝╨╡╤ü╤é╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change Passphrase...</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î ╨║╨╛╨┤╨╛╨▓╤â╤Ä ╤ä╤Ç╨░╨╖╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change the passphrase used for wallet encryption</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡ ╨║╨╛╨┤╨╛╨▓╨╛╨╣ ╤ä╤Ç╨░╨╖╤ï, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╨╝╨╛╨╣ ╨┤╨╗╤Å ╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╤Å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock Wallet...</source>♪◙        <translation>╨á╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock wallet</source>♪◙        <translation>╨í╨╜╤Å╤é╨╕╨╡ ╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock Wallet</source>♪◙        <translation>╨æ╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign message...</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╨░╤é╤î ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify message...</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╤Ç╨╕╤é╤î ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>╨ÿ╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show diagnostic information</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨┤╨╕╨░╨│╨╜╨╛╤ü╤é╨╕╤ç╨╡╤ü╨║╤â╤Ä ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debug console</source>♪◙        <translation>╨Ü╨╛╨╜╤ü╨╛╨╗╤î ╨╛╤é╨╗╨░╨┤╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open debugging console</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î ╨║╨╛╨╜╤ü╨╛╨╗╤î ╨╛╤é╨╗╨░╨┤╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network Monitor</source>♪◙        <translation>╨í╨╡╤é╨╡╨▓╨╛╨╣ ╨╝╨╛╨╜╨╕╤é╨╛╤Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show network monitor</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╤ü╨╡╤é╨╡╨▓╨╛╨╣ ╨╝╨╛╨╜╨╕╤é╨╛╤Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Peers list</source>♪◙        <translation>╨í╨┐╨╕╤ü╨╛╨║ ╨┐╨╕╤Ç╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show peers info</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Ä ╨╛ ╨┐╨╕╤Ç╨░╤à</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet Repair</source>♪◙        <translation>╨á╨╡╨╝╨╛╨╜╤é ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show wallet repair options</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨▓╨░╤Ç╨╕╨░╨╜╤é╤ï ╨▓╨╛╤ü╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╤Å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open configuration file</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î ╤ä╨░╨╣╨╗ ╨╜╨░╤ü╤é╤Ç╨╛╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show Automatic Backups</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕╨╡ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╨╡ ╨║╨╛╨┐╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show automatically created wallet backups</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╤ü╨╛╨╖╨┤╨░╨╜╨╜╤ï╨╡ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╨╡ ╨║╨╛╨┐╨╕╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending addresses...</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü╨░ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the list of used sending addresses and labels</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╤ü╨┐╨╕╤ü╨╛╨║ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕ </translation>♪◙    </message>♪◙    <message>♪◙        <source>Receiving addresses...</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü╨░ ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the list of used receiving addresses and labels</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╤ü╨┐╨╕╤ü╨╛╨║ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ╨┐╤Ç╨╕╤æ╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Multisignature creation...</source>♪◙        <translation>╨í╨₧╨╖╨┤╨░╨╜╨╕╨╡ ╨╝╨╜╨╛╨│╨╛╨┐╨╛╨┤╨┐╨╕╤ü╨╡╨╣...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a new multisignature address and add it to this wallet</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨╜╨╛╨▓╨╛╨│╨╛ ╨░╨┤╤Ç╨╡╤ü╨░ ╨╝╨╜╨╛╨│╨╛╨░╨┤╤Ç╨╡╤ü╨╜╨╛╨╣ ╨┐╨╛╨┤╨┐╨╕╤ü╨╕ ╨╕ ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╨╕╨╡ ╨╡╨│╨╛ ╨▓ ╨▒╤â╨╝╨░╨╢╨╜╨╕╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Multisignature spending...</source>♪◙        <translation>╨£╨╜╨╛╨│╨╛╨┐╨╛╨┤╨┐╨╕╤ü╨╜╨░╤Å ╤é╤Ç╨░╤é╨░...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend from a multisignature address</source>♪◙        <translation>╨ƒ╨╛╤é╤Ç╨░╤é╨╕╤é╤î ╨╕╨╖ ╨╝╨╜╨╛╨│╨╛╨┐╨╛╨┤╨┐╨╕╤ü╨╜╨╛╨│╨╛ ╨░╨┤╤Ç╨╡╤ü╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Multisignature signing...</source>♪◙        <translation>╨£╨╜╨╛╨│╨╛╨┐╨╛╨┤╨┐╨╕╤ü╨╜╨░╤Å ╨┐╨╛╨┤╨┐╨╕╤ü╤î...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign with a multisignature address</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ê╨╕╤ü╤î ╤ü ╨╝╨╜╨╛╨│╨╛╨┐╨╛╨┤╨┐╨╕╤ü╨╜╤ï╨╝ ╨░╨┤╤Ç╨╡╤ü╨╛╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open URI...</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î URI</translation>♪◙    </message>♪◙    <message>♪◙        <source>Command-line options</source>♪◙        <translation>╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï ╨║╨╛╨╝╨░╨╜╨┤╨╜╨╛╨╣ ╤ü╤é╤Ç╨╛╨║╨╕</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>Processed %n blocks of transaction history.</source>♪◙        <translation><numerusform>╨₧╨▒╤Ç╨░╨▒╨╛╤é╨░╨╜╨╛ %n ╨▒╨╗╨╛╨║╨╛╨▓ ╨╕╤ü╤é╨╛╤Ç╨╕╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣</numerusform><numerusform>╨₧╨▒╤Ç╨░╨▒╨╛╤é╨░╨╜╨╛ %n ╨▒╨╗╨╛╨║╨╛╨▓ ╨╕╤ü╤é╨╛╤Ç╨╕╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣</numerusform><numerusform>╨₧╨▒╤Ç╨░╨▒╨╛╤é╨░╨╜╨╛ %n ╨▒╨╗╨╛╨║╨╛╨▓ ╨╕╤ü╤é╨╛╤Ç╨╕╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣</numerusform><numerusform>╨₧╨▒╤Ç╨░╨▒╨╛╤é╨░╨╜╨╛ %n ╨▒╨╗╨╛╨║╨╛╨▓ ╨╕╤ü╤é╨╛╤Ç╨╕╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing additional data: %p%</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ╨┤╨╛╨┐╨╛╨╗╨╜╨╕╤é╨╡╨╗╤î╨╜╤ï╤à ╨┤╨░╨╜╨╜╤ï╤à: %p%</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 behind. Scanning block %2</source>♪◙        <translation>%1 ╨┐╨╛╨╖╨░╨┤╨╕. ╨æ╨╗╨╛╨║ ╤ü╨║╨░╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å %2</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║ &lt;b&gt;╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜&lt;/b&gt; ╨╕ ╨▓ ╨╜╨░╤ü╤é╨╛╤Å╤ë╨╡╨╡ ╨▓╤Ç╨╡╨╝╤Å &lt;b&gt;╤Ç╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜&lt;/b&gt; ╨┤╨╗╤Å ╨░╨╜╨╛╨╜╨╕╨╝╨╜╨╛╤ü╤é╨╕ ╨╕ ╤à╤Ç╨░╨╜╨╡╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>File</source>♪◙        <translation>╨ñ╨░╨╣╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>Settings</source>♪◙        <translation>╨¥╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tools</source>♪◙        <translation>╨ÿ╨╜╤ü╤é╤Ç╤â╨╝╨╡╨╜╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Help</source>♪◙        <translation>╨ƒ╨╛╨╝╨╛╤ë╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tabs toolbar</source>♪◙        <translation>╨ƒ╨░╨╜╨╡╨╗╤î ╨▓╨║╨╗╨░╨┤╨╛╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send coins to a CRyptoCrowd address</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╕╤é╤î ╨╝╨╛╨╜╨╡╤é╤ï ╨╜╨░ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü╨╕╤é╤î ╨┐╨╗╨░╤é╨╡╨╢╨╕ (╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╤â╨╡╤é QR-╨║╨╛╨┤ ╨╕ CRyptoCrowd: URI)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Privacy</source>♪◙        <translation>╨Ü╨╛╨╜╤ä╨╕╨┤╨╡╨╜╤å╨╕╨░╨╗╤î╨╜╨╛╤ü╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternodes</source>♪◙        <translation>╨£╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Browse masternodes</source>♪◙        <translation>╨₧╨▒╨╖╨╛╤Ç ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>About CRyptoCrowd Core</source>♪◙        <translation>╨₧ CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show information about CRyptoCrowd Core</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Ä ╨╛ CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Modify configuration options for CRyptoCrowd</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡ ╨┐╨░╤Ç╨░╨╝╨╡╤é╤Ç╨╛╨▓ ╨║╨╛╨╜╤ä╨╕╨│╤â╤Ç╨░╤å╨╕╨╕ CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╤ï╨▓╨░╨╣╤é╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å ╨▓╨░╤ê╨╕╨╝╨╕ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü╨░╨╝╨╕, ╤ç╤é╨╛╨▒╤ï ╨┤╨╛╨║╨░╨╖╨░╤é╤î, ╤ç╤é╨╛ ╨▓╤ï ╨╕╤à ╨▓╨╗╨░╨┤╨╡╨╗╨╡╤å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╤Ç╤é╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å, ╤ç╤é╨╛╨▒╤ï ╤â╨▒╨╡╨┤╨╕╤é╤î╤ü╤Å, ╤ç╤é╨╛ ╨╛╨╜╨╕ ╨▒╤ï╨╗╨╕ ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╤ï ╤â╨║╨░╨╖╨░╨╜╨╜╤ï╨╝ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü╨╛╨╝ </translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP38 tool</source>♪◙        <translation>BIP38 ╨ú╤é╨╕╨╗╨╕╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt and decrypt private keys using a passphrase</source>♪◙        <translation>╨¿╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨╕ ╨┤╨╡╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨╗╨╕╤ç╨╜╤ï╤à ╨║╨╗╤Ä╤ç╨╡╨╣ ╤ü ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨║╨╛╨┤╨╛╨▓╨╛╨╣ ╤ä╤Ç╨░╨╖╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend</source>♪◙        <translation>MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend Settings</source>♪◙        <translation>╨¥╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕ MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Wallet Configuration File</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î ╤ä╨░╨╣╨╗ ╨╜╨░╤ü╤é╤Ç╨╛╨╡╨║ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Masternode Configuration File</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î ╤ä╨░╨╣╨╗ ╨╜╨░╤ü╤é╤Ç╨╛╨╡╨║ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Masternode configuration file</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î ╤ä╨░╨╣╨╗ ╨╜╨░╤ü╤é╤Ç╨╛╨╡╨║ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open a CRyptoCrowd: URI or payment request</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î CRyptoCrowd: URI ╨╕╨╗╨╕ ╨╖╨░╨┐╤Ç╨╛╤ü ╨┐╨╗╨░╤é╨╡╨╢╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Blockchain explorer</source>♪◙        <translation>╨₧╨▒╨╖╨╛╤Ç ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Block explorer window</source>♪◙        <translation>╨₧╨║╨╜╨╛ ╨╛╨▒╨╖╨╛╤Ç╨░ ╨▒╨╗╨╛╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>♪◙        <translation>╨í╨╝╨╛╤é╤Ç╨╕╤é╨╡ ╨┐╨╛╨╝╨╛╤ë╤î ╨║ ╨┐╤Ç╨╛╨│╤Ç╨░╨╝╨╝╨╡, ╤ç╤é╨╛╨▒╤ï ╨┐╨╛╨╗╤â╤ç╨╕╤é╤î ╨┤╨╛╨║╤â╨╝╨╡╨╜╤é╨░╤å╨╕╤Ä ╨║╨╛ ╨▓╤ü╨╡╨╝ ╨▓╨╛╨╖╨╝╨╛╨╢╨╜╤ï╨╝ ╨╛╨┐╤å╨╕╤Å╨╝ ╨║╨╛╨╝╨╝╨░╨╜╨┤╤ï CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core client</source>♪◙        <translation>╨Ü╨╗╨╕╨╡╨╜╤é CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n active connection(s) to CRyptoCrowd network</source>♪◙        <translation><numerusform>%n ╨░╨║╤é╨╕╨▓╨╜╤ï╤à ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╣ ╨║ ╤ü╨╡╤é╨╕ CRyptoCrowd</numerusform><numerusform>%n ╨░╨║╤é╨╕╨▓╨╜╤ï╤à ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╣ ╨║ ╤ü╨╡╤é╨╕ CRyptoCrowd</numerusform><numerusform>%n ╨░╨║╤é╨╕╨▓╨╜╤ï╤à ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╣ ╨║ ╤ü╨╡╤é╨╕ CRyptoCrowd</numerusform><numerusform>%n ╨░╨║╤é╨╕╨▓╨╜╤ï╤à ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╣ ╨║ ╤ü╨╡╤é╨╕ CRyptoCrowd</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing with network...</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ╤ü ╤ü╨╡╤é╤î╤Ä...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Importing blocks from disk...</source>♪◙        <translation>╨ÿ╨╝╨┐╨╛╤Ç╤é╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨▒╨╗╨╛╨║╨╛╨▓ ╤ü ╨┤╨╕╤ü╨║╨░...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindexing blocks on disk...</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨╕╨╜╨┤╨╡╨║╤ü╨░╤å╨╕╤Å ╨▒╨╗╨╛╨║╨╛╨▓ ╨╜╨░ ╨┤╨╕╤ü╨║╨╡...</translation>♪◙    </message>♪◙    <message>♪◙        <source>No block source available...</source>♪◙        <translation>╨ÿ╤ü╤é╨╛╤ç╨╜╨╕╨║ ╨▒╨╗╨╛╨║╨╛╨▓ ╨╜╨╡╨┤╨╛╤ü╤é╤â╨┐╨╡╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Up to date</source>♪◙        <translation>╨₧╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨╜╨╡ ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n hour(s)</source>♪◙        <translation><numerusform>%n ╤ç╨░╤ü╨╛╨▓</numerusform><numerusform>%n ╤ç╨░╤ü╨╛╨▓</numerusform><numerusform>%n ╤ç╨░╤ü╨╛╨▓</numerusform><numerusform>%n ╤ç╨░╤ü╨╛╨▓</numerusform></translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n day(s)</source>♪◙        <translation><numerusform>%n ╨┤╨╜╨╡╨╣</numerusform><numerusform>%n ╨┤╨╜╨╡╨╣</numerusform><numerusform>%n ╨┤╨╜╨╡╨╣</numerusform><numerusform>%n ╨┤╨╜╨╡╨╣</numerusform></translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n week(s)</source>♪◙        <translation><numerusform>%n ╨╜╨╡╨┤╨╡╨╗╤î</numerusform><numerusform>%n ╨╜╨╡╨┤╨╡╨╗╤î</numerusform><numerusform>%n ╨╜╨╡╨┤╨╡╨╗╤î</numerusform><numerusform>%n ╨╜╨╡╨┤╨╡╨╗╤î</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 and %2</source>♪◙        <translation>%1 ╨╕ %2</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>%n year(s)</source>♪◙        <translation><numerusform>%n ╨╗╨╡╤é</numerusform><numerusform>%n ╨╗╨╡╤é</numerusform><numerusform>%n ╨╗╨╡╤é</numerusform><numerusform>%n ╨╗╨╡╤é</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Catching up...</source>♪◙        <translation>╨╗╨╛╨▓╨╗╤Ä...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last received block was generated %1 ago.</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡╨┤╨╜╨╕╨╣ ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╜╤ï╨╣ ╨▒╨╗╨╛╨║ ╨▒╤ï╨╗ ╤ü╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╨╛╨▓╨░╨╜ %1 ╨╜╨░╨╖╨░╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transactions after this will not yet be visible.</source>♪◙        <translation>╨ó╤Ç╨░╨╜╤ü╨░╨║╤å╨╕╨╕ ╨┐╨╛╤ü╨╗╨╡ ╤ì╤é╨╛╨╣ ╨╜╨╡ ╨▒╤â╨┤╤â╤é ╨▓╨╕╨┤╨╕╨╝╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>╨ÿ╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent transaction</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╜╨░╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Incoming transaction</source>♪◙        <translation>╨Æ╤à╨╛╨┤╤Å╤ë╨░╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent MultiSend transaction</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╜╨░╤Å MultiSend ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Date: %1♪◙Amount: %2♪◙Type: %3♪◙Address: %4♪◙</source>♪◙        <translation>╨ö╨░╤é╨░: %1♪◙╨í╤â╨╝╨╝╨░: %2♪◙╨ó╨╕╨┐: %3♪◙╨É╨┤╤Ç╨╡╤ü: %4♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staking is active♪◙ MultiSend: %1</source>♪◙        <translation>╨Ñ╤Ç╨░╨╜╨╡╨╜╨╕╨╡ ╨░╨║╤é╨╕╨▓╨╜╨╛♪◙MultiSend: %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Active</source>♪◙        <translation>╨É╨║╤é╨╕╨▓╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not Active</source>♪◙        <translation>╨¥╨╡ ╨░╨║╤é╨╕╨▓╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staking is not active♪◙ MultiSend: %1</source>♪◙        <translation>╨Ñ╤Ç╨░╨╜╨╡╨╜╨╕╨╡ ╨╜╨╡ ╨░╨║╤é╨╕╨▓╨╜╨╛♪◙MultiSend: %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint is currently enabled and set to </source>♪◙        <translation>╨É╨▓╤é╨╛╤ç╨╡╨║╨░╨╜╨║╨░ ╨▓ ╨┤╨░╨╜╨╜╤ï╨╣ ╨╝╨╛╨╝╨╡╨╜ ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╨░ ╨╕ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨░ ╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint is disabled</source>♪◙        <translation>╨É╨▓╤é╨╛╤ç╨╡╨║╨░╨╜╨║╨░ ╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║ &lt;b&gt;╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜&lt;/b&gt; ╨╕ ╨▓ ╨╜╨░╤ü╤é╨╛╤Å╤ë╨╡╨╡ ╨▓╤Ç╨╡╨╝╤Å &lt;b&gt;╤Ç╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜&lt;/b&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║ &lt;b&gt;╨╖╨░╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜&lt;/b&gt; ╨╕ ╨▓ ╨╜╨░╤ü╤é╨╛╤Å╤ë╨╡╨╡ ╨▓╤Ç╨╡╨╝╤Å &lt;b&gt;╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜&lt;/b&gt;</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>BlockExplorer</name>♪◙    <message>♪◙        <source>Blockchain Explorer</source>♪◙        <translation>╨₧╨▒╨╖╨╛╤Ç ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Back</source>♪◙        <translation>╨¥╨░╨╖╨░╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Forward</source>♪◙        <translation>╨▓╨┐╨╡╤Ç╨╡╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address / Block / Transaction</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü / ╨æ╨╗╨╛╨║ / ╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Search</source>♪◙        <translation>╨ƒ╨╛╨╕╤ü╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>TextLabel</source>♪◙        <translation>╨ó╨╡╨║╤ü╤é╨╛╨▓╨░╤Å ╨╝╨╡╤é╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>♪◙        <translation>╨æ╤â╨┤╤â╤é ╨┐╨╛╨║╨░╨╖╨░╨╜╤ï ╨╜╨╡ ╨▓╤ü╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕. ╨ö╨╗╤Å ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╤Å ╨▓╤ü╨╡╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╨╜╨╡╨╛╨▒╤à╨╛╨┤╨╕╨╝╨╛ ╨▓╤ï╤ü╤é╨░╨▓╨╕╤é╤î txindex=1 ╨▓ ╨║╨╛╨╜╤ä╨╕╨│╤â╤Ç╨░╤å╨╕╨╛╨╜╨╜╨╛╨╝ ╤ä╨░╨╣╨╗╨╡ (cryptocrowd.conf).</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ClientModel</name>♪◙    <message>♪◙        <source>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Unknown: %5)</source>♪◙        <translation>╨₧╨▒╤ë╨╡╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / ╨¥╨╡╨╕╨╖╨▓╨╡╤ü╤é╨╜╤ï╨╡: %5)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network Alert</source>♪◙        <translation>╨í╨╡╤é╨╡╨▓╨╛╨╡ ╨┐╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>CoinControlDialog</name>♪◙    <message>♪◙        <source>Quantity:</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes:</source>♪◙        <translation>╨æ╨░╨╣╤é╤ï:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>╨í╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Priority:</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fee:</source>♪◙        <translation>╨Ü╨╛╨╝╨╕╤ü╤ü╨╕╤Å:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Selection</source>♪◙        <translation>╨Æ╤ï╨▒╨╛╤Ç ╨╝╨╛╨╜╨╡╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Dust:</source>♪◙        <translation>╨ƒ╤ï╨╗╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>After Fee:</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡ ╨║╨╛╨╝╨╕╤ü╤ü╨╕╨╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change:</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>(un)select all</source>♪◙        <translation>╨▓╤ï╨┤╨╡╨╗╨╕╤é╤î(╤ü╨╜╤Å╤é╤î) ╨▓╤ü╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>toggle lock state</source>♪◙        <translation>╨┐╨╛╨╝╨╡╨╜╤Å╤é╤î ╤ü╤é╨░╤é╤â╤ü ╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tree mode</source>♪◙        <translation>╨á╨╡╨╢╨╕╨╝ ╨┤╤Ç╨╡╨▓╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>List mode</source>♪◙        <translation>╨á╨╡╨╢╨╕╨╝ ╤ü╨┐╨╕╤ü╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>(1 locked)</source>♪◙        <translation>(1 ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>╨í╤â╨╝╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received with label</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜╨╛ ╤ü ╨╝╨╡╤é╨║╨╛╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received with address</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜╨╜╨╛ ╨╜╨░ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type</source>♪◙        <translation>╨ó╨╕╨┐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>╨ö╨░╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmations</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmed</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Priority</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy address</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy label</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╝╨╡╤é╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤ü╤â╨╝╨╝╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy transaction ID</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ID ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock unspent</source>♪◙        <translation>╨ù╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╜╨╡╤ü╤é╤Ç╨░╤ç╨╡╨╜╨╜╤ï╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock unspent</source>♪◙        <translation>╨á╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╜╨╡╨╕╤ü╤é╤Ç╨░╤ç╨╡╨╜╨╜╤ï╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy quantity</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy fee</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╨╝╨╕╤ü╤ü╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy after fee</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨┐╨╛╤ü╨╗╨╡ ╨▓╨╛╨╖╨╜╨░╨│╤Ç╨░╨╢╨┤╨╡╨╜╨╕╤Å </translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy bytes</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨▒╨░╨╣╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy priority</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨┐╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy dust</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨┐╤ï╨╗╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy change</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please switch to "List mode" to use this function.</source>♪◙        <translation>╨ö╨╗╤Å ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╤Å ╤ì╤é╨╛╨╣ ╤ä╤â╨╜╨║╤å╨╕╨╕ ╨┐╨╡╤Ç╨╡╨╣╨┤╨╕╤é╨╡ ╨▓ "╨á╨╡╨╢╨╕╨╝ ╤ü╨┐╨╕╤ü╨║╨░"</translation>♪◙    </message>♪◙    <message>♪◙        <source>highest</source>♪◙        <translation>╤ü╨░╨╝╤ï╨╣ ╨▓╤ï╤ü╨╛╨║╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>higher</source>♪◙        <translation>╨▓╤ï╤ê╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>high</source>♪◙        <translation>╨▓╤ï╤ü╨╛╨║╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>medium-high</source>♪◙        <translation>╤ü╤Ç╨╡╨┤╨╜╨╡-╨▓╤ï╤ü╨╛╨║╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>medium</source>♪◙        <translation>╨┐╤Ç╨╛╨╝╨╡╨╢╤â╤é╨╛╤ç╨╜╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>low-medium</source>♪◙        <translation>╨╜╨╕╨╖╨║╨╛-╤ü╤Ç╨╡╨┤╨╜╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>low</source>♪◙        <translation>╨╜╨╕╨╖╨║╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>lower</source>♪◙        <translation>╨╜╨╕╨╢╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>lowest</source>♪◙        <translation>╤ü╨░╨╝╤ï╨╣ ╨╜╨╕╨╖╨║╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>(%1 locked)</source>♪◙        <translation>(%1 ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜)</translation>♪◙    </message>♪◙    <message>♪◙        <source>none</source>♪◙        <translation>╨╜╨╕╤ç╨╡╨│╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>yes</source>♪◙        <translation>╨┤╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>no</source>♪◙        <translation>╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>♪◙        <translation>╨¡╤é╨╛╤é ╨╝╨░╤Ç╨║╨╡╤Ç ╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╤ü╤Å ╨║╤Ç╨░╤ü╨╜╤ï╨╝ ╨╡╤ü╨╗╨╕ ╤Ç╨░╨╖╨╝╨╡╤Ç ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨┐╤Ç╨╡╨▓╤ï╤ü╨╕╤é 1000 ╨▒╨░╨╣╤é.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This means a fee of at least %1 per kB is required.</source>♪◙        <translation>╨¡╤é╨╛ ╨╛╨╖╨╜╨░╤ç╨░╨╡╤é, ╤ç╤é╨╛ ╨╜╨╡╨╛╨▒╤à╨╛╨┤╨╕╨╝╨░ ╨║╨╛╨╝╨╕╤ü╤ü╨╕╤Å ╨▓ ╤Ç╨░╨╖╨╝╨╡╤Ç╨╡ ╨║╨░╨║ ╨╝╨╕╨╜╨╕╨╝╤â╨╝ %1 ╨╖╨░ kB</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can vary +/- 1 byte per input.</source>♪◙        <translation>╨£╨╛╨╢╨╡╤é ╨▓╨░╤Ç╨╕╨╕╤Ç╨╛╨▓╨░╤é╤î +/- 1 ╨▒╨░╨╣╤é ╨╜╨░ ╨║╨░╨╢╨┤╤ï╨╣ ╨▓╨▓╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transactions with higher priority are more likely to get included into a block.</source>♪◙        <translation>╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤ü ╨▓╤ï╤ü╨╛╨║╨╕╨╝ ╨┐╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é╨╛╨╝ ╤ü ╨▒╨╛╨╗╤î╤ê╨╡╨╣ ╨▓╨╡╤Ç╨╛╤Å╤é╨╜╨╛╤ü╤é╤î╤Ä ╨▒╤â╨┤╤â╤é ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╤ï ╨▓ ╨▒╨╗╨╛╨║.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This label turns red, if the priority is smaller than "medium".</source>♪◙        <translation>╨¡╤é╨╛╤é ╨╝╨░╤Ç╨║╨╡╤Ç ╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╤ü╤Å ╨║╤Ç╨░╤ü╨╜╤ï╨╝ ╨╡╤ü╨╗╨╕ ╨┐╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é ╨╜╨╕╨╢╨╡, ╤ç╨╡╨╝ "╤ü╤Ç╨╡╨┤╨╜╨╕╨╣".</translation>♪◙    </message>♪◙    <message>♪◙        <source>This label turns red, if any recipient receives an amount smaller than %1.</source>♪◙        <translation>╨¡╤é╨╛╤é ╨╝╨░╤Ç╨║╨╡╤Ç ╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╤ü╤Å ╨║╤Ç╨░╤ü╨╜╤ï╨╝ ╨╡╤ü╨╗╨╕ ╨┐╨╛╨╗╤â╤ç╨░╨╡╨╝╨░╤Å ╨░╨┤╤Ç╨╡╤ü╨░╤é╨╛╨╝ ╤ü╤â╨╝╨╝╨░ ╨╝╨╡╨╜╤î╤ê╨╡, ╤ç╨╡╨╝ %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>♪◙        <translation>╨£╨╛╨╢╨╡╤é ╨▓╨░╤Ç╨╕╨╕╤Ç╨╛╨▓╨░╤é╤î╤ü╤Å +/- %1 uCRyptoCrowd ╨┐╤Ç╨╕ ╨▓╨▓╨╛╨┤╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(╨╜╨╡╤é ╨╝╨╡╤é╨║╨╕)</translation>♪◙    </message>♪◙    <message>♪◙        <source>change from %1 (%2)</source>♪◙        <translation>╨╕╨╖╨╝╨╡╨╜╨╕╤é╤î ╤ü %1 (%2)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(change)</source>♪◙        <translation>(╨╕╨╖╨╝╨╡╨╜╨╕╤é╤î)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>EditAddressDialog</name>♪◙    <message>♪◙        <source>Edit Address</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>╨£╨╡╤é╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>The label associated with this address list entry</source>♪◙        <translation>╨£╨╡╤é╨║╨░, ╤ü╨▓╤Å╨╖╨░╨╜╨╜╨░╤Å ╤ü ╤ì╤é╨╛╨╣ ╨╖╨░╨┐╨╕╤ü╤î╤Ä ╨▓ ╤ü╨┐╨╕╤ü╨║╨╡ ╨░╨┤╤Ç╨╡╤ü╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü ╨░╤ü╤ü╨╛╤å╨╕╨╕╤Ç╨╛╨▓╨░╨╜ ╤ü ╤ì╤é╨╕╨╝ ╤ì╨╗╨╡╨╝╨╜╤é╨╛╨╝ ╤ü╨┐╨╕╤ü╨║╨░ ╨░╨┤╤Ç╨╡╤ü╨╛╨▓. ╨¡╤é╨╛ ╨╝╨╛╨╢╨╡╤é ╨▒╤ï╤é╤î ╨╕╨╖╨╝╨╡╨╜╨╜╨╡╨╜╨╛ ╤é╨╛╨╗╤î╨║╨╛ ╨┤╨╗╤Å ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ╨╛╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>New receiving address</source>♪◙        <translation>╨¥╨╛╨▓╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>New sending address</source>♪◙        <translation>╨¥╨╛╨▓╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit receiving address</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit sending address</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╡╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü "%1" ╨╜╨╡ ╤Å╨▓╨╗╤Å╨╡╤é╤ü╤Å CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü╨╛╨╝.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address "%1" is already in the address book.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╡╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü "%1" ╤â╨╢╨╡ ╨╜╨░╤à╨╛╨┤╨╕╤é╤ü╤Å ╨▓ ╨╖╨░╨┐╨╕╤ü╨╜╨╛╨╣ ╨║╨╜╨╕╨│╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Could not unlock wallet.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╤Ç╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║.</translation>♪◙    </message>♪◙    <message>♪◙        <source>New key generation failed.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╤ü╨╛╨╖╨┤╨░╤é╤î ╨╜╨╛╨▓╤ï╨╣ ╨║╨╗╤Ä╤ç.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>FreespaceChecker</name>♪◙    <message>♪◙        <source>A new data directory will be created.</source>♪◙        <translation>╨æ╤â╨┤╨╡╤é ╤ü╨╛╨╖╨┤╨░╨╜ ╨╜╨╛╨▓╤ï╨╣ ╨║╨░╤é╨░╨╗╨╛╨│ ╨┤╨░╨╜╨╜╤ï╤à.</translation>♪◙    </message>♪◙    <message>♪◙        <source>name</source>♪◙        <translation>╨╕╨╝╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>♪◙        <translation>╨ö╨░╨╜╨╜╤ï╨╣ ╨║╨░╤é╨░╨╗╨╛╨│ ╤â╨╢╨╡ ╤ü╤â╤ë╨╡╤ü╤é╨▓╤â╨╡╤é. ╨ö╨╛╨▒╨░╨▓╤î╤é╨╡ %1 ╨╡╤ü╨╗╨╕ ╨▓╤ï ╨▓╤ü╨╡ ╨╡╤ë╨╡ ╤à╨╛╤é╨╕╤é╨╡ ╤ü╨╛╨╖╨┤╨░╤é╤î ╨╖╨┤╨╡╤ü╤î ╨╜╨╛╨▓╤ï╨╣ ╨║╨░╤é╨░╨╗╨╛╨│.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Path already exists, and is not a directory.</source>♪◙        <translation>╨ƒ╤â╤é╤î ╤â╨╢╨╡ ╤ü╤â╤ë╨╡╤ü╤é╨▓╤â╨╡╤é ╨╕ ╨╜╨╡ ╤Å╨▓╨╗╤Å╨╡╤é╤ü╤Å ╨║╨░╤é╨░╨╗╨╛╨│╨╛╨╝.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot create data directory here.</source>♪◙        <translation>╨ù╨┤╨╡╤ü╤î ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╤ü╨╛╨╖╨┤╨░╤é╤î ╨║╨░╤é╨░╨╗╨╛╨│ ╨┤╨░╨╜╨╜╤ï╤à.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>HelpMessageDialog</name>♪◙    <message>♪◙        <source>version</source>♪◙        <translation>╨▓╨╡╤Ç╤ü╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>(%1-bit)</source>♪◙        <translation>(%1-╨▒╨╕╤é)</translation>♪◙    </message>♪◙    <message>♪◙        <source>About CRyptoCrowd Core</source>♪◙        <translation>╨₧ CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Command-line options</source>♪◙        <translation>╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï ╨║╨╛╨╝╨░╨╜╨┤╨╜╨╛╨╣ ╤ü╤é╤Ç╨╛╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Usage:</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╝╨╡╨╜╨╡╨╜╨╕╨╡:</translation>♪◙    </message>♪◙    <message>♪◙        <source>command-line options</source>♪◙        <translation>╨┐╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï ╨║╨╛╨╝╨░╨╜╨┤╨╜╨╛╨╣ ╤ü╤é╤Ç╨╛╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>UI Options:</source>♪◙        <translation>╨₧╨┐╤å╨╕╨╕ ╨╕╨╜╤é╨╡╤Ç╤ä╨╡╨╣╤ü╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose data directory on startup (default: %u)</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╨┤╨╕╤Ç╨╡╨║╤é╨╛╤Ç╨╕╤Ä ╨┤╨╗╤Å ╨┤╨░╨╜╨╜╤ï╤à ╨┐╤Ç╨╕ ╨╖╨░╨┐╤â╤ü╨║╨╡ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show splash screen on startup (default: %u)</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╤ï╨▓╨░╤é╤î ╨╖╨░╨│╤Ç╤â╨╖╨╛╤ç╨╜╤â╤Ä ╨╖╨░╤ü╤é╨░╨▓╨║╤â ╨┐╤Ç╨╕ ╨╖╨░╨┐╤â╤ü╨║╨╡ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set language, for example "de_DE" (default: system locale)</source>♪◙        <translation>╨ù╨░╨┤╨░╨╣╤é╨╡ ╤Å╨╖╤ï╨║, ╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç "de_DE"(╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: ╤Å╨╖╤ï╨║ ╤ü╨╕╤ü╤é╨╡╨╝╤ï)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start minimized</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╨║╨░╤é╤î ╤ü╨▓╤æ╤Ç╨╜╤â╤é╤ï╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set SSL root certificates for payment request (default: -system-)</source>♪◙        <translation>╨ù╨░╨┤╨░╤é╤î ╨║╨╛╤Ç╨╜╨╡╨▓╨╛╨╣ ╤ü╨╡╤Ç╤é╨╕╤ä╨╕╨║╨░╤é SSL ╨┤╨╗╤Å ╨┐╨╗╨░╤é╨╡╨╢╨╜╤ï╤à ╨╖╨░╨┐╤Ç╨╛╤ü╨╛╨▓ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: -system-)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>Intro</name>♪◙    <message>♪◙        <source>Welcome</source>♪◙        <translation>╨ö╨╛╨▒╤Ç╨╛ ╨┐╨╛╨╢╨░╨╗╨╛╨▓╨░╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Welcome to CRyptoCrowd Core.</source>♪◙        <translation>╨ö╨╛╨▒╤Ç╨╛ ╨┐╨╛╨╢╨░╨╗╨╛╨▓╨░╤é╤î ╨▓ CRyptoCrowd Core.</translation>♪◙    </message>♪◙    <message>♪◙        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>♪◙        <translation>╨ƒ╨╛╤ü╨║╨╛╨╗╤î╨║╤â ╤ì╤é╨╛ ╨┐╨╡╤Ç╨▓╤ï╨╣ ╨╖╨░╨┐╤â╤ü╨║ ╨┐╤Ç╨╛╨│╤Ç╨░╨╝╨╝╤ï, ╨▓╤ï ╨╝╨╛╨╢╨╡╤é╨╡ ╨▓╤ï╨▒╤Ç╨░╤é╤î, ╨│╨┤╨╡ ╨▒╤â╨┤╤â╤é ╤à╤Ç╨░╨╜╨╕╤é╤î╤ü╤Å ╨┤╨░╨╜╨╜╤ï╨╡ CRyptoCrowd Core.</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>♪◙        <translation>CRyptoCrowd Core ╨╖╨░╨│╤Ç╤â╨╖╨╕╤é ╨╕ ╤ü╨╛╤à╤Ç╨░╨╜╨╕╤é ╨║╨╛╨┐╨╕╤Ä ╤å╨╡╨┐╨╛╤ç╨║╨╕ ╨▒╨╗╨╛╨║╨╛╨▓ CRyptoCrowd. ╨Ü╨░╤é╨░╨╗╨╛╨│ ╨▒╤â╨┤╨╡╤é ╨╖╨░╨╜╨╕╨╝╨░╤é╤î ╨╛╨║╨╛╨╗╨╛ %1GB ╨╕ ╤ü╨╛ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╡╨╝ ╤Ç╨░╨╖╨╝╨╡╤Ç ╨▒╤â╨┤╨╡╤é ╤â╨▓╨╡╨╗╨╕╤ç╨╕╨▓╨░╤é╤î╤ü╤Å. ╨Ü╤Ç╨╛╨╝╨╡ ╤é╨╛╨│╨╛, ╨▓ ╤ì╤é╨╛╨╝ ╨║╨░╤é╨░╨╗╨╛╨│╨╡ ╨▒╤â╨┤╨╡╤é ╤à╤Ç╨░╨╜╨╕╤é╤î╤ü╤Å ╨║╨╛╤ê╨╡╨╗╨╡╨║.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use the default data directory</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╤î ╨║╨░╤é╨░╨╗╨╛╨│ ╨┤╨░╨╜╨╜╤ï╤à ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use a custom data directory:</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╤î ╨┤╤Ç╤â╨│╨╛╨╣ ╨║╨░╤é╨░╨╗╨╛╨│ ╨┤╨░╨╜╨╜╤ï╤à:</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Specified data directory "%1" cannot be created.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╤ü╨╛╨╖╨┤╨░╤é╤î ╤â╨║╨░╨╖╨░╨╜╨╜╤ï╨╣ ╨║╨░╤é╨░╨╗╨╛╨│ ╨┤╨░╨╜╨╜╤ï╤à "%1" </translation>♪◙    </message>♪◙    <message>♪◙        <source>Error</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 GB of free space available</source>♪◙        <translation>╨ö╨╛╤ü╤é╤â╨┐╨╜╨╛ %1 GB ╤ü╨▓╨╛╨▒╨╛╨┤╨╜╨╛╨│╨╛ ╨╝╨╡╤ü╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>(of %1 GB needed)</source>♪◙        <translation>(╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å %1 GB)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>MasternodeList</name>♪◙    <message>♪◙        <source>Form</source>♪◙        <translation>╨Æ╨╕╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>MASTERNODES</source>♪◙        <translation>╨£╨É╨í╨ó╨ò╨á╨¥╨₧╨ö╨½</translation>♪◙    </message>♪◙    <message>♪◙        <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your node should be running but you still see "MISSING" in "Status" field.</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╝╨╡╤ç╨░╨╜╨╕╨╡: ╨í╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡ ╨▓╨░╤ê╨╕╤à ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤ ╨▓ ╨╗╨╛╨║╨░╨╗╤î╨╜╨╛╨╝ ╨║╨╛╤ê╨╡╨╗╤î╨║╨╡ ╨╝╨╛╨╢╨╡╤é ╤ü╨╗╨╡╨│╨║╨░ ╨╛╤é╨╗╨╕╤ç╨░╤é╤î╤ü╤Å ╨╛╤é ╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╨╛╤ü╤é╨╕. &lt;br /&gt;╨Æ╤ü╨╡╨│╨┤╨░ ╨┤╨╛╨╢╨╕╨┤╨░╨╣╤é╨╡╤ü╤î ╨╛╨║╨╛╨╜╤ç╨░╨╜╨╕╤Å ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╨╕ ╨┤╨╛╨┐╨╛╨╗╨╜╨╕╤é╨╡╨╗╤î╨╜╤ï╤à ╨┤╨░╨╜╨╜╤ï╤à ╨╕ ╨╖╨░╤é╨╡╨╝ ╨┤╨▓╨░╨╢╨┤╤ï ╨┐╤Ç╨╛╨▓╨╡╤Ç╤î╤é╨╡ ╤ü ╨┤╤Ç╤â╨│╨╛╨│╨╛ ╤â╨╖╨╗╨░&lt;br /&gt;╨╡╤ü╨╗╨╕ ╨▓╨░╤ê╨░ ╨╜╨╛╨┤╨░ ╨┤╨╛╨╗╨╢╨╜╨░ ╤Ç╨░╨▒╨╛╤é╨░╤é╤î, ╨╜╨╛ ╨▓ ╨╛╨║╨╜╨╡ "╨í╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡" ╨┐╨╕╤ê╨╡╤é "╨¥╨ò╨É╨Ü╨ó╨ÿ╨Æ╨¥╨₧"</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alias</source>♪◙        <translation>╨É╨╗╨╕╨░╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Protocol</source>♪◙        <translation>╨ƒ╤Ç╨╛╤é╨╛╨║╨╛╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status</source>♪◙        <translation>╨í╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Active</source>♪◙        <translation>╨É╨║╤é╨╕╨▓╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last Seen (UTC)</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡╨┤╨╜╨╕╨╣ ╨▓╨╕╨╖╨╕╤é (UTC)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pubkey</source>♪◙        <translation>╨ƒ╤â╨▒╨╗╨╕╤ç╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start alias</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╨║ ╨░╨╗╨╕╨░╤ü╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start all</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╤é╨╕╤é╤î ╨▓╤ü╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start MISSING</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╨║ ╨¥╨ò╨É╨Ü╨ó╨ÿ╨Æ╨¥╨½╨Ñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Update status</source>♪◙        <translation>╨₧╨▒╨╜╨╛╨▓╨╕╤é╤î ╤ü╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status will be updated automatically in (sec):</source>♪◙        <translation>╨í╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡ ╨▒╤â╨┤╨╡╤é ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╛ ╤ç╨╡╤Ç╨╡╨╖ (╤ü╨╡╨║):</translation>♪◙    </message>♪◙    <message>♪◙        <source>0</source>♪◙        <translation>0</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start alias</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╨║ ╨░╨╗╨╕╨░╤ü╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm masternode start</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╨╖╨░╨┐╤â╤ü╨║╨░ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to start masternode %1?</source>♪◙        <translation>╨Æ╤ï ╤â╨▓╨╡╤Ç╨╡╨╜╤ï, ╤ç╤é╨╛ ╤à╨╛╤é╨╕╤é╨╡ ╨╖╨░╨┐╤â╤ü╤é╨╕╤é╤î ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤â %1?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm all masternodes start</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╤î ╤ü╤é╨░╤Ç╤é ╨▓╤ü╨╡╤à ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to start ALL masternodes?</source>♪◙        <translation>╨Æ╤ï ╤â╨▓╨╡╤Ç╨╡╨╜╤ï, ╤ç╤é╨╛ ╤à╨╛╤é╨╕╤é╨╡ ╨╖╨░╨┐╤â╤ü╤é╨╕╤é╤î ╨Æ╨í╨ò ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Command is not available right now</source>♪◙        <translation>╨Ü╨╛╨╝╨░╨╜╨┤╨░ ╤ü╨╡╨╣╤ç╨░╤ü ╨╜╨╡╨┤╨╛╤ü╤é╤â╨┐╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>You can't use this command until masternode list is synced</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╤ì╤é╨╛╨╣ ╨║╨╛╨╝╨░╨╜╨┤╤ï ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╨╛╨║╨░ ╨╜╨╡ ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╜ ╤ü╨┐╨╕╤ü╨╛╨║ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm missing masternodes start</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╨╖╨░╨┐╤â╤ü╨║╨░ ╨╜╨╡╨░╨║╤é╨╕╨▓╨╜╤ï╤à ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to start MISSING masternodes?</source>♪◙        <translation>╨Æ╤ï ╤â╨▓╨╡╤Ç╨╡╨╜╤ï, ╤ç╤é╨╛ ╤à╨╛╤é╨╕╤é╨╡ ╨╖╨░╨┐╤â╤ü╤é╨╕╤é╤î ╨¥╨ò╨É╨Ü╨ó╨ÿ╨Æ╨¥╨½╨ò ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï?</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>MultiSendDialog</name>♪◙    <message>♪◙        <source>MultiSend</source>♪◙        <translation>MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter whole numbers 1 - 100</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╤å╨╡╨╗╤ï╨╡ ╤ç╨╕╤ü╨╗╨░ 1 - 100</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter % to Give (1-100)</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ % ╨ƒ╨╡╤Ç╨╡╨┤╨░╤ç╨╕ (1-100)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter Address to Send to</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨┤╨╗╤Å ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.♪◙To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.♪◙To Delete: Enter address to delete and press delete.♪◙MultiSend will not be activated unless you have clicked Activate</source>♪◙        <translation>MultiSend ╨┐╨╛╨╖╨▓╨╛╨╗╤Å╨╡╤é ╨▓╨░╨╝ ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨╛╤é╨┐╤Ç╨░╨▓╨╗╤Å╤é╤î ╨┤╨╛ 100% ╨▓╨╛╨╖╨╜╨░╨│╤Ç╨░╨╢╨┤╨╡╨╜╨╕╤Å ╨╖╨░ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï ╨╕ ╤à╤Ç╨░╨╜╨╡╨╜╨╕╨╡, ╨┐╨╛╤ü╨╗╨╡ ╨╕╤à ╤ü╨╛╨╖╤Ç╨╡╨▓╨░╨╜╨╕╤Å, ╨╜╨░ ╨┤╤Ç╤â╨│╨╕╨╡ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü╨░.♪◙╨ö╨╗╤Å ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╨╕╤Å: ╨▓╨▓╨╡╨┤╨╕╤é╨╡ ╨┐╨╡╤Ç╨╡╨┤╨░╨▓╨░╨╡╨╝╤ï╨╣ ╨┐╤Ç╨╛╤å╨╡╨╜╤é ╨╕ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü ╨┤╨╗╤Å ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╨╕╤Å ╨║ ╨▓╨╡╨║╤é╨╛╤Ç╤â MultiSend.♪◙╨ö╨╗╤Å ╤â╨┤╨░╨╗╨╡╨╜╨╕╤Å: ╨▓╨▓╨╡╨┤╨╕╤é╨╡ ╤â╨┤╨░╨╗╤Å╨╡╨╝╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╕ ╨╜╨░╨╢╨╝╨╕╤é╨╡ ╤â╨┤╨░╨╗╨╕╤é╤î.♪◙MultiSend ╨▒╤â╨┤╨╡╤é ╨╜╨╡╨░╨║╤é╨╕╨▓╨╡╨╜ ╨┤╨╛ ╤é╨╡╤à ╨┐╨╛╤Ç, ╨┐╨╛╨║╨░ ╨▓╤ï ╨╜╨╡ ╨╜╨░╨╢╨╝╨╡╤é╨╡ ╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add to MultiSend Vector</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╨╕╤é╤î ╨║ ╨▓╨╡╨║╤é╨╛╤Ç╤â MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Deactivate MultiSend</source>♪◙        <translation>╨Æ╤ï╨║╨╗╤Ä╤ç╨╕╤é╤î MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>Deactivate</source>♪◙        <translation>╨Æ╤ï╨║╨╗╤Ä╤ç╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose an address from the address book</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖ ╨░╨┤╤Ç╨╡╤ü╨╜╨╛╨╣ ╨║╨╜╨╕╨│╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage of stake to send</source>♪◙        <translation>╨ƒ╤Ç╨╛╤å╨╡╨╜╤é ╨╛╤é ╤à╤Ç╨░╨╜╤Å╤ë╨╕╤à╤ü╤Å ╨╝╨╛╨╜╨╡╤é ╨┤╨╗╤Å ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage:</source>♪◙        <translation>╨ƒ╤Ç╨╛╤å╨╡╨╜╤é╤ï:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address to send portion of stake to</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü ╨┤╨╗╤Å ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕ ╤ç╨░╤ü╤é╨╕ ╨╛╤é ╤à╤Ç╨░╨╜╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address:</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label:</source>♪◙        <translation>╨£╨╡╤é╨║╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a label for this address to add it to your address book</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨╝╨╡╤é╨║╤â ╨┤╨╗╤Å ╨░╨┤╤Ç╨╡╤ü╨░ ╤ç╤é╨╛╨▒╤ï ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î ╨▓ ╨░╨┤╤Ç╨╡╤ü╨╜╤â╤Ä ╨║╨╜╨╕╨│╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete Address From MultiSend Vector</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖ ╨Æ╨╡╨║╤é╨╛╤Ç╨░ MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Activate MultiSend</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>Activate</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>View MultiSend Vector</source>♪◙        <translation>╨ƒ╨╛╤ü╨╝╨╛╤é╤Ç╨╡╤é╤î ╨Æ╨╡╨║╤é╨╛╤Ç MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>View MultiSend</source>♪◙        <translation>╨ƒ╤Ç╨╛╤ü╨╝╨╛╤é╤Ç MultiSend</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send For Stakes</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨┤╨░╨▓╨░╤é╤î ╨▓╨╛╨╖╨╜╨░╨│╤Ç╨░╨╢╨┤╨╡╨╜╨╕╨╡ ╨╛╤é ╤à╤Ç╨░╨╜╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send For Masternode Rewards</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨┤╨░╨▓╨░╤é╤î ╨▓╨╛╨╖╨╜╨░╨│╤Ç╨░╨╢╨┤╨╡╨╜╨╕╨╡ ╨╖╨░ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(╨╜╨╡╤é ╨╝╨╡╤é╨║╨╕)</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address:♪◙</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╡╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü:♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source> is invalid.♪◙Please check the address and try again.</source>♪◙        <translation>╨╜╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝.♪◙╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┐╤Ç╨╛╨▓╨╡╤Ç╤î╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨╕ ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╤ü╨╜╨╛╨▓╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The total amount of your MultiSend vector is over 100% of your stake reward♪◙</source>♪◙        <translation>╨ÿ╤é╨╛╨│╨╛╨▓╨╛╨╡ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡ ╨▓╨╡╨║╤é╨╛╤Ç╨░ MultiSend ╨┐╤Ç╨╡╨▓╤ï╤ê╨░╨╡╤é 100% ╨▓╨░╤ê╨╕╤à ╨▓╨╛╨╖╨╜╨░╨│╤Ç╨░╨╢╨┤╨╡╨╜╨╕╨╣♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please Enter 1 - 100 for percent.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ 1 - 100 ╨┤╨╗╤Å ╤â╨║╨░╨╖╨░╨╜╨╕╤Å ╨┐╤Ç╨╛╤å╨╡╨╜╤é╨╛╨▓.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Saved the MultiSend to memory, but failed saving properties to the database.♪◙</source>♪◙        <translation>╨í╨╛╤à╤Ç╨░╨╜╨╕╨╗╨╕ ╨£╤â╨╗╤î╤é╨╕╨₧╤é╨┐╤Ç╨░╨▓╨║╤â ╨▓ ╨┐╨░╨╝╤Å╤é╨╕, ╨╜╨╛ ╨╜╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╤ü╨╛╤à╤Ç╨░╨╜╨╕╤é╤î ╤ü╨▓╨╛╨╣╤ü╤é╨▓╨░ ╨▓ ╨▒╨░╨╖╨╡ ╨┤╨░╨╜╨╜╤ï╤à.♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend Vector♪◙</source>♪◙        <translation>╨Æ╨╡╨║╤é╨╛╤Ç MultiSend♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Removed </source>♪◙        <translation>╨ú╨┤╨░╨╗╨╡╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Could not locate address♪◙</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╜╨░╨╣╤é╨╕ ╨░╨┤╤Ç╨╡╤ü♪◙</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>MultisigDialog</name>♪◙    <message>♪◙        <source>Multisignature Address Interactions</source>♪◙        <translation> ╨£╨╜╨╛╨│╨╛╨┐╨╛╨┤╨┐╨╕╤ü╨╜╤ï╨╡ ╨░╨┤╤Ç╨╡╤ü╨╜╤ï╨╡ ╨▓╨╖╨░╨╕╨╝╨╛╨┤╨╡╨╣╤ü╤é╨▓╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create MultiSignature Address</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╤é╤î ╨£╤â╨╗╤î╤é╨╕╨┐╨╛╨┤╨┐╨╕╤ü╤î ╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>How many people must sign to verify a transaction</source>♪◙        <translation>╨í╨║╨╛╨╗╤î╨║╨╛ ╨╗╤Ä╨┤╨╡╨╣ ╨┤╨╛╨╗╨╢╨╜╤ï ╨┐╨╛╨┤╨┐╨╕╤ü╨░╤é╤î ╤ç╤é╨╛╨▒╤ï ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╤î ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the minimum number of signatures required to sign transactions</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨╝╨╕╨╜╨╕╨╝╨░╨╗╤î╨╜╨╛╨╡ ╤ç╨╕╤ü╨╗╨╛ ╨┐╨╛╨┤╨┐╨╕╤ü╨╡╨╣ ╨╜╨╡╨╛╨▒╤à╨╛╨┤╨╕╨╝╨╛╨╡ ╨┤╨╗╤Å ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╨╕╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address Label:</source>♪◙        <translation>╨£╨╡╤é╨║╨░ ╨░╨┤╤Ç╨╡╤ü╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add another address that could sign to verify a transaction from the multisig address.</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╤î╤é╨╡ ╨╡╤ë╨╡ ╨╛╨┤╨╕╨╜ ╨░╨┤╤Ç╨╡╤ü, ╨║╨╛╤é╨╛╤Ç╤ï╨╣ ╨╝╨╛╨╢╨╡╤é ╨┐╨╛╨┤╨┐╨╕╤ü╨░╤é╤î, ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤â╤Ä ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä ╤ü ╨╝╨╜╨╛╨│╨╛╨┐╨╛╨┤╨┐╨╕╤ü╨╜╨╛╨│╨╛ ╨░╨┤╤Ç╨╡╤ü╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add Address / Key</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╨╕╤é╤î ╨É╨┤╤Ç╨╡╤ü / ╨Ü╨╗╤Ä╤ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Local addresses or public keys that can sign:</source>♪◙        <translation>╨¢╨╛╨║╨░╨╗╤î╨╜╤ï╨╡ ╨░╨┤╤Ç╨╡╤ü╨░ ╨╕╨╗╨╕ ╨┐╤â╨▒╨╗╨╕╤ç╨╜╤ï╨╡ ╨║╨╗╤Ä╤ç╨╕ ╨║╤é╨╛╤Ç╤ï╨╡ ╨╝╨╛╨│╤â╤é ╨┐╨╛╨┤╨┐╨╕╤ü╨░╤é╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a new multisig address</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╤é╤î ╨╜╨╛╨▓╤ï╨╣ ╨╝╤â╨╗╤î╤é╨╕╨┐╨╛╨┤╨┐╨╕╤ü╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status:</source>♪◙        <translation>╨í╤é╨░╤é╤â╤ü:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use below to quickly import an address by its redeem. Don't forget to add a label before clicking import!♪◙Keep in mind, the wallet will rescan the blockchain to find transactions containing the new address.♪◙Please be patient after clicking import.</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╨╜╨╕╨╢╨╡, ╤ç╤é╨╛╨▒╤ï ╨▒╤ï╤ü╤é╤Ç╨╛ ╨╕╨╝╨┐╨╛╤Ç╤é╨╕╤Ç╨╛╨▓╨░╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨┐╨╛╨║╨░ ╨╡╨│╨╛ ╨╜╨╡ ╨┐╨╛╨│╨░╤ü╨╕╨╗╨╕. ╨¥╨╡ ╨╖╨░╨▒╤â╨┤╤î╤é╨╡ ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î ╤Å╤Ç╨╗╤ï╨║ ╨┐╨╡╤Ç╨╡╨┤ ╨╜╨░╨╢╨░╤é╨╕╨╡╨╝ ╨╜╨░ ╨╕╨╝╨┐╨╛╤Ç╤é!♪◙╨ÿ╨╝╨╡╨╣╤é╨╡ ╨▓ ╨▓╨╕╨┤╤â, ╤ç╤é╨╛ ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨┐╨╡╤Ç╨╡╤ü╨║╨░╨╜╨╕╤Ç╤â╨╡╤é ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜, ╤ç╤é╨╛╨▒╤ï ╨╜╨░╨╣╤é╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕, ╤ü╨╛╨┤╨╡╤Ç╨╢╨░╤ë╨╕╨╡ ╨╜╨╛╨▓╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü.♪◙╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨▒╤â╨┤╤î╤é╨╡ ╤é╨╡╤Ç╨┐╨╡╨╗╨╕╨▓╤ï ╨┐╨╛╤ü╨╗╨╡ ╨╜╨░╨╢╨░╤é╨╕╤Å ╨╕╨╝╨┐╨╛╤Ç╤é╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Import Redeem</source>♪◙        <translation>╨ÿ╨╝╨┐╨╛╤Ç╤é ╨ƒ╨╛╨│╨░╤ê╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create MultiSignature Tx</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╤é╤î ╨£╤â╨╗╤î╤é╨╕╨ƒ╨╛╨┤╨┐╨╕╤ü╨╜╨╛╨╡ ╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Inputs:</source>♪◙        <translation>╨Æ╨▓╨╛╨┤:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Control</source>♪◙        <translation>╨Ü╨╛╨╜╤é╤Ç╨╛╨╗╤î ╨£╨╛╨╜╨╡╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity Selected:</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╨╜╨╜╨╛╨╡ ╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>0</source>♪◙        <translation>0</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>╨í╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add an input to fund the outputs</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╨╕╤é╤î ╨▓╤à╨╛╨┤ ╨┤╨╗╤Å ╤ä╨╕╨╜╨░╨╜╤ü╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å ╨▓╤ï╤à╨╛╨┤╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add a Raw Input</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╨╕╤é╤î ╨╕╤ü╤à╨╛╨┤╨╜╤ï╨╣ ╨▓╤à╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address / Amount:</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü/ ╨í╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add destinations to send CRyptoCrowd to</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╨╕╤é╤î ╨╜╨░╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡ ╨║╤â╨┤╨░ ╨╛╤é╨┐╤Ç╨░╨▓╨╕╤é╤î CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add Destination</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╨╕╤é╤î  ╨¥╨░╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a transaction object using the given inputs to the given outputs</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨╛╨▒╤è╨╡╨║╤é╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤ü ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨╖╨░╨┤╨░╨╜╨╜╤ï╤à ╨▓╤à╨╛╨┤╨╛╨▓ ╨┤╨╗╤Å ╨┤╨░╨╜╨╜╤ï╤à ╨▓╤ï╤à╨╛╨┤╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign MultiSignature Tx</source>♪◙        <translation> Sign MultiSignature Tx</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction Hex:</source>♪◙        <translation>╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å Hex:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign the transaction from this wallet or from provided private keys</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ê╨╕╤é╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä ╨╕╨╖ ╤ì╤é╨╛╨│╨╛ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨╕╨╗╨╕ ╨╕╨╖ ╨┐╤Ç╨╡╨┤╨╛╤ü╤é╨░╨▓╨╗╨╡╨╜╨╜╤ï╤à ╨╗╨╕╤ç╨╜╤ï╤à ╨║╨╗╤Ä╤ç╨╡╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DISABLED until transaction has been signed enough times.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>♪◙        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;╨₧╨ó╨Ü╨¢╨«╨º╨ò╨¥╨₧ ╨┤╨╛ ╤é╨╡╤à ╨┐╨╛╤Ç, ╨┐╨╛╨║╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╨╜╨╡ ╨▒╤â╨┤╨╡╤é ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╨░ ╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╤Ç╨░╨╖.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Commit</source>♪◙        <translation>╨í╨╛╨▓╨╡╤Ç╤ê╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add private keys to sign the transaction with</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╤î╤é╨╡ ╨╗╨╕╤ç╨╜╤ï╨╡ ╨║╨╗╤Ä╤ç╨╕ ╨┤╨╗╤Å ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╨╕╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤ü ╨┐╨╛╨╝╨╛╤ë╤î╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add Private Key</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╤î╤é╨╡ ╨╗╨╕╤ç╨╜╤ï╨╣  ╨║╨╗╤Ä╤ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign with only private keys (Not Recommened)</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╨░╤é╤î ╤é╨╛╨╗╤î╨║╨╛ ╨╗╨╕╤ç╨╜╤ï╨╝╨╕ ╨║╨╗╤Ä╤ç╨░╨╝╨╕ ( ╨╜╨╡ ╤Ç╨╡╨║╨╛╨╝╨╡╨┤╤â╨╡╤é╤ü╤Å)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid Tx Hash.</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ Tx Hash.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Vout position must be positive.</source>♪◙        <translation>╨ƒ╨╛╨╖╨╕╤å╨╕╤Å Vout ╨┤╨╛╨╗╨╢╨╜╨░ ╨▒╤ï╤é╤î ╨┐╨╛╨╗╨╛╨╢╨╕╤é╨╡╨╗╤î╨╜╨╛╨╣.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum possible addresses reached. (15)</source>♪◙        <translation>╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨╛ ╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ╨┤╨╛╤ü╤é╨╕╨│╨╜╤â╤é╨╛. (15)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Vout Position: </source>♪◙        <translation>Vout Position:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount: </source>♪◙        <translation>╨í╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum (15)</source>♪◙        <translation>╨£╨░╨║╤ü╨╕╨╝╤â╨╝ (15)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ObfuscationConfig</name>♪◙    <message>♪◙        <source>Configure Obfuscation</source>♪◙        <translation>╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï ╨ƒ╨╡╤Ç╨╡╨╝╨╡╤ê╨╕╨▓╨░╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Basic Privacy</source>♪◙        <translation>╨æ╨░╨╖╨╛╨▓╨░╤Å ╨║╨╛╨╜╤ä╨╕╨┤╨╡╨╜╤å╨╕╨░╨╗╤î╨╜╨╛╤ü╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>High Privacy</source>♪◙        <translation>╨ƒ╨╛╨▓╤ï╤ê╨╡╨╜╨╜╨░╤Å ╨║╨╛╨╜╤ä╨╕╨┤╨╡╨╜╤å╨╕╨░╨╗╤î╨╜╨╛╤ü╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum Privacy</source>♪◙        <translation>╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨░╤Å ╨║╨╛╨╜╤ä╨╕╨┤╨╡╨╜╤å╨╕╨░╨╗╤î╨╜╨╛╤ü╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please select a privacy level.</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╤â╤Ç╨╛╨▓╨╡╨╜╤î ╨║╨╛╨╜╤ä╨╕╨┤╨╡╨╜╤å╨╕╨░╨╗╤î╨╜╨╛╤ü╤é╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ 2 ╤Ç╨░╨╖╨╜╤ï╨╡ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï ╨┤╨╗╤Å ╤ü╨╝╨╡╤ê╨╕╨▓╨░╨╜╨╕╤Å ╤ü╤Ç╨╡╨┤╤ü╤é╨▓ ╨┤╨╛ 10000 CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ 8 ╤Ç╨░╨╖╨╜╤ï╤à ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤ ╨┤╨╗╤Å ╤ü╨╝╨╡╤ê╨╕╨▓╨░╨╜╨╕╤Å ╤ü╤Ç╨╡╨┤╤ü╤é╨▓ ╨┤╨╛ 10000 CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use 16 separate masternodes</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ 16 ╤Ç╨░╨╖╨╜╤ï╤à ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>♪◙        <translation>╨¡╤é╨╛╤é ╨▓╨░╤Ç╨╕╨░╨╜╤é ╤Å╨▓╨╗╤Å╨╡╤é╤ü╤Å ╤ü╨░╨╝╤ï╨╝ ╨▒╤ï╤ü╤é╤Ç╤ï╨╝ ╨╕ ╨▒╤â╨┤╨╡╤é ╤ü╤é╨╛╨╕╤é╤î ╨┐╨╛╤Ç╤Å╨┤╨║╨░ ~0.025 CRyptoCrowd ╨┤╨╗╤Å ╨░╨╜╨╛╨╜╨╕╨╝╨╕╨╖╨░╤å╨╕╨╕ 10000 CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>♪◙        <translation>╨¡╤é╨╛ ╤ü╤Ç╨╡╨┤╨╜╨╕╨╣ ╨┐╨╛ ╤ü╨║╨╛╤Ç╨╛╤ü╤é╨╕ ╨▓╨░╤Ç╨╕╨░╨╜╤é ╨╕ ╨╛╨╜ ╨▒╤â╨┤╨╡╤é ╤ü╤é╨╛╨╕╤é╤î ╨╛╨║╨╛╨╗╨╛ 0.05 CRyptoCrowd ╨┤╨╗╤Å ╨░╨╜╨╛╨╜╨╕╨╝╨╕╨╖╨░╤å╨╕╨╕ 10000 CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>♪◙        <translation>╨¡╤é╨╛ ╤ü╨░╨╝╤ï╨╣ ╨╝╨╡╨┤╨╗╨╡╨╜╨╜╤ï╨╣ ╨╕ ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╤ï╨╣ ╨▓╨░╤Ç╨╕╨░╨╜╤é. ╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨░╤Å ╨░╨╜╨╛╨╜╨╕╨╝╨╜╨╛╤ü╤é╤î ╤ü╤é╨╛╨╕╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>♪◙        <translation>0.1 CRyptoCrowd ╨╖╨░ 10000 CRyptoCrowd ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨▓╤ï ╤ü╨╛╨▒╨╕╤Ç╨░╨╡╤é╨╡╤ü╤î ╨░╨╜╨╛╨╜╨╕╨╝╨╕╨╖╨╕╤Ç╨╛╨▓╨░╤é╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Configuration</source>♪◙        <translation>╨¥╨░╤ü╤é╤Ç╨╛╨╣╨║╨░ ╨ƒ╨╡╤Ç╨╡╨╝╨╡╤ê╨╕╨▓╨░╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨╝╨╡╤ê╨╕╨▓╨░╨╜╨╕╨╡ ╨▒╤ï╨╗╨╛ ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╨▓╤ï╤ü╤é╨░╨▓╨╗╨╡╨╜╨╛ ╨╜╨░ ╤ü╤é╨░╨╜╨┤╨░╤Ç╤é╨╜╤ï╨╡ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╤Å (%1 ╨╕ 2 ╤å╨╕╨║╨╗╨░). ╨Æ╤ï ╨▓ ╨╗╤Ä╨▒╨╛╨╣ ╨╝╨╛╨╝╨╡╨╜╤é ╨╝╨╛╨╢╨╡╤é╨╡ ╤ì╤é╨╛ ╨╕╨╖╨╝╨╡╨╜╨╕╤é╤î, ╨╛╤é╨║╤Ç╤ï╨▓ ╨╛╨║╨╜╨╛ ╨╜╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕ CRyptoCrowd.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨╝╨╡╤ê╨╕╨▓╨░╨╜╨╕╨╡ ╨▒╤ï╨╗╨╛ ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╨▓╤ï╨▒╤Ç╨░╨╜╨╛ ╨║╨░╨║ ╨▓╤ï╤ü╨╛╨║╨╛╨╡ (%1 ╨╕ 8 ╤å╨╕╨║╨╗╨╛╨▓). ╨Æ╤ï ╨▓ ╨╗╤Ä╨▒╨╛╨╣ ╨╝╨╛╨╝╨╡╨╜╤é ╨╝╨╛╨╢╨╡╤é╨╡ ╤ì╤é╨╛ ╨╕╨╖╨╝╨╡╨╜╨╕╤é╤î, ╨╛╤é╨║╤Ç╤ï╨▓ ╨╛╨║╨╜╨╛ ╨╜╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕ CRyptoCrowd.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨╝╨╡╤ê╨╕╨▓╨░╨╜╨╕╨╡ ╨▒╤ï╨╗╨╛ ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╨▓╤ï╤ü╤é╨░╨▓╨╗╨╡╨╜╨╛ ╨╜╨░ ╨╝╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨╛╨╡ (%1 ╨╕ 16 ╤å╨╕╨║╨╗╨╛╨▓). ╨Æ╤ï ╨▓ ╨╗╤Ä╨▒╨╛╨╣ ╨╝╨╛╨╝╨╡╨╜╤é ╨╝╨╛╨╢╨╡╤é╨╡ ╤ì╤é╨╛ ╨╕╨╖╨╝╨╡╨╜╨╕╤é╤î, ╨╛╤é╨║╤Ç╤ï╨▓ ╨╛╨║╨╜╨╛ ╨╜╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕ CRyptoCrowd.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>OpenURIDialog</name>♪◙    <message>♪◙        <source>Open URI</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î URI</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open payment request from URI or file</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü╨╕╤é╤î ╨┐╨╗╨░╤é╨╡╨╢ ╤ç╨╡╤Ç╨╡╨╖ URI ╨╕╨╗╨╕ ╤ä╨░╨╣╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>URI:</source>♪◙        <translation>URI:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Select payment request file</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╤ä╨░╨╣╨╗ ╨╖╨░╨┐╤Ç╨╛╤ü╨░ ╨┐╨╗╨░╤é╨╡╨╢╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Select payment request file to open</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╤ä╨░╨╣╨╗ ╨╖╨░╨┐╤Ç╨╛╤ü╨░ ╨┐╨╗╨░╤é╨╡╨╢╨░ ╤ç╤é╨╛╨▒╤ï ╨╡╨│╨╛ ╨╛╤é╨║╤Ç╤ï╤é╤î</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>OptionsDialog</name>♪◙    <message>♪◙        <source>Options</source>♪◙        <translation>╨¥╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Main</source>♪◙        <translation>╨₧╤ü╨╜╨╛╨▓╨╜╨╛╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Size of database cache</source>♪◙        <translation>╨á╨░╨╖╨╝╨╡╤Ç ╨║╤ì╤ê╨░ ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à</translation>♪◙    </message>♪◙    <message>♪◙        <source>MB</source>♪◙        <translation>MB</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of script verification threads</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╤ü╤å╨╡╨╜╨░╤Ç╨╕╨╡╨▓ ╨┐╤Ç╨╛╨▓╨╡╤Ç╨╛╤ç╨╜╤ï╤à ╨┐╨╛╤é╨╛╨║╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>(0 = auto, &lt;0 = leave that many cores free)</source>♪◙        <translation>(0 = ╨░╨▓╤é╨╛, &lt;0 = ╨╛╤ü╤é╨░╨▓╨╕╤é╤î ╤ü╨▓╨╛╨▒╨╛╨┤╨╜╤ï╤à ╤Å╨┤╨╡╤Ç)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>♪◙        <translation>╨₧╤é╨║╨╗╤Ä╤ç╨╕╨▓ ╨┐╤Ç╨╛╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╤à ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╣ ╨▓╤ü╨╡ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╤Å ╨╛ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ &lt;br/&gt;╨╜╨╡ ╨▒╤â╨┤╤â╤é ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╤ï ╨┐╨╛╨║╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╨╜╨╡ ╨┐╨╛╨╗╤â╤ç╨╕╤é ╤à╨╛╤é╤Å ╨▒╤ï ╨╛╨┤╨╜╨╛ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡.&lt;br/&gt;╨ó╨░╨║╨╢╨╡ ╤ì╤é╨╛ ╨▓╨╗╨╕╤Å╨╡╤é ╨╜╨░ ╤Ç╨░╤ü╤ç╨╡╤é ╨▓╨░╤ê╨╡╨│╨╛ ╨▒╨░╨╗╨░╨╜╤ü╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>♪◙        <translation>╨É╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨╛╤é╨║╤Ç╤ï╤é╤î ╨║╨╗╨╕╨╡╨╜╤é╤ü╨║╨╕╨╣ ╨┐╨╛╤Ç╤é CRyptoCrowd ╤ç╨╡╤Ç╨╡╨╖ ╤Ç╨╛╤â╤é╨╡╤Ç. ╨Æ╨░╤ê ╤Ç╨╛╤â╤é╨╡╤Ç ╨┤╨╛╨╗╨╢╨╡╨╜ ╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╤é╤î UPnP, ╨░ ╤ü╨░╨╝ ╤ü╨╡╤Ç╨▓╨╕╤ü ╨┤╨╛╨╗╨╢╨╡╨╜ ╨▒╤ï╤é╤î ╨▓╨║╨╗╤Ä╤ç╨╡╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Accept connections from outside</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╜╨╕╨╝╨░╤é╤î ╨▓╨╜╨╡╤ê╨╜╨╕╨╡ ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allow incoming connections</source>♪◙        <translation>╨á╨░╨╖╤Ç╨╡╤ê╨╕╤é╤î ╨▓╤à╨╛╨┤╤Å╤ë╨╕╨╡ ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect through SOCKS5 proxy (default proxy):</source>♪◙        <translation>╨ƒ╨╛╨┤╨║╨╗╤Ä╤ç╨╕╤é╤î╤ü╤Å ╤ç╨╡╤Ç╨╡╨╖ SOCKS5 (╨┐╤Ç╨╛╨║╤ü╨╕-╤ü╨╡╤Ç╨▓╨╡╤Ç ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä):</translation>♪◙    </message>♪◙    <message>♪◙        <source>Expert</source>♪◙        <translation>╨¡╨║╤ü╨┐╨╡╤Ç╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Automatically start CRyptoCrowd after logging in to the system.</source>♪◙        <translation>╨É╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨╖╨░╨┐╤â╤ü╨║╨░╤é╤î CRyptoCrowd ╨┐╨╛╤ü╨╗╨╡ ╨▓╤à╨╛╨┤╨░ ╨▓ ╤ü╨╕╤ü╤é╨╡╨╝╤â.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Start CRyptoCrowd on system login</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╨║╨░╤é╤î CRyptoCrowd ╨┐╤Ç╨╕ ╨▓╤à╨╛╨┤╨╡ ╨▓ ╤ü╨╕╤ü╤é╨╡╨╝╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whether to show coin control features or not.</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╤ï╨▓╨░╨╡╤é ╨╕╨╗╨╕ ╤ü╨║╤Ç╤ï╨▓╨░╨╡╤é ╨╛╤ü╨╛╨▒╨╡╨╜╨╜╨╛╤ü╤é╨╕ ╤â╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╕╤Å ╨╝╨╛╨╜╨╡╤é╨░╨╝╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable coin control features</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╤ä╤â╨╜╨║╤å╨╕╨╕ ╤â╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╕╤Å ╨╝╨╛╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╤ü╨┐╨╕╤ü╨╛╨║ ╨▓╤ü╨╡╤à ╨▓╨░╤ê╨╕╤à ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤ ╨▓ ╨┐╨╡╤Ç╨▓╨╛╨╣ ╨▓╨║╨╗╨░╨┤╨║╨╡&lt;br/&gt;╨╕ ╨▓╤ü╨╡╤à ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤ ╨▓ ╤ü╨╡╤é╨╕ ╨▓╨╛ ╨▓╤é╨╛╤Ç╨╛╨╣ ╨▓╨║╨╗╨░╨┤╨║╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show Masternodes Tab</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨▓╨║╨╗╨░╨┤╨║╤â ╨£╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend unconfirmed change</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╤à ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network</source>♪◙        <translation>╨í╨╡╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>♪◙        <translation>╨ù╨┤╨╡╤ü╤î ╨╝╨╛╨╢╨╜╨╛ ╨▓╤ï╤ü╤é╨░╨▓╨╕╤é╤î ╤Å╨╖╤ï╨║ ╨╕╨╜╤é╨╡╤Ç╤ä╨╡╨╣╤ü╨░. ╨ÿ╨╖╨╝╨╡╨╜╨╡╨╜╨╕╤Å ╨▓╤ü╤é╤â╨┐╤Å╤é ╨▓ ╤ü╨╕╨╗╤â ╨┐╨╛╤ü╨╗╨╡ ╨┐╨╡╤Ç╨╡╨╖╨░╨┐╤â╤ü╨║╨░ CRyptoCrowd.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Language missing or translation incomplete? Help contributing translations here:♪◙https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>♪◙        <translation>╨₧╤é╤ü╤â╤é╤ü╤é╨▓╤â╨╡╤é ╨▓╨░╤ê ╤Å╨╖╤ï╨║ ╨╕╨╗╨╕ ╨╖╨░╨╝╨╡╤é╨╕╨╗╨╕ ╨╜╨╡╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜╨╜╤ï╨╣ ╨┐╨╡╤Ç╨╡╨▓╨╛╨┤? ╨Æ╤ï ╨╝╨╛╨╢╨╡╤é╨╡ ╨┐╨╛╨╝╨╛╤ç╤î ╨╜╨░╨╝ ╤ü╤é╨░╤é╤î ╨╗╤â╤ç╤ê╨╡:♪◙https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>♪◙    </message>♪◙    <message>♪◙        <source>Map port using UPnP</source>♪◙        <translation>╨Ü╨░╤Ç╤é╨░ ╨┐╨╛╤Ç╤é╨░, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╤Ä╤ë╨╡╨│╨╛ UPnP</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>♪◙        <translation>╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨╛╤é╤ç╨╡╨║╨░╨╜╨╕╤é╤î ╨╡╨┤╨╕╨╜╨╕╤å╤ï CRyptoCrowd ╨┤╨╗╤Å zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable zXCRC Automint</source>♪◙        <translation>╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨░╨▓╤é╨╛╤ç╨╡╨║╨░╨╜╨║╨░  zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>♪◙        <translation>╨ƒ╤Ç╨╛╤å╨╡╨╜╤é ╨┐╤Ç╨╕╤à╨╛╨┤╤Å╤ë╨╕╤à CRyptoCrowd, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨║╨╛╨╜╨▓╨╡╤Ç╤é╨╕╤Ç╤â╤Ä╤é╤ü╤Å ╨▓ zXCRC ╨▒╨╗╨░╨│╨╛╨┤╨░╤Ç╤Å Zerocoin ╨┐╤Ç╨╛╤é╨╛╨║╨╛╨╗╤â (min: 10%)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage of autominted zXCRC</source>♪◙        <translation>╨ƒ╤Ç╨╛╤å╨╡╨╜╤é  ╨░╨▓╤é╨╛╤ç╨╡╨║╨░╨╜╨╜╨╡╨╜╤ï╤à zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>♪◙        <translation>╨ƒ╨╛╨┤╨╛╨╢╨┤╨╕╤é╨╡ ╤ü ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕╨╝ ╨┐╤Ç╨╡╨╛╨▒╤Ç╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨▓ Zerocoin, ╨┐╨╛╨║╨░ ╨╜╨╡ ╨▒╤â╨┤╨╡╤é ╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ CRyptoCrowd ╨┤╨╗╤Å ╤ì╤é╨╛╨╣ ╨╜╨╛╨╝╨╕╨╜╨░╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Preferred Automint zXCRC Denomination</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╨┐╨╛╤ç╨╕╤é╨░╨╡╨╝╤ï╨╣ ╨╜╨╛╨╝╨╕╨╜╨░╨╗ ╨░╨▓╤é╨╛╤ç╨╡╨║╨░╨╜╨╜╨╛╨╣  ╨╝╨╛╨╜╨╡╤é╤ï  zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Stake split threshold:</source>♪◙        <translation>╨ƒ╨╛╤Ç╨╛╨│ ╤Ç╨░╨╖╨┤╨╡╨╗╨╡╨╜╨╕╤Å ╨┤╨╛╨╗╨╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>♪◙        <translation>╨ƒ╨╛╨┤╨║╨╗╤Ä╤ç╨╕╤é╤î╤ü╤Å ╨║ ╤ü╨╡╤é╨╕ CRyptoCrowd ╤ç╨╡╤Ç╨╡╨╖ SOCKS5 ╨┐╤Ç╨╛╨║╤ü╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Proxy IP:</source>♪◙        <translation>IP ╨░╨┤╤Ç╨╡╤ü:</translation>♪◙    </message>♪◙    <message>♪◙        <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>♪◙        <translation>IP-╨░╨┤╤Ç╨╡╤ü ╨┐╤Ç╨╛╨║╤ü╨╕ ╤ü╨╡╤Ç╨▓╨╡╤Ç╨░ (╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç: IPv4: 127.0.0.1 / IPv6: ::1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Port:</source>♪◙        <translation>╨ƒ╨╛╤Ç╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Port of the proxy (e.g. 9050)</source>♪◙        <translation>╨ƒ╨╛╤Ç╤é ╨┐╤Ç╨╛╨║╤ü╨╕ ╤ü╨╡╤Ç╨▓╨╡╤Ç╨░ (╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç: 9050)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Window</source>♪◙        <translation>╨₧╨║╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show only a tray icon after minimizing the window.</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡ ╤ü╨▓╨╛╤Ç╨░╤ç╨╕╨▓╨░╨╜╨╕╤Å ╨╛╨║╨╜╨░ ╨┐╨╛╨║╨░╨╖╤ï╨▓╨░╤é╤î ╤é╨╛╨╗╤î╨║╨╛ ╨╖╨╜╨░╤ç╨╛╨║ ╨▓ ╤é╤Ç╨╡╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize to the tray instead of the taskbar</source>♪◙        <translation>╨í╨▓╨╡╤Ç╨╜╤â╤é╤î ╨▓ ╤é╤Ç╨╡╨╣, ╨░ ╨╜╨╡ ╨╜╨░ ╨┐╨░╨╜╨╡╨╗╤î ╨╖╨░╨┤╨░╤ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>♪◙        <translation>╨í╨▓╨╛╤Ç╨░╤ç╨╕╨▓╨░╤é╤î ╨╛╨║╨╜╨╛ ╨┐╤Ç╨╕ ╨╖╨░╨║╤Ç╤ï╨▓╨░╨╜╨╕╨╕ ╨▓╨╝╨╡╤ü╤é╨╛ ╨▓╤ï╤à╨╛╨┤╨░ ╨╕╨╖ ╨┐╤Ç╨╕╨╗╨╛╨╢╨╡╨╜╨╕╤Å. ╨ƒ╤Ç╨╕ ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╕ ╤ì╤é╨╛╨╣ ╨╛╨┐╤å╨╕╨╕ ╨┐╨╛╨║╨╕╨╜╤â╤é╤î ╨┐╤Ç╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╡ ╨╝╨╛╨╢╨╜╨╛ ╤é╨╛╨╗╤î╨║╨╛ ╨┐╨╛╤ü╨╗╨╡ ╨╜╨░╨╢╨░╤é╨╕╤Å ╨Æ╤ï╨╣╤é╨╕ ╨▓ ╨╝╨╡╨╜╤Ä ╨┐╤Ç╨╛╨│╤Ç╨░╨╝╨╝╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize on close</source>♪◙        <translation>C╨▓╨╛╤Ç╨░╤ç╨╕╨▓╨░╤é╤î ╨┐╤Ç╨╕ ╨╖╨░╨║╤Ç╤ï╤é╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Display</source>♪◙        <translation>╨¡╨║╤Ç╨░╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>User Interface language:</source>♪◙        <translation>╨»╨╖╤ï╨║ ╨ÿ╨╜╤é╨╡╤Ç╤ä╨╡╨╣╤ü╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>User Interface Theme:</source>♪◙        <translation>╨ó╨╡╨╝╨░ ╨ÿ╨╜╤é╨╡╤Ç╤ä╨╡╨╣╤ü╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unit to show amounts in:</source>♪◙        <translation>╨Æ ╨║╨░╨║╨╕╤à ╨╡╨┤╨╕╨╜╨╕╤å╨░╤à ╨┐╨╛╨║╨░╨╖╤ï╨▓╨░╤é╤î ╤ü╤â╨╝╨╝╤â:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╤ü╤é╨░╨╜╨┤╨░╤Ç╨╜╤â╤Ä ╨┤╤Ç╨╛╨▒╨╜╤â╤Ä ╨▓╨╡╨╗╨╕╤ç╨╕╨╜╤â, ╨║╨╛╤é╨╛╤Ç╨░╤Å ╨▒╤â╨┤╨╡╤é ╨┐╨╛╨║╨░╨╖╤ï╨▓╨░╤é╤î╤ü╤Å ╨▓ ╨│╤Ç╨░╤ä╨╕╤ç╨╡╤ü╨║╨╛╨╝ ╨╕╨╜╤é╨╡╤Ç╤ä╨╡╨╣╤ü╨╡ ╨╕ ╨┐╤Ç╨╕ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╡ ╨╝╨╛╨╜╨╡╤é.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decimal digits</source>♪◙        <translation>╨ö╨╡╤ü╤Å╤é╨╕╤ç╨╜╨░╤Å ╤Ç╨░╨╖╤Ç╤Å╨┤╨╜╨╛╤ü╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Hide empty balances</source>♪◙        <translation>╨í╨║╤Ç╤ï╤é╤î ╨┐╤â╤ü╤é╤ï╨╡ ╨▒╨░╨╗╨░╨╜╤ü╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>♪◙        <translation>╨í╤é╨╛╤Ç╨╛╨╜╨╕╨╕╨╡ ╤ü╤ü╤ï╨╗╨║╨╕ (╤é╨░╨║╨╕╨╡ ╨║╨░╨║ block exporer), ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨░╤Ä╤é╤ü╤Å ╨▓ ╨╖╨░╨║╨╗╨░╨┤╨║╨╡ "╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕" ╨║╨░╨║ ╨║╨╛╨╜╤é╨╡╨║╤ü╤é╨╜╨╛╨╡ ╨╝╨╡╨╜╤Ä. %s ╨▓ ╤ü╤ü╤ï╨╗╨╡ ╨▒╤â╨┤╨╡╤é ╨╖╨░╨╝╨╡╤ë╨╡╨╜╨╛ ╤à╤ì╤ê╨╡╨╝ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕. ╨í╤ü╤ï╨╗╨║╨╕ ╨╛╤é╨┤╨╡╨╗╤Å╤Ä╤é╤ü╤Å ╨┤╤Ç╤â╨│ ╨╛╤é ╨┤╤Ç╤â╨│╨░ ╨▓╨╡╤Ç╤é╨╕╨║╨░╨╗╤î╨╜╨╛╨╣ ╤ç╨╡╤Ç╤é╨╛╨╣ |.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Third party transaction URLs</source>♪◙        <translation>╨í╤é╨╛╤Ç╨╛╨╜╨╜╨╕╨╡ ╤ü╤ü╤ï╨╗╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Active command-line options that override above options:</source>♪◙        <translation>╨É╨║╤é╨╕╨▓╨╜╤ï╨╡ ╨╛╨┐╤å╨╕╨╕ ╨║╨╛╨╝╨╝╨░╨╜╨┤╨╜╨╛╨╣ ╤ü╤é╤Ç╨╛╨║╨╕, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨┐╨╡╤Ç╨╡╨┐╨╕╤ü╤ï╨▓╨░╤Ä╤é ╨╛╨┐╤å╨╕╨╕ ╨▓╤ï╤ê╨╡:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all client options to default.</source>♪◙        <translation>╨Æ╨╡╤Ç╨╜╤â╤é╤î ╤ü╤é╨░╨╜╨┤╨░╤Ç╤é╨╜╤ï╨╡ ╨╜╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕ ╨║╨╗╨╕╨╡╨╜╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset Options</source>♪◙        <translation>╨í╨▒╤Ç╨╛╤ü╨╕╤é╤î ╨¥╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>OK</source>♪◙        <translation>OK</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cancel</source>♪◙        <translation>╨₧╤é╨╝╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Any</source>♪◙        <translation>╨¢╤Ä╨▒╨╛╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>default</source>♪◙        <translation>╨┐╨╛-╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>none</source>♪◙        <translation>╨╜╨╕╤ç╨╡╨│╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm options reset</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╤î ╤ü╨▒╤Ç╨╛╤ü ╨╜╨░╤ü╤é╤Ç╨╛╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Client restart required to activate changes.</source>♪◙        <translation>╨ö╨╗╤Å ╨┐╤Ç╨╕╨╝╨╡╨╜╨╡╨╜╨╕╤Å ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╣ ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨┐╨╡╤Ç╨╡╨╖╨░╨┐╤â╤ü╨║ ╨║╨╗╨╕╨╡╨╜╤é╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Client will be shutdown, do you want to proceed?</source>♪◙        <translation>╨Ü╨╗╨╕╨╡╨╜╤é ╨▒╤â╨┤╨╡╤é ╨╖╨░╨║╤Ç╤ï╤é, ╨▓╤ï ╤à╨╛╤é╨╕╤é╨╡ ╨┐╤Ç╨╛╨┤╨╛╨╗╨╢╨╕╤é╤î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>This change would require a client restart.</source>♪◙        <translation>╨¡╤é╨╛ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡ ╨┐╨╛╤é╤Ç╨╡╨▒╤â╨╡╤é ╨┐╨╡╤Ç╨╡╨╖╨░╨┐╤â╤ü╨║╨░ ╨║╨╗╨╕╨╡╨╜╤é╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied proxy address is invalid.</source>♪◙        <translation>╨ú╨║╨░╨╖╨░╨╜ ╨╜╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨┐╤Ç╨╛╨║╤ü╨╕-╤ü╨╡╤Ç╨▓╨╡╤Ç╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied proxy port is invalid.</source>♪◙        <translation>╨ú╨║╨░╨╖╨░╨╜ ╨╜╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ ╨┐╨╛╤Ç╤é ╨┐╤Ç╨╛╨║╤ü╨╕-╤ü╨╡╤Ç╨▓╨╡╤Ç╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied proxy settings are invalid.</source>♪◙        <translation>╨ú╨║╨░╨╖╨░╨╜╤ï ╨╜╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╡ ╨╜╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕ ╨┐╤Ç╨╛╨║╤ü╨╕-╤ü╨╡╤Ç╨▓╨╡╤Ç╨░.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>OverviewPage</name>♪◙    <message>♪◙        <source>Form</source>♪◙        <translation>╨Æ╨╕╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available:</source>♪◙        <translation>╨ö╨╛╤ü╤é╤â╨┐╨╜╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your current spendable balance</source>♪◙        <translation>╨Æ╨░╤ê ╤é╨╡╨║╤â╤ë╨╕╨╣ ╨╛╤ü╤é╨░╤é╨╛╨║ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total Balance, including all unavailable coins.</source>♪◙        <translation>╨₧╨▒╤ë╨╕╨╣ ╨▒╨░╨╗╨░╨╜╤ü ╨▓╨║╨╗╤Ä╤ç╨░╤Å ╨▓╤ü╨╡ ╨╜╨╡ ╨┤╨╛╤ü╤é╤â╨┐╨╜╤ï╨╡ ╨╝╨╛╨╜╨╡╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Balance</source>♪◙        <translation>╨æ╨░╨╗╨░╨╜╤ü CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pending:</source>♪◙        <translation>╨Æ ╨╛╨╢╨╕╨┤╨░╨╜╨╕╨╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>♪◙        <translation>╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╡╤ë╤æ ╨┤╨╛╨╗╨╢╨╜╤ï ╨▒╤ï╤é╤î ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╤ï ╨╕ ╨╜╨╡ ╤â╨╝╨╡╨╜╤î╤ê╨░╤Ä╤é ╨▒╨░╨╗╨░╨╜╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Immature:</source>♪◙        <translation>╨ö╨╛╨╖╤Ç╨╡╨▓╨░╤Ä╤é:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staked or masternode rewards that has not yet matured</source>♪◙        <translation>╨¥╨░╨│╤Ç╨░╨┤╤ï ╨╖╨░ ╤à╤Ç╨░╨╜╨╡╨╜╨╕╨╡ ╨╕ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╡╤ë╨╡ ╨╜╨╡ *╤ü╨╛╨╖╤Ç╨╡╨╗╨╕*</translation>♪◙    </message>♪◙    <message>♪◙        <source>Current locked balance in watch-only addresses</source>♪◙        <translation>╨ó╨╡╨║╤â╤ë╨╕╨╣ ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜╤ï╨╣ ╨▒╨░╨╗╨░╨╜╤ü ╨▓╤ü╨╡╤à ╨╜╨░╨▒╨╗╤Ä╨┤╨░╨╡╨╝╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>♪◙        <translation>╨Æ╨░╤ê ╤é╨╡╨║╤â╤ë╨╕╨╣ CRyptoCrowd┬á ╨▒╨░╨╗╨░╨╜╤ü, ╨▓╨║╨╗╤Ä╤ç╨░╤Å ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╡ ╨╕ ╨╜╨╡╨╖╤Ç╨╡╨╗╤ï╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Balance</source>♪◙        <translation>╨æ╨░╨╗╨░╨╜╤ü zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.♪◙These zXCRC are spendable.</source>♪◙        <translation>╨ù╤Ç╨╡╨╗╤ï╨╡: ╨▒╨╛╨╗╨╡╨╡ 20 ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╣ ╨╕ ╨▒╨╛╨╗╨╡╨╡ 1 ╤ç╨╡╨║╨░╨╜╨║╨╕ ╨╛╨┤╨╜╨╛╨│╨╛ ╨╕ ╤é╨╛╨│╨╛ ╨╢╨╡ ╨╜╨░╨╕╨╝╨╡╨╜╨╛╨▓╨░╨╜╨╕╤Å ╨┐╨╛╤ü╨╗╨╡ ╤é╨╛╨│╨╛, ╨║╨░╨║ ╨╛╨╜╨╛ ╨▒╤ï╨╗╨╛ ╨╛╤é╤ç╨╡╨║╨░╨╜╨╡╨╜╨╛. ╨¡╤é╨╕ zXCRC ╨╝╨╛╨╢╨╜╨╛ ╨┐╨╛╤é╤Ç╨░╤é╨╕╤é╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed: less than 20 confirmations♪◙Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>♪◙        <translation>╨¥╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛: ╨╝╨╡╨╜╨╡╨╡ 20 ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╣♪◙╨¥╨╡╨╖╤Ç╨╡╨╗╤ï╨╣: ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜, ╨╜╨╛ ╨╝╨╡╨╜╨╡╨╡ 1 ╤ç╨╡╨║╨░╨╜╨╛╨║ ╤é╨╛╨│╨╛ ╨╢╨╡ ╨╜╨░╨╕╨╝╨╡╨╜╨╛╨▓╨░╨╜╨╕╤Å ╨┐╨╛╤ü╨╗╨╡ ╤é╨╛╨│╨╛, ╨║╨░╨║ ╨╛╨╜ ╨▒╤ï╨╗ ╨╛╤é╤ç╨╡╨║╨░╨╜╨╡╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>♪◙        <translation>╨Æ╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨░╨╡╨╝╨░╤Å ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å ╤â╤ü╤é╨░╤Ç╨╡╨╗╨░. ╨Æ╨░╤ê ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╤â╨╡╤é╤ü╤Å ╤ü ╤ü╨╡╤é╤î╤Ä CRyptoCrowd ╨┐╨╛╤ü╨╗╨╡ ╤â╤ü╤é╨░╨╜╨╛╨▓╨║╨╕ ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å, ╨╜╨╛ ╤ì╤é╨╛╤é ╨┐╤Ç╨╛╤å╨╡╤ü╤ü ╨╡╤ë╨╡ ╨╜╨╡ ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜. </translation>♪◙    </message>♪◙    <message>♪◙        <source>OVERVIEW</source>♪◙        <translation>╨₧╨æ╨ù╨₧╨á</translation>♪◙    </message>♪◙    <message>♪◙        <source>Combined Balance (including unconfirmed and immature coins)</source>♪◙        <translation>╨Ü╨╛╨╝╨▒╨╕╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨▒╨░╨╗╨░╨╜╤ü (╨▓╨║╨╗╤Ä╤ç╨░╤Å ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╡ ╨╕ ╨╜╨╡╨╖╤Ç╨╡╨╗╤ï╨╡ ╨╝╨╛╨╜╨╡╤é╤ï)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Combined Balance</source>♪◙        <translation>╨Ü╨╛╨╝╨▒╨╕╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨▒╨░╨╗╨░╨╜╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed transactions to watch-only addresses</source>♪◙        <translation>╨¥╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╤æ╨╜╨╜╤ï╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╜╨░ ╨╜╨░╨▒╨╗╤Ä╨┤╨░╨╡╨╝╤ï╨╡ ╨░╨┤╤Ç╨╡╤ü╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staked or masternode rewards in watch-only addresses that has not yet matured</source>♪◙        <translation>╨¥╨░╨│╤Ç╨░╨┤╤ï ╨╖╨░ ╤à╤Ç╨░╨╜╨╡╨╜╨╕╨╡ ╨╕ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï ╨▓ ╨╜╨░╨▒╨╗╤Ä╨┤╨░╨╡╨╝╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨░╤à, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╡╤ë╨╡ ╨╜╨╡ *╤ü╨╛╨╖╤Ç╨╡╨╗╨╕*</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total:</source>♪◙        <translation>╨Æ╤ü╨╡╨│╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Current total balance in watch-only addresses</source>♪◙        <translation>╨ó╨╡╨║╤â╤ë╨╕╨╣ ╨▒╨░╨╗╨░╨╜╤ü ╨▓╤ü╨╡╤à ╨╜╨░╨▒╨╗╤Ä╨┤╨░╨╡╨╝╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Watch-only:</source>♪◙        <translation>╨¥╨░╨▒╨╗╤Ä╨┤╨░╨╡╨╝╤ï╨╣:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your current balance in watch-only addresses</source>♪◙        <translation>╨Æ╨░╤ê ╤é╨╡╨║╤â╤ë╨╕╨╣ ╨▒╨░╨╗╨░╨╜╤ü ╨▓ ╨╜╨░╨▒╨╗╤Ä╨┤╨░╨╡╨╝╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨░╤à</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spendable:</source>♪◙        <translation>╨á╨░╤ü╤à╨╛╨┤╤â╨╡╨╝╤ï╨╣:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>♪◙        <translation>╨ù╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜╨╜╨╛ ╨┤╨╛╨┐╨╛╨╗╨╜╨╕╤é╨╡╨╗╤î╨╜╨╛╨╡ ╨╛╨▒╨╡╤ü╨┐╨╡╤ç╨╡╨╜╨╕╨╡ CRyptoCrowd ╨╕╨╗╨╕ Masternode. ╨₧╨╜╨╕ ╨╕╤ü╨║╨╗╤Ä╤ç╨╡╨╜╤ï ╨╕╨╖ ╤ç╨╡╨║╨░╨╜╨║╨╕ zXCRC.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Locked:</source>♪◙        <translation>╨ù╨░╨┐╨╡╤Ç╤é╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed:</source>♪◙        <translation>╨¥╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╣:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>♪◙        <translation>╨Æ╨░╤ê ╤é╨╡╨║╤â╤ë╨╕╨╣ zXCRC ╨▒╨░╨╗╨░╨╜╤ü, ╨▓╨║╨╗╤Ä╤ç╨░╤Å ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╡ ╨╕ ╨╜╨╡╨╖╤Ç╨╡╨╗╤ï╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recent transactions</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡╨┤╨╜╨╕╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>out of sync</source>♪◙        <translation>╨╜╨╡╤ü╨╕╨╜╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Current percentage of zXCRC.♪◙If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).♪◙</source>♪◙        <translation>╨ó╨╡╨║╤â╤ë╨╕╨╣ ╨┐╤Ç╨╛╤å╨╡╨╜╤é ╨╛╤é zXCRC.♪◙╨ò╤ü╨╗╨╕ ╨É╨▓╤é╨╛╨º╨╡╨║╨░╨╜╨║╨░ ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╨░, ╤ì╤é╨╛╤é ╨┐╤Ç╨╛╤å╨╡╨╜╤é ╨▒╤â╨┤╨╡╤é ╤Ç╨░╤ü╨┐╨╛╨╗╨░╨│╨░╤é╤î╤ü╤Å ╨╜╨░ ╨╜╨░╤ü╤é╤Ç╨╛╨╡╨╜╨╜╨╛╨╝ ╨┐╤Ç╨╛╤å╨╡╨╜╤é╨╡ ╨É╨▓╤é╨╛╨º╨╡╨║╨░╨╜╨║╨░  (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä = 10%).♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint is currently enabled and set to </source>♪◙        <translation>╨É╨▓╤é╨╛╤ç╨╡╨║╨░╨╜╨║╨░ ╨▓ ╨┤╨░╨╜╨╜╤ï╨╣ ╨╝╨╛╨╝╨╡╨╜ ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╨░ ╨╕ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨░ ╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>♪◙        <translation>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint is currently disabled.♪◙To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>♪◙        <translation>╨É╨▓╤é╨╛╤ç╨╡╨║╨░╨╜╨║╨░  ╨▓ ╨╜╨░╤ü╤é╨╛╤Å╤ë╨╡╨╡ ╨▓╤Ç╨╡╨╝╤Å ╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜╨░.♪◙╨º╤é╨╛╨▒╤ï ╨▓╨║╨╗╤Ä╤ç╨╕╤é╤î ╨É╨▓╤é╨╛╤ç╨╡╨║╨░╨╜╨║╤â, ╨╕╨╖╨╝╨╡╨╜╨╕╤é╨╡ 'enablezeromint = 0' ╨╜╨░ 'enablezeromint = 1' ╨▓ ╤ä╨░╨╣╨╗╨╡ cryptocrowd.conf</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>PaymentServer</name>♪◙    <message>♪◙        <source>Payment request error</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨┐╤Ç╨╕ ╨╖╨░╨┐╤Ç╨╛╤ü╨╡ ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>URI handling</source>♪◙        <translation>╨₧╨▒╤Ç╨░╨▒╨╛╤é╨║╨░ ╤ü╤ü╤ï╨╗╨╛╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request fetch URL is invalid: %1</source>♪◙        <translation> ╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ URL-╨░╨┤╤Ç╨╡╤ü ╨╖╨░╨┐╤Ç╨╛╤ü╨░ ╨┐╨╗╨░╤é╨╡╨╢╨░: %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request file handling</source>♪◙        <translation>╨₧╨▒╤Ç╨░╨▒╨╛╤é╨║╨░ ╤ä╨░╨╣╨╗╨░ ╨╖╨░╨┐╤Ç╨╛╤ü╨░ ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid payment address %1</source>♪◙        <translation>╨¥╨╡╨▓╨╡╤Ç╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╛╨┐╨╗╨░╤é╤ï %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╖╨░╨┐╤â╤ü╤é╨╕╤é╤î CRyptoCrowd: ╨╛╨▒╤Ç╨░╨▒╨╛╤é╤ç╨╕╨║ click-to-pay </translation>♪◙    </message>♪◙    <message>♪◙        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>♪◙        <translation>URI ╨╜╨╡ ╨╕╨╜╤é╨╡╤Ç╨┐╤Ç╨╡╤é╨╕╤Ç╤â╨╡╤é╤ü╤Å! ╨ƒ╤Ç╨╕╤ç╨╕╨╜╨╛╨╣ ╤ì╤é╨╛╨╝╤â ╨╝╨╛╨╢╨╡╤é ╨▒╤ï╤é╤î ╨╜╨╡╨▓╨╡╤Ç╨╜╤ï╨╣ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü ╨╕╨╗╨╕ ╨╜╨╡╨▓╨╡╤Ç╨╜╤ï╨╡ ╨┐╨░╤Ç╨░╨╝╨╡╤é╨╡╤Ç╤ï URI.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>♪◙        <translation>╨ñ╨░╨╣╨╗ ╨╖╨░╨┐╤Ç╨╛╤ü╨░ ╨╛╨┐╨╗╨░╤é╤ï ╨╜╨╡╤ç╨╕╤é╨░╨╡╤é╤ü╤Å! ╨ƒ╤Ç╨╕╤ç╨╕╨╜╨╛╨╣ ╨╝╨╛╨╢╨╡╤é ╨▒╤ï╤é╤î ╨╜╨╡╨▓╨╡╤Ç╨╜╤ï╨╣ ╤ä╨░╨╣╨╗ ╨╖╨░╨┐╤Ç╨╛╤ü╨░ ╨╛╨┐╨╗╨░╤é╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request rejected</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â ╨╛╤é╨║╨╗╨╛╨╜╨╡╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request network doesn't match client network.</source>♪◙        <translation>╨í╨╡╤é╤î ╨╖╨░╨┐╤Ç╨╛╤ü╨░ ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â ╨╛╤é╨╗╨╕╤ç╨░╨╡╤é╤ü╤Å ╨╛╤é ╤ü╨╡╤é╨╕ ╨║╨╗╨╕╨╡╨╜╤é╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request has expired.</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â ╨┐╤Ç╨╛╤ü╤Ç╨╛╤ç╨╡╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request is not initialized.</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â ╨╜╨╡ ╨╕╨╜╨╕╤å╨╕╨░╨╗╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unverified payment requests to custom payment scripts are unsupported.</source>♪◙        <translation>╨¥╨╡╨▓╨╡╤Ç╨╕╤ä╨╕╤å╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╡ ╨╖╨░╨┐╤Ç╨╛╤ü╤ï ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â ╨║ ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨╕╨╝ ╤ü╨║╤Ç╨╕╨┐╤é╨░╨╝ ╨╛╨┐╨╗╨░╤é╤ï ╨╜╨╡ ╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╡╤é╤ü╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Requested payment amount of %1 is too small (considered dust).</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨░╤ê╨╕╨▓╨░╨╡╨╝╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨╛╨┐╨╗╨░╤é╤ï %1 ╤ü╨╗╨╕╤ê╨║╨╛╨╝ ╨╝╨░╨╗╨░ (considered dust).</translation>♪◙    </message>♪◙    <message>♪◙        <source>Refund from %1</source>♪◙        <translation>╨í╤â╨╝╨╝╨░ ╨▓╨╛╨╖╨▓╤Ç╨░╤é╨░ ╨╛╤é %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â %1 ╤ü╨╗╨╕╤ê╨║╨╛╨╝ ╨▓╨╡╨╗╨╕╨║ (%2 ╨▒╨░╨╣╤é, ╤Ç╨░╨╖╤Ç╨╡╤ê╨╡╨╜╨╛ %3 ╨▒╨░╨╣╤é).</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request DoS protection</source>♪◙        <translation>╨ù╨░╤ë╨╕╤é╨░ ╨╛╤é DoS ╨░╤é╨░╨║, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╤Ä╤ë╨╕╤à ╨╖╨░╨┐╤Ç╨╛╤ü╤ï ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error communicating with %1: %2</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨║╨╛╨╝╨╝╤â╨╜╨╕╨║╨░╤å╨╕╨╕ ╤ü %1: %2</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment request cannot be parsed!</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨╜╨░ ╨╛╨┐╨╗╨░╤é╤â ╨╜╨╡╨┐╨╛╨╜╤Å╤é╨╡╨╜!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bad response from server %1</source>♪◙        <translation>╨¥╨╡╨╛╨╢╨╕╨┤╨░╨╜╨╜╤ï╨╣ ╨╛╤é╨▓╨╡╤é ╤ü╨╡╤Ç╨▓╨╡╤Ç╨░ %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network request error</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨╛╨▒╤Ç╨░╤ë╨╡╨╜╨╕╤Å ╨║ ╤ü╨╡╤é╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment acknowledged</source>♪◙        <translation>╨₧╨┐╨╗╨░╤é╨░ ╨┐╤Ç╨╕╨╜╤Å╤é╨░ ╨║ ╨╛╨▒╤Ç╨░╨▒╨╛╤é╨║╨╡</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>PeerTableModel</name>♪◙    <message>♪◙        <source>Address/Hostname</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü / ╨╕╨╝╤Å ╤à╨╛╤ü╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version</source>♪◙        <translation>╨Æ╨╡╤Ç╤ü╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ping Time</source>♪◙        <translation>╨Æ╤Ç╨╡╨╝╤Å ╨╛╤é╨║╨╗╨╕╨║╨░</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>PrivacyDialog</name>♪◙    <message>♪◙        <source>Zerocoin Actions:</source>♪◙        <translation>╨ö╨╡╨╣╤ü╤é╨▓╨╕╤Å Zerocoin </translation>♪◙    </message>♪◙    <message>♪◙        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>♪◙        <translation>╨Æ╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨░╨╡╨╝╨░╤Å ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å ╤â╤ü╤é╨░╤Ç╨╡╨╗╨░. ╨Æ╨░╤ê ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╤â╨╡╤é╤ü╤Å ╤ü ╤ü╨╡╤é╤î╤Ä CRyptoCrowd ╨┐╨╛╤ü╨╗╨╡ ╤â╤ü╤é╨░╨╜╨╛╨▓╨║╨╕ ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å, ╨╜╨╛ ╤ì╤é╨╛╤é ╨┐╤Ç╨╛╤å╨╡╤ü╤ü ╨╡╤ë╨╡ ╨╜╨╡ ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜. </translation>♪◙    </message>♪◙    <message>♪◙        <source>Mint Zerocoin</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╤é╤î Zerocoin</translation>♪◙    </message>♪◙    <message>♪◙        <source>0</source>♪◙        <translation>0</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC</source>♪◙        <translation>zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>♪◙        <translation>╨ö╨╛╤ü╤é╤â╨┐╨╜╤ï╨╝╨╕ ╨┤╨╗╤Å ╤ç╨╡╨║╨░╨╜╨║╨╕ ╤Å╨▓╨╗╤Å╤Ä╤é╤ü╤Å ╨╝╨╛╨╜╨╡╤é╤ï, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╤ï, ╨░ ╨╜╨╡ ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜╤ï ╨╕╨╗╨╕ ╨╖╨░╨╗╨╛╨╢╨╡╨╜╤ï ╨▓ ╨║╨╛╨╗╨╗╨╡╨║╤å╨╕╤Ä Masternode.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available for Minting:</source>♪◙        <translation>╨ö╨╛╤ü╤é╤â╨┐╨╜╤ï╨╣ ╨┤╨╗╤Å ╤ç╨╡╨║╨░╨╜╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>0.000ΓÇë000ΓÇë00 XCRC</source>♪◙        <translation>0.000ΓÇë000ΓÇë00 XCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>♪◙        <translation>╨í╨▒╤Ç╨╛╤ü ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ Zerocoin. ╨ú╨┤╨░╨╗╤Å╨╡╤é╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╜╨╡ ╨┐╨╛╨┐╨░╨┤╨░╤Ä╤é ╨▓ ╤å╨╡╨┐╨╛╤ç╨║╤â.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset</source>♪◙        <translation>╨í╨▒╤Ç╨╛╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Control...</source>♪◙        <translation>╨Ü╨╛╨╜╤é╤Ç╨╛╨╗╤î ╨£╨╛╨╜╨╡╤é╤ï...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity:</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>╨í╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescan the complete blockchain for  Zerocoin mints and their meta-data.</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╤ü╨║╨░╨╜╨╕╤Ç╨╛╨▓╨░╤é╤î  ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜╨╜╤â╤Ä ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜ ╨┤╨╗╤Å Zerocoin┬á ╤ç╨╡╨║╨░╨╜╨║╨╕ ╨╕ ╨╝╨╡╤é╨░ ╨┤╨░╨╜╨╜╤ï╤à</translation>♪◙    </message>♪◙    <message>♪◙        <source>ReScan</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╤ü╨║╨░╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status and/or Mesages from the last Mint Action.</source>♪◙        <translation>╤ü╤é╨░╤é╤â╤ü ╨╕ / ╨╕╨╗╨╕ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å ╨╛╤é ╨┐╨╛╤ü╨╗╨╡╨┤╨╜╨╡╨╣ ╤ç╨╡╨║╨░╨╜╨║╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>PRIVACY</source>♪◙        <translation>╨Ü╨₧╨¥╨ñ╨ÿ╨ö╨ò╨¥╨ª╨ÿ╨É╨¢╨¼╨¥╨₧╨í╨ó╨¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter an amount of XCRC to convert to zXCRC</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╤ü╤â╨╝╨╝╤â ╨▓ CRyptoCrowd ╨┤╨╗╤Å  ╨║╨╛╨╜╨▓╨╡╤Ç╤é╨░╤å╨╕╨╕ ╨▓ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Control</source>♪◙        <translation>╨Ü╨╛╨╜╤é╤Ç╨╛╨╗╤î zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Selected:</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╨╜╨╛ zXCRC:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity Selected:</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╨╜╨╜╨╛╨╡ ╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend Zerocoin. Without 'Pay To:' address creates payments to yourself.</source>♪◙        <translation>╨ƒ╨╛╤é╤Ç╨░╤é╨╕╤é╤î Zerocoin. ╨æ╨╡╨╖ ╨░╨┤╤Ç╨╡╤ü╨░ ┬½╨₧╨┐╨╗╨░╤é╨╕╤é╤î ╨║╨╛╨╝╤â┬╗ ╨▓╤ï ╤ü╨░╨╝╨╕ ╤ü╨╛╨╖╨┤╨░╨╡╤é╨╡ ╨┐╨╗╨░╤é╨╡╨╢╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend Zerocoin</source>♪◙        <translation>╨ƒ╨╛╤é╤Ç╨░╤é╨╕╤é╤î Zerocoin</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available (mature and spendable) zXCRC for spending</source>♪◙        <translation>╨ö╨╛╤ü╤é╤â╨┐╨╜╤ï╨╣ (╨╖╤Ç╨╡╨╗╤ï╨╣ ╨╕ ╤Ç╨░╤ü╤à╨╛╨┤╤â╨╡╨╝╤ï╨╣) zXCRC ╨┤╨╗╤Å ╤Ç╨░╤ü╤à╨╛╨┤╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available Balance:</source>♪◙        <translation>╨ö╨╛╤ü╤é╤â╨┐╨╜╤ï╨╣ ╨æ╨░╨╗╨░╨╜╤ü :</translation>♪◙    </message>♪◙    <message>♪◙        <source>Available (mature and spendable) zXCRC for spending♪◙♪◙zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>♪◙        <translation>╨ö╨╛╤ü╤é╤â╨┐╨╜╤ï╨╣ (╨╖╤Ç╨╡╨╗╤ï╨╣ ╨╕ ╨╖╨░╤é╤Ç╨░╤é╨╜╤ï╨╣) zXCRC ╨┤╨╗╤Å ╤Ç╨░╤ü╤à╨╛╨┤╨╛╨▓♪◙♪◙zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</translation>♪◙    </message>♪◙    <message>♪◙        <source>0 zXCRC</source>♪◙        <translation>0 zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>♪◙        <translation>╨ú╤Ç╨╛╨▓╨╡╨╜╤î ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕ ╨┤╨╗╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ Zerocoin. ╨æ╨╛╨╗╤î╤ê╨╡ ╨╗╤â╤ç╤ê╨╡, ╨╜╨╛ ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨▒╨╛╨╗╤î╤ê╨╡ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╕ ╨╕ ╤Ç╨╡╤ü╤â╤Ç╤ü╨╛╨▓.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Security Level:</source>♪◙        <translation>╨ú╤Ç╨╛╨▓╨╡╨╜╤î ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Security Level 1 - 100 (default: 42)</source>♪◙        <translation>╨ú╤Ç╨╛╨▓╨╡╨╜╤î ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕ 1-100 ( ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: 42)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pay To:</source>♪◙        <translation>╨₧╨┐╨╗╨░╤é╨╕╤é╤î ╨║╨╛╨╝╤â:</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü CRyptoCrowd ╨┤╨╗╤Å ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕ ╨┐╨╗╨░╤é╨╡╨╢╨░. ╨í╨╛╨╖╨┤╨░╨╡╤é ╨╗╨╛╨║╨░╨╗╤î╨╜╤ï╨╣ ╨┐╨╗╨░╤é╨╡╨╢ ╤ü╨╡╨▒╨╡, ╨║╨╛╨│╨┤╨░ ╨╛╨╜ ╨┐╤â╤ü╤é.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╤é╤î ╤Ç╨░╨╜╨╡╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>╨Æ╤ü╤é╨░╨▓╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖ ╨▒╤â╤ä╨╡╤Ç╨░ ╨╛╨▒╨╝╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label:</source>♪◙        <translation>╨£╨╡╤é╨║╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a label for this address to add it to the list of used addresses</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨╝╨╡╤é╨║╤â ╨┤╨╗╤Å ╤ì╤é╨╛╨│╨╛ ╨░╨┤╤Ç╨╡╤ü╨░, ╤ç╤é╨╛╨▒╤ï ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î ╨╡╨╡ ╨▓ ╤ü╨┐╨╕╤ü╨╛╨║ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╨╝╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>╨í╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Convert Change to Zerocoin (might cost additional fees)</source>♪◙        <translation>╨ƒ╤Ç╨╡╨╛╨▒╤Ç╨░╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╣ ╨▓ Zerocoin (╨╝╨╛╨╢╨╡╤é ╤ü╤é╨╛╨╕╤é╤î ╨┤╨╛╨┐╨╛╨╗╨╜╨╕╤é╨╡╨╗╤î╨╜╤ï╨╡ ╤ü╨▒╨╛╤Ç╤ï)</translation>♪◙    </message>♪◙    <message>♪◙        <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>♪◙        <translation>╨ò╤ü╨╗╨╕ ╤ì╤é╨╛╤é ╤ä╨╗╨░╨╢╨╛╨║ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜, ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨┐╤ï╤é╨░╨╡╤é╤ü╤Å ╨╝╨╕╨╜╨╕╨╝╨╕╨╖╨╕╤Ç╨╛╨▓╨░╤é╤î ╨▓╨╛╨╖╨▓╤Ç╨░╤ë╨░╨╡╨╝╨╛╨╡ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡, ╨░ ╨╜╨╡ ╨╝╨╕╨╜╨╕╨╝╨╕╨╖╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╨╜╤ï╤à ╨║╤â╨┐╤Ä╤Ç.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize Change</source>♪◙        <translation>╨í╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╨║ ╨╝╨╕╨╜╨╕╨╝╤â╨╝╤â ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information about the available Zerocoin funds.</source>♪◙        <translation>╨ÿ╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å ╨╛ ╨┤╨╛╤ü╤é╤â╨┐╨╜╤ï╤à ╤ä╨╛╨╜╨┤╨░╤à ╨ù╨╡╤Ç╨╛╨║╨╛╨╕╨╜╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Stats:</source>♪◙        <translation>Zerocoin Stats:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total Balance including unconfirmed and immature zXCRC</source>♪◙        <translation>╨₧╨▒╤ë╨╕╨╣ ╨▒╨░╨╗╨░╨╜╤ü, ╨▓╨║╨╗╤Ä╤ç╨░╤Å ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╡ ╨╕ ╨╜╨╡╨╖╤Ç╨╡╨╗╤ï╨╡ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total Zerocoin  Balance:</source>♪◙        <translation>╨₧╨▒╤ë╨╕╨╣ ╨▒╨░╨╗╨░╨╜╤ü Zerocoin:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 1:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 1:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 1:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 1:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed: less than 20 confirmations♪◙Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>♪◙        <translation>╨¥╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛: ╨╝╨╡╨╜╨╡╨╡ 20 ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╣♪◙╨¥╨╡╨╖╤Ç╨╡╨╗╤ï╨╣: ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜, ╨╜╨╛ ╨╝╨╡╨╜╨╡╨╡ 1 ╤ç╨╡╨║╨░╨╜╨╛╨║ ╤é╨╛╨│╨╛ ╨╢╨╡ ╨╜╨░╨╕╨╝╨╡╨╜╨╛╨▓╨░╨╜╨╕╤Å ╨┐╨╛╤ü╨╗╨╡ ╤é╨╛╨│╨╛, ╨║╨░╨║ ╨╛╨╜ ╨▒╤ï╨╗ ╨╛╤é╤ç╨╡╨║╨░╨╜╨╡╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the current status of automatic zXCRC minting.♪◙♪◙To change the status (restart required):♪◙- enable: add 'enablezeromint=1' to cryptocrowd.conf♪◙- disable: add 'enablezeromint=0' to cryptocrowd.conf♪◙♪◙To change the percentage (no restart required):♪◙- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC♪◙♪◙</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╤é╨╡╨║╤â╤ë╨╕╨╣ ╤ü╤é╨░╤é╤â╤ü ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╛╨╣ ╤ç╨╡╨║╨░╨╜╨║╨╕ zXCRC.♪◙♪◙╨º╤é╨╛╨▒╤ï ╨╕╨╖╨╝╨╡╨╜╨╕╤é╤î ╤ü╤é╨░╤é╤â╤ü (╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨┐╨╡╤Ç╨╡╨╖╨░╨│╤Ç╤â╨╖╨║╨░):♪◙- ╨▓╨║╨╗╤Ä╤ç╨╕╤é╤î: ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î 'enablezeromint = 1' ╨▓ cryptocrowd.conf♪◙- ╨╛╤é╨║╨╗╤Ä╤ç╨╕╤é╤î: ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î 'enablezeromint = 0' ╨▓ cryptocrowd.conf♪◙♪◙╨º╤é╨╛╨▒╤ï ╨╕╨╖╨╝╨╡╨╜╨╕╤é╤î ╨┐╤Ç╨╛╤å╨╡╨╜╤é (╨╜╨╡ ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨┐╨╡╤Ç╨╡╨╖╨░╨│╤Ç╤â╨╖╨║╨░):♪◙- ╨╝╨╡╨╜╤Ä ╨¥╨░╤ü╤é╤Ç╨╛╨╣╨║╨╕-&gt; ╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï-&gt; ╨ƒ╤Ç╨╛╤å╨╡╨╜╤é ╨░╨▓╤é╨╛╤Ç╨╕╨╖╨╛╨▓╨░╨╜╨╜╨╛╨│╨╛ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint Status</source>♪◙        <translation>╨í╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡ ╨░╨▓╤é╨╛╨╛╨▒╨╝╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Global Supply:</source>♪◙        <translation>╨₧╨▒╤ë╨░╤Å ╨┐╨╛╤ü╤é╨░╨▓╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 1:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ 1:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 5:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ 5:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 10:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ 10:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 50:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ 50:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 100:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ 100:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 500:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ 500:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 1000:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ 1000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. 5000:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ 5000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>0 x</source>♪◙        <translation>0 x</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 5:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 5:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 5:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 5:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 10:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 10:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 10:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 10:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 50:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 50:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 50:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 50:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 100:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 100:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 100:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 100:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 500:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 500:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 500:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 500:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 1000:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 1000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 1000:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 1000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denominations with value 5000:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 5000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value 5000:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ 5000:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Priority:</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é:</translation>♪◙    </message>♪◙    <message>♪◙        <source>TextLabel</source>♪◙        <translation>╨ó╨╡╨║╤ü╤é╨╛╨▓╨░╤Å ╨╝╨╡╤é╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fee:</source>♪◙        <translation>╨Ü╨╛╨╝╨╕╤ü╤ü╨╕╤Å:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Dust:</source>♪◙        <translation>╨ƒ╤ï╨╗╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>no</source>♪◙        <translation>╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes:</source>♪◙        <translation>╨æ╨░╨╣╤é╤ï:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient funds!</source>♪◙        <translation>╨¥╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coins automatically selected</source>♪◙        <translation>╨£╨╛╨╜╨╡╤é╤ï ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨▓╤ï╨▒╨╕╤Ç╨░╤Ä╤é╤ü╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>medium</source>♪◙        <translation>╨┐╤Ç╨╛╨╝╨╡╨╢╤â╤é╨╛╤ç╨╜╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Control Features</source>♪◙        <translation>╨₧╤ü╨╛╨▒╨╡╨╜╨╜╨╛╤ü╤é╨╕ ╤â╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╕╤Å ╨╝╨╛╨╜╨╡╤é╨░╨╝╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>♪◙        <translation>╨ò╤ü╨╗╨╕ ╤ì╤é╨╛ ╨░╨║╤é╨╕╨▓╨╕╤Ç╨╛╨▓╨░╨╜╨╛, ╨╜╨╛ ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╤Å ╨┐╤â╤ü╤é ╨╕╨╗╨╕ ╨╜╨╡╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╨╡╨╜, ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡ ╨▒╤â╨┤╨╡╤é ╨╛╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛ ╨╜╨░ ╨▓╨╜╨╛╨▓╤î ╤ü╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom change address</source>♪◙        <translation>╨ƒ╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨╕╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount After Fee:</source>♪◙        <translation>╨í╤â╨╝╨╝╨░ ╨┐╨╛╤ü╨╗╨╡ ╨╛╨┐╨╗╨░╤é╤ï:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change:</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>out of sync</source>♪◙        <translation>╨╜╨╡╤ü╨╕╨╜╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mint Status: Okay</source>♪◙        <translation>╨í╤é╨░╤é╤â╤ü ╤ç╨╡╨║╨░╨╜╨║╨╕  ╨₧╨Ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy quantity</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤ü╤â╨╝╨╝╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Starting ResetMintZerocoin: rescanning complete blockchain, this will need up to 30 minutes depending on your hardware.♪◙Please be patient...</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╨║ ResetMintZerocoin: ╨┐╨╛╨▓╤é╨╛╤Ç╨╜╨╛╨╡ ╤ü╨║╨░╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨┐╨╛╨╗╨╜╨╛╨╣ ╨▒╨╗╨╛╨║-╤å╨╡╨┐╨╕, ╤ì╤é╨╛ ╨┐╨╛╤é╤Ç╨╡╨▒╤â╨╡╤é ╨┤╨╛ 30 ╨╝╨╕╨╜╤â╤é ╨▓ ╨╖╨░╨▓╨╕╤ü╨╕╨╝╨╛╤ü╤é╨╕ ╨╛╤é ╨▓╨░╤ê╨╡╨│╨╛ ╨╛╨▒╨╛╤Ç╤â╨┤╨╛╨▓╨░╨╜╨╕╤Å.♪◙╨æ╤â╨┤╤î╤é╨╡ ╤é╨╡╤Ç╨┐╨╡╨╗╨╕╨▓╤ï ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spending Zerocoin.♪◙Computationally expensive, might need several minutes depending on the selected Security Level and your hardware.♪◙Please be patient...</source>♪◙        <translation>╨á╨░╤ü╤à╨╛╨┤╤ï Zerocoin.♪◙╨Æ╤ï╤ç╨╕╤ü╨╗╨╕╤é╨╡╨╗╤î╨╜╨╛ ╨┤╨╛╤Ç╨╛╨│╨╛, ╨╝╨╛╨╢╨╡╤é ╨┐╨╛╤é╤Ç╨╡╨▒╨╛╨▓╨░╤é╤î╤ü╤Å ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╨╝╨╕╨╜╤â╤é ╨▓ ╨╖╨░╨▓╨╕╤ü╨╕╨╝╨╛╤ü╤é╨╕ ╨╛╤é ╨▓╤ï╨▒╤Ç╨░╨╜╨╜╨╛╨│╨╛ ╤â╤Ç╨╛╨▓╨╜╤Å ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕ ╨╕ ╨▓╨░╤ê╨╡╨│╨╛ ╨╛╨▒╨╛╤Ç╤â╨┤╨╛╨▓╨░╨╜╨╕╤Å.♪◙╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨▒╤â╨┤╤î╤é╨╡ ╤é╨╡╤Ç╨┐╨╡╨╗╨╕╨▓╤ï...</translation>♪◙    </message>♪◙    <message>♪◙        <source>) needed.♪◙Maximum allowed: </source>♪◙        <translation>) ╨╜╨╡╨╛╨▒╤à╨╛╨┤╨╕╨╝╨╛.♪◙╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨╛ ╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨╛╨╡:</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Spend #: </source>♪◙        <translation>zXCRC ╨ó╤Ç╨░╤é╨╕╤é╤î #: </translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Mint</source>♪◙        <translation>╤ç╨╡╨║╨░╨╜╨║╨░ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source> &lt;b&gt;enabled&lt;/b&gt;.</source>♪◙        <translation> &lt;b&gt;╨▓╨║╨╗╤Ä╤ç╨╡╨╜&lt;/b&gt;.</translation>♪◙    </message>♪◙    <message>♪◙        <source> &lt;b&gt;disabled&lt;/b&gt;.</source>♪◙        <translation> &lt;b&gt;╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜&lt;/b&gt;.</translation>♪◙    </message>♪◙    <message>♪◙        <source> Configured target percentage: &lt;b&gt;</source>♪◙        <translation> ╨¥╨░╤ü╤é╤Ç╨╛╨╡╨╜╨╜╤ï╨╣ ╤å╨╡╨╗╨╡╨▓╨╛╨╣ ╨┐╤Ç╨╛╤å╨╡╨╜╤é: &lt;b&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC is currently disabled due to maintenance.</source>♪◙        <translation>zXCRC ╨▓ ╨╜╨░╤ü╤é╨╛╤Å╤ë╨╡╨╡ ╨▓╤Ç╨╡╨╝╤Å ╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜ ╨╛╤é ╨╛╨▒╤ü╨╗╤â╨╢╨╕╨▓╨░╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC is currently undergoing maintenance.</source>♪◙        <translation>╨Æ ╨╜╨░╤ü╤é╨╛╤Å╤ë╨╡╨╡ ╨▓╤Ç╨╡╨╝╤Å zXCRC ╨┐╤Ç╨╛╤à╨╛╨┤╨╕╤é ╤é╨╡╤à╨╜╨╕╤ç╨╡╤ü╨║╨╛╨╡ ╨╛╨▒╤ü╨╗╤â╨╢╨╕╨▓╨░╨╜╨╕╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ &lt;b&gt;1&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;5&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ &lt;b&gt;5&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;10&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ &lt;b&gt;10&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;50&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ &lt;b&gt;50&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;100&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ &lt;b&gt;100&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;500&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ &lt;b&gt;500&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;1000&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ &lt;b&gt;1000&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. with value &lt;b&gt;5000&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ ╤ü╨╛ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡╨╝ &lt;b&gt;5000&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>AutoMint Status:</source>♪◙        <translation>╨í╤é╨░╤é╤â╤ü ╨É╨▓╤é╨╛╨º╨╡╨║╨░╨╜╨║╨╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;1&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ &lt;b&gt;1&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;5&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗&lt;b&gt;5&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;10&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ &lt;b&gt;10&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;50&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ &lt;b&gt;50&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;100&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ &lt;b&gt;100&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;500&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ &lt;b&gt;500&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;1000&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗ &lt;b&gt;1000&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Denom. &lt;b&gt;5000&lt;/b&gt;:</source>♪◙        <translation>╨¥╨╛╨╝╨╕╨╜╨░╨╗&lt;b&gt;5000&lt;/b&gt;:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░. ╨Æ╨░╤ê ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜. ╨í╨╜╨░╤ç╨░╨╗╨░ ╨▓╨▓╨╡╨┤╨╕╤é╨╡ ╨║╨╛╨┤╨╛╨▓╤â╤Ä ╤ä╤Ç╨░╨╖╤â ╨║╨╛╤ê╨╡╨╗╤î╨║╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message: Enter an amount &gt; 0.</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡: ╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╤ü╤â╨╝╨╝╤â&gt; 0.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minting </source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Successfully minted </source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╨╜ ╤â╤ü╨┐╨╡╤ê╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source> zXCRC in </source>♪◙        <translation> zXCRC ╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source> sec. Used denominations:♪◙</source>♪◙        <translation>╤ü╨╡╨║. ╨ÿ╤ü╨┐╨╗╤î╨╖╨╛╨▓╨░╨╜╤ï ╨╜╨╛╨╝╨╕╨╜╨░╤å╨╕╨╕:♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Duration: </source>♪◙        <translation>╨ƒ╤Ç╨╛╨┤╨╛╨╗╨╢╨╕╤é╨╡╨╗╤î╨╜╨╛╤ü╤é╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source> sec.♪◙</source>♪◙        <translation>╤ü╨╡╨║.♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Starting ResetSpentZerocoin: </source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╨║ ResetSpentZerocoin:</translation>♪◙    </message>♪◙    <message>♪◙        <source>No 'Pay To' address provided, creating local payment</source>♪◙        <translation>╨¥╨╡ ╨┐╤Ç╨╡╨┤╨╛╤ü╤é╨░╨▓╨╗╤Å╨╡╤é╤ü╤Å ╨░╨┤╤Ç╨╡╤ü ┬½Pay To┬╗, ╤ü╨╛╨╖╨┤╨░╤Ä╤ë╨╕╨╣ ╨╝╨╡╤ü╤é╨╜╤ï╨╣ ╨┐╨╗╨░╤é╨╡╨╢</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid XCRC address</source>♪◙        <translation>╨╜╨╡╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╤ï╨╣ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid Send Amount</source>♪◙        <translation>╨¥╨╡╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm additional Fees</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╨┤╨╛╨┐╨╛╨╗╨╜╨╕╤é╨╡╨╗╤î╨╜╤ï╤à ╤ü╨▒╨╛╤Ç╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to send?&lt;br /&gt;&lt;br /&gt;</source>♪◙        <translation>╨Æ╤ï ╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╨╛ ╤à╨╛╤é╨╕╤é╨╡ ╨╛╤é╨┐╤Ç╨░╨▓╨╕╤é╤î?&lt;br /&gt;&lt;br /&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source> to address </source>♪◙        <translation>╨░╨┤╤Ç╨╡╤ü╨╛╨▓╨░╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source> to a newly generated (unused and therefore anonymous) local address &lt;br /&gt;</source>♪◙        <translation>╨║ ╨▓╨╜╨╛╨▓╤î ╤ü╨╛╨╖╨┤╨░╨╜╨╜╨╛╨╝╤â (╨╜╨╡╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╨╝╨╛╨╝╤â ╨╕ ╨┐╨╛╤ì╤é╨╛╨╝╤â ╨░╨╜╨╛╨╜╨╕╨╝╨╜╨╛╨╝╤â) ╨╗╨╛╨║╨░╨╗╤î╨╜╨╛╨╝╤â ╨░╨┤╤Ç╨╡╤ü╤â &lt;br /&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>with Security Level </source>♪◙        <translation>╤ü ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╤ï╨╝ ╤â╤Ç╨╛╨▓╨╜╨╡╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm send coins</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╤î ╨╛╤é╨┐╤Ç╨░╨▓╨║╤â ╨╝╨╛╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>♪◙        <translation>╨ö╨╗╤Å ╨▓╨╡╤Ç╤ü╨╕╨╕ 1 zXCRC ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╤â╤Ç╨╛╨▓╨╡╨╜╤î ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕ 100, ╨║╨╛╤é╨╛╤Ç╤ï╨╣ ╨╝╨╛╨╢╨╜╨╛ ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╤é╤Ç╨░╤é╨╕╤é╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to spend zXCRC</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┐╤Ç╨╛╨▓╨╡╤ü╤é╨╕ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to fetch mint associated with serial hash</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┐╨╛╨╗╤â╤ç╨╕╤é╤î ╤ç╨╡╨║╨░╨╜╨║╤â, ╤ü╨▓╤Å╨╖╨░╨╜╨╜╤â╤Ä ╤ü ╤ü╨╡╤Ç╨╕╨╣╨╜╤ï╨╝ ╤à╤ì╤ê╨╡╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Too much inputs (</source>♪◙        <translation>╨í╨╗╨╕╤ê╨║╨╛╨╝ ╨╝╨╜╨╛╨│╨╛ ╨▓╤à╨╛╨┤╨╛╨▓ (</translation>♪◙    </message>♪◙    <message>♪◙        <source>♪◙Either mint higher denominations (so fewer inputs are needed) or reduce the amount to spend.</source>♪◙        <translation>♪◙╨¢╨╕╨▒╨╛ ╤ç╨╡╨║╨░╨╜╤Å╤é╤ü╤Å ╨╝╨╛╨╜╨╡╤é╤ï ╤ü  ╨▓╤ï╤ü╨╛╨║╨╕╨╝ ╨╜╨╛╨╝╨╕╨╜╨░╨╗╨╛╨╝ (╨┐╨╛╤ì╤é╨╛╨╝╤â ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨╝╨╡╨╜╤î╤ê╨╡ ╤Ç╨╡╤ü╤â╤Ç╤ü╨╛╨▓), ╨╗╨╕╨▒╨╛ ╤â╨╝╨╡╨╜╤î╤ê╨╕╤é╨╡ ╤ü╤â╨╝╨╝╤â, ╨║╨╛╤é╨╛╤Ç╤â╤Ä ╨╜╤â╨╢╨╜╨╛ ╨┐╨╛╤é╤Ç╨░╤é╨╕╤é╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend Zerocoin failed with status = </source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╤ü╤é╨╕ Zerocoin ╨╜╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╤ü╨╛ ╤ü╤é╨░╤é╤â╤ü╨╛╨╝ =</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>PrivacyDialog</source>♪◙        <comment>Enter an amount of XCRC to convert to zXCRC</comment>♪◙        <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>denomination: </source>♪◙        <translation>╨╜╨░╨╕╨╝╨╡╨╜╨╛╨▓╨░╨╜╨╕╨╡:</translation>♪◙    </message>♪◙    <message>♪◙        <source>serial: </source>♪◙        <translation>╨┐╨╛╤ü╨╗╨╡╨┤╨╛╨▓╨░╤é╨╡╨╗╤î╨╜╤ï╨╣:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend is 1 of : </source>♪◙        <translation>╨á╨░╤ü╤à╨╛╨┤ 1 ╨╕╨╖ :</translation>♪◙    </message>♪◙    <message>♪◙        <source>value out: </source>♪◙        <translation>╤å╨╡╨╜╨╜╨╛╤ü╤é╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>address: </source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending successful, return code: </source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨║╨░ ╤â╤ü╨┐╨╡╤ê╨╜╨╛╨│╨╛ ╨║╨╛╨┤╨░ ╨▓╨╛╨╖╨▓╤Ç╨░╤é╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>txid: </source>♪◙        <translation>txid: </translation>♪◙    </message>♪◙    <message>♪◙        <source>fee: </source>♪◙        <translation>╨Ü╨╛╨╝╨╕╤ü╤ü╨╕╤Å:</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>QObject</name>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>╨í╤â╨╝╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a CRyptoCrowd address (e.g. %1)</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨░╨┤╤Ç╨╡╤ü CRyptoCrowd (╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç %1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 d</source>♪◙        <translation>%1 ╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 h</source>♪◙        <translation>%1 ╤ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 m</source>♪◙        <translation>%1 ╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 s</source>♪◙        <translation>%1 ╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>NETWORK</source>♪◙        <translation>╨í╨ò╨ó╨¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>BLOOM</source>♪◙        <translation>BLOOM</translation>♪◙    </message>♪◙    <message>♪◙        <source>UNKNOWN</source>♪◙        <translation>╨¥╨ò╨ÿ╨ù╨Æ╨ò╨í╨ó╨¥╨₧</translation>♪◙    </message>♪◙    <message>♪◙        <source>None</source>♪◙        <translation>╨¥╨╕╤ç╨╡╨│╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>N/A</source>♪◙        <translation>╨¥╨╡╨┤╨╛╤ü╤é╤â╨┐╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 ms</source>♪◙        <translation>%1 ╨╝╤ü</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>QRImageWidget</name>♪◙    <message>♪◙        <source>Save Image...</source>♪◙        <translation>╨í╨╛╤à╤Ç╨░╨╜╨╕╤é╤î ╨╕╨╖╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Image</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╕╨╖╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Save QR Code</source>♪◙        <translation>╨í╨╛╤à╤Ç╨░╨╜╨╕╤é╤î QR-╨║╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>PNG Image (*.png)</source>♪◙        <translation>╨ÿ╨╖╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╨╡ ╨▓ ╤ä╨╛╤Ç╨╝╨░╤é╨╡ PNG (*.png)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>RPCConsole</name>♪◙    <message>♪◙        <source>Tools window</source>♪◙        <translation>╨₧╨║╨╜╨╛ ╤ü ╨╕╨╜╤ü╤é╤Ç╤â╨╝╨╡╨╜╤é╨░╨╝╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>╨ÿ╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>General</source>♪◙        <translation>╨₧╤ü╨╜╨╛╨▓╨╜╨╛╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Name</source>♪◙        <translation>╨ÿ╨╝╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Client name</source>♪◙        <translation>╨ÿ╨╝╤Å ╨║╨╗╨╕╨╡╨╜╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>N/A</source>♪◙        <translation>╨¥╨╡╨┤╨╛╤ü╤é╤â╨┐╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of connections</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╤ü╨╛╨╡╨╜╨╕╨┤╨╜╨╡╨╜╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Startup time</source>♪◙        <translation>╨Æ╤Ç╨╡╨╝╤Å ╤ü╤é╨░╤Ç╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network</source>♪◙        <translation>╨í╨╡╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last block time</source>♪◙        <translation>╨Æ╤Ç╨╡╨╝╤Å ╨┐╨╛╤ü╨╗╨╡╨┤╨╜╨╡╨│╨╛ ╨▒╨╗╨╛╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debug log file</source>♪◙        <translation>╨ƒ╤Ç╨╛╤é╨╛╨║╨╛╨╗ ╨╛╤é╨╗╨░╨┤╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Using OpenSSL version</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╨╝╨░╤Å ╨▓╨╡╤Ç╤ü╨╕╤Å OpenSSL</translation>♪◙    </message>♪◙    <message>♪◙        <source>Build date</source>♪◙        <translation>╨ö╨░╤é╨░ ╤ü╨▒╨╛╤Ç╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Current number of blocks</source>♪◙        <translation>╨ó╨╡╨║╤â╤ë╨╡╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨▒╨╗╨╛╨║╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Client version</source>♪◙        <translation>╨Æ╨╡╤Ç╤ü╨╕╤Å ╨║╨╗╨╕╨╡╨╜╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Using BerkeleyDB version</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╨╝╨░╤Å ╨▓╨╡╤Ç╤ü╨╕╤Å BrekleyDB</translation>♪◙    </message>♪◙    <message>♪◙        <source>Block chain</source>♪◙        <translation>╨æ╨╗╨╛╨║╤ç╨╡╨╣╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┐╤Ç╨╛╤é╨╛╨║╨╛╨╗ ╨╛╤é╨╗╨░╨┤╨║╨╕ CRyptoCrowd. ╨¡╤é╨╛ ╨╝╨╛╨╢╨╡╤é ╨╖╨░╨╜╤Å╤é╤î ╨╜╨╡╨║╨╛╤é╨╛╤Ç╨╡ ╨▓╤Ç╨╡╨╝╤Å, ╨╡╤ü╨╗╨╕ ╤ä╨░╨╣╨╗ ╨┐╤Ç╨╛╤é╨╛╨║╨╛╨╗╨░ ╨╛╤ç╨╡╨╜╤î ╨▒╨╛╨╗╤î╤ê╨╛╨╣.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of Masternodes</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Console</source>♪◙        <translation>╨Ü╨╛╨╝╨╝╨░╨╜╨┤╨░╤Å ╤ü╤é╤Ç╨╛╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear console</source>♪◙        <translation>╨₧╤ç╨╕╤ü╤é╨╕╤é╤î ╨║╨╛╨╝╨╝╨░╨╜╨┤╨╜╤â╤Ä ╤ü╤é╤Ç╨╛╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network Traffic</source>♪◙        <translation>╨í╨╡╤é╨╡╨▓╨░╤Å ╨┐╨╡╤Ç╨╡╨┤╨░╤ç╨░ ╨┤╨░╨╜╨╜╤ï╤à</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear</source>♪◙        <translation>╨₧╤ç╨╕╤ü╤é╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Totals</source>♪◙        <translation>╨á╨╡╨╖╤â╨╗╤î╤é╨░╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╜╤Å╤é╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Peers</source>♪◙        <translation>╨ƒ╨╕╤Ç╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Banned peers</source>♪◙        <translation>╨ù╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╡ ╤ü╨▓╨╡╤Ç╤ü╤é╨╜╨╕╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Select a peer to view detailed information.</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ ╨┐╨╕╤Ç, ╤ç╤é╨╛╨▒╤ï ╨┐╨╛╨║╨░╨╖╨░╤é╤î ╨┤╨╡╤é╨░╨╗╤î╨╜╤â╤Ä ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Ä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whitelisted</source>♪◙        <translation>╨▒╨╡╨╗╤ï╨╣ ╤ü╨┐╨╕╤ü╨╛╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Direction</source>♪◙        <translation>╨¥╨░╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Protocol</source>♪◙        <translation>╨ƒ╤Ç╨╛╤é╨╛╨║╨╛╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version</source>♪◙        <translation>╨Æ╨╡╤Ç╤ü╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Services</source>♪◙        <translation>╨í╨╡╤Ç╨▓╨╕╤ü╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ban Score</source>♪◙        <translation>╨á╨╡╨║╨╛╤Ç╨┤ ╨▒╨░╨╜╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connection Time</source>♪◙        <translation>╨ƒ╤Ç╨╛╨┤╨╛╨╗╨╢╨╕╤é╨╡╨╗╤î╨╜╨╛╤ü╤é╤î ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last Send</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡╨╜╨╡╨╡ ╨╛╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last Receive</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡╨╜╨╕╨╣ ╨┐╤Ç╨╕╤æ╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes Sent</source>♪◙        <translation>╨æ╨░╨╣╤é╨╛╨▓ ╨╛╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes Received</source>♪◙        <translation>╨æ╨░╨╣╤é╨╛╨▓ ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ping Time</source>♪◙        <translation>╨Æ╤Ç╨╡╨╝╤Å ╨╛╤é╨║╨╗╨╕╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet Repair</source>♪◙        <translation>╨á╨╡╨╝╨╛╨╜╤é ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete local Blockchain Folders</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╡╨╜╨╕╨╡ ╨╗╨╛╨║╨░╨╗╤î╨╜╤ï╤à ╨┐╨░╨┐╨╛╨║ Blockchain</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet In Use:</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╨╝╤ï╨╣ ╨║╨╛╤ê╨╡╨╗╨╡╨║:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Starting Block</source>♪◙        <translation>╨¥╨░╤ç╨░╨╗╤î╨╜╤ï╨╣ ╨▒╨╗╨╛╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synced Headers</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╡ ╨╖╨░╨│╨╛╨╗╨╛╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synced Blocks</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╡ ╨▒╨╗╨╛╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>The duration of a currently outstanding ping.</source>♪◙        <translation>╨ƒ╤Ç╨╛╨┤╨╛╨╗╨╢╨╕╤é╨╡╨╗╤î╨╜╨╛╤ü╤é╤î ╤é╨╡╨║╤â╤ë╨╡╨│╨╛ ╨▓╤ï╨┤╨░╤Ä╤ë╨╡╨│╨╛╤ü╤Å ╨┐╨╕╨╜╨│╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ping Wait</source>♪◙        <translation>Ping Wait</translation>♪◙    </message>♪◙    <message>♪◙        <source>Time Offset</source>♪◙        <translation>╤ü╨╝╨╡╤ë╨╡╨╜╨╕╨╡ ╨┐╨╛ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom Backup Path:</source>♪◙        <translation>╨ƒ╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨╕╨╣ ╨┐╤â╤é╤î ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨╛╨│╨╛ ╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom zXCRC Backup Path:</source>♪◙        <translation>╨ƒ╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨╕╨╣ ╨┐╤â╤é╤î ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨╛╨│╨╛ ╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å zXCRC:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom Backups Threshold:</source>♪◙        <translation>╨ƒ╨╛╤Ç╨╛╨│ ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨╕╤à ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╤à ╨║╨╛╨┐╨╕╨╣:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Salvage wallet</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╤æ╨║ ╨┤╨╗╤Å ╤ü╨▒╨╛╤Ç╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Attempt to recover private keys from a corrupt wallet.dat.</source>♪◙        <translation>╨ƒ╨╛╨┐╤ï╤é╨║╨░ ╨▓╨╛╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╤î ╤ü╨╡╨║╤Ç╨╡╨╜╤é╤ï╨╡ ╨║╨╗╤Ä╤ç╨╕ ╨▒╨╕╤é╨╛╨│╨╛ wallet.dat.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescan blockchain files</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╤ü╨║╨░╨╜╨╕╤Ç╨╛╨▓╨░╤é╤î ╤ä╨░╨╣╨╗╤ï ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescan the block chain for missing wallet transactions.</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╤ü╨║╨░╨╜╨╕╤Ç╨╛╨▓╨░╤é╤î ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜ ╨┤╨╗╤Å ╨┐╨╛╨╕╤ü╨║╨░ ╨┐╤Ç╨╛╨┐╤â╤ë╨╡╨╜╨╜╤ï╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╨▓ ╨║╨╛╤ê╨╡╨╗╤î╨║╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recover transactions 1</source>♪◙        <translation>╨Æ╨╛╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ 1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recover transactions from blockchain (keep meta-data, e.g. account owner).</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨╖╨░╨┐╨╕╤ü╨░╤é╤î ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╕╨╖ ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜╨░ (╨┐╤Ç╨╕ ╤ü╨╛╤à╤Ç╨░╨╜╨╡╨╜╨╕╨╕ ╨╝╨╡╤é╨░-╨┤╨░╨╜╨╜╤ï╤à, ╤é╨░╨║╨╕╤à ╨║╨░╨║ ╨▓╨╗╨░╨┤╨╡╨╗╨╡╤å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░).</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recover transactions 2</source>♪◙        <translation>╨Æ╨╛╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ 2</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recover transactions from blockchain (drop meta-data).</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨╖╨░╨┐╨╕╤ü╨░╤é╤î ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╕╨╖ ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜╨░ (╤ü ╤â╨┤╨░╨╗╨╡╨╜╨╕╨╡╨╝ ╨╝╨╡╤é╨░-╨┤╨░╨╜╨╜╤ï╤à, ╤é╨░╨║╨╕╤à ╨║╨░╨║ ╨▓╨╗╨░╨┤╨╡╨╗╨╡╤å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░).</translation>♪◙    </message>♪◙    <message>♪◙        <source>Upgrade wallet format</source>♪◙        <translation>╨₧╨▒╨╜╨╛╨▓╨╕╤é╤î ╤ä╨╛╤Ç╨╝╨░╤é ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rebuild block chain index from current blk000??.dat files.</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╤ü╤é╤Ç╨╛╨╕╤é╤î ╨╕╨╜╨┤╨╡╨║╤ü ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜╨░ ╨╕╨╖ ╤é╨╡╨║╤â╤ë╨╕╤à blk000??.dat ╤ä╨░╨╣╨╗╨╛╨▓.</translation>♪◙    </message>♪◙    <message>♪◙        <source>-resync:</source>♪◙        <translation>-resync:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Deletes all local blockchain folders so the wallet synchronizes from scratch.</source>♪◙        <translation>╨ú╨┤╨░╨╗╤Å╨╡╤é ╨▓╤ü╨╡ ╨╗╨╛╨║╨░╨╗╤î╨╜╤ï╨╡ ╨┐╨░╨┐╨║╨╕ ╤ü ╤å╨╡╨┐╨╛╤ç╨║╨╛╨╣, ╤ç╤é╨╛╨▒╤ï ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╗╤ü╤Å ╤ü ╨╜╤â╨╗╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>♪◙        <translation>╨Ü╨╜╨╛╨┐╨║╨░ ╨╜╨╕╨╢╨╡ ╨┐╨╡╤Ç╨╡╨╖╨░╨┐╤â╤ü╤é╨╕╤é ╨║╨╛╤ê╨╡╨╗╤æ╨║ ╤ü ╨╜╨╡╨║╨╛╤é╨╛╤Ç╤ï╨╝╨╕ ╨╛╨┐╤å╨╕╤Å╨╝╨╕ ╨║╨╝╨╝╨░╨╜╨┤╨╜╨╛╨╣ ╤ü╤é╤Ç╨╛╨║╨╕ ╤ç╤é╨╛╨▒╤ï ╨╛╤é╤Ç╨╡╨╝╨╛╤é╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╤æ╨║, ╤ä╨░╨╣╨╗╤ï ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜╨░ ╨╕ ╨┐╤Ç╨╛╨┐╨░╨▓╤ê╨╕╨╡ / ╤â╤ü╤é╨░╤Ç╨╡╨▓╤ê╨╕╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕. </translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet repair options.</source>♪◙        <translation>╨₧╨┐╤å╨╕╨╕ ╤Ç╨╡╨╝╨╛╨╜╤é╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Upgrade wallet to latest format on startup. (Note: this is NOT an update of the wallet itself!)</source>♪◙        <translation>╨₧╨▒╨╜╨╛╨▓╨╕╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨┤╨╛ ╨┐╨╛╤ü╨╗╨╡╨┤╨╜╨╡╨│╨╛ ╤ä╨╛╤Ç╨╝╨░╤é╨░ ╨┐╤Ç╨╕ ╨╖╨░╨┐╤â╤ü╨║╨╡.♪◙(╨ƒ╤Ç╨╕╨╝╨╡╤ç╨░╨╜╨╕╨╡: ╤ì╤é╨╛ ╨¥╨ò ╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╤ü╨░╨╝╨╛╨│╨╛ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░!)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rebuild index</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╤ü╨╛╨╖╨┤╨░╤é╤î ╨╕╨╜╨┤╨╡╨║╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>In:</source>♪◙        <translation>╨Æ╨▓╨╛╨┤:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Out:</source>♪◙        <translation>╨Æ╤ï╨▓╨╛╨┤:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Welcome to the CRyptoCrowd RPC console.</source>♪◙        <translation>╨ö╨╛╨▒╤Ç╨╛ ╨┐╨╛╨╢╨░╨╗╨╛╨▓╨░╤é╤î ╨▓ ╨╛╨║╤Ç╤â╨╢╨╡╨╜╨╕╨╡ CRyptoCrowd RPC.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Disconnect Node</source>♪◙        <translation>╨₧╤é╨║╨╗╤Ä╤ç╨╕╤é╤î ╤â╨╖╨╡╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>Ban Node for</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╡╤é╨╜╤ï╨╣ ╤â╨╖╨╡╨╗ ╨┤╨╗╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>1 hour</source>♪◙        <translation>1 ╤ç╨░╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>1 day</source>♪◙        <translation>1 ╨┤╨╡╨╜╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>1 week</source>♪◙        <translation>1 ╨╜╨╡╨┤╨╡╨╗╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>1 year</source>♪◙        <translation>1 ╨│╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unban Node</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╡╤é╨╜╤ï╨╣ ╤â╨╖╨╡╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>This will delete your local blockchain folders and the wallet will synchronize the complete Blockchain from scratch.&lt;br /&gt;&lt;br /&gt;</source>♪◙        <translation>╨ú╨┤╨░╨╗╤Å╨╡╤é ╨▓╤ü╨╡ ╨╗╨╛╨║╨░╨╗╤î╨╜╤ï╨╡ ╨┐╨░╨┐╨║╨╕ ╤ü ╤å╨╡╨┐╨╛╤ç╨║╨╛╨╣, ╤ç╤é╨╛╨▒╤ï ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╗╤ü╤Å ╤ü ╨╜╤â╨╗╤Å.&lt;br /&gt;&lt;br /&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>This needs quite some time and downloads a lot of data.&lt;br /&gt;&lt;br /&gt;</source>♪◙        <translation>╨¡╤é╨╛ ╤é╤Ç╨╡╨▒╤â╨╡╤é ╨┤╨╛╨▓╨╛╨╗╤î╨╜╨╛ ╨╝╨╜╨╛╨│╨╛ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╕ ╤ç╤é╨╛╨▒╤ï ╨╖╨░╨│╤Ç╤â╨╖╨╕╤é╤î ╨▒╨╛╨╗╤î╤ê╨╛╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨┤╨░╨╜╨╜╤ï╤à.&lt;br /&gt;&lt;br /&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your transactions and funds will be visible again after the download has completed.&lt;br /&gt;&lt;br /&gt;</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡ ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜╨╕╤Å ╨╖╨░╨│╤Ç╤â╨╖╨║╨╕ ╨▓╨░╤ê╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╕ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓╨░ ╨▒╤â╨┤╤â╤é ╤ü╨╜╨╛╨▓╨░ ╨▓╨╕╨┤╨╜╤ï.&lt;br /&gt;&lt;br /&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Do you want to continue?.&lt;br /&gt;</source>♪◙        <translation>╨Æ╤ï ╤à╨╛╤é╨╕╤é╨╡ ╨┐╤Ç╨╛╨┤╨╛╨╗╨╢╨╕╤é╤î?&lt;br /&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm resync Blockchain</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╤î ╨┐╨╛╨▓╤é╨╛╤Ç╨╜╤â╤Ä ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Ä Blockchain</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╤ü╤é╤Ç╨╡╨╗╨║╨╕ ╨▓╨▓╨╡╤Ç╤à ╨╕ ╨▓╨╜╨╕╨╖ ╨┤╨╗╤Å ╨╜╨░╨▓╨╕╨│╨░╤å╨╕╨╕ ╨┐╨╛ ╨╕╤ü╤é╨╛╤Ç╨╕╨╕, ╨╕ &lt;b&gt;Ctrl-L&lt;/b&gt; ╨┤╨╗╤Å ╨╛╤ç╨╕╤ü╤é╨║╨╕ ╤ì╨║╤Ç╨░╨╜╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ &lt;b&gt;help&lt;/b&gt; ╨┤╨╗╤Å ╨┐╤Ç╨╛╤ü╨╝╨╛╤é╤Ç╨░ ╨┤╨╛╤ü╤é╤â╨┐╨╜╤ï╤à ╨║╨╛╨╝╨░╨╜╨┤.</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 B</source>♪◙        <translation>%1 ╨æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 KB</source>♪◙        <translation>%1 ╨Ü╨æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 MB</source>♪◙        <translation>%1 ╨£╨æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 GB</source>♪◙        <translation>%1 ╨ô╨æ</translation>♪◙    </message>♪◙    <message>♪◙        <source>(node id: %1)</source>♪◙        <translation>(node id: %1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>via %1</source>♪◙        <translation>╤ç╨╡╤Ç╨╡╨╖ %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>never</source>♪◙        <translation>╨╜╨╕╨║╨╛╨│╨┤╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Inbound</source>♪◙        <translation>╨▓╤à╨╛╨┤╤Å╤ë╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Outbound</source>♪◙        <translation>╨ÿ╤ü╤à╨╛╨┤╤Å╤ë╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Yes</source>♪◙        <translation>╨┤╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>No</source>♪◙        <translation>╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unknown</source>♪◙        <translation>╨¥╨╡╨╕╨╖╨▓╨╡╤ü╤é╨╜╨╛</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ReceiveCoinsDialog</name>♪◙    <message>♪◙        <source>Reuse one of the previously used receiving addresses.&lt;br&gt;Reusing addresses has security and privacy issues.&lt;br&gt;Do not use this unless re-generating a payment request made before.</source>♪◙        <translation>╨ƒ╨╛╨▓╤é╨╛╤Ç╨╜╨╛╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╨╛╨┤╨╜╨╛╨│╨╛ ╨╕╨╖ ╤Ç╨░╨╜╨╡╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╜╤ï╤à ╨┐╤Ç╨╕╨╜╨╕╨╝╨░╤Ä╤ë╨╕╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓.&lt;br&gt;╨á╨╡╨░╨╗╨╕╨╖╨░╤å╨╕╤Å ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ╨╕╨╝╨╡╨╡╤é ╨┐╤Ç╨╛╨▒╨╗╨╡╨╝╤ï ╤ü ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╤î╤Ä ╨╕ ╨║╨╛╨╜╤ä╨╕╨┤╨╡╨╜╤å╨╕╨░╨╗╤î╨╜╨╛╤ü╤é╤î╤Ä.&lt;br&gt;╨¥╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╤ì╤é╨╛, ╨╡╤ü╨╗╨╕ ╨┐╨╛╨▓╤é╨╛╤Ç╨╜╨╛ ╨╜╨╡ ╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╤â╨╡╤é╨╡ ╨╖╨░╨┐╤Ç╨╛╤ü ╨╜╨░ ╨┐╨╗╨░╤é╨╡╨╢, ╤ü╨┤╨╡╨╗╨░╨╜╨╜╤ï╨╣ ╤Ç╨░╨╜╨╡╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reuse an existing receiving address (not recommended)</source>♪◙        <translation>R  euse ╤ü╤â╤ë╨╡╤ü╤é╨▓╤â╤Ä╤ë╨╡╨│╨╛ ╨░╨┤╤Ç╨╡╤ü╨░ ╨┐╨╛╨╗╤â╤ç╨░╤é╨╡╨╗╤Å (╨╜╨╡ ╤Ç╨╡╨║╨╛╨╝╨╡╨╜╨┤╤â╨╡╤é╤ü╤Å)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message:</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡:</translation>♪◙    </message>♪◙    <message>♪◙        <source>An optional label to associate with the new receiving address.</source>♪◙        <translation>╨ö╨╛╨┐╨╛╨╗╨╜╨╕╤é╨╡╨╗╤î╨╜╤ï╨╣ ╤Å╤Ç╨╗╤ï╨║ ╨┤╨╗╤Å ╤ü╨▓╤Å╨╖╨╕ ╤ü ╨╜╨╛╨▓╤ï╨╝ ╨░╨┤╤Ç╨╡╤ü╨╛╨╝ ╨┐╤Ç╨╕╨╡╨╝╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>♪◙        <translation>╨¥╨╡╨╛╨▒╤Å╨╖╨░╤é╨╡╨╗╤î╨╜╨╛╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ ╨┤╨╗╤Å ╨┐╤Ç╨╕╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å ╨║ ╨┐╨╗╨░╤é╨╡╨╢╨╜╨╛╨╝╤â ╨╖╨░╨┐╤Ç╨╛╤ü╤â, ╨║╨╛╤é╨╛╤Ç╨╛╨╡ ╨▒╤â╨┤╨╡╤é ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨░╤é╤î╤ü╤Å ╨┐╤Ç╨╕ ╨╛╤é╨║╤Ç╤ï╤é╨╕╨╕ ╨╖╨░╨┐╤Ç╨╛╤ü╨░. ╨ƒ╤Ç╨╕╨╝╨╡╤ç╨░╨╜╨╕╨╡. ╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ ╨╜╨╡ ╨▒╤â╨┤╨╡╤é ╨╛╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛ ╤ü ╨╛╨┐╨╗╨░╤é╨╛╨╣ ╤ç╨╡╤Ç╨╡╨╖ ╤ü╨╡╤é╤î CRyptoCrowd.</translation>♪◙    </message>♪◙    <message>♪◙        <source>RECEIVE</source>♪◙        <translation>╨ƒ╨₧╨¢╨ú╨º╨É╨ó╨¼</translation>♪◙    </message>♪◙    <message>♪◙        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>♪◙        <translation>╨¥╨╡╨╛╨▒╤Å╨╖╨░╤é╨╡╨╗╤î╨╜╨╛╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ ╨┤╨╗╤Å ╨┐╤Ç╨╕╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å ╨║ ╨┐╨╗╨░╤é╨╡╨╢╨╜╨╛╨╝╤â ╨╖╨░╨┐╤Ç╨╛╤ü╤â, ╨║╨╛╤é╨╛╤Ç╨╛╨╡ ╨▒╤â╨┤╨╡╤é ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨░╤é╤î╤ü╤Å ╨┐╤Ç╨╕ ╨╛╤é╨║╤Ç╤ï╤é╨╕╨╕ ╨╖╨░╨┐╤Ç╨╛╤ü╨░. &lt;br&gt;╨ƒ╤Ç╨╕╨╝╨╡╤ç╨░╨╜╨╕╨╡. ╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ ╨╜╨╡ ╨▒╤â╨┤╨╡╤é ╨╛╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛ ╤ü ╨╛╨┐╨╗╨░╤é╨╛╨╣ ╤ç╨╡╤Ç╨╡╨╖ ╤ü╨╡╤é╤î CRyptoCrowd.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╤ì╤é╤â ╤ä╨╛╤Ç╨╝╤â ╨┤╨╗╤Å ╨╖╨░╨┐╤Ç╨╛╤ü╨░ ╨┐╨╗╨░╤é╨╡╨╢╨╡╨╣. ╨Æ╤ü╨╡ ╨┐╨╛╨╗╤Å ╤Å╨▓╨╗╤Å╤Ä╤é╤ü╤Å  &lt;b&gt;╨╜╨╡╨╛╨▒╤Å╨╖╨░╤é╨╡╨╗╤î╨╜╤ï╨╝╨╕&lt;/b&gt;.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label:</source>♪◙        <translation>╨£╨╡╤é╨║╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>♪◙        <translation>╨¥╨╡╨╛╨▒╤Å╨╖╨░╤é╨╡╨╗╤î╨╜╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨┤╨╗╤Å ╨╖╨░╨┐╤Ç╨╛╤ü╨░. ╨₧╤ü╤é╨░╨▓╤î╤é╨╡ ╤ì╤é╨╛ ╨┐╤â╤ü╤é╨╛╨╡ ╨╕╨╗╨╕ ╨╜╨╛╨╗╤î, ╤ç╤é╨╛╨▒╤ï ╨╜╨╡ ╨╖╨░╨┐╤Ç╨░╤ê╨╕╨▓╨░╤é╤î ╨╛╨┐╤Ç╨╡╨┤╨╡╨╗╨╡╨╜╨╜╤â╤Ä ╤ü╤â╨╝╨╝╤â.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Request payment</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨┐╨╗╨░╤é╨╡╨╢╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear all fields of the form.</source>♪◙        <translation>╨₧╤ç╨╕╤ü╤é╨╕╤é╤î ╨▓╤ü╨╡ ╨┐╨╛╨╗╤Å ╤ì╤é╨╛╨╣ ╤ä╨╛╤Ç╨╝╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear</source>♪◙        <translation>╨₧╤ç╨╕╤ü╤é╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Requested payments history</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨╕╤ü╤é╨╛╤Ç╨╕╨╕ ╨┐╨╗╨░╤é╨╡╨╢╨╡╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the selected request (does the same as double clicking an entry)</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╤ì╤é╨╛╤é ╨▓╤ï╨▒╤Ç╨░╨╜╨╜╤ï╨╣ ╨╖╨░╨┐╤Ç╨╛╤ü (╨╕╨╗╨╕ ╨┐╤Ç╨╛╤ü╤é╨╛ ╤ü╨┤╨╡╨╗╨░╨╣╤é╨╡ ╨┤╨▓╨╛╨╣╨╜╨╛╨╣ ╨║╨╗╨╕╨║ ╨╖╨░ ╨╖╨░╨┐╨╕╤ü╤î)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Remove the selected entries from the list</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╤î ╤ì╤é╨╕ ╨▓╤ï╨▒╤Ç╨░╨╜╨╜╤ï╨╡ ╨╖╨░╨┐╨╕╤ü╨╕ ╨╕╨╖ ╤ì╤é╨╛╨│╨╛ ╤ü╨┐╨╕╤ü╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Remove</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy label</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╝╨╡╤é╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy message</source>♪◙        <translation>╨í╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤ü╤â╨╝╨╝╤â</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ReceiveRequestDialog</name>♪◙    <message>♪◙        <source>QR Code</source>♪◙        <translation>QR ╨║╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy URI</source>♪◙        <translation>╨í╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î URI</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Address</source>♪◙        <translation>╨í╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Save Image...</source>♪◙        <translation>╨í╨╛╤à╤Ç╨░╨╜╨╕╤é╤î ╨╕╨╖╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Request payment to %1</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨┐╨╗╨░╤é╨╡╨╢╨░ ╨▓ %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment information</source>♪◙        <translation>╨ƒ╨╗╨░╤é╨╡╨╢╨╜╨░╤Å ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>URI</source>♪◙        <translation>URI</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>╨í╤â╨╝╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>╨£╨╡╤é╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Resulting URI too long, try to reduce the text for label / message.</source>♪◙        <translation>╨í╨╗╨╕╤ê╨║╨╛╨╝ ╨┤╨╗╨╕╨╜╨╜╤ï╨╣ URI, ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╤â╨╝╨╡╨╜╤î╤ê╨╕╤é╤î ╤é╨╡╨║╤ü╤é ╨┤╨╗╤Å ╨╝╨╡╤é╨║╨╕ / ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error encoding URI into QR Code.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨┐╤Ç╨╕ ╨║╨╛╨┤╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╕ URI ╨▓ QR ╨║╨╛╨┤.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>RecentRequestsTableModel</name>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>╨ö╨░╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>╨£╨╡╤é╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>╨í╤â╨╝╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(╨╜╨╡╤é ╨╝╨╡╤é╨║╨╕)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no message)</source>♪◙        <translation>(╨╜╨╡╤é ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╣)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no amount)</source>♪◙        <translation>(╨╜╨╡╤é ╤ü╤â╨╝╨╝╤ï)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SendCoinsDialog</name>♪◙    <message>♪◙        <source>Send Coins</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╕╤é╤î ╨£╨╛╨╜╨╡╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>SEND</source>♪◙        <translation>╨╛╤é╨┐╤Ç╨░╨▓╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coin Control Features</source>♪◙        <translation>╨₧╤ü╨╛╨▒╨╡╨╜╨╜╨╛╤ü╤é╨╕ ╤â╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╕╤Å ╨╝╨╛╨╜╨╡╤é╨░╨╝╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient funds!</source>♪◙        <translation>╨¥╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity:</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bytes:</source>♪◙        <translation>╨æ╨░╨╣╤é╤ï:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>╨í╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Priority:</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é:</translation>♪◙    </message>♪◙    <message>♪◙        <source>medium</source>♪◙        <translation>╨┐╤Ç╨╛╨╝╨╡╨╢╤â╤é╨╛╤ç╨╜╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fee:</source>♪◙        <translation>╨Ü╨╛╨╝╨╕╤ü╤ü╨╕╤Å:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Dust:</source>♪◙        <translation>╨ƒ╤ï╨╗╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>no</source>♪◙        <translation>╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>After Fee:</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡ ╨║╨╛╨╝╨╕╤ü╤ü╨╕╨╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change:</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>♪◙        <translation>╨ò╤ü╨╗╨╕ ╤ì╤é╨╛ ╨░╨║╤é╨╕╨▓╨╕╤Ç╨╛╨▓╨░╨╜╨╛, ╨╜╨╛ ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╤Å ╨┐╤â╤ü╤é ╨╕╨╗╨╕ ╨╜╨╡╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╨╡╨╜, ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡ ╨▒╤â╨┤╨╡╤é ╨╛╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛ ╨╜╨░ ╨▓╨╜╨╛╨▓╤î ╤ü╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom change address</source>♪◙        <translation>╨ƒ╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨╕╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Split UTXO</source>♪◙        <translation>╨á╨░╨╖╨┤╨╡╨╗╨╕╤é╤î UTXO</translation>♪◙    </message>♪◙    <message>♪◙        <source># of outputs</source>♪◙        <translation># ╨▓╤ï╤à╨╛╨┤╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>UTXO Size:</source>♪◙        <translation>UTXO ╨á╨░╨╖╨╝╨╡╤Ç:</translation>♪◙    </message>♪◙    <message>♪◙        <source>0 CRyptoCrowd</source>♪◙        <translation>0 CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction Fee:</source>♪◙        <translation>╨Ü╨╛╨╝╨╕╤ü╤ü╨╕╤Å ╨╖╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose...</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡:</translation>♪◙    </message>♪◙    <message>♪◙        <source>collapse fee-settings</source>♪◙        <translation>╨║╨╛╨╗╨╗╨░╨┐╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minimize</source>♪◙        <translation>╨í╨▓╨╡╤Ç╨╜╤â╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>per kilobyte</source>♪◙        <translation>╨╖╨░ ╨║╨╕╨╗╨╛╨▒╨░╨╣╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>total at least</source>♪◙        <translation>╨╜╨╡ ╨╝╨╡╨╜╨╡╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>(read the tooltip)</source>♪◙        <translation>(╤ç╨╕╤é╨░╤é╤î ╨▓╤ü╨┐╨╗╤ï╨▓╨░╤Ä╤ë╤â╤Ä ╨┐╨╛╨┤╤ü╨║╨░╨╖╨║╤â)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Custom:</source>♪◙        <translation>╨ó╨░╨╝╨╛╨╢╨╜╤Å:</translation>♪◙    </message>♪◙    <message>♪◙        <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>♪◙        <translation>(╨ú╨╝╨╜╤ï╨╣ ╨┐╨╗╨░╤é╨╡╨╢ ╨╡╤ë╨╡ ╨╜╨╡ ╨╕╨╜╨╕╤å╨╕╨░╨╗╨╕╨╖╨╕╤Ç╨╛╨▓╨░╨╜. ╨₧╨▒╤ï╤ç╨╜╨╛ ╤ì╤é╨╛ ╨╖╨░╨╜╨╕╨╝╨░╨╡╤é ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╨▒╨╗╨╛╨║╨╛╨▓....)</translation>♪◙    </message>♪◙    <message>♪◙        <source>SwiftX</source>♪◙        <translation>SwiftX</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmation time:</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╣:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Coin Control...</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤ï╨╣ ╨║╨╛╨╜╤é╤Ç╨╛╨╗╤î ╨╝╨╛╨╜╨╡╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Coins automatically selected</source>♪◙        <translation>╨£╨╛╨╜╨╡╤é╤ï ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨▓╤ï╨▒╨╕╤Ç╨░╤Ä╤é╤ü╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>♪◙        <translation>╨ò╤ü╨╗╨╕ ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨░╤Å ╨┐╨╗╨░╤é╨░ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨░ ╨▓ 1000 uXCRCs, ╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╤ü╨╛╤ü╤é╨░╨▓╨╗╤Å╨╡╤é ╨▓╤ü╨╡╨│╨╛ 250 ╨▒╨░╨╣╤é, ╤é╨╛╨│╨┤╨░ ┬½╨╖╨░ ╨║╨╕╨╗╨╛╨▒╨░╨╣╤é┬╗ ╨┐╨╗╨░╤é╨╕╤é ╤é╨╛╨╗╤î╨║╨╛ 250 uXCRCs,&lt;br /&gt;╨░ ┬½╨┐╨╛ ╨║╤Ç╨░╨╣╨╜╨╡╨╣ ╨╝╨╡╤Ç╨╡┬╗ ╨┐╨╗╨░╤é╨╕╤é 1000 uCRyptoCrowd. ╨ö╨╗╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣, ╨┐╤Ç╨╡╨▓╤ï╤ê╨░╤Ä╤ë╨╕╤à ╨║╨╕╨╗╨╛╨▒╨░╨╣╤é, ╨╛╨┐╨╗╨░╤é╨░ ╨╖╨░ ╨║╨╕╨╗╨╛╨▒╨░╨╣╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>♪◙        <translation>╨ò╤ü╨╗╨╕ ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨░╤Å ╨┐╨╗╨░╤é╨░ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨░ ╨▓ 1000 uXCRCs, ╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╤ü╨╛╤ü╤é╨░╨▓╨╗╤Å╨╡╤é ╨▓╤ü╨╡╨│╨╛ 250 ╨▒╨░╨╣╤é, ╤é╨╛╨│╨┤╨░ ┬½╨╖╨░ ╨║╨╕╨╗╨╛╨▒╨░╨╣╤é┬╗ ╨┐╨╗╨░╤é╨╕╤é ╤é╨╛╨╗╤î╨║╨╛ 250 uXCRCs,&lt;br /&gt;╨░ ┬½╨┐╨╛ ╨║╤Ç╨░╨╣╨╜╨╡╨╣ ╨╝╨╡╤Ç╨╡┬╗ ╨┐╨╗╨░╤é╨╕╤é 1000 uCRyptoCrowd. ╨ö╨╗╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣, ╨┐╤Ç╨╡╨▓╤ï╤ê╨░╤Ä╤ë╨╕╤à ╨║╨╕╨╗╨╛╨▒╨░╨╣╤é, ╨╛╨┐╨╗╨░╤é╨░ ╨╖╨░ ╨║╨╕╨╗╨╛╨▒╨░╨╣╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>♪◙        <translation>╨ƒ╨╗╨░╤é╨╕╤é╤î ╤é╨╛╨╗╤î╨║╨╛ ╨╝╨╕╨╜╨╕╨╝╨░╨╗╤î╨╜╤â╤Ä ╨┐╨╗╨░╤é╤â ╨┐╤Ç╨╛╤ü╤é╨╛ ╨╛╤é╨╗╨╕╤ç╨╜╨╛, ╨╡╤ü╨╗╨╕ ╨▓ ╨▒╨╗╨╛╨║╨╡ ╨╝╨╡╨╜╤î╤ê╨╡ ╨╛╨▒╤è╨╡╨╝╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕, ╤ç╨╡╨╝ ╨╝╨╡╤ü╤é╨░ ╨▓ ╨▒╨╗╨╛╨║╨╡.&lt;br /&gt;┬á╨¥╨╛ ╨╕╨╝╨╡╨╣╤é╨╡ ╨▓ ╨▓╨╕╨┤╤â, ╤ç╤é╨╛ ╤ì╤é╨╛ ╨╝╨╛╨╢╨╡╤é ╨╖╨░╨║╨╛╨╜╤ç╨╕╤é╤î╤ü╤Å ╨╜╨╕╨║╨╛╨│╨┤╨░ ╨╜╨╡ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨░╤Ä╤ë╨╡╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╡╨╣, ╨╡╤ü╨╗╨╕ ╨▒╤â╨┤╨╡╤é ╨▒╨╛╨╗╤î╤ê╨╡ ╤ü╨┐╤Ç╨╛╤ü╨░ ╨╜╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ CRyptoCrowd, ╤ç╨╡╨╝ ╤ü╨╡╤é╤î ╨╝╨╛╨╢╨╡╤é ╨╛╨▒╤Ç╨░╨▒╨░╤é╤ï╨▓╨░╤é╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>normal</source>♪◙        <translation>╨╜╨╛╤Ç╨╝╨░╨╗╤î╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>fast</source>♪◙        <translation>╨▒╤ï╤ü╤é╤Ç╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Recommended</source>♪◙        <translation>╤Ç╨╡╨║╨╛╨╝╨╡╨╜╨┤╤â╨╡╨╝╤ï╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send as zero-fee transaction if possible</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╗╤Å╨╣╤é╨╡  ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤ü ╨╜╤â╨╗╨╡╨▓╨╛╨╣ ╨╛╨┐╨╗╨░╤é╨╛╨╣, ╨╡╤ü╨╗╨╕ ╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>(confirmation may take longer)</source>♪◙        <translation>(╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╨╝╨╛╨╢╨╡╤é ╨╖╨░╨╜╤Å╤é╤î ╨▒╨╛╨╗╤î╤ê╨╡ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╕)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm the send action</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╨╡ ╨┤╨╡╨╣╤ü╤é╨▓╨╕╨╡ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send</source>♪◙        <translation>Send</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear all fields of the form.</source>♪◙        <translation>╨₧╤ç╨╕╤ü╤é╨╕╤é╤î ╨▓╤ü╨╡ ╨┐╨╛╨╗╤Å ╤ì╤é╨╛╨╣ ╤ä╨╛╤Ç╨╝╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>╨₧╤ç╨╕╤ü╤é╨╕╤é╤î ╨Æ╤ü╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send to multiple recipients at once</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╕╤é╤î ╤ü╤Ç╨░╨╖╤â ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╕╨╝ ╨┐╨╛╨╗╤â╤ç╨░╤é╨╡╨╗╤Å╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add Recipient</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╨╕╤é╤î ╨ƒ╨╛╨╗╤â╤ç╨░╤é╨╡╨╗╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Anonymized XCRC</source>♪◙        <translation>╨É╨╜╨╛╨╜╨╕╨╝╨╜╤ï╨╣ CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Balance:</source>♪◙        <translation>╨æ╨░╨╗╨░╨╜╤ü:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy quantity</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤ü╤â╨╝╨╝╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy fee</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨║╨╛╨╝╨╕╤ü╤ü╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy after fee</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨┐╨╛╤ü╨╗╨╡ ╨▓╨╛╨╖╨╜╨░╨│╤Ç╨░╨╢╨┤╨╡╨╜╨╕╤Å </translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy bytes</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨▒╨░╨╣╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy priority</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨┐╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy dust</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨┐╤ï╨╗╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy change</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>The split block tool does not work when sending to outside addresses. Try again.</source>♪◙        <translation>╨ÿ╨╜╤ü╤é╤Ç╤â╨╝╨╡╨╜╤é ╤Ç╨░╨╖╨┤╨╡╨╗╨╡╨╜╨╕╤Å ╨▒╨╗╨╛╨║╨╛╨▓ ╨╜╨╡ ╤Ç╨░╨▒╨╛╤é╨░╨╡╤é ╨┐╤Ç╨╕ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╡ ╨╜╨░ ╨▓╨╜╨╡╤ê╨╜╨╕╨╡ ╨░╨┤╤Ç╨╡╤ü╨░. ╨ƒ╨╛╨┐╤Ç╨╛╨▒╤â╨╣ ╨╡╤ë╨╡ ╤Ç╨░╨╖.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The split block tool does not work with multiple addresses. Try again.</source>♪◙        <translation>╨ÿ╨╜╤ü╤é╤Ç╤â╨╝╨╡╨╜╤é ╤Ç╨░╨╖╨┤╨╡╨╗╨╡╨╜╨╕╤Å ╨▒╨╗╨╛╨║╨╛╨▓ ╨╜╨╡ ╤Ç╨░╨▒╨╛╤é╨░╨╡╤é ╤ü ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╕╨╝╨╕ ╨░╨┤╤Ç╨╡╤ü╨░╨╝╨╕. ╨ƒ╨╛╨┐╤Ç╨╛╨▒╤â╨╣ ╨╡╤ë╨╡ ╤Ç╨░╨╖.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Invalid XCRC address</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: ╨╜╨╡╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╤ï╨╣ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 to %2</source>♪◙        <translation>%1 ╨┤╨╛ %2</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you want to send?</source>♪◙        <translation>╨Æ╤ï ╤â╨▓╨╡╤Ç╨╡╨╜╤ï, ╤ç╤é╨╛ ╤à╨╛╤é╨╕╤é╨╡ ╨╛╤é╨┐╤Ç╨░╨▓╨╕╤é╤î?</translation>♪◙    </message>♪◙    <message>♪◙        <source>are added as transaction fee</source>♪◙        <translation>╨┤╨╛╨▒╨░╨▓╨╗╤Å╤Ä╤é╤ü╤Å ╨║╨░╨║ ╨┐╨╗╨░╤é╨░ ╨╖╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total Amount = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</source>♪◙        <translation>╨ÿ╤é╨╛╨│╨╛ = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm send coins</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╤î ╨╛╤é╨┐╤Ç╨░╨▓╨║╤â ╨╝╨╛╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>A fee %1 times higher than %2 per kB is considered an insanely high fee.</source>♪◙        <translation>╨ƒ╨╗╨░╤é╨░ ╨▓ %1 ╤Ç╨░╨╖ ╨▓╤ï╤ê╨╡, ╤ç╨╡╨╝ %2 ╨╖╨░ ╨Ü╨æ, ╤ü╤ç╨╕╤é╨░╨╡╤é╤ü╤Å ╨▒╨╡╨╖╤â╨╝╨╜╨╛ ╨▓╤ï╤ü╨╛╨║╨╛╨╣.</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>Estimated to begin confirmation within %n block(s).</source>♪◙        <translation><numerusform>╨ƒ╤Ç╨╡╨┤╨┐╨╛╨╗╨░╨│╨░╨╡╤é╤ü╤Å ╨╜╨░╤ç╨░╤é╤î ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╨▓ ╨┐╤Ç╨╡╨┤╨╡╨╗╨░╤à %n ╨▒╨╗╨╛╨║╨╛╨▓.</numerusform><numerusform>╨ƒ╤Ç╨╡╨┤╨┐╨╛╨╗╨░╨│╨░╨╡╤é╤ü╤Å ╨╜╨░╤ç╨░╤é╤î ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╨▓ ╨┐╤Ç╨╡╨┤╨╡╨╗╨░╤à %n ╨▒╨╗╨╛╨║╨╛╨▓.</numerusform><numerusform>╨ƒ╤Ç╨╡╨┤╨┐╨╛╨╗╨░╨│╨░╨╡╤é╤ü╤Å ╨╜╨░╤ç╨░╤é╤î ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╨▓ ╨┐╤Ç╨╡╨┤╨╡╨╗╨░╤à %n ╨▒╨╗╨╛╨║╨╛╨▓.</numerusform><numerusform>╨ƒ╤Ç╨╡╨┤╨┐╨╛╨╗╨░╨│╨░╨╡╤é╤ü╤Å ╨╜╨░╤ç╨░╤é╤î ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ ╨▓ ╨┐╤Ç╨╡╨┤╨╡╨╗╨░╤à %n ╨▒╨╗╨╛╨║╨╛╨▓.</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>The recipient address is not valid, please recheck.</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü ╨┐╨╛╨╗╤â╤ç╨░╤é╨╡╨╗╤Å ╨╜╨╡╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╨╡╨╜, ╨┐╨╛╨▓╤é╨╛╤Ç╨╕╤é╨╡ ╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╤â.</translation>♪◙    </message>♪◙    <message>♪◙        <source>using SwiftX</source>♪◙        <translation>╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ SwiftX</translation>♪◙    </message>♪◙    <message>♪◙        <source> split into %1 outputs using the UTXO splitter.</source>♪◙        <translation>╤Ç╨░╨╖╨┤╨╡╨╗╨╕╤é╤î ╨╜╨░ %1 ╨▓╤ï╤à╨╛╨┤╤ï ╤ü ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╤Ç╨░╨╖╨┤╨╡╨╗╨╕╤é╨╡╨╗╤Å UTXO.</translation>♪◙    </message>♪◙    <message>♪◙        <source>&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</source>♪◙        <translation>&lt;b&gt;(%1 ╨╕╨╖ %2 ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨░╨╡╨╝╤ï╤à ╨╖╨░╨┐╨╕╤ü╨╡╨╣)&lt;/b&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>The amount to pay must be larger than 0.</source>♪◙        <translation>╨í╤â╨╝╨╝╨░ ╨┤╨╗╤Å ╨┐╨╗╨░╤é╨╡╨╢╨░ ╨┤╨╛╨╗╨╢╨╜╨░ ╨▒╤ï╤é╤î ╨▒╨╛╨╗╤î╤ê╨╡, ╤ç╨╡╨╝ 0.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The amount exceeds your balance.</source>♪◙        <translation>╨í╤â╨╝╨╝╨░ ╨┐╤Ç╨╡╨▓╤ï╤ê╨░╨╡╤é ╨▓╨░╤ê ╨▒╨░╨╗╨░╨╜╤ü.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The total exceeds your balance when the %1 transaction fee is included.</source>♪◙        <translation>╨í╤â╨╝╨╝╨░ ╨┐╤Ç╨╡╨▓╤ï╤ê╨░╨╡╤é ╨▓╨░╤ê ╨▒╨░╨╗╨░╨╜╤ü, ╨║╨╛╨│╨┤╨░ ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╨░ ╨║╨╛╨╝╨╕╤ü╤ü╨╕╤Å ╨╖╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä %1.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Duplicate address found, can only send to each address once per send operation.</source>♪◙        <translation>╨ö╤â╨▒╨╗╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╜╨░╨╣╨┤╨╡╨╜, ╨╝╨╛╨╢╨╜╨╛ ╨╛╤é╨┐╤Ç╨░╨▓╨╗╤Å╤é╤î ╤é╨╛╨╗╤î╨║╨╛ ╨╜╨░ ╨║╨░╨╢╨┤╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╛╨┤╨╕╨╜ ╤Ç╨░╨╖ ╨╖╨░ ╨╛╨┐╨╡╤Ç╨░╤å╨╕╤Ä ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction creation failed!</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╤ü╨╛╨╖╨┤╨░╤é╤î ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä!</translation>♪◙    </message>♪◙    <message>♪◙        <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>♪◙        <translation>╨í╨┤╨╡╨╗╨║╨░ ╨▒╤ï╨╗╨░ ╨╛╤é╨║╨╗╨╛╨╜╨╡╨╜╨░! ╨¡╤é╨╛ ╨╝╨╛╨╢╨╡╤é ╨┐╤Ç╨╛╨╕╨╖╨╛╨╣╤é╨╕, ╨╡╤ü╨╗╨╕ ╨╜╨╡╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╕╨╖ ╨╝╨╛╨╜╨╡╤é ╨▓ ╨▓╨░╤ê╨╡╨╝ ╨║╨╛╤ê╨╡╨╗╤î╨║╨╡ ╤â╨╢╨╡ ╨▒╤ï╨╗╨╕ ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╤ï, ╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç, ╨╡╤ü╨╗╨╕ ╨▓╤ï ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╗╨╕ ╨║╨╛╨┐╨╕╤Ä wallet.dat ╨╕ ╨╝╨╛╨╜╨╡╤é╤ï ╨▒╤ï╨╗╨╕ ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╤ï ╨▓ ╨║╨╛╨┐╨╕╨╕, ╨╜╨╛ ╨╜╨╡ ╨╛╤é╨╝╨╡╤ç╨╡╨╜╤ï ╨║╨░╨║ ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╨╜╤ï╨╡ ╨╖╨┤╨╡╤ü╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: The wallet was unlocked only to anonymize coins.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨▒╤ï╨╗ ╤Ç╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜ ╤é╨╛╨╗╤î╨║╨╛ ╨┤╨╗╤Å ╨░╨╜╨╛╨╜╨╕╨╝╨╕╨╖╨░╤å╨╕╨╕ ╨╝╨╛╨╜╨╡╤é.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: The wallet was unlocked only to anonymize coins. Unlock canceled.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨▒╤ï╨╗ ╤Ç╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜ ╤é╨╛╨╗╤î╨║╨╛ ╨┤╨╗╤Å ╨░╨╜╨╛╨╜╨╕╨╝╨╕╨╖╨░╤å╨╕╨╕ ╨╝╨╛╨╜╨╡╤é. ╨á╨░╨╖╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨░ ╨╛╤é╨╝╨╡╨╜╨╡╨╜╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pay only the minimum fee of %1</source>♪◙        <translation>╨ƒ╨╗╨░╤é╨╕╤é╨╡ ╤é╨╛╨╗╤î╨║╨╛ ╨╝╨╕╨╜╨╕╨╝╨░╨╗╤î╨╜╤ï╨╣ ╨▓╨╖╨╜╨╛╤ü %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Unknown change address</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: ╨¥╨╡╨╕╨╖╨▓╨╡╤ü╤é╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü </translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(╨╜╨╡╤é ╨╝╨╡╤é╨║╨╕)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SendCoinsEntry</name>♪◙    <message>♪◙        <source>This is a normal payment.</source>♪◙        <translation>╨¡╤é╨╛ ╨╜╨╛╤Ç╨╝╨░╨╗╤î╨╜╤ï╨╣ ╨┐╨╗╨░╤é╨╡╨╢.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pay To:</source>♪◙        <translation>╨₧╨┐╨╗╨░╤é╨╕╤é╤î ╨║╨╛╨╝╤â:</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address to send the payment to</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü CRyptoCrowd ╨┤╨╗╤Å ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕ ╨┐╨╗╨░╤é╨╡╨╢╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╤é╤î ╤Ç╨░╨╜╨╡╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>╨Æ╤ü╤é╨░╨▓╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖ ╨▒╤â╤ä╨╡╤Ç╨░ ╨╛╨▒╨╝╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Remove this entry</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╤î ╤ì╤é╤â ╨╖╨░╨┐╨╕╤ü╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label:</source>♪◙        <translation>╨£╨╡╤é╨║╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a label for this address to add it to the list of used addresses</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨╝╨╡╤é╨║╤â ╨┤╨╗╤Å ╤ì╤é╨╛╨│╨╛ ╨░╨┤╤Ç╨╡╤ü╨░, ╤ç╤é╨╛╨▒╤ï ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î ╨╡╨╡ ╨▓ ╤ü╨┐╨╕╤ü╨╛╨║ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╨╝╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount:</source>♪◙        <translation>╨í╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message:</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡:</translation>♪◙    </message>♪◙    <message>♪◙        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡, ╨║╨╛╤é╨╛╤Ç╨╛╨╡ ╨▒╤ï╨╗╨╛ ╨┐╤Ç╨╕╨║╤Ç╨╡╨┐╨╗╨╡╨╜╨╛ ╨║ URI CRyptoCrowd: URI, ╨║╨╛╤é╨╛╤Ç╤ï╨╣ ╨▒╤â╨┤╨╡╤é ╤ü╨╛╤à╤Ç╨░╨╜╨╡╨╜ ╤ü ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╡╨╣ ╨┤╨╗╤Å ╨▓╨░╤ê╨╡╨╣ ╤ü╨┐╤Ç╨░╨▓╨║╨╕. ╨ƒ╤Ç╨╕╨╝╨╡╤ç╨░╨╜╨╕╨╡. ╨¡╤é╨╛ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ ╨╜╨╡ ╨▒╤â╨┤╨╡╤é ╨╛╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛ ╤ç╨╡╤Ç╨╡╨╖ ╤ü╨╡╤é╤î CRyptoCrowd.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is an unverified payment request.</source>♪◙        <translation>╨¡╤é╨╛ ╨╖╨░╨┐╤Ç╨╛╤ü ╨╜╨╡╨┐╤Ç╨╛╨▓╨╡╤Ç╨╡╨╜╨╜╤ï╤à ╨┐╨╗╨░╤é╨╡╨╢╨╡╨╣.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Pay To:</source>♪◙        <translation>╨ƒ╨╗╨░╤é╨╕╤é╤î:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Memo:</source>♪◙        <translation>╨¥╨░╨┐╨╛╨╝╨╕╨╜╨░╨╜╨╕╨╡:</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is a verified payment request.</source>♪◙        <translation>╨¡╤é╨╛ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╣ ╨┐╨╗╨░╤é╨╡╨╢.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter a label for this address to add it to your address book</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨╝╨╡╤é╨║╤â ╨┤╨╗╤Å ╨░╨┤╤Ç╨╡╤ü╨░ ╤ç╤é╨╛╨▒╤ï ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î ╨▓ ╨░╨┤╤Ç╨╡╤ü╨╜╤â╤Ä ╨║╨╜╨╕╨│╤â</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>ShutdownWindow</name>♪◙    <message>♪◙        <source>CRyptoCrowd Core is shutting down...</source>♪◙        <translation>CRyptoCrowd Core ╨▓╤ï╨║╨╗╤Ä╤ç╨░╨╡╤é╤ü╤Å...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Do not shut down the computer until this window disappears.</source>♪◙        <translation>╨¥╨╡ ╨▓╤ï╨║╨╗╤Ä╤ç╨░╨╣╤é╨╡ ╤ì╤é╨╛╤é ╨║╨╛╨╝╨┐╤î╤Ä╤é╨╡╤Ç ╨┐╨╛╨║╨░ ╤ì╤é╨╛ ╨╛╨║╨╜╨╛ ╨╜╨╡ ╨╕╤ü╤ç╨╡╨╖╨╜╨╡╤é.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SignVerifyMessageDialog</name>♪◙    <message>♪◙        <source>Signatures - Sign / Verify a Message</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╨╕ - ╨ƒ╨╛╨┤╨┐╨╕╤ê╨╕╤é╨╡ / ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign Message</source>♪◙        <translation>╨Æ╤à╨╛╨┤ ╨▓ ╤ü╨╕╤ü╤é╨╡╨╝╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>♪◙        <translation>╨Æ╤ï ╨╝╨╛╨╢╨╡╤é╨╡ ╨┐╨╛╨┤╨┐╨╕╤ü╤ï╨▓╨░╤é╤î ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å ╤ü ╨▓╨░╤ê╨╕╨╝╨╕ ╨░╨┤╤Ç╨╡╤ü╨░╨╝╨╕, ╤ç╤é╨╛╨▒╤ï ╨┤╨╛╨║╨░╨╖╨░╤é╤î, ╤ç╤é╨╛ ╨▓╤ï ╨╕╨╝╨╕ ╨▓╨╗╨░╨┤╨╡╨╡╤é╨╡. ╨æ╤â╨┤╤î╤é╨╡ ╨╛╤ü╤é╨╛╤Ç╨╛╨╢╨╜╤ï, ╤ç╤é╨╛╨▒╤ï ╨╜╨╡ ╨┐╨╛╨┤╨┐╨╕╤ü╤ï╨▓╨░╤é╤î ╨╜╨╕╤ç╨╡╨│╨╛ ╨╜╨╡╨╛╨┐╤Ç╨╡╨┤╨╡╨╗╨╡╨╜╨╜╨╛╨│╨╛, ╨┐╨╛╤ü╨║╨╛╨╗╤î╨║╤â ╤ä╨╕╤ê╨╕╨╜╨│-╨░╤é╨░╨║╨╕ ╨╝╨╛╨│╤â╤é ╨┐╨╛╨┐╤ï╤é╨░╤é╤î╤ü╤Å ╨╛╨▒╨╝╨░╨╜╤â╤é╤î ╨▓╨░╤ü, ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨▓ ╨▓╨░╤ê╤â ╨╗╨╕╤ç╨╜╨╛╤ü╤é╤î ╨╜╨░ ╨╜╨╕╤à. ╨ƒ╨╛╨┤╨┐╨╕╤ê╨╕╤é╨╡ ╤é╨╛╨╗╤î╨║╨╛ ╨┐╨╛╨╗╨╜╤ï╨╡ ╨┐╨╛╨┤╤Ç╨╛╨▒╨╜╤ï╨╡ ╨╖╨░╤Å╨▓╨╗╨╡╨╜╨╕╤Å, ╤ü ╨║╨╛╤é╨╛╤Ç╤ï╨╝╨╕ ╨▓╤ï ╤ü╨╛╨│╨╗╨░╤ü╨╜╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address to sign the message with</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü CRyptoCrowd ╨┤╨╗╤Å ╨┐╨╛╨┤╨┐╨╕╤ü╨╕ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å ╤ü ╨┐╨╛╨╝╨╛╤ë╤î╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╤é╤î ╤Ç╨░╨╜╨╡╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>╨Æ╤ü╤é╨░╨▓╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨╕╨╖ ╨▒╤â╤ä╨╡╤Ç╨░ ╨╛╨▒╨╝╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the message you want to sign here</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡, ╨║╨╛╤é╨╛╤Ç╨╛╨╡ ╨▓╤ï ╤à╨╛╤é╨╕╤é╨╡ ╨┐╨╛╨┤╨┐╨╕╤ü╨░╤é╤î ╨╖╨┤╨╡╤ü╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Signature</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the current signature to the system clipboard</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤é╨╡╨║╤â╤ë╤â╤Ä ╨┐╨╛╨┤╨┐╨╕╤ü╤î ╨▓ ╤ü╨╕╤ü╤é╨╡╨╝╨╜╤ï╨╣ ╨▒╤â╤ä╨╡╤Ç ╨╛╨▒╨╝╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign the message to prove you own this CRyptoCrowd address</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ê╨╕╤é╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡, ╤ç╤é╨╛╨▒╤ï ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╤é╤î ╤ü╨▓╨╛╨╣ ╨░╨┤╤Ç╨╡╤ü CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address the message was signed with</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü CRyptoCrowd, ╨║╨╛╤é╨╛╤Ç╤ï╨╝ ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╨╛ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╤Ç╤é╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡, ╤ç╤é╨╛╨▒╤ï ╤â╨▒╨╡╨┤╨╕╤é╤î╤ü╤Å, ╤ç╤é╨╛ ╨╛╨╜╨╛ ╨▒╤ï╨╗╨╛ ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╨╛ ╤â╨║╨░╨╖╨░╨╜╨╜╤ï╨╝ CRyptoCrowd ╨░╨┤╤Ç╨╡╤ü╨╛╨╝ </translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign Message</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╤î ╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all sign message fields</source>♪◙        <translation>╨í╨▒╤Ç╨╛╤ü╨╕╤é╤î ╨▓╤ü╨╡ ╨┐╨╛╨╗╤Å ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>╨₧╤ç╨╕╤ü╤é╨╕╤é╤î ╨Æ╤ü╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify Message</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╤Ç╨╕╤é╤î ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨┐╨╛╨┤╨┐╨╕╤ü╨╕, ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ (╤â╨▒╨╡╨┤╨╕╤é╨╡╤ü╤î, ╤ç╤é╨╛ ╨▓╤ï ╤ü╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╨╗╨╕ ╤Ç╨░╨╖╤Ç╤ï╨▓╤ï ╤ü╤é╤Ç╨╛╨║, ╨┐╤Ç╨╛╨▒╨╡╨╗╤ï, ╤é╨░╨▒╤â╨╗╤Å╤å╨╕╨╕ ╨╕ ╤é. ╨ö.) ╨ÿ ╨┐╨╛╨┤╨┐╨╕╤ü╤î ╨╜╨╕╨╢╨╡, ╤ç╤é╨╛╨▒╤ï ╨┐╤Ç╨╛╨▓╨╡╤Ç╨╕╤é╤î ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡. ╨æ╤â╨┤╤î╤é╨╡ ╨▓╨╜╨╕╨╝╨░╤é╨╡╨╗╤î╨╜╤ï, ╤ç╤é╨╛╨▒╤ï ╨╜╨╡ ╤ç╨╕╤é╨░╤é╤î ╨▒╨╛╨╗╤î╤ê╨╡ ╨▓ ╨┐╨╛╨┤╨┐╨╕╤ü╨╕, ╤ç╨╡╨╝ ╨▓ ╤ü╨░╨╝╨╛╨╝ ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╨╜╨╛╨╝ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╕, ╤ç╤é╨╛╨▒╤ï ╨╕╨╖╨▒╨╡╨╢╨░╤é╤î ╨╛╨▒╨╝╨░╨╜╨░ ╤ü ╨┐╨╛╨╝╨╛╤ë╤î╤Ä ╨░╤é╨░╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify Message</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╤Ç╨╕╤é╤î  ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all verify message fields</source>♪◙        <translation>╨í╨▒╤Ç╨╛╤ü╨╕╤é╤î ╨▓╤ü╨╡ ╨┐╨╛╨╗╤Å ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Click "Sign Message" to generate signature</source>♪◙        <translation>╨¥╨░╨╢╨╝╨╕╤é╨╡ ┬½Sign Message┬╗ ╨┤╨╗╤Å ╤ü╨╛╨╖╨┤╨░╨╜╨╕╤Å ╨┐╨╛╨┤╨┐╨╕╤ü╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address is invalid.</source>♪◙        <translation>╨¥╨╡╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╨╛ ╨▓╨▓╨╡╨┤╨╡╨╜ ╨░╨┤╤Ç╨╡╤ü.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the address and try again.</source>♪◙        <translation>╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┐╤Ç╨╛╨▓╨╡╤Ç╤î╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨╕ ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╤ü╨╜╨╛╨▓╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address does not refer to a key.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╡╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╜╨╡ ╤ü╨▓╤Å╨╖╨░╨╜ ╤ü ╨║╨╗╤Ä╤ç╨╛╨╝.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock was cancelled.</source>♪◙        <translation>╨í╨╜╤Å╤é╨╕╨╡ ╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨▒╤ï╨╗╨╛ ╨╛╤é╨╝╨╡╨╜╨╡╨╜╨╛.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Private key for the entered address is not available.</source>♪◙        <translation>╨ƒ╨╡╤Ç╤ü╨╛╨╜╨░╨╗╤î╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç ╨┤╨╗╤Å ╨▓╨▓╨╡╨┤╨╡╨╜╨╜╨╛╨│╨╛ ╨░╨┤╤Ç╨╡╤ü╨░ ╨╜╨╡╨┤╨╛╤ü╤é╤â╨┐╨╡╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message signing failed.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╨╕╤Å ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message signed.</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╜╨╛.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The signature could not be decoded.</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╤î ╨╜╨╡ ╨╝╨╛╨╢╨╡╤é ╨▒╤ï╤é╤î ╤Ç╨░╤ü╤ê╨╕╤ä╤Ç╨╛╨▓╨░╨╜╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the signature and try again.</source>♪◙        <translation>╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┐╤Ç╨╛╨▓╨╡╤Ç╤î╤é╨╡ ╤ì╤é╤â ╨┐╨╛╨┤╨┐╨╕╤ü╤î ╨╕ ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╤ü╨╜╨╛╨▓╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The signature did not match the message digest.</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╤î ╨╜╨╡ ╤ü╨╛╨╛╤é╨▓╨╡╤é╤ü╤é╨▓╨╛╨▓╨░╨╗╨░ ╨┤╨░╨╣╨┤╨╢╨╡╤ü╤é╤â ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message verification failed.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨▓╤ï╨┐╨╛╨╗╨╜╨╕╤é╤î ╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╤â ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message verified.</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SplashScreen</name>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version %1</source>♪◙        <translation>╨Æ╨╡╤Ç╤ü╨╕╤Å %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>The Bitcoin Core developers</source>♪◙        <translation>╨á╨░╨╖╤Ç╨░╨▒╨╛╤é╤ç╨╕╨║╨╕ Bitcoin Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>The Dash Core developers</source>♪◙        <translation>╨á╨░╨╖╤Ç╨░╨▒╨╛╤é╤ç╨╕╨║╨╕ Dash Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd Core developers</source>♪◙        <translation>╨á╨░╨╖╤Ç╨░╨▒╨╛╤é╤ç╨╕╨║╨╕ CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>[testnet]</source>♪◙        <translation>[╤é╨╡╤ü╤é╨╛╨▓╨░╤Å ╤ü╨╡╤é╤î]</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TrafficGraphWidget</name>♪◙    <message>♪◙        <source>KB/s</source>♪◙        <translation>╨Ü╨æ/╤ü</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TransactionDesc</name>♪◙    <message numerus="yes">♪◙        <source>Open for %n more block(s)</source>♪◙        <translation><numerusform>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╗╤Å  %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╗╤Å  %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╗╤Å  %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╗╤Å  %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Open until %1</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╛ %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>conflicted</source>♪◙        <translation>╨┐╤Ç╨╛╤é╨╕╨▓╨╛╤Ç╨╡╤ç╨╕╨▓╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/offline</source>♪◙        <translation>%1/ ╨╜╨╡ ╨▓ ╤ü╨╡╤é╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/unconfirmed</source>♪◙        <translation>%1/ ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 confirmations</source>♪◙        <translation>%1 ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/offline (verified via SwiftX)</source>♪◙        <translation>%1 / ╨╛╤ä╨╗╨░╨╣╨╜ (╨┐╤Ç╨╛╨▓╨╡╤Ç╨╡╨╜╨╛ ╤ç╨╡╤Ç╨╡╨╖ SwiftX)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/confirmed (verified via SwiftX)</source>♪◙        <translation>%1 / ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛ (╨┐╤Ç╨╛╨▓╨╡╤Ç╨╡╨╜╨╛ ╤ç╨╡╤Ç╨╡╨╖ SwiftX)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 confirmations (verified via SwiftX)</source>♪◙        <translation>%1 ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╣ (╨┐╤Ç╨╛╨▓╨╡╤Ç╨╡╨╜╨╛ ╤ç╨╡╤Ç╨╡╨╖ SwiftX)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/offline (SwiftX verification in progress - %2 of %3 signatures)</source>♪◙        <translation>%1 / ╨╛╤ä╨╗╨░╨╣╨╜ (╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╨░ SwiftX - %2 %3 ╨┐╨╛╨┤╨┐╨╕╤ü╨╡╨╣)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/confirmed (SwiftX verification in progress - %2 of %3 signatures )</source>♪◙        <translation>%1 / ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛ (╨▓╤ï╨┐╨╛╨╗╨╜╤Å╨╡╤é╤ü╤Å ╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╨░ SwiftX - %2 %3 ╨┐╨╛╨┤╨┐╨╕╤ü╨╡╨╣)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1 confirmations (SwiftX verification in progress - %2 of %3 signatures)</source>♪◙        <translation>%1 ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╣ (╨ƒ╤Ç╨╛╨▓╨╡╤Ç╨║╨░ SwiftX ╨▓ ╨┐╤Ç╨╛╤å╨╡╤ü╤ü╨╡ - %2 %3 ╨┐╨╛╨┤╨┐╨╕╤ü╨╕)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/offline (SwiftX verification failed)</source>♪◙        <translation>%1 / ╨╛╤ä╨╗╨░╨╣╨╜ (╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╨░ SwiftX ╨╜╨╡ ╨▓╤ï╨┐╨╛╨╗╨╜╨╡╨╜╨░)</translation>♪◙    </message>♪◙    <message>♪◙        <source>%1/confirmed (SwiftX verification failed)</source>♪◙        <translation>%1 / ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛ (╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╨░ SwiftX ╨╜╨╡ ╨▓╤ï╨┐╨╛╨╗╨╜╨╡╨╜╨░)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Status</source>♪◙        <translation>╨í╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>, has not been successfully broadcast yet</source>♪◙        <translation>, ╨╡╤ë╨╡ ╨╜╨╡ ╨▒╤ï╨╗╨░ ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╨┐╨╡╤Ç╨╡╨┤╨░╨╜╨░</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>, broadcast through %n node(s)</source>♪◙        <translation><numerusform>, ╨┐╨╡╤Ç╨╡╨┤╨░╨╡╤é╤ü╤Å ╤ç╨╡╤Ç╨╡╨╖ %n ╤â╨╖╨╗╨╛╨▓</numerusform><numerusform>, ╨┐╨╡╤Ç╨╡╨┤╨░╨╡╤é╤ü╤Å ╤ç╨╡╤Ç╨╡╨╖ %n ╤â╨╖╨╗╨╛╨▓</numerusform><numerusform>, ╨┐╨╡╤Ç╨╡╨┤╨░╨╡╤é╤ü╤Å ╤ç╨╡╤Ç╨╡╨╖ %n ╤â╨╖╨╗╨╛╨▓</numerusform><numerusform>, ╨┐╨╡╤Ç╨╡╨┤╨░╨╡╤é╤ü╤Å ╤ç╨╡╤Ç╨╡╨╖ %n ╤â╨╖╨╗╨╛╨▓</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>╨ö╨░╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Source</source>♪◙        <translation>╨ÿ╤ü╤é╨╛╤ç╨╜╨╕╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Generated</source>♪◙        <translation>╨í╤ä╨╛╤Ç╨╝╨╕╤Ç╨╛╨▓╨░╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>From</source>♪◙        <translation>╨₧╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>unknown</source>♪◙        <translation>╨╜╨╡╨╕╨╖╨▓╨╡╤ü╤é╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>To</source>♪◙        <translation>╨Ü╨╛╨╝╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>own address</source>♪◙        <translation>╤ü╨╛╨▒╤ü╤é╨▓╨╡╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>watch-only</source>♪◙        <translation>╤ü╨╝╨╛╤é╤Ç╨╡╤é╤î ╤é╨╛╨╗╤î╨║╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>label</source>♪◙        <translation>╨╝╨╡╤é╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Credit</source>♪◙        <translation>╨Ü╤Ç╨╡╨┤╨╕╤é</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>matures in %n more block(s)</source>♪◙        <translation><numerusform>╤ü╨╛╨╖╤Ç╨╡╨▓╨░╨╡╤é ╨▓ %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╤ü╨╛╨╖╤Ç╨╡╨▓╨░╨╡╤é ╨▓ %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╤ü╨╛╨╖╤Ç╨╡╨▓╨░╨╡╤é ╨▓ %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╤ü╨╛╨╖╤Ç╨╡╨▓╨░╨╡╤é ╨▓ %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>not accepted</source>♪◙        <translation>╨╜╨╡ ╨┐╤Ç╨╕╨╜╨╕╨╝╨░╤Ä╤é╤ü╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debit</source>♪◙        <translation>╨ö╨╡╨▒╨╕╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total debit</source>♪◙        <translation>╨₧╨▒╤ë╨╕╨╣ ╨┤╨╡╨▒╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Total credit</source>♪◙        <translation>╨₧╨▒╤ë╨╕╨╣ ╨║╤Ç╨╡╨┤╨╕╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction fee</source>♪◙        <translation>╨Ü╨╛╨╝╨╕╤ü╤ü╨╕╤Å ╨╖╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Net amount</source>♪◙        <translation>╨º╨╕╤ü╤é╨░╤Å ╤ü╤â╨╝╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Message</source>♪◙        <translation>╨í╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Comment</source>♪◙        <translation>╨Ü╨╛╨╝╨╝╨╡╨╜╤é╨░╤Ç╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction ID</source>♪◙        <translation>╨¥╨╛╨╝╨╡╤Ç ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Output index</source>♪◙        <translation>╨Æ╤ï╤à╨╛╨┤╨╜╨╛╨╣ ╨╕╨╜╨┤╨╡╨║╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Merchant</source>♪◙        <translation>╨║╨╛╨╝╨╝╨╡╤Ç╤ü╨░╨╜╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>♪◙        <translation>╨í╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╡ ╨╝╨╛╨╜╨╡╤é╤ï ╨┤╨╛╨╗╨╢╨╜╤ï ╤ü╨╛╨╖╤Ç╨╡╤é╤î %1 ╨▒╨╗╨╛╨║╨╛╨▓, ╨┐╤Ç╨╡╨╢╨┤╨╡ ╤ç╨╡╨╝ ╨╛╨╜╨╕ ╨╝╨╛╨│╤â╤é ╨▒╤ï╤é╤î ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╤ï. ╨Ü╨╛╨│╨┤╨░ ╨▓╤ï ╤ü╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╨╛╨▓╨░╨╗╨╕ ╤ì╤é╨╛╤é ╨▒╨╗╨╛╨║, ╨╛╨╜ ╨▒╤â╨┤╨╡╤é ╨┐╨╡╤Ç╨╡╨┤╨░╨╜ ╨▓ ╤ü╨╡╤é╤î, ╨║╨╛╤é╨╛╤Ç╨░╤Å ╨▒╤â╨┤╨╡╤é ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╨░ ╨▓ ╤å╨╡╨┐╨╛╤ç╨║╤â ╨▒╨╗╨╛╨║╨╛╨▓. ╨ò╤ü╨╗╨╕ ╨╡╨╝╤â ╨╜╨╡ ╤â╨┤╨░╤ü╤é╤ü╤Å ╨▓╨╛╨╣╤é╨╕ ╨▓ ╤å╨╡╨┐╨╛╤ç╨║╤â, ╨╡╨│╨╛ ╤ü╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡ ╨╕╨╖╨╝╨╡╨╜╨╕╤é╤ü╤Å ╨╜╨░ ┬½╨╜╨╡ ╨┐╤Ç╨╕╨╜╤Å╤é╨╛┬╗, ╨╕ ╨╛╨╜╨╛ ╨╜╨╡ ╨▒╤â╨┤╨╡╤é ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╨╛. ╨ÿ╨╜╨╛╨│╨┤╨░ ╤ì╤é╨╛ ╨╝╨╛╨╢╨╡╤é ╨┐╤Ç╨╛╨╕╨╖╨╛╨╣╤é╨╕, ╨╡╤ü╨╗╨╕ ╨┤╤Ç╤â╨│╨╛╨╣ ╤â╨╖╨╡╨╗ ╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╤â╨╡╤é ╨▒╨╗╨╛╨║ ╨╖╨░ ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╤ü╨╡╨║╤â╨╜╨┤.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debug information</source>♪◙        <translation>╨₧╤é╨╗╨░╨┤╨╛╤ç╨╜╨░╤Å ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction</source>♪◙        <translation>╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Inputs</source>♪◙        <translation>╨▓╤à╨╛╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount</source>♪◙        <translation>╨í╤â╨╝╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>true</source>♪◙        <translation>╨╕╤ü╤é╨╕╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>false</source>♪◙        <translation>╨╗╨╛╨╢╤î</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TransactionDescDialog</name>♪◙    <message>♪◙        <source>Transaction details</source>♪◙        <translation>╨ö╨╡╤é╨░╨╗╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>This pane shows a detailed description of the transaction</source>♪◙        <translation>╨¥╨░ ╤ì╤é╨╛╨╣ ╨┐╨░╨╜╨╡╨╗╨╕ ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨░╨╡╤é╤ü╤Å ╨┐╨╛╨┤╤Ç╨╛╨▒╨╜╨╛╨╡ ╨╛╨┐╨╕╤ü╨░╨╜╨╕╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TransactionTableModel</name>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>╨ö╨░╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type</source>♪◙        <translation>╨ó╨╕╨┐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message numerus="yes">♪◙        <source>Open for %n more block(s)</source>♪◙        <translation><numerusform>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╗╤Å %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╗╤Å %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╗╤Å %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform><numerusform>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╗╤Å  %n ╨▒╨╗╨╛╨║╨╛╨▓</numerusform></translation>♪◙    </message>♪◙    <message>♪◙        <source>Open until %1</source>♪◙        <translation>╨₧╤é╨║╤Ç╤ï╤é╤î ╨┤╨╛ %1</translation>♪◙    </message>♪◙    <message>♪◙        <source>Offline</source>♪◙        <translation>╨╜╨╡ ╨▓ ╤ü╨╡╤é╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unconfirmed</source>♪◙        <translation>╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirming (%1 of %2 recommended confirmations)</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ (%1 %2 ╤Ç╨╡╨║╨╛╨╝╨╡╨╜╨┤╨╛╨▓╨░╨╜╨╜╤ï╤à ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╣)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmed (%1 confirmations)</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛ (╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╡ %1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Conflicted</source>♪◙        <translation>╨Ü╨╛╨╜╤ä╨╗╨╕╨║╤é╤â╤Ä╤ë╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Immature (%1 confirmations, will be available after %2)</source>♪◙        <translation>╨¥╨╡╨╖╤Ç╨╡╨╗╤ï╨╡ (%1 ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╤Å ╨▒╤â╨┤╤â╤é ╨┤╨╛╤ü╤é╤â╨┐╨╜╤ï ╨┐╨╛╤ü╨╗╨╡ %2)</translation>♪◙    </message>♪◙    <message>♪◙        <source>This block was not received by any other nodes and will probably not be accepted!</source>♪◙        <translation>╨¡╤é╨╛╤é ╨▒╨╗╨╛╨║ ╨╜╨╡ ╨▒╤ï╨╗ ╨┐╤Ç╨╕╨╜╤Å╤é ╨╜╨╕╨║╨░╨║╨╕╨╝╨╕ ╨┤╤Ç╤â╨│╨╕╨╝╨╕ ╤â╨╖╨╗╨░╨╝╨╕ ╨╕, ╨▓╨╡╤Ç╨╛╤Å╤é╨╜╨╛, ╨╜╨╡ ╨▒╤â╨┤╨╡╤é ╨┐╤Ç╨╕╨╜╤Å╤é!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received with</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜╨╛ ╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode Reward</source>♪◙        <translation>╨Æ╨╛╨╖╨╜╨░╨│╤Ç╨░╨╢╨┤╨╡╨╜╨╕╨╡ ╨£╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received from</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜ ╨╛╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received via Obfuscation</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜╨╛ ╤ç╨╡╤Ç╨╡╨╖ ╨╛╨▒╤ä╤â╤ü╨║╨░╤å╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Stake</source>♪◙        <translation>╨ö╨╛╨╗╤Å CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC Stake</source>♪◙        <translation>╨ö╨╛╨╗╤Å zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Denominate</source>♪◙        <translation>╨₧╨▒╤ä╤â╤ü╨║╨░╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Collateral Payment</source>♪◙        <translation>╨₧╨▒╤ä╤â╤ü╨║╨░╤å╨╕╨╛╨╜╨╜╤ï╨╣ ╨í╨╛╨┐╤â╤é╤ü╤é╨▓╤â╤Ä╤ë╨╕╨╣ ╨┐╨╗╨░╤é╨╡╨╢</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Make Collateral Inputs</source>♪◙        <translation>╨₧╨▒╤ä╤â╤ü╨║╨░╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation Create Denominations</source>♪◙        <translation>╨₧╨▒╤ä╤â╤ü╨║╨░╤å╨╕╤Å ╨í╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨╛╨╜╤ä╨╡╤ü╤ü╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Converted CRyptoCrowd to zXCRC</source>♪◙        <translation>╨ƒ╤Ç╨╡╨╛╨▒╤Ç╨░╨╖╨╛╨▓╨░╨╜╨╜╤ï╨╣ CRyptoCrowd ╨▓ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spent zXCRC</source>♪◙        <translation>╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╨╜╤ï╨╣ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received CRyptoCrowd from zXCRC</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜╨╜╤ï╨╣ CRyptoCrowd ╨╛╤é zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minted Change as zXCRC from zXCRC Spend</source>♪◙        <translation>╤ü╨╛╨╖╨┤╨░╨╜╨╜╨░╤Å  ╨╖╨░╨╝╨╡╨╜╨░  zXCRC ╨╕╨╖ ╨┐╨╛╤é╤Ç╨░╨╡╨╜╨╜╨╛╨│╨╛ zXCRC </translation>♪◙    </message>♪◙    <message>♪◙        <source>Converted zXCRC to CRyptoCrowd</source>♪◙        <translation>╨ƒ╤Ç╨╡╨╛╨▒╤Ç╨░╨╖╨╛╨▓╨░╨╜╨╜╤ï╨╣ zXCRC to CRyptoCrowd</translation>♪◙    </message>♪◙    <message>♪◙        <source>Anonymous (zXCRC Transaction)</source>♪◙        <translation>╨É╨╜╨╛╨╜╨╕╨╝╨╜╤ï╨╣ (╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å zXCRC)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Anonymous (zXCRC Stake)</source>♪◙        <translation>╨É╨╜╨╛╨╜╨╕╨╝╨╜╤ï╨╣ (╤ü╤é╨░╨▓╨║╨░ zXCRC)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent to</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Orphan Block - Generated but not accepted. This does not impact your holdings.</source>♪◙        <translation>╨í╨╕╤Ç╨╛╤é╤ü╨║╨╕╨╣ ╨▒╨╗╨╛╨║ - ╤ü╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╨╛╨▓╨░╨╜, ╨╜╨╛ ╨╜╨╡ ╨┐╤Ç╨╕╨╜╤Å╤é. ╨¡╤é╨╛ ╨╜╨╡ ╨▓╨╗╨╕╤Å╨╡╤é ╨╜╨░ ╨▓╨░╤ê╨╕ ╨╖╨░╨┐╨░╤ü╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Payment to yourself</source>♪◙        <translation>╨₧╨┐╨╗╨░╤é╨░ ╤ü╨╡╨▒╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mined</source>♪◙        <translation>╨╖╨░╨╝╨╕╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscated</source>♪◙        <translation>╨╖╨░╤é╨╡╨╝╨╜╨╡╨╜╨╜╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>watch-only</source>♪◙        <translation>╤ü╨╝╨╛╤é╤Ç╨╡╤é╤î ╤é╨╛╨╗╤î╨║╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>(n/a)</source>♪◙        <translation>(╨╜/╨╖)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction status. Hover over this field to show number of confirmations.</source>♪◙        <translation>╨í╤é╨░╤é╤â╤ü ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕. ╨¥╨░╨▓╨╡╨┤╨╕╤é╨╡ ╤â╨║╨░╨╖╨░╤é╨╡╨╗╤î ╨╝╤ï╤ê╨╕ ╨╜╨░ ╤ì╤é╨╛ ╨┐╨╛╨╗╨╡, ╤ç╤é╨╛╨▒╤ï ╨┐╨╛╨║╨░╨╖╨░╤é╤î ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╨╣.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Date and time that the transaction was received.</source>♪◙        <translation>╨ö╨░╤é╨░ ╨╕ ╨▓╤Ç╨╡╨╝╤Å ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type of transaction.</source>♪◙        <translation>╨ó╨╕╨┐ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whether or not a watch-only address is involved in this transaction.</source>♪◙        <translation>╨¥╨╡╨╖╨░╨▓╨╕╤ü╨╕╨╝╨╛ ╨╛╤é ╤é╨╛╨│╨╛, ╨▓╨║╨╗╤Ä╤ç╨╡╨╜ ╨╗╨╕ ╨▓ ╤ì╤é╤â ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä ╤é╨╛╨╗╤î╨║╨╛ ╨░╨┤╤Ç╨╡╤ü ╨╜╨░╨▒╨╗╤Ä╨┤╨╡╨╜╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Destination address of transaction.</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü ╨╜╨░╨╖╨╜╨░╤ç╨╡╨╜╨╕╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Amount removed from or added to balance.</source>♪◙        <translation>╨í╤â╨╝╨╝╨░, ╤â╨┤╨░╨╗╨╡╨╜╨╜╨░╤Å ╨╕╨╗╨╕ ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╨╜╨░╤Å ╨║ ╨▒╨░╨╗╨░╨╜╤ü╤â.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>TransactionView</name>♪◙    <message>♪◙        <source>All</source>♪◙        <translation>╨▓╤ü╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Today</source>♪◙        <translation>╨í╨╡╨│╨╛╨┤╨╜╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>This week</source>♪◙        <translation>╨¡╤é╨░ ╨╜╨╡╨┤╨╡╨╗╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>This month</source>♪◙        <translation>╨¡╤é╨╛╤é ╨╝╨╡╤ü╤Å╤å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last month</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡╨┤╨╜╨╕╨╣ ╨╝╨╡╤ü╤Å╤å</translation>♪◙    </message>♪◙    <message>♪◙        <source>This year</source>♪◙        <translation>╨¡╤é╨╛╤é ╨│╨╛╨┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Range...</source>♪◙        <translation>╨ö╨╕╨░╨┐╨░╨╖╨╛╨╜...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Most Common</source>♪◙        <translation>╨╜╨░╨╕╨▒╨╛╨╗╨╡╨╡ ╨╛╨▒╤ë╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received with</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜╨╛ ╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sent to</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>To yourself</source>♪◙        <translation>╨í╨░╨╝╨╛╨╝╤â ╤ü╨╡╨▒╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mined</source>♪◙        <translation>╨╖╨░╨╝╨╕╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Minted</source>♪◙        <translation>╨º╨╡╨║╨░╨╜╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode Reward</source>♪◙        <translation>╨Æ╨╛╨╖╨╜╨░╨│╤Ç╨░╨╢╨┤╨╡╨╜╨╕╨╡ ╨£╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Mint</source>♪◙        <translation>╤ç╨╡╨║╨░╨╜╨║╨░ Zerocoin</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Spend</source>♪◙        <translation>╨ƒ╨╛╤é╤Ç╨░╤é╨╕╤é╤î Zerocoin </translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Spend to Self</source>♪◙        <translation>╨ƒ╨╛╤é╤Ç╨░╤é╨╕╤é╤î Zerocoin  ╨╜╨░ ╤ü╨╡╨▒╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Other</source>♪◙        <translation>╨┤╤Ç╤â╨│╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter address or label to search</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╨░╨┤╤Ç╨╡╤ü ╨╕╨╗╨╕ ╨╕╨╝╤Å ╨┤╨╗╤Å ╨┐╨╛╨╕╤ü╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Min amount</source>♪◙        <translation>╨£╨╕╨╜╨╕╨╝╨░╨╗╤î╨╜╨░╤Å ╤ü╤â╨╝╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy address</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy label</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╝╨╡╤é╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy amount</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ╤ü╤â╨╝╨╝╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy transaction ID</source>♪◙        <translation>╨Ü╨╛╨┐╨╕╤Ç╨╛╨▓╨░╤é╤î ID ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit label</source>♪◙        <translation>╨á╨╡╨┤╨░╨║╤é╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╕╨╝╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show transaction details</source>♪◙        <translation>╨ö╨╡╤é╨░╨╗╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export Transaction History</source>♪◙        <translation>╨¡╨║╤ü╨┐╨╛╤Ç╤é ╨╕╤ü╤é╨╛╤Ç╨╕╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Comma separated file (*.csv)</source>♪◙        <translation>╨ñ╨░╨╣╨╗ ╤ä╨╛╤Ç╨╝╨░╤é╨░ csv</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirmed</source>♪◙        <translation>╨ƒ╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Watch-only</source>♪◙        <translation>╤ü╨╝╨╛╤é╤Ç╨╡╤é╤î ╤é╨╛╨╗╤î╨║╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Date</source>♪◙        <translation>╨ö╨░╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Type</source>♪◙        <translation>╨ó╨╕╨┐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>╨£╨╡╤é╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>╨É╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>ID</source>♪◙        <translation>╨¥╨╛╨╝╨╡╤Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Failed</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╤ì╨║╤ü╨┐╨╛╤Ç╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>There was an error trying to save the transaction history to %1.</source>♪◙        <translation>╨ƒ╤Ç╨╕ ╨┐╨╛╨┐╤ï╤é╨║╨╡ ╤ü╨╛╤à╤Ç╨░╨╜╨╕╤é╤î ╨╕╤ü╤é╨╛╤Ç╨╕╤Ä ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╨▓ %1 ╨┐╤Ç╨╛╨╕╨╖╨╛╤ê╨╗╨░ ╨╛╤ê╨╕╨▒╨║╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Successful</source>♪◙        <translation>╨¡╨║╤ü╨┐╨╛╤Ç╤é╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨┐╤Ç╨╛╨╕╨╖╨╛╤ê╨╗╨╛ ╤â╤ü╨┐╨╡╤ê╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Received CRyptoCrowd from zXCRC</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜╨╜╤ï╨╣ CRyptoCrowd ╨╛╤é zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin Spend, Change in zXCRC</source>♪◙        <translation>╨ƒ╨╛╤é╤Ç╨░╤é╨╕╤é╤î Zerocoin, ╨ƒ╤Ç╨╡╨╛╨▒╤Ç╨░╨╖╨╛╨▓╨░╤é╤î ╨▓ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>The transaction history was successfully saved to %1.</source>♪◙        <translation>╨ÿ╤ü╤é╨╛╤Ç╨╕╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╨▒╤ï╨╗╨░ ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╤ü╨╛╤à╤Ç╨░╨╜╨╡╨╜╨░ ╨▓ %1.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Range:</source>♪◙        <translation>╨┤╨╕╨░╨┐╨░╨╖╨╛╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>to</source>♪◙        <translation>╨▓</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>UnitDisplayStatusBarControl</name>♪◙    <message>♪◙        <source>Unit to show amounts in. Click to select another unit.</source>♪◙        <translation>╨æ╨╗╨╛╨║ , ╤ç╤é╨╛╨▒╤ï ╨╛╤é╨╛╨▒╤Ç╨░╨╖╨╕╤é╤î ╤ü╤â╨╝╨╝╤ï. ╨¥╨░╨╢╨╝╨╕╤é╨╡, ╤ç╤é╨╛╨▒╤ï ╨▓╤ï╨▒╤Ç╨░╤é╤î ╨┤╤Ç╤â╨│╨╛╨╡ ╤â╤ü╤é╤Ç╨╛╨╣╤ü╤é╨▓╨╛.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>WalletFrame</name>♪◙    <message>♪◙        <source>No wallet has been loaded.</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║ ╨╜╨╡ ╨╖╨░╨│╤Ç╤â╨╢╨╡╨╜.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>WalletModel</name>♪◙    <message>♪◙        <source>Send Coins</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╕╤é╤î ╨£╨╛╨╜╨╡╤é╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>♪◙        <translation>SwiftX ╨╜╨╡ ╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╡╤é ╨╛╤é╨┐╤Ç╨░╨▓╨║╤â ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╣, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╡╤ë╨╡ ╨▓╤ï╤ü╨╛╨║╨╕. ╨Æ ╨╜╨░╤ü╤é╨╛╤Å╤ë╨╡╨╡ ╨▓╤Ç╨╡╨╝╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╛╨│╤Ç╨░╨╜╨╕╤ç╨╡╨╜╤ï %1 CRyptoCrowd.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>WalletView</name>♪◙    <message>♪◙        <source>HISTORY</source>♪◙        <translation>╨ÿ╨í╨ó╨₧╨á╨ÿ╨»</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export</source>♪◙        <translation>╨¡╨║╤ü╨┐╨╛╤Ç╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export the data in the current tab to a file</source>♪◙        <translation>╨¡╨║╤ü╨┐╨╛╤Ç╤é╨╕╤Ç╨╛╨▓╨░╤é╤î ╨┤╨░╨╜╨╜╤ï╨╡ ╤ü ╤é╨╡╨║╤â╤ë╨╡╨╣ ╨▓╨║╨╗╨░╨┤╨║╨╕ ╨▓ ╤ä╨░╨╣╨╗</translation>♪◙    </message>♪◙    <message>♪◙        <source>Selected amount:</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╨╜╨╜╨░╤Å ╤ü╤â╨╝╨╝╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Backup Wallet</source>♪◙        <translation>╨á╨╡╨╖╨╡╤Ç╨▓╨╜╨░╤Å ╨║╨╛╨┐╨╕╤Å ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet Data (*.dat)</source>♪◙        <translation>╨ö╨░╨╜╨╜╤ï╨╡ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ (* .dat)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>zXCRCControlDialog</name>♪◙    <message>♪◙        <source>Select zXCRC to Spend</source>♪◙        <translation>╨Æ╤ï╨▒╨╡╤Ç╨╕╤é╨╡ zXCRC ╤ç╤é╨╛╨▒╤ï ╨┐╨╛╤é╤Ç╨░╤é╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quantity</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>0</source>♪◙        <translation>0</translation>♪◙    </message>♪◙    <message>♪◙        <source>zXCRC</source>♪◙        <translation>zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Select/Deselect All</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╤é╤î / ╨₧╤é╨╝╨╡╨╜╨╕╤é╤î ╨▓╤ï╨▒╨╛╤Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Is Spendable</source>♪◙        <translation>╨á╨░╤ü╤à╨╛╨┤╤ï</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>cryptocrowd-core</name>♪◙    <message>♪◙        <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>♪◙        <translation>(1 = ╤ü╨╛╤à╤Ç╨░╨╜╨╕╤é╤î tx ╨╝╨╡╤é╨░╨┤╨░╨╜╨╜╤ï╨╡, ╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç, ╨▓╨╗╨░╨┤╨╡╨╗╤î╤å╨░ ╤â╤ç╨╡╤é╨╜╨╛╨╣ ╨╖╨░╨┐╨╕╤ü╨╕ ╨╕ ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Ä ╨╛ ╨╖╨░╨┐╤Ç╨╛╤ü╨╡ ╨┐╨╗╨░╤é╨╡╨╢╨░, 2 = ╤â╨┤╨░╨╗╨╕╤é╤î tx ╨╝╨╡╤é╨░╨┤╨░╨╜╨╜╤ï╨╡)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>♪◙        <translation>╨á╨░╨╖╤Ç╨╡╤ê╨╕╤é╤î ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å JSON-RPC ╨╕╨╖ ╤â╨║╨░╨╖╨░╨╜╨╜╨╛╨│╨╛ ╨╕╤ü╤é╨╛╤ç╨╜╨╕╨║╨░. ╨ö╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╨╛ ╨┤╨╗╤Å  &lt;ip&gt; ╨╛╨┤╨╜╨╛╨│╨╛ IP (╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç, 1.2.3.4), ╤ü╨╡╤é╨╡╨▓╨╛╨╣ / ╤ü╨╡╤é╨╡╨▓╨╛╨╣ ╨╝╨░╤ü╨║╨╕ (╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç, 1.2.3.4/255.255.255.0) ╨╕╨╗╨╕ ╤ü╨╡╤é╨╕ / CIDR (╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç, 1.2.3.4/24). ╨¡╤é╨░ ╨╛╨┐╤å╨╕╤Å ╨╝╨╛╨╢╨╡╤é ╨▒╤ï╤é╤î ╤â╨║╨░╨╖╨░╨╜╨░ ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╤Ç╨░╨╖</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>♪◙        <translation>╨ƒ╤Ç╨╕╨▓╤Å╨╢╨╕╤é╨╡ ╨║ ╤â╨║╨░╨╖╨░╨╜╨╜╨╛╨╝╤â ╨░╨┤╤Ç╨╡╤ü╤â ╨╕ ╨▓╤ü╨╡╨│╨┤╨░ ╤ü╨╗╤â╤ê╨░╨╣╤é╨╡ ╨╡╨│╨╛. ╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╤î [host]: ╨╛╨▒╨╛╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡ ╨┐╨╛╤Ç╤é╨░ ╨┤╨╗╤Å IPv6</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>♪◙        <translation>╨ƒ╤Ç╨╕╨▓╤Å╨╢╨╕╤é╨╡ ╨║ ╤â╨║╨░╨╖╨░╨╜╨╜╤ï╨╝ ╨░╨┤╤Ç╨╡╤ü╨░╨╝ ╨╕ ╤ü╨▓╨╡╤Ç╤ü╤é╨╜╨╕╨║╨░╨╝-╤ü╨▓╨╡╤Ç╤ü╤é╨╜╨╕╨║╨░╨╝, ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨░╤Ä╤ë╨╕╨╝╤ü╤Å ╨║ ╨╜╨╡╨╝╤â. ╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╤î [host]: ╨╛╨▒╨╛╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡ ╨┐╨╛╤Ç╤é╨░ ╨┤╨╗╤Å IPv6</translation>♪◙    </message>♪◙    <message>♪◙        <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>♪◙        <translation>╨ƒ╤Ç╨╕╨▓╤Å╨╢╨╕╤é╨╡ ╨║ ╤â╨║╨░╨╖╨░╨╜╨╜╨╛╨╝╤â ╨░╨┤╤Ç╨╡╤ü╤â ╨┤╨╗╤Å ╨┐╤Ç╨╛╤ü╨╗╤â╤ê╨╕╨▓╨░╨╜╨╕╤Å ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╨╣ JSON-RPC. ╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ [host]: ╨╛╨▒╨╛╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡ ╨┐╨╛╤Ç╤é╨░ ╨┤╨╗╤Å IPv6. ╨¡╤é╨░ ╨╛╨┐╤å╨╕╤Å ╨╝╨╛╨╢╨╡╤é ╨▒╤ï╤é╤î ╤â╨║╨░╨╖╨░╨╜╨░ ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╤Ç╨░╨╖ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: ╨┐╤Ç╨╕╨▓╤Å╨╖╨║╨░ ╨║╨╛ ╨▓╤ü╨╡╨╝ ╨╕╨╜╤é╨╡╤Ç╤ä╨╡╨╣╤ü╨░╨╝)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Calculated accumulator checkpoint is not what is recorded by block index</source>♪◙        <translation>╨á╨░╤ü╤ç╨╡╤é╨╜╨░╤Å ╨║╨╛╨╜╤é╤Ç╨╛╨╗╤î╨╜╨░╤Å ╤é╨╛╤ç╨║╨░  ╨╜╨╡ ╤Å╨▓╨╗╤Å╨╡╤é╤ü╤Å ╤é╨╡╨╝, ╤ç╤é╨╛ ╤Ç╨╡╨│╨╕╤ü╤é╤Ç╨╕╤Ç╤â╨╡╤é╤ü╤Å ╨▒╨╗╨╛╤ç╨╜╤ï╨╝ ╨╕╨╜╨┤╨╡╨║╤ü╨╛╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot obtain a lock on data directory %s. CRyptoCrowd Core is probably already running.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╡╤é╤ü╤Å ╨┐╨╛╨╗╤â╤ç╨╕╤é╤î ╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╤â ╨▓ ╨║╨░╤é╨░╨╗╨╛╨│╨╡ ╨┤╨░╨╜╨╜╤ï╤à %s. CRyptoCrowd Core, ╨▓╨╡╤Ç╨╛╤Å╤é╨╜╨╛, ╤â╨╢╨╡ ╨╖╨░╨┐╤â╤ë╨╡╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>♪◙        <translation>╨ÿ╨╖╨╝╨╡╨╜╨╕╤é╤î ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╛╨╡ ╨╛╨║╨╛╨╜╤ç╨░╤é╨╡╨╗╤î╨╜╨╛╨╡ ╨┐╨╛╨▓╨╡╨┤╨╡╨╜╨╕╨╡ ╨▒╤Ä╨┤╨╢╨╡╤é╨░. mode = auto: ╨ô╨╛╨╗╨╛╤ü╨╛╨▓╨░╤é╤î ╨╖╨░ ╤é╨╛╤ç╨╜╤ï╨╣ ╨╛╨║╨╛╨╜╤ç╨░╤é╨╡╨╗╤î╨╜╤ï╨╣ ╨▒╤Ä╨┤╨╢╨╡╤é, ╤ü╨╛╨╛╤é╨▓╨╡╤é╤ü╤é╨▓╤â╤Ä╤ë╨╕╨╣ ╨╝╨╛╨╡╨╝╤â ╤ü╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╨╛╨▓╨░╨╜╨╜╨╛╨╝╤â ╨▒╤Ä╨┤╨╢╨╡╤é╤â. (╤ü╤é╤Ç╨╛╨║╨░, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: ╨░╨▓╤é╨╛)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>♪◙        <translation>╨¥╨╡╨┐╤Ç╨╡╤Ç╤ï╨▓╨╜╤ï╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤ü ╨╛╨│╤Ç╨░╨╜╨╕╤ç╨╡╨╜╨╕╤Å╨╝╨╕ ╨┐╨╛ ╤ü╨║╨╛╤Ç╨╛╤ü╤é╨╕ ╨┤╨╛ &lt;n&gt;* 1000 ╨▒╨░╨╣╤é ╨▓ ╨╝╨╕╨╜╤â╤é╤â (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╨▓╨░╨╣╤é╨╡ ╨╜╨╛╨▓╤ï╨╡ ╤ä╨░╨╣╨╗╤ï ╤ü ╤Ç╨░╨╖╤Ç╨╡╤ê╨╡╨╜╨╕╤Å╨╝╨╕ ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä ╨┤╨╗╤Å ╤ü╨╕╤ü╤é╨╡╨╝╤ï, ╨▓╨╝╨╡╤ü╤é╨╛ umask 077 (╤ì╤ä╤ä╨╡╨║╤é╨╕╨▓╨╜╤ï ╤é╨╛╨╗╤î╨║╨╛ ╤ü ╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜╨╜╨╛╨╣ ╤ä╤â╨╜╨║╤å╨╕╨╡╨╣ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╨╡ ╨▓╤ü╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨╕ ╨▓╨╛╤ü╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╨╡ ╤é╨╛╨╗╤î╨║╨╛ ╤é╨╡ ╤ç╨░╤ü╤é╨╕ ╨▒╨╗╨╛╨║-╤å╨╡╨┐╨╕ ╤ç╨╡╤Ç╨╡╨╖ -rescan ╨┐╤Ç╨╕ ╨╖╨░╨┐╤â╤ü╨║╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete all zerocoin spends and mints that have been recorded to the blockchain database and reindex them (0-1, default: %u)</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╕╤é╨╡ ╨▓╤ü╨╡ ╤é╤Ç╨░╤é╤ï ╨╕ ╨╝╨╛╨╜╨╡╤é╨║╨╕ zerocoin, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨▒╤ï╨╗╨╕ ╨╖╨░╨┐╨╕╤ü╨░╨╜╤ï ╨▓ ╨▒╨░╨╖╤â ╨┤╨░╨╜╨╜╤ï╤à blockchain, ╨╕ ╨┐╨╡╤Ç╨╡╨╕╨╜╨┤╨╡╨║╤ü╨╕╤Ç╤â╨╣╤é╨╡ ╨╕╤à (0-1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>♪◙        <translation>╨á╨░╤ü╨┐╤Ç╨╛╤ü╤é╤Ç╨░╨╜╤Å╨╡╤é╤ü╤Å ╨┐╨╛ ╨╗╨╕╤å╨╡╨╜╨╖╨╕╨╕ ╨┐╤Ç╨╛╨│╤Ç╨░╨╝╨╝╨╜╨╛╨│╨╛ ╨╛╨▒╨╡╤ü╨┐╨╡╤ç╨╡╨╜╨╕╤Å MIT, ╤ü╨╝. ╨í╨╛╨┐╤Ç╨╛╨▓╨╛╨┤╨╕╤é╨╡╨╗╤î╨╜╤ï╨╣ ╤ä╨░╨╣╨╗ COPYING ╨╕╨╗╨╕ &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╛╨╡ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨╛╨╡ ╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░, ╨╖╨░╨┐╤â╤ü╨║╨░╨╡╨╝╨╛╨╡ ╨┐╨╛╤ü╨╗╨╡ ╨║╨░╨╢╨┤╨╛╨│╨╛ ╤ç╨╡╨║╨░╨╜╨║╨╕ zXCRC (0-1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╡ ╨╕╨╗╨╕ ╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╡ ╤ä╤â╨╜╨║╤å╨╕╨╣ ╤Ç╨░╨╖╨▒╨╕╨▓╨║╨╕ ╨┤╨╗╤Å ╨▓╤à╨╛╨┤╨╛╨▓ CRyptoCrowd (0-1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╡ ╨╕╨╗╨╕ ╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╡ ╤ä╤â╨╜╨║╤å╨╕╨╣ ╤Ç╨░╨╖╨▒╨╕╨▓╨║╨╕ ╨┤╨╗╤Å ╨▓╤à╨╛╨┤╨╛╨▓ zXCRC (0-1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable spork administration functionality with the appropriate private key.</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╨╡ ╤ä╤â╨╜╨║╤å╨╕╤Ä ╨░╨┤╨╝╨╕╨╜╨╕╤ü╤é╤Ç╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å spork ╤ü ╨┐╨╛╨╝╨╛╤ë╤î╤Ä ╤ü╨╛╨╛╤é╨▓╨╡╤é╤ü╤é╨▓╤â╤Ä╤ë╨╡╨│╨╛ ╨╖╨░╨║╤Ç╤ï╤é╨╛╨│╨╛ ╨║╨╗╤Ä╤ç╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>♪◙        <translation>╨Æ╨▓╨╡╨┤╨╕╤é╨╡ ╤Ç╨╡╨╢╨╕╨╝ ╤Ç╨╡╨│╤Ç╨╡╤ü╤ü╨╕╨╕, ╨▓ ╨║╨╛╤é╨╛╤Ç╨╛╨╝ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╤é╤ü╤Å ╤ü╨┐╨╡╤å╨╕╨░╨╗╤î╨╜╨░╤Å ╤å╨╡╨┐╨╛╤ç╨║╨░, ╨▓ ╨║╨╛╤é╨╛╤Ç╨╛╨╣ ╨▒╨╗╨╛╨║╨╕ ╨╝╨╛╨│╤â╤é ╨▒╤ï╤é╤î ╤Ç╨╡╤ê╨╡╨╜╤ï ╨╝╨│╨╜╨╛╨▓╨╡╨╜╨╜╨╛.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Listening for incoming connections failed (listen returned error %s)</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨ƒ╤Ç╨╛╤ü╨╗╤â╤ê╨╕╨▓╨░╨╜╨╕╨╡ ╨▓╤à╨╛╨┤╤Å╤ë╨╕╤à ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╨╣ ╨╜╨╡ ╨▓╤ï╨┐╨╛╨╗╨╜╨╡╨╜╨╛ (╨┐╤Ç╨╕ ╨▓╨╛╨╖╨▓╤Ç╨░╤é╨╡ ╨╛╤ê╨╕╨▒╨║╨╕ %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: The transaction is larger than the maximum allowed transaction size!</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╨▒╨╛╨╗╤î╤ê╨╡ ╨╝╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨╛ ╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨╛╨│╨╛ ╤Ç╨░╨╖╨╝╨╡╤Ç╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨╛╨▒╨╜╨░╤Ç╤â╨╢╨╡╨╜ ╨╜╨╡╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╡╨╝╤ï╨╣ ╨░╤Ç╨│╤â╨╝╨╡╨╜╤é -socks. ╨¥╨░╤ü╤é╤Ç╨╛╨╣╨║╨░ ╨▓╨╡╤Ç╤ü╨╕╨╕ SOCKS ╨▒╨╛╨╗╤î╤ê╨╡ ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨░, ╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╤Ä╤é╤ü╤Å ╤é╨╛╨╗╤î╨║╨╛ ╨┐╤Ç╨╛╨║╤ü╨╕ SOCKS5.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>♪◙        <translation>╨Æ╤ï╨┐╨╛╨╗╨╜╨╕╤é╨╡ ╨║╨╛╨╝╨░╨╜╨┤╤â, ╨║╨╛╨│╨┤╨░ ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╛ ╤ü╨╛╨╛╤é╨▓╨╡╤é╤ü╤é╨▓╤â╤Ä╤ë╨╡╨╡ ╨┐╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡, ╨╕╨╗╨╕ ╨╝╤ï ╨▓╨╕╨┤╨╕╨╝ ╨╛╤ç╨╡╨╜╤î ╨┤╨╗╨╕╨╜╨╜╤â╤Ä ╤Ç╨░╨╖╨▓╨╕╨╗╨║╤â (%s ╨▓ cmd ╨╖╨░╨╝╨╡╨╜╤Å╨╡╤é╤ü╤Å ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡╨╝)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>♪◙        <translation>╨Æ╤ï╨┐╨╛╨╗╨╜╤Å╤é╤î ╨║╨╛╨╝╨░╨╜╨┤╤â ╨┐╤Ç╨╕ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ (%s ╨▓ cmd ╨╖╨░╨╝╨╡╨╜╤Å╨╡╤é╤ü╤Å ╨╜╨░ TxID)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>♪◙        <translation>╨Æ╤ï╨┐╨╛╨╗╨╜╨╕╤é╤î ╨║╨╛╨╝╨░╨╜╨┤╤â, ╨║╨╛╨│╨┤╨░ ╨╗╤â╤ç╤ê╨╕╨╣ ╨▒╨╗╨╛╨║ ╨╕╨╖╨╝╨╡╨╜╤Å╨╡╤é╤ü╤Å (%s ╨▓ cmd ╨╖╨░╨╝╨╡╨╜╤Å╨╡╤é╤ü╤Å ╨▒╨╗╨╛╤ç╨╜╤ï╨╝ ╤à╤ì╤ê╨╡╨╝)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>♪◙        <translation>╨ó╨░╤Ç╨╕╤ä╤ï (╨▓ CRyptoCrowd / Kb), ╨╝╨╡╨╜╤î╤ê╨╕╨╡, ╤ç╨╡╨╝ ╤ì╤é╨╛, ╤ü╤ç╨╕╤é╨░╤Ä╤é╤ü╤Å ╨╜╤â╨╗╨╡╨▓╨╛╨╣ ╨║╨╛╨╝╨╕╤ü╤ü╨╕╨╡╨╣ ╨╖╨░ ╤Ç╨╡╤é╤Ç╨░╨╜╤ü╨╗╤Å╤å╨╕╤Ä (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>♪◙        <translation>╨ƒ╨╗╨░╤é╨░ (╨▓ CRyptoCrowd / Kb) ╨╝╨╡╨╜╤î╤ê╨╡ ╤ì╤é╨╛╨│╨╛ ╤ü╤ç╨╕╤é╨░╨╡╤é╤ü╤Å ╨╜╤â╨╗╨╡╨▓╨╛╨╣ ╨║╨╛╨╝╨╕╤ü╤ü╨╕╨╡╨╣ ╨╖╨░ ╤ü╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>♪◙        <translation>╨í╨▒╤Ç╨╛╤ü╨╕╤é╤î ╨░╨║╤é╨╕╨▓╨╜╨╛╤ü╤é╤î ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à ╨╕╨╖ ╨┐╤â╨╗╨░ ╨┐╨░╨╝╤Å╤é╨╕ ╨▓ ╨╢╤â╤Ç╨╜╨░╨╗ ╨┤╨╕╤ü╨║╨░ ╨║╨░╨╢╨┤╤ï╨╣ &lt;n&gt; ╨╝╨╡╨│╨░╨▒╨░╨╣╤é (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>♪◙        <translation>╨¥╨░╨╣╨┤╨╡╨╜╨╜╤ï╨╡ ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╡ ╨┤╨╡╨╜╨╛╨╝╨╕╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╡ ╨▓╤ï╤à╨╛╨┤╤ï ╨▒╤â╨┤╤â╤é ╨╢╨┤╨░╤é╤î, ╨┐╨╛╨║╨░ ╨╛╨╜╨╕ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨┤╤Å╤é, ╤ç╤é╨╛ ╨╛╨╜╨╕ ╨▒╤â╨┤╤â╤é ╨┐╤Ç╨╛╨┤╨╛╨╗╨╢╨╡╨╜╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>♪◙        <translation>╨ò╤ü╨╗╨╕ paytxfee ╨╜╨╡ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜, ╨▓╨║╨╗╤Ä╤ç╨╕╤é╨╡ ╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╨┐╨╗╨░╤é╤â, ╤é╨░╨║ ╤ç╤é╨╛ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╜╨░╤ç╨╜╤â╤é ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨░╤é╤î ╨▓ ╤ü╤Ç╨╡╨┤╨╜╨╡╨╝ ╨▓ ╨┐╤Ç╨╡╨┤╨╡╨╗╨░╤à n ╨▒╨╗╨╛╨║╨╛╨▓ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>♪◙        <translation>╨Æ ╤ì╤é╨╛╨╝ ╤Ç╨╡╨╢╨╕╨╝╨╡ ╨║╨╛╨╜╤é╤Ç╨╛╨╗╨╕╤Ç╤â╨╡╤é╤ü╤Å, ╤ü╨║╨╛╨╗╤î╨║╨╛ ╨▒╨╗╨╛╨║╨╛╨▓ ╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╤â╨╡╤é╤ü╤Å ╨╜╨╡╨╝╨╡╨┤╨╗╨╡╨╜╨╜╨╛.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient or insufficient confirmed funds, you might need to wait a few minutes and try again.</source>♪◙        <translation>╨¥╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╨╕╨╗╨╕ ╨╜╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╤à ╤ü╤Ç╨╡╨┤╤ü╤é╨▓, ╨▓╨░╨╝ ╨╝╨╛╨╢╨╡╤é ╨┐╨╛╤é╤Ç╨╡╨▒╨╛╨▓╨░╤é╤î╤ü╤Å ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╨╝╨╕╨╜╤â╤é ╨╕ ╨┐╨╛╨▓╤é╨╛╤Ç╨╕╤é╨╡ ╨┐╨╛╨┐╤ï╤é╨║╤â.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨┤╨╗╤Å -maxtxfee =&lt;amount&gt;: '%s' (╨┤╨╛╨╗╨╢╨╜╨░ ╨▒╤ï╤é╤î ╨╝╨╕╨╜╨╕╨╝╨░╨╗╤î╨╜╨░╤Å ╨┐╨╗╨░╤é╨░ %s ╨┤╨╗╤Å ╨┐╤Ç╨╡╨┤╨╛╤é╨▓╤Ç╨░╤ë╨╡╨╜╨╕╤Å ╨╖╨░╤ü╤é╤Ç╨╡╨▓╨░╨╜╨╕╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Keep the specified amount available for spending at all times (default: 0)</source>♪◙        <translation>╨ö╨╡╤Ç╨╢╨╕╤é╨╡ ╤â╨║╨░╨╖╨░╨╜╨╜╤â╤Ä ╤ü╤â╨╝╨╝╤â ╨┤╨╛╤ü╤é╤â╨┐╨╜╨╛╨╣ ╨┤╨╗╤Å ╤Ç╨░╤ü╤à╨╛╨┤╨╛╨▓ ╨▓ ╨╗╤Ä╨▒╨╛╨╡ ╨▓╤Ç╨╡╨╝╤Å (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: 0)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Log transaction priority and fee per kB when mining blocks (default: %u)</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╢╤â╤Ç╨╜╨░╨╗╨░ ╨╕ ╨┐╨╗╨░╤é╨░ ╨╖╨░ kB ╨┐╤Ç╨╕ ╨▓╤ï╨┐╨╛╨╗╨╜╨╡╨╜╨╕╨╕ ╨▒╨╗╨╛╨║╨╛╨▓ ╨┤╨╛╨▒╤ï╤ç╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>♪◙        <translation>╨ƒ╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╜╨╕╨╡ ╨┐╨╛╨╗╨╜╨╛╨│╨╛ ╨╕╨╜╨┤╨╡╨║╤ü╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╨╝╨╛╨│╨╛ ╨▓╤ï╨╖╨╛╨▓╨╛╨╝ rvc getrawtransaction (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>♪◙        <translation>╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╤ï╨╣ ╤Ç╨░╨╖╨╝╨╡╤Ç ╨┤╨░╨╜╨╜╤ï╤à ╨▓ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å╤à ╨┐╨╡╤Ç╨╡╨┤╨░╤ç╨╕ ╨┤╨░╨╜╨╜╤ï╤à, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╝╤ï ╨┐╨╡╤Ç╨╡╨┤╨░╨╡╨╝,  (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum total fees to use in a single wallet transaction, setting too low may abort large transactions (default: %s)</source>♪◙        <translation>╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨░╤Å ╨╛╨▒╤ë╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨║╨╛╨╝╨╕╤ü╤ü╨╕╨╣ ╨╖╨░ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤ü ╨╛╨┤╨╜╨╕╨╝ ╨║╨╛╤ê╨╡╨╗╤î╨║╨╛╨╝, ╤ü╨╗╨╕╤ê╨║╨╛╨╝ ╨╜╨╕╨╖╨║╨░╤Å, ╨╝╨╛╨╢╨╡╤é ╨┐╤Ç╨╡╤Ç╨▓╨░╤é╤î ╨║╤Ç╤â╨┐╨╜╤ï╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╤ü╨╡╨║╤â╨╜╨┤, ╤ç╤é╨╛╨▒╤ï ╨╜╨╡ ╨┤╨╛╨┐╤â╤ü╤é╨╕╤é╤î ╨┐╨╛╨▓╤é╨╛╤Ç╨╜╨╛╨│╨╛ ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å ╨╜╨╡╨▓╨╡╤Ç╨╜╤ï╤à ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╨╡╨╣ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>♪◙        <translation>Obfuscation ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╡╤é ╤é╨╛╤ç╨╜╤ï╨╡ ╨┤╨╡╨╜╨╛╨╝╨╕╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╨╡ ╤ü╤â╨╝╨╝╤ï ╨┤╨╗╤Å ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓, ╨▓╨░╨╝ ╨┐╤Ç╨╛╤ü╤é╨╛ ╨╜╤â╨╢╨╜╨╛ ╨▒╤â╨┤╨╡╤é ╨░╨╜╨╛╨╜╨╕╨╝╨╕╨╖╨╕╤Ç╨╛╨▓╨░╤é╤î ╨╡╤ë╨╡ ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╨╝╨╛╨╜╨╡╤é.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>♪◙        <translation>╨Æ╤ï╤à╨╛╨┤╨╜╨░╤Å ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å ╨╛╤é╨╗╨░╨┤╨║╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u, ╨┐╨╛╤ü╤é╨░╨▓╨║╨░ &lt;category&gt; ╨╜╨╡╨╛╨▒╤Å╨╖╨░╤é╨╡╨╗╤î╨╜╨░)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨┤╨╗╤Å ╨╛╨┤╨╜╨╛╤Ç╨░╨╜╨│╨╛╨▓╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ╤ç╨╡╤Ç╨╡╨╖ DNS-╨┐╨╛╨╕╤ü╨║, ╨╡╤ü╨╗╨╕ ╨╛╨╜ ╨╕╨╝╨╡╨╡╤é ╨╜╨╕╨╖╨║╨╕╨╣ ╨░╨┤╤Ç╨╡╤ü (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: 1, ╨╡╤ü╨╗╨╕ ╨╜╨╡ ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╛)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>♪◙        <translation>╨á╨░╨╜╨╢╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╤â╤ç╨╡╤é╨╜╤ï╤à ╨┤╨░╨╜╨╜╤ï╤à ╨┤╨╗╤Å ╨║╨░╨╢╨┤╨╛╨│╨╛ ╨┐╤Ç╨╛╨║╤ü╨╕-╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å. ╨¡╤é╨╛ ╨┐╨╛╨╖╨▓╨╛╨╗╤Å╨╡╤é ╨╕╨╖╨╛╨╗╨╕╤Ç╨╛╨▓╨░╤é╤î Tor ╨┐╨╛╤é╨╛╨║ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Require high priority for relaying free or low-fee transactions (default:%u)</source>♪◙        <translation>╨ó╤Ç╨╡╨▒╨╛╨▓╨░╤é╤î ╨▓╤ï╤ü╨╛╨║╨╕╨╣ ╨┐╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é ╨┤╨╗╤Å ╨┐╨╡╤Ç╨╡╨┤╨░╤ç╨╕ ╨▒╨╡╤ü╨┐╨╗╨░╤é╨╜╤ï╤à ╨╕╨╗╨╕ ╨╜╨╕╨╖╨║╨╛╨╛╨┐╨╗╨░╤ç╨╕╨▓╨░╨╡╨╝╤ï╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send trace/debug info to console instead of debug.log file (default: %u)</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╗╤Å╤é╤î ╤é╤Ç╨░╤ü╤ü╨╕╤Ç╨╛╨▓╨║╤â / ╨╛╤é╨╗╨░╨┤╨╛╤ç╨╜╤â╤Ä ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Ä ╨╜╨░ ╨║╨╛╨╜╤ü╨╛╨╗╤î ╨▓╨╝╨╡╤ü╤é╨╛ ╤ä╨░╨╣╨╗╨░ debug.log (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>♪◙        <translation>╨ú╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╨╡ ╨╝╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╤ï╨╣ ╤Ç╨░╨╖╨╝╨╡╤Ç ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╤ü ╨▓╤ï╤ü╨╛╨║╨╕╨╝ ╨┐╤Ç╨╕╨╛╤Ç╨╕╤é╨╡╤é╨╛╨╝ / ╨╜╨╕╨╖╨║╨╛╨╣ ╨╛╨┐╨╗╨░╤é╨╛╨╣ ╨▓ ╨▒╨░╨╣╤é╨░╤à (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>♪◙        <translation>╨ù╨░╨┤╨░╨╣╤é╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨┐╨╛╤é╨╛╨║╨╛╨▓ ╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╨╕ ╤ü╨║╤Ç╨╕╨┐╤é╨╛╨▓ (%u ╨┤╨╛ %d, 0 = auto, &lt;0 = ╨╛╤ü╤é╨░╨▓╨╕╤é╤î ╨╝╨╜╨╛╨│╨╛ ╤Å╨┤╨╡╤Ç ╨▒╨╡╤ü╨┐╨╗╨░╤é╨╜╨╛, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>♪◙        <translation>╨ú╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨┐╨╛╤é╨╛╨║╨╛╨▓ ╨┤╨╗╤Å ╨│╨╡╨╜╨╡╤Ç╨░╤å╨╕╨╕ ╨╝╨╛╨╜╨╡╤é, ╨╡╤ü╨╗╨╕ ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╨╛ (-1 = ╨▓╤ü╨╡ ╤Å╨┤╤Ç╨░, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╤ï╨▓╨░╤é╤î ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╤Å N ╨┤╨╗╤Å ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜╨╜╨╛╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ (0-9999, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Support filtering of blocks and transaction with bloom filters (default: %u)</source>♪◙        <translation>╨ƒ╨╛╨┤╨┤╨╡╤Ç╨╢╨║╨░ ╤ä╨╕╨╗╤î╤é╤Ç╨░╤å╨╕╨╕ ╨▒╨╗╨╛╨║╨╛╨▓ ╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╤ü ╤ä╨╕╨╗╤î╤é╤Ç╨░╨╝╨╕ ╤å╨▓╨╡╤é╨╡╨╜╨╕╤Å (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>♪◙        <translation>╨¡╤é╨╛╤é ╨┐╤Ç╨╛╨┤╤â╨║╤é ╨▓╨║╨╗╤Ä╤ç╨░╨╡╤é ╨┐╤Ç╨╛╨│╤Ç╨░╨╝╨╝╨╜╨╛╨╡ ╨╛╨▒╨╡╤ü╨┐╨╡╤ç╨╡╨╜╨╕╨╡, ╤Ç╨░╨╖╤Ç╨░╨▒╨╛╤é╨░╨╜╨╜╨╛╨╡ OpenSSL Project ╨┤╨╗╤Å ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╤Å ╨▓ OpenSSL Toolkit &lt;https://www.openssl.org/&gt; ╨╕ ╨║╤Ç╨╕╨┐╤é╨╛╨│╤Ç╨░╤ä╨╕╤ç╨╡╤ü╨║╨╛╨╝ ╨┐╤Ç╨╛╨│╤Ç╨░╨╝╨╝╨╜╨╛╨╝ ╨╛╨▒╨╡╤ü╨┐╨╡╤ç╨╡╨╜╨╕╨╕, ╨╜╨░╨┐╨╕╤ü╨░╨╜╨╜╨╛╨╝ ╨¡╤Ç╨╕╨║╨╛╨╝ ╨»╨╜╨╛╨╝ ╨╕ ╨┐╤Ç╨╛╨│╤Ç╨░╨╝╨╝╨╜╤ï╨╝ ╨╛╨▒╨╡╤ü╨┐╨╡╤ç╨╡╨╜╨╕╨╡╨╝ UPnP, ╨╜╨░╨┐╨╕╤ü╨░╨╜╨╜╤ï╨╝ ╨ó╨╛╨╝╨░╤ü╨╛╨╝ ╨æ╨╡╤Ç╨╜╨░╤Ç╨┤╨╛╨╝.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to bind to %s on this computer. CRyptoCrowd Core is probably already running.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┐╤Ç╨╕╨▓╤Å╨╖╨░╤é╤î ╨║ %s ╨╜╨░ ╤ì╤é╨╛╨╝ ╨║╨╛╨╝╨┐╤î╤Ä╤é╨╡╤Ç╨╡. CRyptoCrowd Core, ╨▓╨╡╤Ç╨╛╤Å╤é╨╜╨╛, ╤â╨╢╨╡ ╨╖╨░╨┐╤â╤ë╨╡╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╜╨░╨╣╤é╨╕ ╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓, ╨┐╤Ç╨╡╨┤╨╜╨░╨╖╨╜╨░╤ç╨╡╨╜╨╜╤ï╤à ╨┤╨╗╤Å ╨╛╨▒╤ä╤â╤ü╨║╨░╤å╨╕╨╕, ╨┤╨╗╤Å ╤ì╤é╨╛╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRyptoCrowd.</source>♪◙        <translation>╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨╜╨░╨╣╤é╨╕ ╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓, ╨╜╨╡ ╨┐╤Ç╨╡╨┤╨╜╨░╨╖╨╜╨░╤ç╨╡╨╜╨╜╤ï╤à ╨┤╨╗╤Å ╨╛╨▒╤ä╤â╤ü╨║╨░╤å╨╕╨╕, ╨┤╨╗╤Å ╤ì╤é╨╛╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╜╨╡ ╤Ç╨░╨▓╨╜╤ï 10000 CRyptoCrowd.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRyptoCrowd.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╜╨░╨╣╤é╨╕ ╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓ ╨┤╨╗╤Å ╤ì╤é╨╛╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╜╨╡ ╤Ç╨░╨▓╨╜╤ï 10000 CRyptoCrowd.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╨╛╤é╨┤╨╡╨╗╤î╨╜╤ï╨╣ ╨┐╤Ç╨╛╨║╤ü╨╕ SOCKS5 ╨┤╨╗╤Å ╨┤╨╛╤ü╤é╤â╨┐╨░ ╨║ ╤ü╨▓╨╡╤Ç╤ü╤é╨╜╨╕╨║╨░╨╝ ╤ç╨╡╤Ç╨╡╨╖ ╤ü╨║╤Ç╤ï╤é╤ï╨╡ ╤ü╨╡╤Ç╨▓╨╕╤ü╤ï Tor (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: -maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: -maxtxfee ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜ ╨╛╤ç╨╡╨╜╤î ╨▓╤ï╤ü╨╛╨║╨╛! ╨ó╨░╤Ç╨╕╤ä╤ï ╨╜╨░ ╤ì╤é╤â ╤ü╤â╨╝╨╝╤â ╨╝╨╛╨│╤â╤é ╨▒╤ï╤é╤î ╨╛╨┐╨╗╨░╤ç╨╡╨╜╤ï ╨┐╨╛ ╨╛╨┤╨╜╨╛╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: -paytxfee ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜ ╨╛╤ç╨╡╨╜╤î ╨▓╤ï╤ü╨╛╨║╨╛! ╨¡╤é╨╛ ╨║╨╛╨╝╨╕╤ü╤ü╨╕╤Å ╨╖╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä, ╨║╨╛╤é╨╛╤Ç╤â╤Ä ╨▓╤ï ╨╖╨░╨┐╨╗╨░╤é╨╕╤é╨╡, ╨╡╤ü╨╗╨╕ ╨▓╤ï ╨╛╤é╨┐╤Ç╨░╨▓╨╗╤Å╨╡╤é╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRyptoCrowd Core will not work properly.</source>♪◙        <translation>╨Æ╨╜╨╕╨╝╨░╨╜╨╕╨╡: ╨┐╤Ç╨╛╨▓╨╡╤Ç╤î╤é╨╡ ╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╨╛╤ü╤é╤î ╨┤╨░╤é╤ï ╨╕ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╕ ╨▓╨░╤ê╨╡╨│╨╛ ╨║╨╛╨╝╨┐╤î╤Ä╤é╨╡╤Ç╨░! ╨ò╤ü╨╗╨╕ ╨▓╨░╤ê╨╕ ╤ç╨░╤ü╤ï ╨╛╤ê╨╕╨▒╨╛╤ç╨╜╤ï, CRyptoCrowd Core ╨╜╨╡ ╨▒╤â╨┤╨╡╤é ╤Ç╨░╨▒╨╛╤é╨░╤é╤î ╨┤╨╛╨╗╨╢╨╜╤ï╨╝ ╨╛╨▒╤Ç╨░╨╖╨╛╨╝.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: ╤ü╨╡╤é╤î, ╨┐╨╛╤à╨╛╨╢╨╡, ╨╜╨╡ ╨┐╨╛╨╗╨╜╨╛╤ü╤é╤î╤Ä ╤ü╨╛╨│╨╗╨░╤ü╨╜╨░! ╨¥╨╡╨║╨╛╤é╨╛╤Ç╤ï╨╡ , ╨┐╨╛╤à╨╛╨╢╨╡, ╨╕╤ü╨┐╤ï╤é╤ï╨▓╨░╤Ä╤é ╨┐╤Ç╨╛╨▒╨╗╨╡╨╝╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: ╨£╤ï, ╨┐╨╛╤à╨╛╨╢╨╡, ╨╜╨╡ ╨┐╨╛╨╗╨╜╨╛╤ü╤é╤î╤Ä ╤ü╨╛╨│╨╗╨░╤ü╨╜╤ï ╤ü ╨╜╨░╤ê╨╕╨╝╨╕ ╤ü╨▓╨╡╤Ç╤ü╤é╨╜╨╕╨║╨░╨╝╨╕! ╨Æ╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨▓╨░╨╝ ╨┐╨╛╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨╛╨▒╨╜╨╛╨▓╨╕╤é╤î ╨╕╨╗╨╕ ╨┤╤Ç╤â╨│╨╕╨╡ ╤â╨╖╨╗╤ï, ╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╨╛╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨╛╨▒╨╜╨╛╨▓╨╕╤é╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: ╨╛╤ê╨╕╨▒╨║╨░ ╤ç╤é╨╡╨╜╨╕╤Å wallet.dat! ╨Æ╤ü╨╡ ╨║╨╗╤Ä╤ç╨╕ ╤ç╨╕╤é╨░╤Ä╤é╤ü╤Å ╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╨╛, ╨╜╨╛ ╨┤╨░╨╜╨╜╤ï╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╕╨╗╨╕ ╨╖╨░╨┐╨╕╤ü╨╕ ╨░╨┤╤Ç╨╡╤ü╨╜╨╛╨╣ ╨║╨╜╨╕╨│╨╕ ╨╝╨╛╨│╤â╤é ╨╛╤é╤ü╤â╤é╤ü╤é╨▓╨╛╨▓╨░╤é╤î ╨╕╨╗╨╕ ╨╜╨╡╨║╨╛╤Ç╤Ç╨╡╨║╤é╨╜╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: wallet.dat ╨┐╨╛╨▓╤Ç╨╡╨╢╨┤╨╡╨╜, ╨┤╨░╨╜╨╜╤ï╨╡ ╤ü╨┐╨░╤ü╨╡╨╜╤ï! ╨ÿ╤ü╤à╨╛╨┤╨╜╤ï╨╣ wallet.dat ╤ü╨╛╤à╤Ç╨░╨╜╨╡╨╜ ╨║╨░╨║ ╨║╨╛╤ê╨╡╨╗╨╡╨║. {Timestamp} .bak ╨▓ %s; ╨╡╤ü╨╗╨╕ ╨▓╨░╤ê ╨▒╨░╨╗╨░╨╜╤ü ╨╕╨╗╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨╜╨╡╨▓╨╡╤Ç╨╜╤ï, ╨▓╨░╨╝ ╤ü╨╗╨╡╨┤╤â╨╡╤é ╨▓╨╛╤ü╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╤î ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤â╤Ä ╨║╨╛╨┐╨╕╤Ä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>♪◙        <translation>╨í╨┐╨╕╤ü╨╛╨║ ╨▒╨╡╨╗╤ï╤à ╤ü╨┐╨╕╤ü╨║╨╛╨▓, ╤ü╨╛╨╡╨┤╨╕╨╜╤Å╤Ä╤ë╨╕╤à╤ü╤Å ╤ü ╨┤╨░╨╜╨╜╨╛╨╣ ╤ü╨╡╤é╨╡╨▓╨╛╨╣ ╨╝╨░╤ü╨║╨╛╨╣ ╨╕╨╗╨╕ IP-╨░╨┤╤Ç╨╡╤ü╨╛╨╝. ╨£╨╛╨╢╨╡╤é ╨▒╤ï╤é╤î ╤â╨║╨░╨╖╨░╨╜╨╛ ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╤Ç╨░╨╖.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>♪◙        <translation>╨ú╤ç╨╡╤é╨╜╤ï╨╡ ╨╖╨░╨┐╨╕╤ü╨╕ ╨▒╨╡╨╗╤ï╤à ╤ü╨┐╨╕╤ü╨║╨╛╨▓ ╨╜╨╡ ╨╝╨╛╨│╤â╤é ╨▒╤ï╤é╤î ╨╖╨░╨┐╤Ç╨╡╤ë╨╡╨╜╤ï DoS, ╨╕ ╨╕╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨▓╤ü╨╡╨│╨┤╨░ ╨┐╨╡╤Ç╨╡╨┤╨░╤Ä╤é╤ü╤Å, ╨┤╨░╨╢╨╡ ╨╡╤ü╨╗╨╕ ╨╛╨╜╨╕ ╤â╨╢╨╡ ╨╜╨░╤à╨╛╨┤╤Å╤é╤ü╤Å ╨▓ ╨╝╤ì╨┐╨┐╤â╨╗╨╡, ╨┐╨╛╨╗╨╡╨╖╨╜╤ï╨╝╨╕, ╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç, ╨┤╨╗╤Å ╤ê╨╗╤Ä╨╖╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</source>♪◙        <translation>╨Æ╤ï ╨┤╨╛╨╗╨╢╨╜╤ï ╤â╨║╨░╨╖╨░╤é╤î ╨▓  ╤ü╤é╤Ç╨╛╨║╨╡ ╨┐╤Ç╨╕╨╗╨╛╨╢╨╡╨╜╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç. ╨ƒ╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨╛╨▒╤Ç╨░╤é╨╕╤é╨╡╤ü╤î ╨║ ╨┤╨╛╨║╤â╨╝╨╡╨╜╤é╨░╤å╨╕╨╕ ╨┤╨╗╤Å ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å ╤ü╨┐╤Ç╨░╨▓╨║╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>(51472 could be used only on mainnet)</source>♪◙        <translation>(51472 ╨╝╨╛╨╢╨╜╨╛ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╤î ╤é╨╛╨╗╤î╨║╨╛ ╨▓ ╤ü╨╡╤é╨╕)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(default: %s)</source>♪◙        <translation>(╨╜╨╡╤â╨┐╨╗╨░╤é╨░: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(default: 1)</source>♪◙        <translation>(╨╜╨╡╤â╨┐╨╗╨░╤é╨░: 1)</translation>♪◙    </message>♪◙    <message>♪◙        <source>(must be 51472 for mainnet)</source>♪◙        <translation>(╨┤╨╛╨╗╨╢╨╡╨╜ ╨▒╤ï╤é╤î 51472 ╨┤╨╗╤Å mainet)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Accept command line and JSON-RPC commands</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╜╤Å╤é╤î ╨║╨╛╨╝╨░╨╜╨┤╨╜╤â╤Ä ╤ü╤é╤Ç╨╛╨║╤â ╨╕ ╨║╨╛╨╝╨░╨╜╨┤╤ï JSON-RPC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╜╤Å╤é╤î ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å ╨╕╨╖╨▓╨╜╨╡ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: 1, ╨╡╤ü╨╗╨╕ ╨╜╨╡╤é -proxy ╨╕╨╗╨╕ -connect)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Accept public REST requests (default: %u)</source>♪◙        <translation>╨ƒ╤Ç╨╕╨╜╨╕╨╝╨░╤é╤î ╨┐╤â╨▒╨╗╨╕╤ç╨╜╤ï╨╡ ╨╖╨░╨┐╤Ç╨╛╤ü╤ï REST (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Add a node to connect to and attempt to keep the connection open</source>♪◙        <translation>╨ö╨╛╨▒╨░╨▓╤î╤é╨╡ ╤â╨╖╨╡╨╗ ╨┤╨╗╤Å ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å ╨╕ ╨┐╨╛╨┐╤ï╤é╨║╤â ╤ü╨╛╤à╤Ç╨░╨╜╨╕╤é╤î ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╨╡ ╨╛╤é╨║╤Ç╤ï╤é╤ï╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>♪◙        <translation>╨á╨░╨╖╤Ç╨╡╤ê╨╕╤é╤î ╨┐╨╛╨╕╤ü╨║ ╨▓ DNS ╨┤╨╗╤Å -addnode, -seednode ╨╕ -connect</translation>♪◙    </message>♪◙    <message>♪◙        <source>Already have that input.</source>♪◙        <translation>╨ú╨╢╨╡ ╨╡╤ü╤é╤î ╤ì╤é╨╛╤é ╨▓╤à╨╛╨┤.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Always query for peer addresses via DNS lookup (default: %u)</source>♪◙        <translation>╨Æ╤ü╨╡╨│╨┤╨░ ╨╖╨░╨┐╤Ç╨░╤ê╨╕╨▓╨░╤é╤î ╨╛╨┤╨╜╨╛╤Ç╨░╨╜╨│╨╛╨▓╤ï╨╡ ╨░╨┤╤Ç╨╡╤ü╨░ ╤ç╨╡╤Ç╨╡╨╖ DNS-╨┐╨╛╨╕╤ü╨║ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Attempt to recover private keys from a corrupt wallet.dat</source>♪◙        <translation>╨ƒ╨╛╨┐╤ï╤é╨║╨░ ╨▓╨╛╤ü╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╤î ╤ü╨╡╨║╤Ç╨╡╤é╨╜╤ï╨╡ ╨║╨╗╤Ä╤ç╨╕ ╨╕╨╖ ╨┐╨╛╨▓╤Ç╨╡╨╢╨┤╨╡╨╜╨╜╨╛╨│╨╛ ╤ä╨░╨╣╨╗╨░ wallet.dat</translation>♪◙    </message>♪◙    <message>♪◙        <source>Automatically create Tor hidden service (default: %d)</source>♪◙        <translation>╨É╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╤ü╨╛╨╖╨┤╨░╨▓╨░╤é╤î ╤ü╨║╤Ç╤ï╤é╤â╤Ä ╤ü╨╗╤â╨╢╨▒╤â Tor (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Block creation options:</source>♪◙        <translation>╨Æ╨░╤Ç╨╕╨░╨╜╤é╤ï ╤ü╨╛╨╖╨┤╨░╨╜╨╕╤Å ╨▒╨╗╨╛╨║╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Calculating missing accumulators...</source>♪◙        <translation>╨Æ╤ï╤ç╨╕╤ü╨╗╨╡╨╜╨╕╨╡ ╨╜╨╡╨┤╨╛╤ü╤é╨░╤Ä╤ë╨╕╤à ╨░╨║╨║╤â╨╝╤â╨╗╤Å╤é╨╛╤Ç╨╛╨▓ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can't denominate: no compatible inputs left.</source>♪◙        <translation>╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨╛╨▒╨╛╨╖╨╜╨░╤ç╨╕╤é╤î: ╨╜╨╕╨║╨░╨║╨╕╤à ╤ü╨╛╨▓╨╝╨╡╤ü╤é╨╕╨╝╤ï╤à ╨▓╤à╨╛╨┤╨╛╨▓ ╨╜╨╡ ╨╛╤ü╤é╨░╨╗╨╛╤ü╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can't find random Masternode.</source>♪◙        <translation>╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨╜╨░╨╣╤é╨╕ ╤ü╨╗╤â╤ç╨░╨╣╨╜╨╛╨│╨╛ ╨£╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Can't mix while sync in progress.</source>♪◙        <translation>╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨┐╨╡╤Ç╨╡╨╝╨╡╤ê╨░╤é╤î ╨▓╨╛ ╨▓╤Ç╨╡╨╝╤Å ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot downgrade wallet</source>♪◙        <translation>╨¥╨╡╨╗╤î╨╖╤Å ╨┐╨╛╨╜╨╕╨╖╨╕╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot resolve -bind address: '%s'</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╡╤é╤ü╤Å ╤Ç╨░╨╖╤Ç╨╡╤ê╨╕╤é╤î -╨▓╨║╨╗╤Ä╤ç╨╕╤é╤î ╨░╨┤╤Ç╨╡╤ü: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot resolve -externalip address: '%s'</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╡╤é╤ü╤Å ╤Ç╨░╨╖╤Ç╨╡╤ê╨╕╤é╤î -externalip ╨░╨┤╤Ç╨╡╤ü: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot resolve -whitebind address: '%s'</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╡╤é╤ü╤Å ╤Ç╨░╨╖╤Ç╨╡╤ê╨╕╤é╤î -whitebind ╨░╨┤╤Ç╨╡╤ü: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Cannot write default address</source>♪◙        <translation>╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨╖╨░╨┐╨╕╤ü╨░╤é╤î ╨░╨┤╤Ç╨╡╤ü ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Collateral not valid.</source>♪◙        <translation>╨ù╨░╨╗╨╛╨│ ╨╜╨╡╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╨╡╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect only to the specified node(s)</source>♪◙        <translation>╨ƒ╨╛╨┤╨║╨╗╤Ä╤ç╨╕╤é╨╡╤ü╤î ╤é╨╛╨╗╤î╨║╨╛ ╨║ ╤â╨║╨░╨╖╨░╨╜╨╜╨╛╨╝╤â ╤â╨╖╨╗╤â (╤â╨╖╨╗╨░╨╝)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect through SOCKS5 proxy</source>♪◙        <translation>╨ƒ╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╡ ╤ç╨╡╤Ç╨╡╨╖ ╨┐╤Ç╨╛╨║╤ü╨╕ SOCKS5</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connect to a node to retrieve peer addresses, and disconnect</source>♪◙        <translation>╨ƒ╨╛╨┤╨║╨╗╤Ä╤ç╨╕╤é╨╡╤ü╤î ╨║ ╤â╨╖╨╗╤â ╨┤╨╗╤Å ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╕╤Å ╨╛╨┤╨╜╨╛╤Ç╨░╨╜╨│╨╛╨▓╤ï╤à ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ╨╕ ╨╛╤é╨║╨╗╤Ä╤ç╨╕╤é╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Connection options:</source>♪◙        <translation>╨Æ╨░╤Ç╨╕╨░╨╜╤é╤ï ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>♪◙        <translation>Copyright (C) 2009-%i ╨á╨░╨╖╤Ç╨░╨▒╨╛╤é╤ç╨╕╨║╨╕ Bitcoin Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copyright (C) 2014-%i The Dash Core Developers</source>♪◙        <translation>Copyright (C) 2014-%i ╨á╨░╨╖╤Ç╨░╨▒╨╛╤é╤ç╨╕╨║╨╕ Dash Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copyright (C) 2015-%i The CRyptoCrowd Core Developers</source>♪◙        <translation>Copyright (C) 2015-%i ╨á╨░╨╖╤Ç╨░╨▒╨╛╤é╤ç╨╕╨║╨╕ CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Corrupted block database detected</source>♪◙        <translation>╨₧╨▒╨╜╨░╤Ç╤â╨╢╨╡╨╜╨░ ╨┐╨╛╨▓╤Ç╨╡╨╢╨┤╨╡╨╜╨╜╨░╤Å ╨▒╨░╨╖╨░ ╨┤╨░╨╜╨╜╤ï╤à ╨▒╨╗╨╛╨║╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Could not parse masternode.conf</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╤Ç╨░╨╖╨╛╨▒╤Ç╨░╤é╤î masternode.conf</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debugging/Testing options:</source>♪◙        <translation>╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï ╨╛╤é╨╗╨░╨┤╨║╨╕ / ╤é╨╡╤ü╤é╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete blockchain folders and resync from scratch</source>♪◙        <translation>╨ú╨┤╨░╨╗╨╡╨╜╨╕╨╡ ╨┐╨░╨┐╨╛╨║-╤å╨╡╨┐╨╛╤ç╨╡╨║ ╨╕ ╨┐╨╛╨▓╤é╨╛╤Ç╨╜╨░╤Å ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ╤ü ╨╜╤â╨╗╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Disable OS notifications for incoming transactions (default: %u)</source>♪◙        <translation>╨₧╤é╨║╨╗╤Ä╤ç╨╕╤é╤î ╤â╨▓╨╡╨┤╨╛╨╝╨╗╨╡╨╜╨╕╤Å ╨₧╨í ╨┤╨╗╤Å ╨▓╤à╨╛╨┤╤Å╤ë╨╕╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Disable safemode, override a real safe mode event (default: %u)</source>♪◙        <translation>╨₧╤é╨║╨╗╤Ä╤ç╨╕╤é╤î ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╤ï╨╣ ╤Ç╨╡╨╢╨╕╨╝, ╨┐╨╡╤Ç╨╡╨╛╨┐╤Ç╨╡╨┤╨╡╨╗╨╕╤é╤î ╤Ç╨╡╨░╨╗╤î╨╜╨╛╨╡ ╤ü╨╛╨▒╤ï╤é╨╕╨╡ ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╨│╨╛ ╤Ç╨╡╨╢╨╕╨╝╨░ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Discover own IP address (default: 1 when listening and no -externalip)</source>♪◙        <translation>╨₧╤é╨║╤Ç╨╛╨╣╤é╨╡ ╤ü╨╛╨▒╤ü╤é╨▓╨╡╨╜╨╜╤ï╨╣ IP-╨░╨┤╤Ç╨╡╤ü (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: 1 ╨┐╤Ç╨╕ ╨┐╤Ç╨╛╤ü╨╗╤â╤ê╨╕╨▓╨░╨╜╨╕╨╕ ╨╕ ╨▒╨╡╨╖ -externalip)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Do not load the wallet and disable wallet RPC calls</source>♪◙        <translation>╨¥╨╡ ╨╖╨░╨│╤Ç╤â╨╢╨░╨╣╤é╨╡ ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨╕ ╨╛╤é╨║╨╗╤Ä╤ç╨╕╤é╨╡ ╨▓╤ï╨╖╨╛╨▓╤ï RPC ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Do you want to rebuild the block database now?</source>♪◙        <translation>╨Æ╤ï ╤à╨╛╤é╨╕╤é╨╡ ╨┐╨╡╤Ç╨╡╤ü╤é╤Ç╨╛╨╕╤é╤î ╨▒╨░╨╖╤â ╨┤╨░╨╜╨╜╤ï╤à ╨▒╨╗╨╛╨║╨╛╨▓ ╤ü╨╡╨╣╤ç╨░╤ü?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Done loading</source>♪◙        <translation>╨ù╨░╨│╤Ç╤â╨╖╨║╨░ ╨▓╤ï╨┐╨╛╨╗╨╜╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable automatic Zerocoin minting (0-1, default: %u)</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╤â╤Ä ╤ç╨╕╤ü╤é╨║╤â Zerocoin (0-1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish hash transaction (locked via SwiftX) in &lt;address&gt;</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╨┐╤â╨▒╨╗╨╕╨║╨░╤å╨╕╤Ä ╤à╨╡╤ê-╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ (╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜╨╜╨╛╨╣ ╤ç╨╡╤Ç╨╡╨╖ SwiftX) ╨▓ &lt;address&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish raw transaction (locked via SwiftX) in &lt;address&gt;</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╨┐╤â╨▒╨╗╨╕╨║╨░╤å╨╕╤Ä ╨╜╨╡╨╛╨▒╤Ç╨░╨▒╨╛╤é╨░╨╜╨╜╤ï╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ (╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╤à ╤ç╨╡╤Ç╨╡╨╖ SwiftX) ╨▓ &lt;address&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable the client to act as a masternode (0-1, default: %u)</source>♪◙        <translation>╨á╨░╨╖╤Ç╨╡╤ê╨╕╤é╤î ╨║╨╗╨╕╨╡╨╜╤é╤â ╨┤╨╡╨╣╤ü╤é╨▓╨╛╨▓╨░╤é╤î ╨║╨░╨║ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤ (0-1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Entries are full.</source>♪◙        <translation>╨ù╨░╨┐╨╕╤ü╨╕ ╨╖╨░╨┐╨╛╨╗╨╜╨╡╨╜╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error connecting to Masternode.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å ╨║ Masternode.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error initializing block database</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨╕╨╜╨╕╤å╨╕╨░╨╗╨╕╨╖╨░╤å╨╕╨╕ ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à ╨▒╨╗╨╛╨║╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error initializing wallet database environment %s!</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨╕╨╜╨╕╤å╨╕╨░╨╗╨╕╨╖╨░╤å╨╕╨╕ ╤ü╤Ç╨╡╨┤╤ï ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ %s!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error loading block database</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨╖╨░╨│╤Ç╤â╨╖╨║╨╕ ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à ╨▒╨╗╨╛╨║╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error loading wallet.dat</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨┐╤Ç╨╕ ╨╖╨░╨│╤Ç╤â╨╖╨║╨╡ wallet.dat</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error loading wallet.dat: Wallet corrupted</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨┐╤Ç╨╕ ╨╖╨░╨│╤Ç╤â╨╖╨║╨╡ wallet.dat: ╨Ü╨╛╤ê╨╡╨╗╨╡╨║ ╨┐╨╛╨▓╤Ç╨╡╨╢╨┤╨╡╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨╖╨░╨│╤Ç╤â╨╖╨║╨╕ wallet.dat: ╨Ü╨╛╤ê╨╡╨╗╨╡╨║ ╤é╤Ç╨╡╨▒╤â╨╡╤é ╨▒╨╛╨╗╨╡╨╡ ╨╜╨╛╨▓╨╛╨╣ ╨▓╨╡╤Ç╤ü╨╕╨╕ CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error opening block database</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨╛╤é╨║╤Ç╤ï╤é╨╕╤Å ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à ╨▒╨╗╨╛╨║╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error reading from database, shutting down.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╤ç╤é╨╡╨╜╨╕╤Å ╨╕╨╖ ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à, ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜╨╕╨╡ ╤Ç╨░╨▒╨╛╤é╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error recovering public key.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╨┐╤Ç╨╕ ╨▓╨╛╤ü╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╕ ╨╛╤é╨║╤Ç╤ï╤é╨╛╨│╨╛ ╨║╨╗╤Ä╤ç╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: A fatal internal error occured, see debug.log for details</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨┐╤Ç╨╛╨╕╨╖╨╛╤ê╨╗╨░ ╤ä╨░╤é╨░╨╗╤î╨╜╨░╤Å ╨▓╨╜╤â╤é╤Ç╨╡╨╜╨╜╤Å╤Å ╨╛╤ê╨╕╨▒╨║╨░, ╨┐╨╛╨┤╤Ç╨╛╨▒╨╜╨╛╤ü╤é╨╕ ╤ü╨╝. ╨Æ ╤ä╨░╨╣╨╗╨╡ debug.log.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Can't select current denominated inputs</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╨▓╤ï╨▒╤Ç╨░╤é╤î ╤é╨╡╨║╤â╤ë╨╕╨╡ ╨▓╤à╨╛╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Disk space is low!</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░. ╨¥╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╨╝╨╡╤ü╤é╨░ ╨╜╨░ ╨┤╨╕╤ü╨║╨╡!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Unsupported argument -tor found, use -onion.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨¥╨╡╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╡╨╝╤ï╨╣ ╨░╤Ç╨│╤â╨╝╨╡╨╜╤é -tor ╨╜╨░╨╣╨┤╨╡╨╜, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ -onion.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Wallet locked, unable to create transaction!</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨║╨╛╤ê╨╡╨╗╨╡╨║ ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜, ╨╜╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╤ü╨╛╨╖╨┤╨░╤é╤î ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: You already have pending entries in the Obfuscation pool</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░. ╨ú ╨▓╨░╤ü ╤â╨╢╨╡ ╨╡╤ü╤é╤î ╨╛╨╢╨╕╨┤╨░╤Ä╤ë╨╕╨╡ ╨╖╨░╨┐╨╕╤ü╨╕ ╨▓ ╨┐╤â╨╗╨╡ Obfuscation.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to calculate accumulator checkpoint</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨▓╤ï╤ç╨╕╤ü╨╗╨╕╤é╤î ╨║╨╛╨╜╤é╤Ç╨╛╨╗╤î╨╜╤â╤Ä ╤é╨╛╤ç╨║╤â ╨░╨║╨║╤â╨╝╤â╨╗╤Å╤é╨╛╤Ç╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to listen on any port. Use -listen=0 if you want this.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┐╤Ç╨╛╤ü╨╗╤â╤ê╨╕╨▓╨░╤é╤î ╨╗╤Ä╨▒╨╛╨╣ ╨┐╨╛╤Ç╤é. ╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ -listen = 0, ╨╡╤ü╨╗╨╕ ╨▓╤ï ╤ì╤é╨╛╨│╨╛ ╤à╨╛╤é╨╕╤é╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to read block</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┐╤Ç╨╛╤ç╨╕╤é╨░╤é╤î ╨▒╨╗╨╛╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>♪◙        <translation>╨ƒ╨╗╨░╤é╨░ (╨▓ CRyptoCrowd / kB) ╨┤╨╗╤Å ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╨╕╤Å ╨║ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å╨╝, ╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨▓╤ï ╨╛╤é╨┐╤Ç╨░╨▓╨╗╤Å╨╡╤é╨╡ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Finalizing transaction.</source>♪◙        <translation>╨ù╨░╨▓╨╡╤Ç╤ê╨╡╨╜╨╕╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Force safe mode (default: %u)</source>♪◙        <translation>╨á╨╡╨╢╨╕╨╝ ╨┐╤Ç╨╕╨╜╤â╨┤╨╕╤é╨╡╨╗╤î╨╜╨╛╨╣ ╨╖╨░╤ë╨╕╤é╤ï (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Found enough users, signing ( waiting %s )</source>♪◙        <translation>╨¥╨░╨╣╨┤╨╡╨╜╨╛ ╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╨╡╨╣, ╨┐╨╛╨┤╨┐╨╕╤ü╤ï╨▓╨░╨╜╨╕╨╡ (╨╛╨╢╨╕╨┤╨░╨╜╨╕╨╡ %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Found enough users, signing ...</source>♪◙        <translation>╨¥╨░╤ê╨╡╨╗ ╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╨╡╨╣, ╨┐╨╛╨┤╨┐╨╕╤ü╨░╨╗ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Generate coins (default: %u)</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨╝╨╛╨╜╨╡╤é (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>How many blocks to check at startup (default: %u, 0 = all)</source>♪◙        <translation>╨í╨║╨╛╨╗╤î╨║╨╛ ╨▒╨╗╨╛╨║╨╛╨▓ ╨┐╤Ç╨╛╨▓╨╡╤Ç╤Å╨╡╤é╤ü╤Å ╨┐╤Ç╨╕ ╨╖╨░╨┐╤â╤ü╨║╨╡ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u, 0 = all)</translation>♪◙    </message>♪◙    <message>♪◙        <source>If &lt;category&gt; is not supplied, output all debugging information.</source>♪◙        <translation>╨ò╤ü╨╗╨╕ &lt;category&gt;╨╜╨╡ ╨┐╤Ç╨╡╨┤╨╛╤ü╤é╨░╨▓╨╗╤Å╨╡╤é╤ü╤Å, ╨▓╤ï╨▓╨╛╨┤╨╕╤é ╨▓╤ü╤Ä ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Ä ╨╛╨▒ ╨╛╤é╨╗╨░╨┤╨║╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Importing...</source>♪◙        <translation>╨ÿ╨╝╨┐╨╛╤Ç╤é ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Imports blocks from external blk000??.dat file</source>♪◙        <translation>╨ÿ╨╝╨┐╨╛╤Ç╤é╨╕╤Ç╤â╨╡╤é ╨▒╨╗╨╛╨║╨╕ ╨╕╨╖ ╨▓╨╜╨╡╤ê╨╜╨╡╨│╨╛ ╤ä╨░╨╣╨╗╨░ blk000 ?? .dat</translation>♪◙    </message>♪◙    <message>♪◙        <source>Include IP addresses in debug output (default: %u)</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î IP-╨░╨┤╤Ç╨╡╤ü╨░ ╨▓ ╨╛╤é╨╗╨░╨┤╨╛╤ç╨╜╨╛╨╝ ╨▓╤ï╤à╨╛╨┤╨╡ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Incompatible mode.</source>♪◙        <translation>╨¥╨╡╤ü╨╛╨▓╨╝╨╡╤ü╤é╨╕╨╝╤ï╨╣ ╤Ç╨╡╨╢╨╕╨╝.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Incompatible version.</source>♪◙        <translation>╨¥╨╡╤ü╨╛╨▓╨╝╨╡╤ü╤é╨╕╨╝╨░╤Å ╨▓╨╡╤Ç╤ü╨╕╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Incorrect or no genesis block found. Wrong datadir for network?</source>♪◙        <translation>╨¥╨╡╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╤ï╨╣ ╨╕╨╗╨╕ ╨╜╨╡ ╨╛╨▒╨╜╨░╤Ç╤â╨╢╨╡╨╜╨╜╤ï╨╣ ╨▒╨╗╨╛╨║ ╨│╨╡╨╜╨╡╨╖╨╕╤ü╨░. ╨¥╨╡╨▓╨╡╤Ç╨╜╤ï╨╣ ╨║╨░╤é╨░╨╗╨╛╨│ ╨┤╨░╨╜╨╜╤ï╤à ╨┤╨╗╤Å ╤ü╨╡╤é╨╕?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>╨ÿ╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Initialization sanity check failed. CRyptoCrowd Core is shutting down.</source>♪◙        <translation>╨ÿ╨╜╨╕╤å╨╕╨░╨╗╨╕╨╖╨░╤å╨╕╤Å ╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╨╕ ╤Ç╨░╨▒╨╛╤é╨╛╤ü╨┐╨╛╤ü╨╛╨▒╨╜╨╛╤ü╤é╨╕ ╨╜╨╡ ╤â╨┤╨░╨╗╨░╤ü╤î. CRyptoCrowd Core ╨╛╤é╨║╨╗╤Ä╤ç╨░╨╡╤é╤ü╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Input is not valid.</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ ╨▓╨▓╨╛╨┤.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient funds</source>♪◙        <translation>╨¥╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Insufficient funds.</source>♪◙        <translation>╨¥╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid -onion address or hostname: '%s'</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ -╨╛╨╜╨╕╨╛╨╜╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü ╨╕╨╗╨╕ ╨╕╨╝╤Å ╤à╨╛╤ü╤é╨░: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨┤╨╗╤Å -maxtxfee =&lt;amount&gt;: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨┤╨╗╤Å -minrelaytxfee&lt;amount&gt;: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨┤╨╗╤Å -mintxfee =&lt;amount&gt;: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>♪◙        <translation>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (╨┤╨╛╨╗╨╢╨╡╨╜ ╨▒╤ï╤é╤î ╨╜╨╡ ╨╝╨╡╨╜╨╡╨╡%s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨┤╨╗╤Å -paytxfee =&lt;amount&gt;: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨░╤Å ╤ü╤â╨╝╨╝╨░ ╨┤╨╗╤Å -reservebalance =&lt;amount&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid amount</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨░╤Å ╤ü╤â╨╝╨╝╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid masternodeprivkey. Please see documenation.</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ ╤ü╨╡╨║╤Ç╨╡╤é╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç. ╨í╨╝. ╨ö╨╛╨║╤â╨╝╨╡╨╜╤é╨░╤å╨╕╤Ä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid netmask specified in -whitelist: '%s'</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╨░╤Å ╤ü╨╡╤é╨╡╨▓╨░╤Å ╨╝╨░╤ü╨║╨░, ╤â╨║╨░╨╖╨░╨╜╨╜╨░╤Å ╨▓ -whitelist: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid port detected in masternode.conf</source>♪◙        <translation>╨¥╨╡╨▓╨╡╤Ç╨╜╤ï╨╣ ╨┐╨╛╤Ç╤é ╨╛╨▒╨╜╨░╤Ç╤â╨╢╨╡╨╜ ╨▓ ╤ä╨░╨╣╨╗╨╡ masternode.conf</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid private key.</source>♪◙        <translation>╨¥╨╡╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ ╨╖╨░╨║╤Ç╤ï╤é╤ï╨╣ ╨║╨╗╤Ä╤ç.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Invalid script detected.</source>♪◙        <translation>╨₧╨▒╨╜╨░╤Ç╤â╨╢╨╡╨╜ ╨╜╨╡╨▓╨╡╤Ç╨╜╤ï╨╣ ╤ü╤å╨╡╨╜╨░╤Ç╨╕╨╣.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Percentage of automatically minted Zerocoin  (1-100, default: %u)</source>♪◙        <translation>╨ƒ╤Ç╨╛╤å╨╡╨╜╤é ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╨╛╤é╤ç╨╡╨║╨░╨╜╨╡╨╜╨╜╨╛╨│╨╛ Zerocoin (1-100, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>♪◙        <translation>Reindex ╤ü╤é╨░╤é╨╕╤ü╤é╨╕╨║╨░ ╨┤╨╡╨╜╨╡╨╢╨╜╨╛╨╣ ╨╝╨░╤ü╤ü╤ï CRyptoCrowd ╨╕ zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindexing zerocoin database...</source>♪◙        <translation>╨á╨╡╨╕╨╜╨┤╨╡╨║╤ü╨╕╤Ç╤â╤Ä╤ë╨░╤Å ╨▒╨░╨╖╨░ ╨┤╨░╨╜╨╜╤ï╤à ╨╜╤â╨╗╨╡╨▓╨╛╨│╨╛ ╤å╨╕╨║╨╗╨░ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindexing zerocoin failed</source>♪◙        <translation>╨ƒ╨╛╨▓╤é╨╛╤Ç╨╜╤ï╨╣ ╨╛╨▒╨╝╨╡╨╜ ╨╖╨╡╤Ç╨╛╨║╨╛╨╕╨╜╤é╨░ ╨╜╨╡ ╤â╨┤╨░╨╗╤ü╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Selected coins value is less than payment target</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╨╜╨╜╨░╤Å ╤ü╤é╨╛╨╕╨╝╨╛╤ü╤é╤î ╨╝╨╛╨╜╨╡╤é ╨╝╨╡╨╜╤î╤ê╨╡ ╤å╨╡╨╗╨╕ ╨┐╨╗╨░╤é╨╡╨╢╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>SwiftX options:</source>♪◙        <translation>╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï SwiftX:</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is a pre-release test build - use at your own risk - do not use for staking or merchant applications!</source>♪◙        <translation>╨¡╤é╨╛ ╨┐╤Ç╨╡╨┤╨▓╨░╤Ç╨╕╤é╨╡╨╗╤î╨╜╨░╤Å ╨▓╨╡╤Ç╤ü╨╕╤Å ╤ü╨▒╨╛╤Ç╨║╨╕ - ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╨╜╨░ ╤ü╨▓╨╛╨╣ ╤ü╤é╤Ç╨░╤à ╨╕ ╤Ç╨╕╤ü╨║ - ╨╜╨╡ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╨┤╨╗╤Å ╤ü╤é╨░╨▓╨╛╨║ ╨╕╨╗╨╕ ╨║╨╛╨╝╨╝╨╡╤Ç╤ç╨╡╤ü╨║╨╕╤à ╨┐╤Ç╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╣!</translation>♪◙    </message>♪◙    <message>♪◙        <source> mints deleted♪◙</source>♪◙        <translation>╤â╨┤╨░╨╗╨╡╨╜╤ï ╨╝╨╛╨╜╨╡╤é╤ï♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source> mints updated, </source>♪◙        <translation>╨╝╨╛╨╜╨╡╤é╤ï ╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╤ï,</translation>♪◙    </message>♪◙    <message>♪◙        <source> unconfirmed transactions removed♪◙</source>♪◙        <translation>╤â╨┤╨░╨╗╨╡╨╜╤ï ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕♪◙</translation>♪◙    </message>♪◙    <message>♪◙        <source>Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>♪◙        <translation>╨₧╤é╨║╨╗╤Ä╤ç╨╕╤é╨╡ ╨▓╤ü╨╡ ╤ü╨┐╨╡╤å╨╕╤ä╨╕╤ç╨╡╤ü╨║╨╕╨╡ ╤ä╤â╨╜╨║╤å╨╕╨╕ CRyptoCrowd (Masternodes, Zerocoin, SwiftX, ╨æ╤Ä╨┤╨╢╨╡╤é╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡) (0-1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î SwiftX, ╨┐╨╛╨║╨░╨╖╨░╤é╤î ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╤Å ╨┤╨╗╤Å ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜╨╜╤ï╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ (bool, default: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╨▒╤ï╨╗╨░ ╨╛╤é╨║╨╗╨╛╨╜╨╡╨╜╨░! ╨¡╤é╨╛ ╨╝╨╛╨╢╨╡╤é ╨┐╤Ç╨╛╨╕╨╖╨╛╨╣╤é╨╕, ╨╡╤ü╨╗╨╕ ╨╜╨╡╨║╨╛╤é╨╛╤Ç╤ï╨╡ ╨╕╨╖ ╨╝╨╛╨╜╨╡╤é ╨▓ ╨▓╨░╤ê╨╡╨╝ ╨║╨╛╤ê╨╡╨╗╤î╨║╨╡ ╤â╨╢╨╡ ╨▒╤ï╨╗╨╕ ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╤ï, ╨╜╨░╨┐╤Ç╨╕╨╝╨╡╤Ç, ╨╡╤ü╨╗╨╕ ╨▓╤ï ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╗╨╕ ╨║╨╛╨┐╨╕╤Ä ╨║╨╛╤ê╨╡╨╗╤î╨║╨░. Dat ╨╕ ╨╝╨╛╨╜╨╡╤é╤ï ╨▒╤ï╨╗╨╕ ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╤ï ╨▓ ╨║╨╛╨┐╨╕╨╕, ╨╜╨╛ ╨╜╨╡ ╨╛╤é╨╝╨╡╤ç╨╡╨╜╤ï ╨║╨░╨║ ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╨╜╤ï╨╡ ╨╖╨┤╨╡╤ü╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░. ╨ö╨╗╤Å ╤ì╤é╨╛╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨║╨╛╨╝╨╕╤ü╤ü╨╕╤Å ╨╖╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä ╨╜╨╡ ╨╝╨╡╨╜╨╡╨╡ %s ╨╕╨╖-╨╖╨░ ╨╡╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨░, ╤ü╨╗╨╛╨╢╨╜╨╛╤ü╤é╨╕ ╨╕╨╗╨╕ ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╤Å ╨╜╨╡╨┤╨░╨▓╨╜╨╛ ╨┐╨╛╨╗╤â╤ç╨╡╨╜╨╜╤ï╤à ╤ü╤Ç╨╡╨┤╤ü╤é╨▓!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: Unsupported argument -checklevel found. Checklevel must be level 4.</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨╛╨▒╨╜╨░╤Ç╤â╨╢╨╡╨╜ ╨╜╨╡╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╡╨╝╤ï╨╣ ╨░╤Ç╨│╤â╨╝╨╡╨╜╤é -checklevel. ╨Ü╨╛╨╜╤é╤Ç╨╛╨╗╤î╨╜╤ï╨╣ ╤â╤Ç╨╛╨▓╨╡╨╜╤î ╨┤╨╛╨╗╨╢╨╡╨╜ ╨▒╤ï╤é╤î 4-╨│╨╛ ╤â╤Ç╨╛╨▓╨╜╤Å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Execute command when the best block changes and its size is over (%s in cmd is replaced by block hash, %d with the block size)</source>♪◙        <translation>╨Æ╤ï╨┐╨╛╨╗╨╜╤Å╤é╤î ╨║╨╛╨╝╨░╨╜╨┤╤â, ╨║╨╛╨│╨┤╨░ ╨╗╤â╤ç╤ê╨╕╨╣ ╨▒╨╗╨╛╨║ ╨╕╨╖╨╝╨╡╨╜╤Å╨╡╤é╤ü╤Å ╨╕ ╨╡╨│╨╛ ╤Ç╨░╨╖╨╝╨╡╤Ç ╨┐╤Ç╨╡╨▓╤ï╤ê╨░╨╡╤é (%s ╨▓ cmd ╨╖╨░╨╝╨╡╨╜╤Å╨╡╤é╤ü╤Å ╨▒╨╗╨╛╤ç╨╜╤ï╨╝ ╤à╨╡╤ê╨╡╨╝, %d ╤ü ╤Ç╨░╨╖╨╝╨╡╤Ç╨╛╨╝ ╨▒╨╗╨╛╨║╨░)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to find coin set amongst held coins with less than maxNumber of Spends</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╜╨░╨╣╤é╨╕ ╨╝╨╛╨╜╨╡╤é╤â, ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╜╤â╤Ä ╤ü╤Ç╨╡╨┤╨╕ ╤â╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╡╨╝╤ï╤à ╨╝╨╛╨╜╨╡╤é ╤ü ╨╝╨╕╨╜╨╕╨╝╨░╨╗╤î╨╜╤ï╨╝ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛╨╝ ╤Ç╨░╤ü╤à╨╛╨┤╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>In rare cases, a spend with 7 coins exceeds our maximum allowable transaction size, please retry spend using 6 or less coins</source>♪◙        <translation>╨Æ ╤Ç╨╡╨┤╨║╨╕╤à ╤ü╨╗╤â╤ç╨░╤Å╤à ╤é╤Ç╨░╤é╨░ ╤ü 7 ╨╝╨╛╨╜╨╡╤é╨░╨╝╨╕ ╨┐╤Ç╨╡╨▓╤ï╤ê╨░╨╡╤é ╨╜╨░╤ê ╨╝╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨╛ ╨┤╨╛╨┐╤â╤ü╤é╨╕╨╝╤ï╨╣ ╤Ç╨░╨╖╨╝╨╡╤Ç ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕, ╨┐╨╛╨╢╨░╨╗╤â╨╣╤ü╤é╨░, ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╨┐╨╛╤é╤Ç╨░╤é╨╕╤é╤î, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╤Å 6 ╨╕╨╗╨╕ ╨╝╨╡╨╜╨╡╨╡ ╨╝╨╛╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Preferred Denomination for automatically minted Zerocoin  (1/5/10/50/100/500/1000/5000), 0 for no preference. default: %u)</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╨┐╨╛╤ç╤é╨╕╤é╨╡╨╗╤î╨╜╤ï╨╣ ╨╜╨╛╨╝╨╕╨╜╨░╨╗ ╨┤╨╗╤Å ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╕ ╤ç╨╡╨║╨░╨╜╨╕╨▓╤ê╨╡╨│╨╛╤ü╤Å Zerocoin (1/5/10/50/100/500/1000/5000), 0 ╨▒╨╡╨╖ ╨┐╤Ç╨╡╨┤╨┐╨╛╤ç╤é╨╡╨╜╨╕╨╣. default: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╤ü╨╛╨▒╤ü╤é╨▓╨╡╨╜╨╜╤ï╨╣ ╨┐╤â╤é╤î ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨╛╨│╨╛ ╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å, ╤ç╤é╨╛╨▒╤ï ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î ╨║╨╛╨┐╨╕╤Ä ╨╗╤Ä╨▒╨╛╨╣ ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╛╨╣ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨╛╨╣ ╨║╨╛╨┐╨╕╨╕ zXCRC. ╨ò╤ü╨╗╨╕ ╨╖╨░╨┤╨░╨╜╨╛ ╨║╨░╨║ dir, ╨║╨░╨╢╨┤╨░╤Å ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨░╤Å ╨║╨╛╨┐╨╕╤Å ╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╤â╨╡╤é ╤ä╨░╨╣╨╗ ╤ü ╨╛╤é╨╝╨╡╤é╨║╨╛╨╣ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╕. ╨ò╤ü╨╗╨╕ ╨╛╨╜ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜ ╨║╨░╨║ ╤ä╨░╨╣╨╗, ╨╛╨╜ ╨▒╤â╨┤╨╡╤é ╨┐╨╡╤Ç╨╡╨┐╨╕╤ü╤ï╨▓╨░╤é╤î ╨▓ ╤ì╤é╨╛╤é ╤ä╨░╨╣╨╗ ╨║╨░╨╢╨┤╤â╤Ä ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤â╤Ä ╨║╨╛╨┐╨╕╤Ä. ╨ò╤ü╨╗╨╕ ╤é╨░╨║╨╢╨╡ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╨╣ ╨┐╤â╤é╤î, ╨┐╤Ç╨╛╨╕╨╖╨╛╨╣╨┤╨╡╤é 4 ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╤à ╨║╨╛╨┐╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╤ü╨╛╨▒╤ü╤é╨▓╨╡╨╜╨╜╤ï╨╣ ╨┐╤â╤é╤î ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨╛╨│╨╛ ╨║╨╛╨┐╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å, ╤ç╤é╨╛╨▒╤ï ╨┤╨╛╨▒╨░╨▓╨╕╤é╤î ╨║╨╛╨┐╨╕╤Ä ╨╗╤Ä╨▒╨╛╨╣ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨╛╨╣ ╨║╨╛╨┐╨╕╨╕ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░. ╨ò╤ü╨╗╨╕ ╨╖╨░╨┤╨░╨╜╨╛ ╨║╨░╨║ dir, ╨║╨░╨╢╨┤╨░╤Å ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╨░╤Å ╨║╨╛╨┐╨╕╤Å ╨│╨╡╨╜╨╡╤Ç╨╕╤Ç╤â╨╡╤é ╤ä╨░╨╣╨╗ ╤ü ╨╛╤é╨╝╨╡╤é╨║╨╛╨╣ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╕. ╨ò╤ü╨╗╨╕ ╨╛╨╜ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜ ╨║╨░╨║ ╤ä╨░╨╣╨╗, ╨╛╨╜ ╨▒╤â╨┤╨╡╤é ╨┐╨╡╤Ç╨╡╨┐╨╕╤ü╤ï╨▓╨░╤é╤î ╨▓ ╤ì╤é╨╛╤é ╤ä╨░╨╣╨╗ ╨║╨░╨╢╨┤╤â╤Ä ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤â╤Ä ╨║╨╛╨┐╨╕╤Ä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>SwiftX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</source>♪◙        <translation>SwiftX ╤é╤Ç╨╡╨▒╤â╨╡╤é ╨▓╨▓╨╛╨┤╨░ ╤ü ╨╜╨╡ ╨╝╨╡╨╜╨╡╨╡ ╤ç╨╡╨╝ 6 ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╕╤Å╨╝╨╕, ╨▓╨░╨╝ ╨╝╨╛╨╢╨╡╤é ╨┐╨╛╤é╤Ç╨╡╨▒╨╛╨▓╨░╤é╤î╤ü╤Å ╨╜╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╨╝╨╕╨╜╤â╤é ╨╕ ╨┐╨╛╨▓╤é╨╛╤Ç╨╕╤é╨╡ ╨┐╨╛╨┐╤ï╤é╨║╤â.</translation>♪◙    </message>♪◙    <message>♪◙        <source>&lt;category&gt; can be:</source>♪◙        <translation>&lt;category&gt; ╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Attempt to force blockchain corruption recovery</source>♪◙        <translation>╨ƒ╨╛╨┐╤ï╤é╨║╨░ ╨┐╤Ç╨╕╨╜╤â╨┤╨╕╤é╨╡╨╗╤î╨╜╨╛╨│╨╛ ╨▓╨╛╤ü╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╤Å ╨▒╨╗╨╛╨║╨░╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>CoinSpend: Accumulator witness does not verify</source>♪◙        <translation>CoinSpend: ╨í╨▓╨╕╨┤╨╡╤é╨╡╨╗╤î ╨É╨║╨║╤â╨╝╤â╨╗╤Å╤é╨╛╤Ç╨░ ╨╜╨╡ ╨┐╤Ç╨╛╨▓╨╡╤Ç╤Å╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Display the stake modifier calculations in the debug.log file.</source>♪◙        <translation>╨₧╤é╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╨╡ ╤Ç╨░╤ü╤ç╨╡╤é╨╛╨▓ ╨╝╨╛╨┤╨╕╤ä╨╕╨║╨░╤é╨╛╤Ç╨░ ╨║╨╛╨╗╨░ ╨▓ ╤ä╨░╨╣╨╗╨╡ debug.log.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Display verbose coin stake messages in the debug.log file.</source>♪◙        <translation>╨₧╤é╨╛╨▒╤Ç╨░╨╢╨░╤é╤î ╨┐╨╛╨┤╤Ç╨╛╨▒╨╜╤ï╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å ╤ü ╨╝╨╛╨╜╨╡╤é╨░╨╝╨╕ ╨▓ ╤ä╨░╨╣╨╗╨╡ debug.log.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish hash block in &lt;address&gt;</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╨┐╤â╨▒╨╗╨╕╨║╨░╤å╨╕╤Ä ╤à╨╡╤ê-╨▒╨╗╨╛╨║╨░ ╨▓ &lt;address&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish hash transaction in &lt;address&gt;</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╨┐╤â╨▒╨╗╨╕╨║╨░╤å╨╕╤Ä ╤à╨╡╤ê-╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨▓ &lt;address&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish raw block in &lt;address&gt;</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╨┐╤â╨▒╨╗╨╕╨║╨░╤å╨╕╤Ä ╨╜╨╡╨╛╨▒╤Ç╨░╨▒╨╛╤é╨░╨╜╨╜╨╛╨│╨╛ ╨▒╨╗╨╛╨║╨░ ╨▓&lt;address&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable publish raw transaction in &lt;address&gt;</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╨┐╤â╨▒╨╗╨╕╨║╨░╤å╨╕╤Ä ╨╜╨╡╨╛╨▒╤Ç╨░╨▒╨╛╤é╨░╨╜╨╜╤ï╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╨▓ &lt;address&gt;</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enable staking functionality (0-1, default: %u)</source>♪◙        <translation>╨Æ╨║╨╗╤Ä╤ç╨╕╤é╤î ╤ä╤â╨╜╨║╤å╨╕╤Ä ╤Ç╨░╨╖╨▒╨╕╨▓╨║╨╕ (0-1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: A fatal internal error occurred, see debug.log for details</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨┐╤Ç╨╛╨╕╨╖╨╛╤ê╨╗╨░ ╤ä╨░╤é╨░╨╗╤î╨╜╨░╤Å ╨▓╨╜╤â╤é╤Ç╨╡╨╜╨╜╤Å╤Å ╨╛╤ê╨╕╨▒╨║╨░, ╨┐╨╛╨┤╤Ç╨╛╨▒╨╜╨╡╨╡ ╤ü╨╝. Debug.log.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error: No valid utxo!</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░: ╨╜╨╡╤é ╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╨╛╨│╨╛ utxo!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to create mint</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╤ü╨╛╨╖╨┤╨░╤é╤î ╨╝╨╛╨╜╨╡╤é╨╜╤ï╨╣ ╨┤╨▓╨╛╤Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to deserialize</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┤╨╡╤ü╨╡╤Ç╨╕╨░╨╗╨╕╨╖╨╛╨▓╨░╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to find Zerocoins in wallet.dat</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╜╨░╨╣╤é╨╕ Zerocoins ╨▓ ╤ä╨░╨╣╨╗╨╡ wallet.dat</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to select a zerocoin</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨▓╤ï╨▒╤Ç╨░╤é╤î ╨╖╨╡╤Ç╨╛╨║╨╛╨╕╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to wipe zerocoinDB</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨▓╤ï╤é╨╡╤Ç╨╡╤é╤î zerocoinDB</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to write coin serial number into wallet</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╖╨░╨┐╨╕╤ü╨░╤é╤î ╤ü╨╡╤Ç╨╕╨╣╨╜╤ï╨╣ ╨╜╨╛╨╝╨╡╤Ç ╨╝╨╛╨╜╨╡╤é╤ï ╨▓ ╨║╨╛╤ê╨╡╨╗╨╡╨║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>♪◙        <translation>╨¥╨╡╨┐╤Ç╨╡╤Ç╤ï╨▓╨╜╤ï╨╡  &lt;n&gt; ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨▓ ╨┐╨░╨╝╤Å╤é╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last Obfuscation was too recent.</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡╨┤╨╜╤Å╤Å ╨╛╨▒╤ä╤â╤ü╨║╨░╤å╨╕╤Å ╨▒╤ï╨╗╨░ ╤ü╨╗╨╕╤ê╨║╨╛╨╝ ╨┐╨╛╨╖╨┤╨╜╨╡╨╣.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Last successful Obfuscation action was too recent.</source>♪◙        <translation>╨ƒ╨╛╤ü╨╗╨╡╨┤╨╜╤Å╤Å ╤â╤ü╨┐╨╡╤ê╨╜╨░╤Å ╨╛╨┐╨╡╤Ç╨░╤å╨╕╤Å ╨╛╨▒╤ä╤â╤ü╨║╨░╤å╨╕╨╕ ╨▒╤ï╨╗╨░ ╤ü╨╛╨▓╤ü╨╡╨╝ ╨╜╨╡╨┤╨░╨▓╨╜╨╛.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Limit size of signature cache to &lt;n&gt; entries (default: %u)</source>♪◙        <translation>╨₧╨│╤Ç╨░╨╜╨╕╤ç╨╕╤é╤î ╤Ç╨░╨╖╨╝╨╡╤Ç ╨║╤ì╤ê╨░ ╨┐╨╛╨┤╨┐╨╕╤ü╨╕ &lt;n&gt; ╨┤╨╗╤Å ╨╖╨░╨┐╨╕╤ü╨╡╨╣ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Line: %d</source>♪◙        <translation>╨¢╨╕╨╜╨╕╤Å: %d</translation>♪◙    </message>♪◙    <message>♪◙        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>♪◙        <translation>╨í╨╗╤â╤ê╨░╨╣╤é╨╡ ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å JSON-RPC &lt;port&gt; (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u ╨╕╨╗╨╕ testnet: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>♪◙        <translation>╨í╨╗╤â╤ê╨░╨╣╤é╨╡ ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å  &lt;port&gt;(╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u ╨╕╨╗╨╕ testnet: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading addresses...</source>♪◙        <translation>╨ù╨░╨│╤Ç╤â╨╖╨║╨░ ╨░╨┤╤Ç╨╡╤ü╨╛╨▓ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading block index...</source>♪◙        <translation>╨ù╨░╨│╤Ç╤â╨╢╨░╨╡╤é╤ü╤Å ╨╕╨╜╨┤╨╡╨║╤ü ╨▒╨╗╨╛╨║╨░ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading budget cache...</source>♪◙        <translation>╨ù╨░╨│╤Ç╤â╨╖╨║╨░ ╨║╤ì╤ê╨░ ╨▒╤Ä╨┤╨╢╨╡╤é╨░ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading masternode cache...</source>♪◙        <translation>╨╖╨░╨│╤Ç╤â╨╖╨║╨░ ╨╛╨┐╨╡╤Ç╨░╤é╨╕╨▓╨╜╨╛╨╣ ╨┐╨░╨╝╤Å╤é╨╕ ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading masternode payment cache...</source>♪◙        <translation>╨ù╨░╨│╤Ç╤â╨╖╨║╨░ ╨║╤ì╤ê╨░ ╨┐╨╗╨░╤é╨╡╨╢╨╡╨╣ ╨▓ ╨╝╨░╨╖╨╜╤â ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading sporks...</source>♪◙        <translation>╨ù╨░╨│╤Ç╤â╨╖╨║╨░ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading wallet... (%3.2f %%)</source>♪◙        <translation>╨ù╨░╨│╤Ç╤â╨╖╨║╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ... (%3.2f %%)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Loading wallet...</source>♪◙        <translation>╨ù╨░╨│╤Ç╤â╨╖╨║╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Location of the auth cookie (default: data dir)</source>♪◙        <translation>╨á╨░╤ü╨┐╨╛╨╗╨╛╨╢╨╡╨╜╨╕╨╡ ╤ä╨░╨╣╨╗╨░ cookie auth (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: data dir)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock is already in place.</source>♪◙        <translation>╨æ╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨░ ╤â╨╢╨╡ ╤â╤ü╤é╨░╨╜╨╛╨▓╨╗╨╡╨╜╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock masternodes from masternode configuration file (default: %u)</source>♪◙        <translation>╨æ╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨║╨░ masternodes ╨╕╨╖ ╤ä╨░╨╣╨╗╨░ ╨║╨╛╨╜╤ä╨╕╨│╤â╤Ç╨░╤å╨╕╨╕ masternode (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lookup(): Invalid -proxy address or hostname: '%s'</source>♪◙        <translation>Lookup (): Invalid -proxy ╨░╨┤╤Ç╨╡╤ü ╨╕╨╗╨╕ ╨╕╨╝╤Å ╤à╨╛╤ü╤é╨░: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>♪◙        <translation>╨ƒ╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╤é╤î ╨▒╨╛╨╗╤î╤ê╨╕╨╜╤ü╤é╨▓╨╛  &lt;n&gt; ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╨╣ ╤ü╨╛ ╤ü╨▓╨╡╤Ç╤ü╤é╨╜╨╕╨║╨░╨╝╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode options:</source>♪◙        <translation>╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï Masternode:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode queue is full.</source>♪◙        <translation>╨₧╤ç╨╡╤Ç╨╡╨┤╤î Masternode ╨╖╨░╨┐╨╛╨╗╨╜╨╡╨╜╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternode:</source>♪◙        <translation>╨£╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>♪◙        <translation>╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╤ï╨╣ ╨▒╤â╤ä╨╡╤Ç ╨┐╤Ç╨╕╨╡╨╝╨░ ╨┤╨╗╤Å ╨║╨░╨╢╨┤╨╛╨│╨╛ ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å&lt;n&gt;* 1000 ╨▒╨░╨╣╤é╨╛╨▓ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>♪◙        <translation>╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╤ï╨╣ ╨▒╤â╤ä╨╡╤Ç ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╕ ╨┤╨╗╤Å ╨║╨░╨╢╨┤╨╛╨│╨╛ ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å &lt;n&gt;* 1000 ╨▒╨░╨╣╤é╨╛╨▓ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mint did not make it into blockchain</source>♪◙        <translation>╤ç╨╡╨║╨░╨╜╨║╨░ ╨╜╨╡ ╨┐╤Ç╨╡╨▓╤Ç╨░╤é╨╕╨╗╨░ ╨╡╨│╨╛ ╨▓ ╨▒╨╗╨╛╨║╤ç╨╡╨╣╨╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Missing input transaction information.</source>♪◙        <translation>╨₧╤é╤ü╤â╤é╤ü╤é╨▓╤â╨╡╤é ╨▓╤à╨╛╨┤╨╜╨░╤Å ╨╕╨╜╤ä╨╛╤Ç╨╝╨░╤å╨╕╤Å ╨╛ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Mixing in progress...</source>♪◙        <translation>╨Æ╤ï╨┐╨╛╨╗╨╜╤Å╨╡╤é╤ü╤Å ╨╝╨╕╨║╤ê╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Need address because change is not exact</source>♪◙        <translation>╨¥╤â╨╢╨╡╨╜ ╨░╨┤╤Ç╨╡╤ü, ╨┐╨╛╤é╨╛╨╝╤â ╤ç╤é╨╛ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╨╡ ╨╜╨╡ ╤Å╨▓╨╗╤Å╨╡╤é╤ü╤Å ╤é╨╛╤ç╨╜╤ï╨╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Need to specify a port with -whitebind: '%s'</source>♪◙        <translation>╨¥╨╡╨╛╨▒╤à╨╛╨┤╨╕╨╝╨╛ ╤â╨║╨░╨╖╨░╤é╤î ╨┐╨╛╤Ç╤é ╤ü -whitebind: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>No Masternodes detected.</source>♪◙        <translation>╨£╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤╤ï ╨╜╨╡ ╨╜╨░╨╣╨┤╨╡╨╜╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>No compatible Masternode found.</source>♪◙        <translation>╨í╨╛╨▓╨┐╨░╨┤╨░╤Ä╤ë╨╕╨╣ ╨£╨░╤é╨╡╤Ç╨╜╨╛╨┤ ╨╜╨╡ ╨╜╨░╨╣╨┤╨╡╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>No funds detected in need of denominating.</source>♪◙        <translation>╨¥╨╡ ╨╛╨▒╨╜╨░╤Ç╤â╨╢╨╡╨╜╨╛ ╤ü╤Ç╨╡╨┤╤ü╤é╨▓, ╤é╤Ç╨╡╨▒╤â╤Ä╤ë╨╕╤à ╨┤╨╡╨╜╨╛╨╝╨╕╨╜╨░╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>No matching denominations found for mixing.</source>♪◙        <translation>╨í╨╛╨╛╤é╨▓╨╡╤é╤ü╤é╨▓╤â╤Ä╤ë╨╕╨╡ ╨╜╨░╨╕╨╝╨╡╨╜╨╛╨▓╨░╨╜╨╕╤Å ╨┤╨╗╤Å ╤ü╨╝╨╡╤ê╨╕╨▓╨░╨╜╨╕╤Å ╨╜╨╡ ╨╜╨░╨╣╨┤╨╡╨╜╤ï.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Node relay options:</source>♪◙        <translation>╨Æ╨░╤Ç╨╕╨░╨╜╤é╤ï ╤Ç╨╡╨╗╨╡ ╤â╨╖╨╗╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Non-standard public key detected.</source>♪◙        <translation>╨₧╨▒╨╜╨░╤Ç╤â╨╢╨╡╨╜ ╨╜╨╡╤ü╤é╨░╨╜╨┤╨░╤Ç╤é╨╜╤ï╨╣ ╨╛╤é╨║╤Ç╤ï╤é╤ï╨╣ ╨║╨╗╤Ä╤ç.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not compatible with existing transactions.</source>♪◙        <translation>╨¥╨╡ ╤ü╨╛╨▓╨╝╨╡╤ü╤é╨╕╨╝ ╤ü ╤ü╤â╤ë╨╡╤ü╤é╨▓╤â╤Ä╤ë╨╕╨╝╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å╨╝╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not enough file descriptors available.</source>♪◙        <translation>╨¥╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ ╨┤╨╛╤ü╤é╤â╨┐╨╜╤ï╤à ╨┤╨╡╤ü╨║╤Ç╨╕╨┐╤é╨╛╤Ç╨╛╨▓ ╤ä╨░╨╣╨╗╨╛╨▓.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Not in the Masternode list.</source>♪◙        <translation>╨¥╨╡ ╨▓ ╤ü╨┐╨╕╤ü╨║╨╡ Masternode.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of automatic wallet backups (default: 10)</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╤à ╨║╨╛╨┐╨╕╨╣ ╨░╨▓╤é╨╛╨╝╨░╤é╨╕╤ç╨╡╤ü╨║╨╛╨│╨╛ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: 10)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Number of custom location backups to retain (default: %d)</source>♪◙        <translation>╨Ü╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╤Ç╨╡╨╖╨╡╤Ç╨▓╨╜╤ï╤à ╨║╨╛╨┐╨╕╨╣ ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤î╤ü╨║╨╛╨│╨╛ ╨╝╨╡╤ü╤é╨╛╨┐╨╛╨╗╨╛╨╢╨╡╨╜╨╕╤Å ╨┤╨╗╤Å ╤ü╨╛╤à╤Ç╨░╨╜╨╡╨╜╨╕╤Å (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation is idle.</source>♪◙        <translation>╨₧╨▒╤ä╤â╤ü╨║╨░╤å╨╕╤Å ╨┐╤Ç╨╛╤ü╤é╨░╨╕╨▓╨░╨╡╤é.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation request complete:</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨╛╨▒ ╨╛╨▒╤ä╤â╤ü╨║╨░╤å╨╕╨╕ ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Obfuscation request incomplete:</source>♪◙        <translation>╨ù╨░╨┐╤Ç╨╛╤ü ╨╛╨▒ ╨╛╨▒╤ä╤â╤ü╨║╨░╤å╨╕╨╕ ╨╜╨╡╨┐╨╛╨╗╨╜╤ï╨╣:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Only accept block chain matching built-in checkpoints (default: %u)</source>♪◙        <translation>╨ú╤ç╨╕╤é╤ï╨▓╨░╤é╤î ╨▓╤ü╤é╤Ç╨╛╨╡╨╜╨╜╤ï╨╡ ╨║╨╛╨╜╤é╤Ç╨╛╨╗╤î╨╜╤ï╨╡ ╤é╨╛╤ç╨║╨╕ ╤ü ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╤å╨╡╨┐╨╛╤ç╨║╨╕ ╨▒╨╗╨╛╨║╨╛╨▓ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>♪◙        <translation>╨ó╨╛╨╗╤î╨║╨╛ ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╡ ╨║ ╤â╨╖╨╗╨░╨╝ ╨▓ ╤ü╨╡╤é╨╕ &lt;net&gt; (ipv4, ipv6 ╨╕╨╗╨╕ ╨╗╤â╨║)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Options:</source>♪◙        <translation>╨₧╨┐╤å╨╕╨╕:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Password for JSON-RPC connections</source>♪◙        <translation>╨ƒ╨░╤Ç╨╛╨╗╤î ╨┤╨╗╤Å ╨┐╨╛╨┤╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╣ JSON-RPC</translation>♪◙    </message>♪◙    <message>♪◙        <source>isValid(): Invalid -proxy address or hostname: '%s'</source>♪◙        <translation>isValid (): Invalid -proxy ╨░╨┤╤Ç╨╡╤ü ╨╕╨╗╨╕ ╨╕╨╝╤Å ╤à╨╛╤ü╤é╨░: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Preparing for resync...</source>♪◙        <translation>╨ƒ╨╛╨┤╨│╨╛╤é╨╛╨▓╨║╨░ ╨║ ╨┐╨╛╨▓╤é╨╛╤Ç╨╜╨╛╨╣ ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╨╕ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Prepend debug output with timestamp (default: %u)</source>♪◙        <translation>╨ƒ╨╛╨┤╨│╨╛╤é╨╛╨▓╨╕╤é╤î ╨▓╤ï╨▓╨╛╨┤ ╨╛╤é╨╗╨░╨┤╨║╨╕ ╤ü ╨╛╤é╨╝╨╡╤é╨║╨╛╨╣ ╨▓╤Ç╨╡╨╝╨╡╨╜╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Print version and exit</source>♪◙        <translation>╨Æ╨╡╤Ç╤ü╨╕╤Å ╨┤╨╗╤Å ╨┐╨╡╤ç╨░╤é╨╕ ╨╕ ╨▓╤ï╤à╨╛╨┤╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>RPC server options:</source>♪◙        <translation>╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï ╤ü╨╡╤Ç╨▓╨╡╤Ç╨░ RPC:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Randomly drop 1 of every &lt;n&gt; network messages</source>♪◙        <translation>╨í╨╗╤â╤ç╨░╨╣╨╜╨╛ ╨╛╤é╨▒╤Ç╨░╤ü╤ï╨▓╨░╨╣╤é╨╡ 1 ╨╕╨╖ ╨▓╤ü╨╡╤à  &lt;n&gt; ╤ü╨╡╤é╨╡╨▓╤ï╤à ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>♪◙        <translation>╨í╨╗╤â╤ç╨░╨╣╨╜╨╛ fuzz 1 ╨║╨░╨╢╨┤╨╛╨│╨╛ &lt;n&gt; ╤ü╨╡╤é╨╡╨▓╤ï╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rebuild block chain index from current blk000??.dat files</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╤ü╤é╤Ç╨╛╨╕╤é╤î ╨╕╨╜╨┤╨╡╨║╤ü ╤å╨╡╨┐╨╛╤ç╨║╨╕ ╨▒╨╗╨╛╨║╨╛╨▓ ╨╕╨╖ ╤é╨╡╨║╤â╤ë╨╕╤à ╤ä╨░╨╣╨╗╨╛╨▓ blk000 ?? .dat</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receive and display P2P network alerts (default: %u)</source>♪◙        <translation>╨ƒ╨╛╨╗╤â╤ç╨╡╨╜╨╕╨╡ ╨╕ ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╨╡ ╨╛╨┐╨╛╨▓╨╡╤ë╨╡╨╜╨╕╨╣ ╤ü╨╡╤é╨╕ P2P (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reindex the accumulator database</source>♪◙        <translation>Reindex ╨▒╨░╨╖╨░ ╨┤╨░╨╜╨╜╤ï╤à ╨░╨║╨║╤â╨╝╤â╨╗╤Å╤é╨╛╤Ç╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Relay and mine data carrier transactions (default: %u)</source>♪◙        <translation>╨₧╨┐╨╡╤Ç╨░╤å╨╕╨╕ ╨┐╨╡╤Ç╨╡╨┤╨░╤ç╨╕ ╨┤╨░╨╜╨╜╤ï╤à ╤Ç╨╡╨╗╨╡ ╨╕ ╨╝╨╕╨╜╤ï (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Relay non-P2SH multisig (default: %u)</source>♪◙        <translation>╨á╨╡╨╗╨╡ ╨╜╨╡-P2SH multisig (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescan the block chain for missing wallet transactions</source>♪◙        <translation>╨ƒ╨╛╨▓╤é╨╛╤Ç╨╕╤é╨╡ ╤ü╨║╨░╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ╤å╨╡╨┐╨╛╤ç╨║╨╕ ╨▒╨╗╨╛╨║╨╛╨▓ ╨┤╨╗╤Å ╨┐╤Ç╨╛╨┐╤â╤ë╨╡╨╜╨╜╤ï╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╨▓ ╨║╨╛╤ê╨╡╨╗╤î╨║╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Rescanning...</source>♪◙        <translation>╨ƒ╨╛╨▓╤é╨╛╤Ç╨╜╨╛╨╡ ╤ü╨║╨░╨╜╨╕╤Ç╨╛╨▓╨░╨╜╨╕╨╡ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>ResetMintZerocoin finished: </source>♪◙        <translation>ResetMintZerocoin ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜:</translation>♪◙    </message>♪◙    <message>♪◙        <source>ResetSpentZerocoin finished: </source>♪◙        <translation>ResetSpentZerocoin ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Run a thread to flush wallet periodically (default: %u)</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╤é╨╕╤é╨╡ ╨┐╨╛╤é╨╛╨║, ╤ç╤é╨╛╨▒╤ï ╨┐╨╡╤Ç╨╕╨╛╨┤╨╕╤ç╨╡╤ü╨║╨╕ ╨╛╤ç╨╕╤ë╨░╤é╤î ╨║╨╛╤ê╨╡╨╗╨╡╨║ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Run in the background as a daemon and accept commands</source>♪◙        <translation>╨ù╨░╨┐╤â╤ü╨║╨░╤é╤î ╨▓ ╤ä╨╛╨╜╨╛╨▓╨╛╨╝ ╤Ç╨╡╨╢╨╕╨╝╨╡ ╨▓ ╨║╨░╤ç╨╡╤ü╤é╨▓╨╡ ╨┤╨╡╨╝╨╛╨╜╨░ ╨╕ ╨┐╤Ç╨╕╨╜╨╕╨╝╨░╤é╤î ╨║╨╛╨╝╨░╨╜╨┤╤ï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send transactions as zero-fee transactions if possible (default: %u)</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╗╤Å╤é╤î ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╨║╨░╨║ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕ ╤ü ╨╜╤â╨╗╨╡╨▓╨╛╨╣ ╨╛╨┐╨╗╨░╤é╨╛╨╣, ╨╡╤ü╨╗╨╕ ╤ì╤é╨╛ ╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Session not complete!</source>♪◙        <translation>╨í╨╡╤ü╤ü╨╕╤Å ╨╜╨╡ ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜╨░!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Session timed out.</source>♪◙        <translation>╨Æ╤Ç╨╡╨╝╤Å ╤ü╨╡╨░╨╜╤ü╨░ ╨╕╤ü╤é╨╡╨║╨╗╨╛.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set database cache size in megabytes (%d to %d, default: %d)</source>♪◙        <translation>╨ú╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╨╡ ╤Ç╨░╨╖╨╝╨╡╤Ç ╨║╨╡╤ê╨░ ╨▒╨░╨╖╤ï ╨┤╨░╨╜╨╜╤ï╤à ╨▓ ╨╝╨╡╨│╨░╨▒╨░╨╣╤é╨░╤à (╨╛╤é %d ╨┤╨╛ %d, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set external address:port to get to this masternode (example: %s)</source>♪◙        <translation>╨ù╨░╨┤╨░╨╣╤é╨╡ ╨▓╨╜╨╡╤ê╨╜╨╕╨╣ ╨░╨┤╤Ç╨╡╤ü: ╨┐╨╛╤Ç╤é, ╤ç╤é╨╛╨▒╤ï ╨┐╨╡╤Ç╨╡╨╣╤é╨╕ ╨║ ╤ì╤é╨╛╨╝╤â masternode (╨┐╤Ç╨╕╨╝╨╡╤Ç: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set key pool size to &lt;n&gt; (default: %u)</source>♪◙        <translation>╨ú╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╨╡ ╤Ç╨░╨╖╨╝╨╡╤Ç ╨┐╤â╨╗╨░ ╨║╨╗╤Ä╤ç╨╡╨╣&lt;n&gt;(╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set maximum block size in bytes (default: %d)</source>♪◙        <translation>╨ú╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╨╡ ╨╝╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╤ï╨╣ ╤Ç╨░╨╖╨╝╨╡╤Ç ╨▒╨╗╨╛╨║╨░ ╨▓ ╨▒╨░╨╣╤é╨░╤à (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set minimum block size in bytes (default: %u)</source>♪◙        <translation>╨ú╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╨╡ ╨╝╨╕╨╜╨╕╨╝╨░╨╗╤î╨╜╤ï╨╣ ╤Ç╨░╨╖╨╝╨╡╤Ç ╨▒╨╗╨╛╨║╨░ ╨▓ ╨▒╨░╨╣╤é╨░╤à (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the Maximum reorg depth (default: %u)</source>♪◙        <translation>╨ú╤ü╤é╨░╨╜╨╛╨▓╨╕╤é╨╡ ╨╝╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╤â╤Ä ╨│╨╗╤â╨▒╨╕╨╜╤â ╤Ç╨╡╨╛╤Ç╨│╨░╨╜╨╕╨╖╨░╤å╨╕╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the masternode private key</source>♪◙        <translation>╨ù╨░╨┤╨░╨╣╤é╨╡ ╨╗╨╕╤ç╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç ╨╝╨░╤ü╤ê╤é╨░╨▒╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Set the number of threads to service RPC calls (default: %d)</source>♪◙        <translation>╨ù╨░╨┤╨░╨╣╤é╨╡ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨╛ ╨┐╨╛╤é╨╛╨║╨╛╨▓ ╨┤╨╗╤Å ╨╛╨▒╤ü╨╗╤â╨╢╨╕╨▓╨░╨╜╨╕╤Å ╨▓╤ï╨╖╨╛╨▓╨╛╨▓ RPC (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sets the DB_PRIVATE flag in the wallet db environment (default: %u)</source>♪◙        <translation>╨ú╤ü╤é╨░╨╜╨░╨▓╨╗╨╕╨▓╨░╨╡╤é ╤ä╨╗╨░╨│ DB_PRIVATE ╨▓ ╤ü╤Ç╨╡╨┤╨╡ db ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show all debugging options (usage: --help -help-debug)</source>♪◙        <translation>╨ƒ╨╛╨║╨░╨╖╨░╤é╤î ╨▓╤ü╨╡ ╨┐╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï ╨╛╤é╨╗╨░╨┤╨║╨╕ (╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╨╡: --help -help-debug)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>♪◙        <translation>╨í╨╢╨░╤é╤î ╤ä╨░╨╣╨╗ debug.log ╨┐╤Ç╨╕ ╨╖╨░╨┐╤â╤ü╨║╨╡ ╨║╨╗╨╕╨╡╨╜╤é╨░ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: 1, ╨║╨╛╨│╨┤╨░ ╨╜╨╡╤é -debug)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Signing failed.</source>♪◙        <translation>╨í╨▒╨╛╨╣ ╨┐╨╛╨┤╨┐╨╕╤ü╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Signing timed out.</source>♪◙        <translation>╨ƒ╨╛╨┤╨┐╨╕╤ü╨░╨╜╨╕╨╡ ╨╖╨░╨║╨╛╨╜╤ç╨╕╨╗╨╛╤ü╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Signing transaction failed</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┐╨╛╨┤╨┐╨╕╤ü╨░╤é╤î ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify configuration file (default: %s)</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╨║╨╛╨╜╤ä╨╕╨│╤â╤Ç╨░╤å╨╕╨╛╨╜╨╜╤ï╨╣ ╤ä╨░╨╣╨╗ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╨▓╤Ç╨╡╨╝╤Å ╨╛╨╢╨╕╨┤╨░╨╜╨╕╤Å ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╤Å ╨▓ ╨╝╨╕╨╗╨╗╨╕╤ü╨╡╨║╤â╨╜╨┤╨░╤à (╨╝╨╕╨╜╨╕╨╝╤â╨╝: 1, ╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %d)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify data directory</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╨║╨░╤é╨░╨╗╨╛╨│ ╨┤╨░╨╜╨╜╤ï╤à</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify masternode configuration file (default: %s)</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╨║╨╛╨╜╤ä╨╕╨│╤â╤Ç╨░╤å╨╕╨╛╨╜╨╜╤ï╨╣ ╤ä╨░╨╣╨╗ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify pid file (default: %s)</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╤ä╨░╨╣╨╗ pid (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify wallet file (within data directory)</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╤ä╨░╨╣╨╗ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ (╨▓ ╨║╨░╤é╨░╨╗╨╛╨│╨╡ ╨┤╨░╨╜╨╜╤ï╤à)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Specify your own public address</source>♪◙        <translation>╨ú╨║╨░╨╢╨╕╤é╨╡ ╤ü╨▓╨╛╨╣ ╤ü╨╛╨▒╤ü╤é╨▓╨╡╨╜╨╜╤ï╨╣ ╨╛╨▒╤ë╨╡╨┤╨╛╤ü╤é╤â╨┐╨╜╤ï╨╣ ╨░╨┤╤Ç╨╡╤ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend Valid</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╛╨┤╨╕╤é╤î ╨┐╤Ç╨╛╨▓╨╡╤Ç╨║╤â</translation>♪◙    </message>♪◙    <message>♪◙        <source>Spend unconfirmed change when sending transactions (default: %u)</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╛╨┤╨╕╤é╤î ╨╜╨╡╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨╜╤ï╨╡ ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╤Å ╨┐╤Ç╨╕ ╨╛╤é╨┐╤Ç╨░╨▓╨║╨╡ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Staking options:</source>♪◙        <translation>╨Æ╨░╤Ç╨╕╨░╨╜╤é╤ï ╤ü╤é╨░╨▓╨╛╨║:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Stop running after importing blocks from disk (default: %u)</source>♪◙        <translation>╨ƒ╤Ç╨╡╨║╤Ç╨░╤é╨╕╤é╤î ╤Ç╨░╨▒╨╛╤é╤â ╨┐╨╛╤ü╨╗╨╡ ╨╕╨╝╨┐╨╛╤Ç╤é╨░ ╨▒╨╗╨╛╨║╨╛╨▓ ╤ü ╨┤╨╕╤ü╨║╨░ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Submitted following entries to masternode: %u / %d</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤ü╤é╨░╨▓╨╗╨╡╨╜╤ï ╤ü╨╗╨╡╨┤╤â╤Ä╤ë╨╕╨╡ ╨╖╨░╨┐╨╕╤ü╨╕ ╨▓ masternode: %u / %d</translation>♪◙    </message>♪◙    <message>♪◙        <source>Submitted to masternode, waiting for more entries ( %u / %d ) %s</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛ ╨▓ masternode, ╨╛╨╢╨╕╨┤╨░╤Å ╨▒╨╛╨╗╤î╤ê╨╡╨│╨╛ ╨║╨╛╨╗╨╕╤ç╨╡╤ü╤é╨▓╨░ ╨╖╨░╨┐╨╕╤ü╨╡╨╣ (%u / %d) %s</translation>♪◙    </message>♪◙    <message>♪◙        <source>Submitted to masternode, waiting in queue %s</source>♪◙        <translation>╨₧╤é╨┐╤Ç╨░╨▓╨╗╨╡╨╜╨╛ ╨▓ masternode, ╨╛╨╢╨╕╨┤╨░╤Å ╨▓ ╨╛╤ç╨╡╤Ç╨╡╨┤╨╕ %s</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronization failed</source>♪◙        <translation>╨₧╤ê╨╕╨▒╨║╨░ ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronization finished</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ╨╖╨░╨▓╨╡╤Ç╤ê╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronization pending...</source>♪◙        <translation>╨₧╨╢╨╕╨┤╨░╨╡╤é╤ü╤Å ╤ü╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing budgets...</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ╨▒╤Ä╨┤╨╢╨╡╤é╨╛╨▓ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing masternode winners...</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤ ╨┐╨╛╨▒╨╡╨┤╨╕╤é╨╡╨╗╨╡╨╣ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing masternodes...</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ╨╝╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing sporks...</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å ╤ü╨┐╨╛╤Ç╨║╨╛╨▓ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Syncing zXCRC wallet...</source>♪◙        <translation>╨í╨╕╨╜╤à╤Ç╨╛╨╜╨╕╨╖╨░╤å╨╕╤Å zXCRC ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>The coin spend has been used</source>♪◙        <translation>╨á╨░╤ü╤à╨╛╨┤╤ï ╨╜╨░ ╨╝╨╛╨╜╨╡╤é╤ï ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╗╨╕╤ü╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>The new spend coin transaction did not verify</source>♪◙        <translation>╨¥╨╛╨▓╨░╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╤ü ╨╝╨╛╤ê╨╡╨╜╨╜╨╕╤ç╨╡╤ü╤é╨▓╨╛╨╝ ╨╜╨╡ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨┤╨╕╨╗╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>The selected mint coin is an invalid coin</source>♪◙        <translation>╨Æ╤ï╨▒╤Ç╨░╨╜╨╜╨░╤Å ╨╝╨╛╨╜╨╡╤é╨║╨░ - ╨╜╨╡╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>The transaction did not verify</source>♪◙        <translation>╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╨╜╨╡ ╨┐╨╛╨┤╤é╨▓╨╡╤Ç╨╢╨┤╨╡╨╜╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>This help message</source>♪◙        <translation>╨¡╤é╨╛ ╤ü╨┐╤Ç╨░╨▓╨╛╤ç╨╜╨╛╨╡ ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is experimental software.</source>♪◙        <translation>╨¡╤é╨╛ ╤ì╨║╤ü╨┐╨╡╤Ç╨╕╨╝╨╡╨╜╤é╨░╨╗╤î╨╜╨╛╨╡ ╨┐╤Ç╨╛╨│╤Ç╨░╨╝╨╝╨╜╨╛╨╡ ╨╛╨▒╨╡╤ü╨┐╨╡╤ç╨╡╨╜╨╕╨╡.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is intended for regression testing tools and app development.</source>♪◙        <translation>╨¡╤é╨╛ ╨┐╤Ç╨╡╨┤╨╜╨░╨╖╨╜╨░╤ç╨╡╨╜╨╛ ╨┤╨╗╤Å ╨╕╨╜╤ü╤é╤Ç╤â╨╝╨╡╨╜╤é╨╛╨▓ ╤é╨╡╤ü╤é╨╕╤Ç╨╛╨▓╨░╨╜╨╕╤Å ╤Ç╨╡╨│╤Ç╨╡╤ü╤ü╨╕╨╕ ╨╕ ╤Ç╨░╨╖╤Ç╨░╨▒╨╛╤é╨║╨╕ ╨┐╤Ç╨╕╨╗╨╛╨╢╨╡╨╜╨╕╨╣.</translation>♪◙    </message>♪◙    <message>♪◙        <source>This is not a Masternode.</source>♪◙        <translation>╨¡╤é╨╛ ╨╜╨╡ ╨£╨░╤ü╤é╨╡╤Ç╨╜╨╛╨┤.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Threshold for disconnecting misbehaving peers (default: %u)</source>♪◙        <translation>╨ƒ╨╛╤Ç╨╛╨│ ╨┤╨╗╤Å ╨╛╤é╨║╨╗╤Ä╤ç╨╡╨╜╨╕╤Å ╨╛╤ê╨╕╨▒╨╛╤ç╨╜╤ï╤à ╤ü╨▓╨╡╤Ç╤ü╤é╨╜╨╕╨║╨╛╨▓ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Too many spends needed</source>♪◙        <translation>╨í╨╗╨╕╤ê╨║╨╛╨╝ ╨╝╨╜╨╛╨│╨╛ ╤Ç╨░╤ü╤à╨╛╨┤╨╛╨▓</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tor control port password (default: empty)</source>♪◙        <translation>╨ƒ╨░╤Ç╨╛╨╗╤î ╤â╨┐╤Ç╨░╨▓╨╗╤Å╤Ä╤ë╨╡╨│╨╛ ╨┐╨╛╤Ç╤é╨░ Tor (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: ╨┐╤â╤ü╤é╨╛╨╣)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tor control port to use if onion listening enabled (default: %s)</source>♪◙        <translation>Tor ╨┤╨╗╤Å ╨╕╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╨╜╨╕╤Å ╨┐╤Ç╨╕ ╨▓╨║╨╗╤Ä╤ç╨╡╨╜╨╜╨╛╨╝ ╨┐╤Ç╨╛╤ü╨╗╤â╤ê╨╕╨▓╨░╨╜╨╕╨╕ ╨╗╤â╨║╨░ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction Created</source>♪◙        <translation>╨í╨╛╨╖╨┤╨░╨╜╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction Mint Started</source>♪◙        <translation>╨º╨╡╨║╨░╨╜╨║╨░ ╨╜╨░╤ç╨░╨╗╨░╤ü╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction amount too small</source>♪◙        <translation>╨í╨╗╨╕╤ê╨║╨╛╨╝ ╨╝╨░╨╗╨╡╨╜╤î╨║╨░╤Å ╤ü╤â╨╝╨╝╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction amounts must be positive</source>♪◙        <translation>╨í╤â╨╝╨╝╤ï ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╨┤╨╛╨╗╨╢╨╜╤ï ╨▒╤ï╤é╤î ╨┐╨╛╨╗╨╛╨╢╨╕╤é╨╡╨╗╤î╨╜╤ï╨╝╨╕</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction created successfully.</source>♪◙        <translation>╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╤ü╨╛╨╖╨┤╨░╨╜╨░ ╤â╤ü╨┐╨╡╤ê╨╜╨╛.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction fees are too high.</source>♪◙        <translation>╨í╨▒╨╛╤Ç╤ï ╨╖╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä ╤ü╨╗╨╕╤ê╨║╨╛╨╝ ╨▓╤ï╤ü╨╛╨║╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction not valid.</source>♪◙        <translation>╨ó╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╨╜╨╡╨┤╨╡╨╣╤ü╤é╨▓╨╕╤é╨╡╨╗╤î╨╜╨░.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction too large for fee policy</source>♪◙        <translation>╨í╨╗╨╕╤ê╨║╨╛╨╝ ╨▒╨╛╨╗╤î╤ê╨░╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╨┤╨╗╤Å ╨┤╨░╨╜╨╜╨╛╨│╨╛ ╤é╨░╤Ç╨╕╤ä╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transaction too large</source>♪◙        <translation>╨í╨╗╨╕╤ê╨║╨╛╨╝ ╨▒╨╛╨╗╤î╤ê╨░╤Å ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transmitting final transaction.</source>♪◙        <translation>╨ƒ╨╡╤Ç╨╡╨┤╨░╤ç╨░ ╨╛╨║╨╛╨╜╤ç╨░╤é╨╡╨╗╤î╨╜╨╛╨╣ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Try to spend with a higher security level to include more coins</source>♪◙        <translation>╨ƒ╨╛╨┐╤ï╤é╨░╨╣╤é╨╡╤ü╤î ╨┐╤Ç╨╛╨▓╨╡╤ü╤é╨╕ ╤ü ╨▒╨╛╨╗╨╡╨╡ ╨▓╤ï╤ü╨╛╨║╨╕╨╝ ╤â╤Ç╨╛╨▓╨╜╨╡╨╝ ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕, ╤ç╤é╨╛╨▒╤ï ╨▓╨║╨╗╤Ä╤ç╨╕╤é╤î ╨▒╨╛╨╗╤î╤ê╨╡ ╨╝╨╛╨╜╨╡╤é</translation>♪◙    </message>♪◙    <message>♪◙        <source>Trying to spend an already spent serial #, try again.</source>♪◙        <translation>╨ƒ╤ï╤é╨░╤Å╤ü╤î ╨┐╨╛╤é╤Ç╨░╤é╨╕╤é╤î ╤â╨╢╨╡ ╨┐╨╛╤é╤Ç╨░╤ç╨╡╨╜╨╜╤ï╨╣ ╤ü╨╡╤Ç╨╕╨╣╨╜╤ï╨╣ ╨╜╨╛╨╝╨╡╤Ç #, ╨┐╨╛╨┐╤Ç╨╛╨▒╤â╨╣╤é╨╡ ╨╡╤ë╨╡ ╤Ç╨░╨╖.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to bind to %s on this computer (bind returned error %s)</source>♪◙        <translation>╨¥╨╡╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛ ╤ü╨▓╤Å╨╖╨░╤é╤î %s ╨╜╨░ ╤ì╤é╨╛╨╝ ╨║╨╛╨╝╨┐╤î╤Ä╤é╨╡╤Ç╨╡ (╤ü╨▓╤Å╨╖╨░╤é╤î ╨▓╨╛╨╖╨▓╤Ç╨░╤ë╨╡╨╜╨╜╤â╤Ä ╨╛╤ê╨╕╨▒╨║╤â %s)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to find transaction containing mint</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╜╨░╨╣╤é╨╕ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Ä, ╤ü╨╛╨┤╨╡╤Ç╨╢╨░╤ë╤â╤Ä ╨╝╨╛╨╜╨╡╤é╨╜╤ï╨╣ ╨┤╨▓╨╛╤Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to sign spork message, wrong key?</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨┐╨╛╨┤╨┐╨╕╤ü╨░╤é╤î ╤ü╨╛╨╛╨▒╤ë╨╡╨╜╨╕╨╡ , ╨╜╨╡╨┐╤Ç╨░╨▓╨╕╨╗╤î╨╜╤ï╨╣ ╨║╨╗╤Ä╤ç?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unable to start HTTP server. See debug log for details.</source>♪◙        <translation>╨¥╨╡ ╤â╨┤╨░╨╗╨╛╤ü╤î ╨╖╨░╨┐╤â╤ü╤é╨╕╤é╤î HTTP-╤ü╨╡╤Ç╨▓╨╡╤Ç. ╨ƒ╨╛╨┤╤Ç╨╛╨▒╨╜╨╡╨╡ ╤ü╨╝. ╨û╤â╤Ç╨╜╨░╨╗ ╨╛╤é╨╗╨░╨┤╨║╨╕.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unknown network specified in -onlynet: '%s'</source>♪◙        <translation>╨¥╨╡╨╕╨╖╨▓╨╡╤ü╤é╨╜╨░╤Å ╤ü╨╡╤é╤î, ╤â╨║╨░╨╖╨░╨╜╨╜╨░╤Å ╨▓ -onlynet: '%s'</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unknown state: id = %u</source>♪◙        <translation>╨¥╨╡╨╕╨╖╨▓╨╡╤ü╤é╨╜╨╛╨╡ ╤ü╨╛╤ü╤é╨╛╤Å╨╜╨╕╨╡: id = %u</translation>♪◙    </message>♪◙    <message>♪◙        <source>Upgrade wallet to latest format</source>♪◙        <translation>╨₧╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ╨┤╨╛ ╨┐╨╛╤ü╨╗╨╡╨┤╨╜╨╡╨│╨╛ ╤ä╨╛╤Ç╨╝╨░╤é╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use UPnP to map the listening port (default: %u)</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ UPnP ╨┤╨╗╤Å ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╤Å ╨┐╨╛╤Ç╤é╨░ ╨┐╤Ç╨╛╤ü╨╗╤â╤ê╨╕╨▓╨░╨╜╨╕╤Å (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use UPnP to map the listening port (default: 1 when listening)</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ UPnP ╨┤╨╗╤Å ╨╛╤é╨╛╨▒╤Ç╨░╨╢╨╡╨╜╨╕╤Å ╨┐╨╛╤Ç╤é╨░ ╨┐╤Ç╨╛╤ü╨╗╤â╤ê╨╕╨▓╨░╨╜╨╕╤Å (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: 1 ╨┐╤Ç╨╕ ╨┐╤Ç╨╛╤ü╨╗╤â╤ê╨╕╨▓╨░╨╜╨╕╨╕)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use a custom max chain reorganization depth (default: %u)</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ ╨╜╨░╤ü╤é╤Ç╨░╨╕╨▓╨░╨╡╨╝╤â╤Ä ╨╝╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╤â╤Ä ╨│╨╗╤â╨▒╨╕╨╜╤â ╤Ç╨╡╨╛╤Ç╨│╨░╨╜╨╕╨╖╨░╤å╨╕╨╕ ╤å╨╡╨┐╨╛╤ç╨║╨╕ (╨┐╨╛ ╤â╨╝╨╛╨╗╤ç╨░╨╜╨╕╤Ä: %u)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Use the test network</source>♪◙        <translation>╨ÿ╤ü╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╤î ╤é╨╡╤ü╤é╨╛╨▓╤â╤Ä ╤ü╨╡╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Username for JSON-RPC connections</source>♪◙        <translation>╨ÿ╨╝╤Å ╨┐╨╛╨╗╤î╨╖╨╛╨▓╨░╤é╨╡╨╗╤Å ╨┤╨╗╤Å ╤ü╨╛╨╡╨┤╨╕╨╜╨╡╨╜╨╕╨╣ JSON-RPC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>♪◙        <translation>╨ù╨╜╨░╤ç╨╡╨╜╨╕╨╡ ╨╜╨╕╨╢╨╡ ╨╜╨░╨╕╨╝╨╡╨╜╤î╤ê╨╡╨│╨╛ ╨┤╨╛╤ü╤é╤â╨┐╨╜╨╛╨│╨╛ ╨╜╨╛╨╝╨╕╨╜╨░╨╗╨░ (= 1) zXCRC</translation>♪◙    </message>♪◙    <message>♪◙        <source>Value more than Obfuscation pool maximum allows.</source>♪◙        <translation>╨£╨░╨║╤ü╨╕╨╝╨░╨╗╤î╨╜╨╛╨╡ ╨╖╨╜╨░╤ç╨╡╨╜╨╕╨╡ ╨▒╨╛╨╗╤î╤ê╨╡, ╤ç╨╡╨╝ ╨┐╨╛╨╖╨▓╨╛╨╗╤Å╨╡╤é ╨┐╤â╨╗ ╨┐╨╡╤Ç╨╡╨║╤Ç╤ï╤é╨╕╨╣ Obfuscation.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verifying blocks...</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╤Ç╨║╨░ ╨▒╨╗╨╛╨║╨╛╨▓ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verifying wallet...</source>♪◙        <translation>╨ƒ╤Ç╨╛╨▓╨╡╤Ç╨║╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>♪◙        <translation>╨ö╨╗╤Å ╨▓╨╡╤Ç╤ü╨╕╨╕ 1 zXCRC ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╤â╤Ç╨╛╨▓╨╡╨╜╤î ╨▒╨╡╨╖╨╛╨┐╨░╤ü╨╜╨╛╤ü╤é╨╕ 100, ╨║╨╛╤é╨╛╤Ç╤ï╨╣ ╨╝╨╛╨╢╨╜╨╛ ╤â╤ü╨┐╨╡╤ê╨╜╨╛ ╤é╤Ç╨░╤é╨╕╤é╤î.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet %s resides outside data directory %s</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║ %s ╨╜╨░╤à╨╛╨┤╨╕╤é╤ü╤Å ╨╖╨░ ╨┐╤Ç╨╡╨┤╨╡╨╗╨░╨╝╨╕ ╨║╨░╤é╨░╨╗╨╛╨│╨░ ╨┤╨░╨╜╨╜╤ï╤à %s</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet is locked.</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║ ╨╖╨░╨▒╨╗╨╛╨║╨╕╤Ç╨╛╨▓╨░╨╜.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>♪◙        <translation>╨Ü╨╛╤ê╨╡╨╗╨╡╨║ ╨╜╨╡╨╛╨▒╤à╨╛╨┤╨╕╨╝╨╛ ╨┐╨╡╤Ç╨╡╨┐╨╕╤ü╨░╤é╤î: ╨┐╨╡╤Ç╨╡╨╖╨░╨┐╤â╤ü╤é╨╕╤é╨╡ CRyptoCrowd Core, ╤ç╤é╨╛╨▒╤ï ╨╖╨░╨▓╨╡╤Ç╤ê╨╕╤é╤î</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet options:</source>♪◙        <translation>╨ƒ╨░╤Ç╨░╨╝╨╡╤é╤Ç╤ï ╨║╨╛╤ê╨╡╨╗╤î╨║╨░:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet window title</source>♪◙        <translation>╨¥╨░╨╖╨▓╨░╨╜╨╕╨╡ ╨╛╨║╨╜╨░ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: This version is obsolete, upgrade required!</source>♪◙        <translation>╨Æ╨╜╨╕╨╝╨░╨╜╨╕╨╡: ╤ì╤é╨░ ╨▓╨╡╤Ç╤ü╨╕╤Å ╤â╤ü╤é╨░╤Ç╨╡╨╗╨░, ╤é╤Ç╨╡╨▒╤â╨╡╤é╤ü╤Å ╨╛╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡: ╨¥╨╡╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╡╨╝╤ï╨╣ ╨░╤Ç╨│╤â╨╝╨╡╨╜╤é -benchmark ╨╕╨│╨╜╨╛╤Ç╨╕╤Ç╤â╨╡╤é╤ü╤Å, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ -debug = bench.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: Unsupported argument -debugnet ignored, use -debug=net.</source>♪◙        <translation>╨ƒ╤Ç╨╡╨┤╤â╨┐╤Ç╨╡╨╢╨┤╨╡╨╜╨╕╨╡. ╨¥╨╡╨┐╨╛╨┤╨┤╨╡╤Ç╨╢╨╕╨▓╨░╨╡╨╝╤ï╨╣ ╨░╤Ç╨│╤â╨╝╨╡╨╜╤é -debugnet ╨╕╨│╨╜╨╛╤Ç╨╕╤Ç╤â╨╡╤é╤ü╤Å, ╨╕╤ü╨┐╨╛╨╗╤î╨╖╤â╨╣╤é╨╡ -debug = net.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Will retry...</source>♪◙        <translation>╨æ╤â╨┤╨╡╤é ╨┐╨╛╨▓╤é╨╛╤Ç╤Å╤é╤î ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>You don't have enough Zerocoins in your wallet</source>♪◙        <translation>╨ú ╨▓╨░╤ü ╨╜╨╡╨┤╨╛╤ü╤é╨░╤é╨╛╤ç╨╜╨╛ Zerocoins ╨▓ ╨▓╨░╤ê╨╡╨╝ ╨║╨╛╤ê╨╡╨╗╤î╨║╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>You need to rebuild the database using -reindex to change -txindex</source>♪◙        <translation>╨Æ╨░╨╝ ╨╜╤â╨╢╨╜╨╛ ╨┐╨╡╤Ç╨╡╤ü╤é╤Ç╨╛╨╕╤é╤î ╨▒╨░╨╖╤â ╨┤╨░╨╜╨╜╤ï╤à ╤ü ╨┐╨╛╨╝╨╛╤ë╤î╤Ä -reindex ╨┤╨╗╤Å ╨╕╨╖╨╝╨╡╨╜╨╡╨╜╨╕╤Å -txindex</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your entries added successfully.</source>♪◙        <translation>╨Æ╨░╤ê╨╕ ╨╖╨░╨┐╨╕╤ü╨╕ ╨┤╨╛╨▒╨░╨▓╨╗╨╡╨╜╤ï ╤â╤ü╨┐╨╡╤ê╨╜╨╛</translation>♪◙    </message>♪◙    <message>♪◙        <source>Your transaction was accepted into the pool!</source>♪◙        <translation>╨Æ╨░╤ê╨░ ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╤Å ╨▒╤ï╨╗╨░ ╨┐╤Ç╨╕╨╜╤Å╤é╨░ ╨▓ ╨┐╤â╨╗!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zapping all transactions from wallet...</source>♪◙        <translation>╨ù╨░╨╝╨╡╨╜╨░ ╨▓╤ü╨╡╤à ╤é╤Ç╨░╨╜╨╖╨░╨║╤å╨╕╨╣ ╨╕╨╖ ╨║╨╛╤ê╨╡╨╗╤î╨║╨░ ...</translation>♪◙    </message>♪◙    <message>♪◙        <source>ZeroMQ notification options:</source>♪◙        <translation>╨₧╨┐╤å╨╕╨╕ ╤â╨▓╨╡╨┤╨╛╨╝╨╗╨╡╨╜╨╕╤Å ZeroMQ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Zerocoin options:</source>♪◙        <translation>╨Æ╨░╤Ç╨╕╨░╨╜╤é╤ï Zerocoin:</translation>♪◙    </message>♪◙    <message>♪◙        <source>on startup</source>♪◙        <translation>╨╜╨░ ╤ü╤é╨░╤Ç╤é╨╡</translation>♪◙    </message>♪◙    <message>♪◙        <source>wallet.dat corrupt, salvage failed</source>♪◙        <translation>wallet.dat ╨║╨╛╤Ç╤Ç╤â╨╝╨┐╨╕╤Ç╨╛╨▓╨░╨╜, ╤ü╨▒╨╛╤Ç ╨╜╨╡ ╨▓╤ï╨┐╨╛╨╗╨╜╨╡╨╜</translation>♪◙    </message>♪◙</context>♪◙</TS>
+<TS language="ru" version="2.1">
+<context>
+    <name>AddressBookPage</name>
+    <message>
+        <source>Right-click to edit address or label</source>
+        <translation>Щелкните правой кнопкой мыши, чтобы изменить адрес или метку</translation>
+    </message>
+    <message>
+        <source>Create a new address</source>
+        <translation>Создать новый адрес</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation>Новый</translation>
+    </message>
+    <message>
+        <source>Copy the currently selected address to the system clipboard</source>
+        <translation>Скопировать текущий выбранный адрес в буфер обмена системы</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Копировать</translation>
+    </message>
+    <message>
+        <source>Delete the currently selected address from the list</source>
+        <translation>Удалить текущий выбранный адрес из списка</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Export the data in the current tab to a file</source>
+        <translation>Экспортировать данные с текущей вкладки в файл</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Экспорт</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Choose the address to send coins to</source>
+        <translation>Выберите адрес для отправки монет</translation>
+    </message>
+    <message>
+        <source>Choose the address to receive coins with</source>
+        <translation>Выберите адрес для получения монет</translation>
+    </message>
+    <message>
+        <source>Choose</source>
+        <translation>Выберите</translation>
+    </message>
+    <message>
+        <source>Sending addresses</source>
+        <translation>Адреса отправки</translation>
+    </message>
+    <message>
+        <source>Receiving addresses</source>
+        <translation>Адреса получения</translation>
+    </message>
+    <message>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши CRyptoCrowd-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
+    </message>
+    <message>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши CRyptoCrowd-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
+    </message>
+    <message>
+        <source>Copy Address</source>
+        <translation>Копировать Адрес</translation>
+    </message>
+    <message>
+        <source>Copy Label</source>
+        <translation>Копировать Метку</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Редактировать</translation>
+    </message>
+    <message>
+        <source>Export Address List</source>
+        <translation>Экспорт списка адресов</translation>
+    </message>
+    <message>
+        <source>Comma separated file (*.csv)</source>
+        <translation>Файл формата csv</translation>
+    </message>
+    <message>
+        <source>Exporting Failed</source>
+        <translation>Ошибка экспорта</translation>
+    </message>
+    <message>
+        <source>There was an error trying to save the address list to %1. Please try again.</source>
+        <translation>Произошла ошибка при попытке сохранить список адресов в %1. Пожалуйста, попробуйте еще раз.</translation>
+    </message>
+</context>
+<context>
+    <name>AddressTableModel</name>
+    <message>
+        <source>Label</source>
+        <translation>Метка</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(нет метки)</translation>
+    </message>
+</context>
+<context>
+    <name>AskPassphraseDialog</name>
+    <message>
+        <source>Passphrase Dialog</source>
+        <translation>Диалоговое окно кодовой фразы</translation>
+    </message>
+    <message>
+        <source>Enter passphrase</source>
+        <translation>Введите кодовую фразу</translation>
+    </message>
+    <message>
+        <source>New passphrase</source>
+        <translation>Новая кодовая фраза</translation>
+    </message>
+    <message>
+        <source>Repeat new passphrase</source>
+        <translation>Повторить новую кодовую фразу</translation>
+    </message>
+    <message>
+        <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
+        <translation>Служит для отключения тривиальных сендмонэй, когда учетная запись ОС скомпрометирована. Не обеспечивает реальной безопасности. </translation>
+    </message>
+    <message>
+        <source>For anonymization, automint, and staking only</source>
+        <translation>Только для анонимности, автосоздания и хранения</translation>
+    </message>
+    <message>
+        <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
+        <translation>Введите новый пароль к кошельку. &lt;br/&gt;Используйте при этом десять &lt;/b&gt;или болле случайных символов &lt;/b&gt;или восем и более слов.</translation>
+    </message>
+    <message>
+        <source>Encrypt wallet</source>
+        <translation>Зашифровать кошелек</translation>
+    </message>
+    <message>
+        <source>This operation needs your wallet passphrase to unlock the wallet.</source>
+        <translation>Для этой операции требуется кодовая фраза вашего кошелька, чтобы разблокировать кошелек.</translation>
+    </message>
+    <message>
+        <source>Unlock wallet</source>
+        <translation>Снятие блокировки кошелька</translation>
+    </message>
+    <message>
+        <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
+        <translation>Для операции дешифрования вашего кошелька нужна кодовая фраза.</translation>
+    </message>
+    <message>
+        <source>Decrypt wallet</source>
+        <translation>Расшифровать кошелек</translation>
+    </message>
+    <message>
+        <source>Change passphrase</source>
+        <translation>Изменить кодовую фразу</translation>
+    </message>
+    <message>
+        <source>Enter the old and new passphrase to the wallet.</source>
+        <translation>Введите старую и новую кодовую фразу для кошелька.</translation>
+    </message>
+    <message>
+        <source>Confirm wallet encryption</source>
+        <translation>Подтверждение шифрования кошелька</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd сейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши CRyptoCrowd от кражи с использованием вредоносного ПО.</translation>
+    </message>
+    <message>
+        <source>Are you sure you wish to encrypt your wallet?</source>
+        <translation>Вы действительно хотите зашифровать свой кошелек?</translation>
+    </message>
+    <message>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>Внимание: если вы зашифруете свой кошелёк и потеряете от него пароль, то вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ СВОИ CRyptoCrowd&lt;/b&gt;!</translation>
+    </message>
+    <message>
+        <source>Wallet encrypted</source>
+        <translation>Кошелек зашифрован</translation>
+    </message>
+    <message>
+        <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
+        <translation>ВАЖНО: все предыдущие резервные копии вашего файла кошелька должны быть заменены вновь созданным зашифрованным файлом кошелька. Из соображений безопасности предыдущие резервные копии незашифрованного файла кошелька станут бесполезными, как только вы начнете использовать новый зашифрованный кошелек.</translation>
+    </message>
+    <message>
+        <source>Wallet encryption failed</source>
+        <translation>Сбой шифрования кошелька</translation>
+    </message>
+    <message>
+        <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
+        <translation>Шифрование кошелька не удалось из-за внутренней ошибки. Ваш кошелек не был зашифрован.</translation>
+    </message>
+    <message>
+        <source>The supplied passphrases do not match.</source>
+        <translation>Введенные парольные фразы не совпадают.</translation>
+    </message>
+    <message>
+        <source>Wallet unlock failed</source>
+        <translation>Не удалось разблокировать кошелек</translation>
+    </message>
+    <message>
+        <source>The passphrase entered for the wallet decryption was incorrect.</source>
+        <translation>Кодовая фраза, введенная для расшифровки кошелька, была неверной.</translation>
+    </message>
+    <message>
+        <source>Wallet decryption failed</source>
+        <translation>Не удалось дешифровать кошелек</translation>
+    </message>
+    <message>
+        <source>Wallet passphrase was successfully changed.</source>
+        <translation>Кодовая фраза кошелька успешно изменена.</translation>
+    </message>
+    <message>
+        <source>Warning: The Caps Lock key is on!</source>
+        <translation>Внимание: Клавиша Caps Lock включена!</translation>
+    </message>
+</context>
+<context>
+    <name>BanTableModel</name>
+    <message>
+        <source>IP/Netmask</source>
+        <translation>IP/Netmask</translation>
+    </message>
+    <message>
+        <source>Banned Until</source>
+        <translation>Запрещено до</translation>
+    </message>
+</context>
+<context>
+    <name>Bip38ToolDialog</name>
+    <message>
+        <source>BIP 38 Tool</source>
+        <translation>BIP 38 Утилита</translation>
+    </message>
+    <message>
+        <source>BIP 38 Encrypt</source>
+        <translation>BIP 38 Шифрование</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>Адрес:</translation>
+    </message>
+    <message>
+        <source>Enter a CRyptoCrowd Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Введите CRyptoCrowd адрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address to encrypt</source>
+        <translation>Адрес CRyptoCrowd для зашифровки</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Выбрать ранее использованный адрес</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Вставить адрес из буфера обмена</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Passphrase: </source>
+        <translation>Кодовая фраза:</translation>
+    </message>
+    <message>
+        <source>Encrypted Key:</source>
+        <translation>Зашифрованный ключ:</translation>
+    </message>
+    <message>
+        <source>Copy the current signature to the system clipboard</source>
+        <translation>Копировать текущую подпись в системный буфер обмена</translation>
+    </message>
+    <message>
+        <source>Encrypt the private key for this CRyptoCrowd address</source>
+        <translation>Зашифровать личные ключи для этого CRyptoCrowd адреса </translation>
+    </message>
+    <message>
+        <source>Reset all fields</source>
+        <translation>Сбросить все поля</translation>
+    </message>
+    <message>
+        <source>The encrypted private key</source>
+        <translation>Зашифрованные личные ключи</translation>
+    </message>
+    <message>
+        <source>Decrypt the entered key using the passphrase</source>
+        <translation>Дешифрование введенных ключей с использованием кодовой фразы</translation>
+    </message>
+    <message>
+        <source>Encrypt Key</source>
+        <translation>Зашифровать Ключ</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>Очистить Все</translation>
+    </message>
+    <message>
+        <source>BIP 38 Decrypt</source>
+        <translation>BIP 38 Дешифрование</translation>
+    </message>
+    <message>
+        <source>Enter the BIP 38 encrypted private key. Enter the passphrase in the middle box. Click Decrypt Key to compute the private key. After the key is decrypted, clicking 'Import Address' will add this private key to the wallet.</source>
+        <translation>Введите зашифрованный с помощью BIP 38 секретный ключ. Введите секретную фразу в среднем окне. Нажмите Дешифровать Ключ чтобы создать секретный ключ. Нажав на Импортировать Адрес после дешифровки, вы добавите секретный ключ к кошельку.</translation>
+    </message>
+    <message>
+        <source>Decrypt Key</source>
+        <translation>Дешифровать Ключ</translation>
+    </message>
+    <message>
+        <source>Decrypted Key:</source>
+        <translation>Дешифрованный Ключ</translation>
+    </message>
+    <message>
+        <source>Import Address</source>
+        <translation>Импортировать Адрес</translation>
+    </message>
+    <message>
+        <source>Click "Decrypt Key" to compute key</source>
+        <translation>Нажмите "Дешифровать Ключ" для генерации ключа</translation>
+    </message>
+    <message>
+        <source>The entered passphrase is invalid. </source>
+        <translation>Неправильно введена кодовая фраза.</translation>
+    </message>
+    <message>
+        <source>Allowed: 0-9,a-z,A-Z,</source>
+        <translation>Допускается: 0-9,a-z,A-Z,</translation>
+    </message>
+    <message>
+        <source>The entered address is invalid.</source>
+        <translation>Неправильно введен адрес.</translation>
+    </message>
+    <message>
+        <source>Please check the address and try again.</source>
+        <translation>Пожалуйста, проверьте адрес и попробуйте снова.</translation>
+    </message>
+    <message>
+        <source>The entered address does not refer to a key.</source>
+        <translation>Введенный адрес не связан с ключом.</translation>
+    </message>
+    <message>
+        <source>Wallet unlock was cancelled.</source>
+        <translation>Снятие блокировки кошелька было отменено.</translation>
+    </message>
+    <message>
+        <source>Private key for the entered address is not available.</source>
+        <translation>Персональный ключ для введенного адреса недоступен.</translation>
+    </message>
+    <message>
+        <source>Failed to decrypt.</source>
+        <translation>Не удалось дешифровать.</translation>
+    </message>
+    <message>
+        <source>Please check the key and passphrase and try again.</source>
+        <translation>Пожалуйста, проверьте ключ и кодовую фразу и попробуйте снова.</translation>
+    </message>
+    <message>
+        <source>Data Not Valid.</source>
+        <translation>Данные недействительны.</translation>
+    </message>
+    <message>
+        <source>Please try again.</source>
+        <translation>Пожалуйста, попробуйте снова.</translation>
+    </message>
+    <message>
+        <source>Please wait while key is imported</source>
+        <translation>Пожалуйста, дождитесь импортирования ключа</translation>
+    </message>
+    <message>
+        <source>Key Already Held By Wallet</source>
+        <translation>Ключ уже используется кошельком</translation>
+    </message>
+    <message>
+        <source>Error Adding Key To Wallet</source>
+        <translation>Ошибка при добавлении ключа к кошельку</translation>
+    </message>
+    <message>
+        <source>Successfully Added Private Key To Wallet</source>
+        <translation>Персональный ключ успешно добавлен к кошельку</translation>
+    </message>
+</context>
+<context>
+    <name>BitcoinGUI</name>
+    <message>
+        <source>Wallet</source>
+        <translation>Кошелек</translation>
+    </message>
+    <message>
+        <source>Node</source>
+        <translation>Узел</translation>
+    </message>
+    <message>
+        <source>Overview</source>
+        <translation>Обзор</translation>
+    </message>
+    <message>
+        <source>Show general overview of wallet</source>
+        <translation>Общий обзор кошелька</translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation>Отправить</translation>
+    </message>
+    <message>
+        <source>Receive</source>
+        <translation>Получить</translation>
+    </message>
+    <message>
+        <source>Transactions</source>
+        <translation>Транзакции</translation>
+    </message>
+    <message>
+        <source>Browse transaction history</source>
+        <translation>Просмотр истории транзакций</translation>
+    </message>
+    <message>
+        <source>Privacy Actions for zXCRC</source>
+        <translation>Действия конфиденциальности для зпив</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>Выход</translation>
+    </message>
+    <message>
+        <source>Quit application</source>
+        <translation>Завершить работу</translation>
+    </message>
+    <message>
+        <source>About Qt</source>
+        <translation>О Qt</translation>
+    </message>
+    <message>
+        <source>Show information about Qt</source>
+        <translation>Показать информацию о Qt</translation>
+    </message>
+    <message>
+        <source>Options...</source>
+        <translation>Опции...</translation>
+    </message>
+    <message>
+        <source>Show / Hide</source>
+        <translation>Показать / Скрыть</translation>
+    </message>
+    <message>
+        <source>Show or hide the main Window</source>
+        <translation>Показать или скрыть основное Окно</translation>
+    </message>
+    <message>
+        <source>Encrypt Wallet...</source>
+        <translation>Зашифровать кошелек...</translation>
+    </message>
+    <message>
+        <source>Encrypt the private keys that belong to your wallet</source>
+        <translation>Зашифровать личные ключи, принадлежащие вашему кошельку</translation>
+    </message>
+    <message>
+        <source>Backup Wallet...</source>
+        <translation>Резервная копия кошелька...</translation>
+    </message>
+    <message>
+        <source>Backup wallet to another location</source>
+        <translation>Сделать резервную копию кошелька в другом месте</translation>
+    </message>
+    <message>
+        <source>Change Passphrase...</source>
+        <translation>Изменить кодовую фразу</translation>
+    </message>
+    <message>
+        <source>Change the passphrase used for wallet encryption</source>
+        <translation>Изменение кодовой фразы, используемой для шифрования кошелька</translation>
+    </message>
+    <message>
+        <source>Unlock Wallet...</source>
+        <translation>Разблокировать кошелек...</translation>
+    </message>
+    <message>
+        <source>Unlock wallet</source>
+        <translation>Снятие блокировки кошелька</translation>
+    </message>
+    <message>
+        <source>Lock Wallet</source>
+        <translation>Блокировка кошелька</translation>
+    </message>
+    <message>
+        <source>Sign message...</source>
+        <translation>Подписать сообщение...</translation>
+    </message>
+    <message>
+        <source>Verify message...</source>
+        <translation>Проверить сообщение...</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Информация</translation>
+    </message>
+    <message>
+        <source>Show diagnostic information</source>
+        <translation>Показать диагностическую информацию</translation>
+    </message>
+    <message>
+        <source>Debug console</source>
+        <translation>Консоль отладки</translation>
+    </message>
+    <message>
+        <source>Open debugging console</source>
+        <translation>Открыть консоль отладки</translation>
+    </message>
+    <message>
+        <source>Network Monitor</source>
+        <translation>Сетевой монитор</translation>
+    </message>
+    <message>
+        <source>Show network monitor</source>
+        <translation>Показать сетевой монитор</translation>
+    </message>
+    <message>
+        <source>Peers list</source>
+        <translation>Список пиров</translation>
+    </message>
+    <message>
+        <source>Show peers info</source>
+        <translation>Показать информацию о пирах</translation>
+    </message>
+    <message>
+        <source>Wallet Repair</source>
+        <translation>Ремонт кошелька</translation>
+    </message>
+    <message>
+        <source>Show wallet repair options</source>
+        <translation>Показать варианты восстановления кошелька</translation>
+    </message>
+    <message>
+        <source>Open configuration file</source>
+        <translation>Открыть файл настроек</translation>
+    </message>
+    <message>
+        <source>Show Automatic Backups</source>
+        <translation>Показать автоматические резервные копии</translation>
+    </message>
+    <message>
+        <source>Show automatically created wallet backups</source>
+        <translation>Показать автоматически созданные резервные копии кошелька</translation>
+    </message>
+    <message>
+        <source>Sending addresses...</source>
+        <translation>Адреса отправки...</translation>
+    </message>
+    <message>
+        <source>Show the list of used sending addresses and labels</source>
+        <translation>Показать список использованых адресов отправки </translation>
+    </message>
+    <message>
+        <source>Receiving addresses...</source>
+        <translation>Адреса получения...</translation>
+    </message>
+    <message>
+        <source>Show the list of used receiving addresses and labels</source>
+        <translation>Показать список использованых адресов приёма</translation>
+    </message>
+    <message>
+        <source>Multisignature creation...</source>
+        <translation>СОздание многоподписей...</translation>
+    </message>
+    <message>
+        <source>Create a new multisignature address and add it to this wallet</source>
+        <translation>Создание нового адреса многоадресной подписи и добавление его в бумажник</translation>
+    </message>
+    <message>
+        <source>Multisignature spending...</source>
+        <translation>Многоподписная трата...</translation>
+    </message>
+    <message>
+        <source>Spend from a multisignature address</source>
+        <translation>Потратить из многоподписного адреса</translation>
+    </message>
+    <message>
+        <source>Multisignature signing...</source>
+        <translation>Многоподписная подпись...</translation>
+    </message>
+    <message>
+        <source>Sign with a multisignature address</source>
+        <translation>Подпишись с многоподписным адресом</translation>
+    </message>
+    <message>
+        <source>Open URI...</source>
+        <translation>Открыть URI</translation>
+    </message>
+    <message>
+        <source>Command-line options</source>
+        <translation>Параметры командной строки</translation>
+    </message>
+    <message numerus="yes">
+        <source>Processed %n blocks of transaction history.</source>
+        <translation><numerusform>Обработано %n блоков истории транзакций</numerusform><numerusform>Обработано %n блоков истории транзакций</numerusform><numerusform>Обработано %n блоков истории транзакций</numerusform><numerusform>Обработано %n блоков истории транзакций</numerusform></translation>
+    </message>
+    <message>
+        <source>Synchronizing additional data: %p%</source>
+        <translation>Синхронизация дополнительных данных: %p%</translation>
+    </message>
+    <message>
+        <source>%1 behind. Scanning block %2</source>
+        <translation>%1 позади. Блок сканирования %2</translation>
+    </message>
+    <message>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt; for anonymization and staking only</source>
+        <translation>Кошелек &lt;b&gt;зашифрован&lt;/b&gt; и в настоящее время &lt;b&gt;разблокирован&lt;/b&gt; для анонимности и хранения.</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>Файл</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation>Инструменты</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Помощь</translation>
+    </message>
+    <message>
+        <source>Tabs toolbar</source>
+        <translation>Панель вкладок</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>Отправить монеты на CRyptoCrowd адрес</translation>
+    </message>
+    <message>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>Запросить платежи (генерирует QR-код и CRyptoCrowd: URI)</translation>
+    </message>
+    <message>
+        <source>Privacy</source>
+        <translation>Конфиденциальность</translation>
+    </message>
+    <message>
+        <source>Masternodes</source>
+        <translation>Мастерноды</translation>
+    </message>
+    <message>
+        <source>Browse masternodes</source>
+        <translation>Обзор мастернод</translation>
+    </message>
+    <message>
+        <source>About CRyptoCrowd Core</source>
+        <translation>О CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>Показать информацию о CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>Изменение параметров конфигурации CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>Подписывайте сообщения вашими CRyptoCrowd адресами, чтобы доказать, что вы их владелец</translation>
+    </message>
+    <message>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным CRyptoCrowd адресом </translation>
+    </message>
+    <message>
+        <source>BIP38 tool</source>
+        <translation>BIP38 Утилита</translation>
+    </message>
+    <message>
+        <source>Encrypt and decrypt private keys using a passphrase</source>
+        <translation>Шифрование и дешифрование личных ключей с использованием кодовой фразы</translation>
+    </message>
+    <message>
+        <source>MultiSend</source>
+        <translation>MultiSend</translation>
+    </message>
+    <message>
+        <source>MultiSend Settings</source>
+        <translation>Настройки MultiSend</translation>
+    </message>
+    <message>
+        <source>Open Wallet Configuration File</source>
+        <translation>Открыть файл настроек кошелька</translation>
+    </message>
+    <message>
+        <source>Open Masternode Configuration File</source>
+        <translation>Открыть файл настроек мастернод</translation>
+    </message>
+    <message>
+        <source>Open Masternode configuration file</source>
+        <translation>Открыть файл настроек мастернод</translation>
+    </message>
+    <message>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>Открыть CRyptoCrowd: URI или запрос платежа</translation>
+    </message>
+    <message>
+        <source>Blockchain explorer</source>
+        <translation>Обзор блокчейна</translation>
+    </message>
+    <message>
+        <source>Block explorer window</source>
+        <translation>Окно обзора блока</translation>
+    </message>
+    <message>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>Смотрите помощь к программе, чтобы получить документацию ко всем возможным опциям комманды CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core client</source>
+        <translation>Клиент CRyptoCrowd Core</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n active connection(s) to CRyptoCrowd network</source>
+        <translation><numerusform>%n активных подключений к сети CRyptoCrowd</numerusform><numerusform>%n активных подключений к сети CRyptoCrowd</numerusform><numerusform>%n активных подключений к сети CRyptoCrowd</numerusform><numerusform>%n активных подключений к сети CRyptoCrowd</numerusform></translation>
+    </message>
+    <message>
+        <source>Synchronizing with network...</source>
+        <translation>Синхронизация с сетью...</translation>
+    </message>
+    <message>
+        <source>Importing blocks from disk...</source>
+        <translation>Импортирование блоков с диска...</translation>
+    </message>
+    <message>
+        <source>Reindexing blocks on disk...</source>
+        <translation>Переиндексация блоков на диске...</translation>
+    </message>
+    <message>
+        <source>No block source available...</source>
+        <translation>Источник блоков недоступен</translation>
+    </message>
+    <message>
+        <source>Up to date</source>
+        <translation>Обновление не требуется</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s)</source>
+        <translation><numerusform>%n часов</numerusform><numerusform>%n часов</numerusform><numerusform>%n часов</numerusform><numerusform>%n часов</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n day(s)</source>
+        <translation><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform><numerusform>%n дней</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n week(s)</source>
+        <translation><numerusform>%n недель</numerusform><numerusform>%n недель</numerusform><numerusform>%n недель</numerusform><numerusform>%n недель</numerusform></translation>
+    </message>
+    <message>
+        <source>%1 and %2</source>
+        <translation>%1 и %2</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n year(s)</source>
+        <translation><numerusform>%n лет</numerusform><numerusform>%n лет</numerusform><numerusform>%n лет</numerusform><numerusform>%n лет</numerusform></translation>
+    </message>
+    <message>
+        <source>Catching up...</source>
+        <translation>ловлю...</translation>
+    </message>
+    <message>
+        <source>Last received block was generated %1 ago.</source>
+        <translation>Последний полученный блок был сгенерирован %1 назад</translation>
+    </message>
+    <message>
+        <source>Transactions after this will not yet be visible.</source>
+        <translation>Трансакции после этой не будут видимы</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Предупреждение</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Информация</translation>
+    </message>
+    <message>
+        <source>Sent transaction</source>
+        <translation>Отправленная транзакция</translation>
+    </message>
+    <message>
+        <source>Incoming transaction</source>
+        <translation>Входящая транзакция</translation>
+    </message>
+    <message>
+        <source>Sent MultiSend transaction</source>
+        <translation>Отправленная MultiSend транзакция</translation>
+    </message>
+    <message>
+        <source>Date: %1
+Amount: %2
+Type: %3
+Address: %4
+</source>
+        <translation>Дата: %1
+Сумма: %2
+Тип: %3
+Адрес: %4
+</translation>
+    </message>
+    <message>
+        <source>Staking is active
+ MultiSend: %1</source>
+        <translation>Хранение активно
+MultiSend: %1</translation>
+    </message>
+    <message>
+        <source>Active</source>
+        <translation>Активно</translation>
+    </message>
+    <message>
+        <source>Not Active</source>
+        <translation>Не активно</translation>
+    </message>
+    <message>
+        <source>Staking is not active
+ MultiSend: %1</source>
+        <translation>Хранение не активно
+MultiSend: %1</translation>
+    </message>
+    <message>
+        <source>AutoMint is currently enabled and set to </source>
+        <translation>Авточеканка в данный момен включена и установлена в</translation>
+    </message>
+    <message>
+        <source>AutoMint is disabled</source>
+        <translation>Авточеканка отключена</translation>
+    </message>
+    <message>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
+        <translation>Кошелек &lt;b&gt;зашифрован&lt;/b&gt; и в настоящее время &lt;b&gt;разблокирован&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
+        <translation>Кошелек &lt;b&gt;зашифрован&lt;/b&gt; и в настоящее время &lt;b&gt;заблокирован&lt;/b&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>BlockExplorer</name>
+    <message>
+        <source>Blockchain Explorer</source>
+        <translation>Обзор блокчейна</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>Назад</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>вперед</translation>
+    </message>
+    <message>
+        <source>Address / Block / Transaction</source>
+        <translation>Адрес / Блок / Транзакция</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Поиск</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Текстовая метка</translation>
+    </message>
+    <message>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (cryptocrowd.conf).</source>
+        <translation>Будут показаны не все транзакции. Для отображения всех транзакций необходимо выставить txindex=1 в конфигурационном файле (cryptocrowd.conf).</translation>
+    </message>
+</context>
+<context>
+    <name>ClientModel</name>
+    <message>
+        <source>Total: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Unknown: %5)</source>
+        <translation>Общее количество: %1 (IPv4: %2 / IPv6: %3 / Tor: %4 / Неизвестные: %5)</translation>
+    </message>
+    <message>
+        <source>Network Alert</source>
+        <translation>Сетевое предупреждение</translation>
+    </message>
+</context>
+<context>
+    <name>CoinControlDialog</name>
+    <message>
+        <source>Quantity:</source>
+        <translation>Количество:</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>Байты:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Сумма:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Приоритет:</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Комиссия:</translation>
+    </message>
+    <message>
+        <source>Coin Selection</source>
+        <translation>Выбор монеты</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>Пыль:</translation>
+    </message>
+    <message>
+        <source>After Fee:</source>
+        <translation>После комиссии:</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Изменить:</translation>
+    </message>
+    <message>
+        <source>(un)select all</source>
+        <translation>выделить(снять) все</translation>
+    </message>
+    <message>
+        <source>toggle lock state</source>
+        <translation>поменять статус блокировки</translation>
+    </message>
+    <message>
+        <source>Tree mode</source>
+        <translation>Режим древа</translation>
+    </message>
+    <message>
+        <source>List mode</source>
+        <translation>Режим списка</translation>
+    </message>
+    <message>
+        <source>(1 locked)</source>
+        <translation>(1 заблокирован)</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>Сумма</translation>
+    </message>
+    <message>
+        <source>Received with label</source>
+        <translation>Получено с меткой</translation>
+    </message>
+    <message>
+        <source>Received with address</source>
+        <translation>Полученно на адрес</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Дата</translation>
+    </message>
+    <message>
+        <source>Confirmations</source>
+        <translation>Подтверждения</translation>
+    </message>
+    <message>
+        <source>Confirmed</source>
+        <translation>Подтверждено</translation>
+    </message>
+    <message>
+        <source>Priority</source>
+        <translation>Приоритет</translation>
+    </message>
+    <message>
+        <source>Copy address</source>
+        <translation>Копировать адрес</translation>
+    </message>
+    <message>
+        <source>Copy label</source>
+        <translation>Копировать метку</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Копировать сумму</translation>
+    </message>
+    <message>
+        <source>Copy transaction ID</source>
+        <translation>Копировать ID транзакции</translation>
+    </message>
+    <message>
+        <source>Lock unspent</source>
+        <translation>Заблокировать нестраченные</translation>
+    </message>
+    <message>
+        <source>Unlock unspent</source>
+        <translation>Разблокировать неистраченные</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>Копировать количество</translation>
+    </message>
+    <message>
+        <source>Copy fee</source>
+        <translation>Копировать комиссию</translation>
+    </message>
+    <message>
+        <source>Copy after fee</source>
+        <translation>Копировать после вознаграждения </translation>
+    </message>
+    <message>
+        <source>Copy bytes</source>
+        <translation>Копировать байты</translation>
+    </message>
+    <message>
+        <source>Copy priority</source>
+        <translation>Копировать приоритет</translation>
+    </message>
+    <message>
+        <source>Copy dust</source>
+        <translation>Копировать пыль</translation>
+    </message>
+    <message>
+        <source>Copy change</source>
+        <translation>Копировать изменение</translation>
+    </message>
+    <message>
+        <source>Please switch to "List mode" to use this function.</source>
+        <translation>Для использования этой функции перейдите в "Режим списка"</translation>
+    </message>
+    <message>
+        <source>highest</source>
+        <translation>самый высокий</translation>
+    </message>
+    <message>
+        <source>higher</source>
+        <translation>выше</translation>
+    </message>
+    <message>
+        <source>high</source>
+        <translation>высокий</translation>
+    </message>
+    <message>
+        <source>medium-high</source>
+        <translation>средне-высокий</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>промежуточный</translation>
+    </message>
+    <message>
+        <source>low-medium</source>
+        <translation>низко-средний</translation>
+    </message>
+    <message>
+        <source>low</source>
+        <translation>низкий</translation>
+    </message>
+    <message>
+        <source>lower</source>
+        <translation>ниже</translation>
+    </message>
+    <message>
+        <source>lowest</source>
+        <translation>самый низкий</translation>
+    </message>
+    <message>
+        <source>(%1 locked)</source>
+        <translation>(%1 заблокирован)</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation>ничего</translation>
+    </message>
+    <message>
+        <source>yes</source>
+        <translation>да</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>нет</translation>
+    </message>
+    <message>
+        <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>
+        <translation>Этот маркер становится красным если размер транзакции превысит 1000 байт.</translation>
+    </message>
+    <message>
+        <source>This means a fee of at least %1 per kB is required.</source>
+        <translation>Это означает, что необходима комиссия в размере как минимум %1 за kB</translation>
+    </message>
+    <message>
+        <source>Can vary +/- 1 byte per input.</source>
+        <translation>Может вариировать +/- 1 байт на каждый ввод</translation>
+    </message>
+    <message>
+        <source>Transactions with higher priority are more likely to get included into a block.</source>
+        <translation>Транзакции с высоким приоритетом с большей вероятностью будут включены в блок.</translation>
+    </message>
+    <message>
+        <source>This label turns red, if the priority is smaller than "medium".</source>
+        <translation>Этот маркер становится красным если приоритет ниже, чем "средний".</translation>
+    </message>
+    <message>
+        <source>This label turns red, if any recipient receives an amount smaller than %1.</source>
+        <translation>Этот маркер становится красным если получаемая адресатом сумма меньше, чем %1</translation>
+    </message>
+    <message>
+        <source>Can vary +/- %1 uCRyptoCrowd per input.</source>
+        <translation>Может вариироваться +/- %1 uCRyptoCrowd при вводе</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(нет метки)</translation>
+    </message>
+    <message>
+        <source>change from %1 (%2)</source>
+        <translation>изменить с %1 (%2)</translation>
+    </message>
+    <message>
+        <source>(change)</source>
+        <translation>(изменить)</translation>
+    </message>
+</context>
+<context>
+    <name>EditAddressDialog</name>
+    <message>
+        <source>Edit Address</source>
+        <translation>Изменить адрес</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>Метка</translation>
+    </message>
+    <message>
+        <source>The label associated with this address list entry</source>
+        <translation>Метка, связанная с этой записью в списке адресов</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
+        <translation>Адрес ассоциирован с этим элемнтом списка адресов. Это может быть изменнено только для адресов отправления.</translation>
+    </message>
+    <message>
+        <source>New receiving address</source>
+        <translation>Новый адрес получения</translation>
+    </message>
+    <message>
+        <source>New sending address</source>
+        <translation>Новый адрес отправки</translation>
+    </message>
+    <message>
+        <source>Edit receiving address</source>
+        <translation>Изменить адрес получения</translation>
+    </message>
+    <message>
+        <source>Edit sending address</source>
+        <translation>Изменить адрес отправки</translation>
+    </message>
+    <message>
+        <source>The entered address "%1" is not a valid CRyptoCrowd address.</source>
+        <translation>Введенный адрес "%1" не является CRyptoCrowd адресом.</translation>
+    </message>
+    <message>
+        <source>The entered address "%1" is already in the address book.</source>
+        <translation>Введенный адрес "%1" уже находится в записной книге.</translation>
+    </message>
+    <message>
+        <source>Could not unlock wallet.</source>
+        <translation>Не удалось разблокировать кошелек.</translation>
+    </message>
+    <message>
+        <source>New key generation failed.</source>
+        <translation>Не удалось создать новый ключ.</translation>
+    </message>
+</context>
+<context>
+    <name>FreespaceChecker</name>
+    <message>
+        <source>A new data directory will be created.</source>
+        <translation>Будет создан новый каталог данных.</translation>
+    </message>
+    <message>
+        <source>name</source>
+        <translation>имя</translation>
+    </message>
+    <message>
+        <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
+        <translation>Данный каталог уже существует. Добавьте %1 если вы все еще хотите создать здесь новый каталог.</translation>
+    </message>
+    <message>
+        <source>Path already exists, and is not a directory.</source>
+        <translation>Путь уже существует и не является каталогом.</translation>
+    </message>
+    <message>
+        <source>Cannot create data directory here.</source>
+        <translation>Здесь невозможно создать каталог данных.</translation>
+    </message>
+</context>
+<context>
+    <name>HelpMessageDialog</name>
+    <message>
+        <source>version</source>
+        <translation>версия</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>(%1-bit)</source>
+        <translation>(%1-бит)</translation>
+    </message>
+    <message>
+        <source>About CRyptoCrowd Core</source>
+        <translation>О CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Command-line options</source>
+        <translation>Параметры командной строки</translation>
+    </message>
+    <message>
+        <source>Usage:</source>
+        <translation>Применение:</translation>
+    </message>
+    <message>
+        <source>command-line options</source>
+        <translation>параметры командной строки</translation>
+    </message>
+    <message>
+        <source>UI Options:</source>
+        <translation>Опции интерфейса</translation>
+    </message>
+    <message>
+        <source>Choose data directory on startup (default: %u)</source>
+        <translation>Выберите директорию для данных при запуске (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Show splash screen on startup (default: %u)</source>
+        <translation>Показывать загрузочную заставку при запуске (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Set language, for example "de_DE" (default: system locale)</source>
+        <translation>Задайте язык, например "de_DE"(по умолчанию: язык системы)</translation>
+    </message>
+    <message>
+        <source>Start minimized</source>
+        <translation>Запускать свёрнутым</translation>
+    </message>
+    <message>
+        <source>Set SSL root certificates for payment request (default: -system-)</source>
+        <translation>Задать корневой сертификат SSL для платежных запросов (по умолчанию: -system-)</translation>
+    </message>
+</context>
+<context>
+    <name>Intro</name>
+    <message>
+        <source>Welcome</source>
+        <translation>Добро пожаловать</translation>
+    </message>
+    <message>
+        <source>Welcome to CRyptoCrowd Core.</source>
+        <translation>Добро пожаловать в CRyptoCrowd Core.</translation>
+    </message>
+    <message>
+        <source>As this is the first time the program is launched, you can choose where CRyptoCrowd Core will store its data.</source>
+        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные CRyptoCrowd Core.</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core will download and store a copy of the CRyptoCrowd block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRyptoCrowd Core загрузит и сохранит копию цепочки блоков CRyptoCrowd. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
+    </message>
+    <message>
+        <source>Use the default data directory</source>
+        <translation>Использовать каталог данных по умолчанию</translation>
+    </message>
+    <message>
+        <source>Use a custom data directory:</source>
+        <translation>Использовать другой каталог данных:</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Error: Specified data directory "%1" cannot be created.</source>
+        <translation>Ошибка: Невозможно создать указанный каталог данных "%1" </translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <source>%1 GB of free space available</source>
+        <translation>Доступно %1 GB свободного места</translation>
+    </message>
+    <message>
+        <source>(of %1 GB needed)</source>
+        <translation>(требуется %1 GB)</translation>
+    </message>
+</context>
+<context>
+    <name>MasternodeList</name>
+    <message>
+        <source>Form</source>
+        <translation>Вид</translation>
+    </message>
+    <message>
+        <source>MASTERNODES</source>
+        <translation>МАСТЕРНОДЫ</translation>
+    </message>
+    <message>
+        <source>Note: Status of your masternodes in local wallet can potentially be slightly incorrect.&lt;br /&gt;Always wait for wallet to sync additional data and then double check from another node&lt;br /&gt;if your node should be running but you still see "MISSING" in "Status" field.</source>
+        <translation>Примечание: Состояние ваших мастернод в локальном кошельке может слегка отличаться от действительности. &lt;br /&gt;Всегда дожидайтесь окончания синхронизации дополнительных данных и затем дважды проверьте с другого узла&lt;br /&gt;если ваша нода должна работать, но в окне "Состояние" пишет "НЕАКТИВНО"</translation>
+    </message>
+    <message>
+        <source>Alias</source>
+        <translation>Алиас</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <source>Protocol</source>
+        <translation>Протокол</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Состояние</translation>
+    </message>
+    <message>
+        <source>Active</source>
+        <translation>Активно</translation>
+    </message>
+    <message>
+        <source>Last Seen (UTC)</source>
+        <translation>Последний визит (UTC)</translation>
+    </message>
+    <message>
+        <source>Pubkey</source>
+        <translation>Публичный ключ</translation>
+    </message>
+    <message>
+        <source>Start alias</source>
+        <translation>Запуск алиаса</translation>
+    </message>
+    <message>
+        <source>Start all</source>
+        <translation>Запустить все</translation>
+    </message>
+    <message>
+        <source>Start MISSING</source>
+        <translation>Запуск НЕАКТИВНЫХ</translation>
+    </message>
+    <message>
+        <source>Update status</source>
+        <translation>Обновить состояние</translation>
+    </message>
+    <message>
+        <source>Status will be updated automatically in (sec):</source>
+        <translation>Состояние будет автоматически обновлено через (сек):</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Start alias</source>
+        <translation>Запуск алиаса</translation>
+    </message>
+    <message>
+        <source>Confirm masternode start</source>
+        <translation>Подтверждение запуска мастерноды</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to start masternode %1?</source>
+        <translation>Вы уверены, что хотите запустить мастерноду %1?</translation>
+    </message>
+    <message>
+        <source>Confirm all masternodes start</source>
+        <translation>Подтвердить старт всех мастернод</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to start ALL masternodes?</source>
+        <translation>Вы уверены, что хотите запустить ВСЕ мастерноды?</translation>
+    </message>
+    <message>
+        <source>Command is not available right now</source>
+        <translation>Команда сейчас недоступна</translation>
+    </message>
+    <message>
+        <source>You can't use this command until masternode list is synced</source>
+        <translation>Использование этой команды невозможно пока не синхронизирован список мастернод</translation>
+    </message>
+    <message>
+        <source>Confirm missing masternodes start</source>
+        <translation>Подтверждение запуска неактивных мастернод</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to start MISSING masternodes?</source>
+        <translation>Вы уверены, что хотите запустить НЕАКТИВНЫЕ мастерноды?</translation>
+    </message>
+</context>
+<context>
+    <name>MultiSendDialog</name>
+    <message>
+        <source>MultiSend</source>
+        <translation>MultiSend</translation>
+    </message>
+    <message>
+        <source>Enter whole numbers 1 - 100</source>
+        <translation>Введите целые числа 1 - 100</translation>
+    </message>
+    <message>
+        <source>Enter % to Give (1-100)</source>
+        <translation>Введите % Передачи (1-100)</translation>
+    </message>
+    <message>
+        <source>Enter Address to Send to</source>
+        <translation>Введите адрес для отправки</translation>
+    </message>
+    <message>
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRyptoCrowd addresses after it matures.
+To Add: enter percentage to give and CRyptoCrowd address to add to the MultiSend vector.
+To Delete: Enter address to delete and press delete.
+MultiSend will not be activated unless you have clicked Activate</source>
+        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие CRyptoCrowd адреса.
+Для добавления: введите передаваемый процент и CRyptoCrowd адрес для добавления к вектору MultiSend.
+Для удаления: введите удаляемый адрес и нажмите удалить.
+MultiSend будет неактивен до тех пор, пока вы не нажмете Включить</translation>
+    </message>
+    <message>
+        <source>Add to MultiSend Vector</source>
+        <translation>Добавить к вектору MultiSend</translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation>Добавить</translation>
+    </message>
+    <message>
+        <source>Deactivate MultiSend</source>
+        <translation>Выключить MultiSend</translation>
+    </message>
+    <message>
+        <source>Deactivate</source>
+        <translation>Выключить</translation>
+    </message>
+    <message>
+        <source>Choose an address from the address book</source>
+        <translation>Выберите адрес из адресной книги</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Percentage of stake to send</source>
+        <translation>Процент от хранящихся монет для отправки</translation>
+    </message>
+    <message>
+        <source>Percentage:</source>
+        <translation>Проценты:</translation>
+    </message>
+    <message>
+        <source>Address to send portion of stake to</source>
+        <translation>Адрес для отправки части от хранения</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>Адрес:</translation>
+    </message>
+    <message>
+        <source>Label:</source>
+        <translation>Метка:</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to your address book</source>
+        <translation>Введите метку для адреса чтобы добавить в адресную книгу</translation>
+    </message>
+    <message>
+        <source>Delete Address From MultiSend Vector</source>
+        <translation>Удалить адрес из Вектора MultiSend</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Activate MultiSend</source>
+        <translation>Включить MultiSend</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>Включить</translation>
+    </message>
+    <message>
+        <source>View MultiSend Vector</source>
+        <translation>Посмотреть Вектор MultiSend</translation>
+    </message>
+    <message>
+        <source>View MultiSend</source>
+        <translation>Просмотр MultiSend</translation>
+    </message>
+    <message>
+        <source>Send For Stakes</source>
+        <translation>Передавать вознаграждение от хранения</translation>
+    </message>
+    <message>
+        <source>Send For Masternode Rewards</source>
+        <translation>Передавать вознаграждение за мастерноды</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(нет метки)</translation>
+    </message>
+    <message>
+        <source>The entered address:
+</source>
+        <translation>Введенный адрес:
+</translation>
+    </message>
+    <message>
+        <source> is invalid.
+Please check the address and try again.</source>
+        <translation>недопустим.
+Пожалуйста, проверьте адрес и попробуйте снова.</translation>
+    </message>
+    <message>
+        <source>The total amount of your MultiSend vector is over 100% of your stake reward
+</source>
+        <translation>Итоговое значение вектора MultiSend превышает 100% ваших вознаграждений
+</translation>
+    </message>
+    <message>
+        <source>Please Enter 1 - 100 for percent.</source>
+        <translation>Введите 1 - 100 для указания процентов.</translation>
+    </message>
+    <message>
+        <source>Saved the MultiSend to memory, but failed saving properties to the database.
+</source>
+        <translation>Сохранили МультиОтправку в памяти, но не удалось сохранить свойства в базе данных.
+</translation>
+    </message>
+    <message>
+        <source>MultiSend Vector
+</source>
+        <translation>Вектор MultiSend
+</translation>
+    </message>
+    <message>
+        <source>Removed </source>
+        <translation>Удалено</translation>
+    </message>
+    <message>
+        <source>Could not locate address
+</source>
+        <translation>Не удалось найти адрес
+</translation>
+    </message>
+</context>
+<context>
+    <name>MultisigDialog</name>
+    <message>
+        <source>Multisignature Address Interactions</source>
+        <translation> Многоподписные адресные взаимодействия</translation>
+    </message>
+    <message>
+        <source>Create MultiSignature Address</source>
+        <translation>Создать Мультиподпись Адрес</translation>
+    </message>
+    <message>
+        <source>How many people must sign to verify a transaction</source>
+        <translation>Сколько людей должны подписать чтобы подтвердить транзакцию</translation>
+    </message>
+    <message>
+        <source>Enter the minimum number of signatures required to sign transactions</source>
+        <translation>Введите минимальное число подписей необходимое для подписания транзакций</translation>
+    </message>
+    <message>
+        <source>Address Label:</source>
+        <translation>Метка адреса:</translation>
+    </message>
+    <message>
+        <source>Add another address that could sign to verify a transaction from the multisig address.</source>
+        <translation>Добавьте еще один адрес, который может подписать, подтвержденную транзакцию с многоподписного адреса.</translation>
+    </message>
+    <message>
+        <source>Add Address / Key</source>
+        <translation>Добавить Адрес / Ключ</translation>
+    </message>
+    <message>
+        <source>Local addresses or public keys that can sign:</source>
+        <translation>Локальные адреса или публичные ключи кторые могут подписать:</translation>
+    </message>
+    <message>
+        <source>Create a new multisig address</source>
+        <translation>Создать новый мультиподписный адрес</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>Создать</translation>
+    </message>
+    <message>
+        <source>Status:</source>
+        <translation>Статус:</translation>
+    </message>
+    <message>
+        <source>Use below to quickly import an address by its redeem. Don't forget to add a label before clicking import!
+Keep in mind, the wallet will rescan the blockchain to find transactions containing the new address.
+Please be patient after clicking import.</source>
+        <translation>Используйте ниже, чтобы быстро импортировать адрес пока его не погасили. Не забудьте добавить ярлык перед нажатием на импорт!
+Имейте в виду, что кошелек пересканирует блокчейн, чтобы найти транзакции, содержащие новый адрес.
+Пожалуйста, будьте терпеливы после нажатия импорта.</translation>
+    </message>
+    <message>
+        <source>Import Redeem</source>
+        <translation>Импорт Погашения</translation>
+    </message>
+    <message>
+        <source>Create MultiSignature Tx</source>
+        <translation>Создать МультиПодписное Сообщение</translation>
+    </message>
+    <message>
+        <source>Inputs:</source>
+        <translation>Ввод:</translation>
+    </message>
+    <message>
+        <source>Coin Control</source>
+        <translation>Контроль Монеты</translation>
+    </message>
+    <message>
+        <source>Quantity Selected:</source>
+        <translation>Выбранное Количество:</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Сумма:</translation>
+    </message>
+    <message>
+        <source>Add an input to fund the outputs</source>
+        <translation>Добавить вход для финансирования выходов</translation>
+    </message>
+    <message>
+        <source>Add a Raw Input</source>
+        <translation>Добавить исходный вход</translation>
+    </message>
+    <message>
+        <source>Address / Amount:</source>
+        <translation>Адрес/ Сумма:</translation>
+    </message>
+    <message>
+        <source>Add destinations to send CRyptoCrowd to</source>
+        <translation>Добавить назначение куда отправить CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Add Destination</source>
+        <translation>Добавить  Назначение</translation>
+    </message>
+    <message>
+        <source>Create a transaction object using the given inputs to the given outputs</source>
+        <translation>Создание объекта транзакции с использованием заданных входов для данных выходов</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>Создать</translation>
+    </message>
+    <message>
+        <source>Sign MultiSignature Tx</source>
+        <translation> Sign MultiSignature Tx</translation>
+    </message>
+    <message>
+        <source>Transaction Hex:</source>
+        <translation>Транзакция Hex:</translation>
+    </message>
+    <message>
+        <source>Sign the transaction from this wallet or from provided private keys</source>
+        <translation>Подпишите транзакцию из этого кошелька или из предоставленных личных ключей</translation>
+    </message>
+    <message>
+        <source>Sign</source>
+        <translation>Подпись</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;DISABLED until transaction has been signed enough times.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ОТКЛЮЧЕНО до тех пор, пока транзакция не будет подписана достаточно раз.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Commit</source>
+        <translation>Совершить</translation>
+    </message>
+    <message>
+        <source>Add private keys to sign the transaction with</source>
+        <translation>Добавьте личные ключи для подписания транзакции с помощью</translation>
+    </message>
+    <message>
+        <source>Add Private Key</source>
+        <translation>Добавьте личный  ключ</translation>
+    </message>
+    <message>
+        <source>Sign with only private keys (Not Recommened)</source>
+        <translation>Подписать только личными ключами ( не рекомедуется)</translation>
+    </message>
+    <message>
+        <source>Invalid Tx Hash.</source>
+        <translation>Недопустимый Tx Hash.</translation>
+    </message>
+    <message>
+        <source>Vout position must be positive.</source>
+        <translation>Позиция Vout должна быть положительной.</translation>
+    </message>
+    <message>
+        <source>Maximum possible addresses reached. (15)</source>
+        <translation>Максимально возможное количество адресов достигнуто. (15)</translation>
+    </message>
+    <message>
+        <source>Vout Position: </source>
+        <translation>Vout Position:</translation>
+    </message>
+    <message>
+        <source>Amount: </source>
+        <translation>Сумма:</translation>
+    </message>
+    <message>
+        <source>Maximum (15)</source>
+        <translation>Максимум (15)</translation>
+    </message>
+</context>
+<context>
+    <name>ObfuscationConfig</name>
+    <message>
+        <source>Configure Obfuscation</source>
+        <translation>Параметры Перемешивания</translation>
+    </message>
+    <message>
+        <source>Basic Privacy</source>
+        <translation>Базовая конфиденциальность</translation>
+    </message>
+    <message>
+        <source>High Privacy</source>
+        <translation>Повышенная конфиденциальность</translation>
+    </message>
+    <message>
+        <source>Maximum Privacy</source>
+        <translation>Максимальная конфиденциальность</translation>
+    </message>
+    <message>
+        <source>Please select a privacy level.</source>
+        <translation>Выберите уровень конфиденциальности.</translation>
+    </message>
+    <message>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Используйте 2 разные мастерноды для смешивания средств до 10000 CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRyptoCrowd</source>
+        <translation>Используйте 8 разных мастернод для смешивания средств до 10000 CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Use 16 separate masternodes</source>
+        <translation>Используйте 16 разных мастернод</translation>
+    </message>
+    <message>
+        <source>This option is the quickest and will cost about ~0.025 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 CRyptoCrowd для анонимизации 10000 CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>This option is moderately fast and will cost about 0.05 CRyptoCrowd to anonymize 10000 CRyptoCrowd</source>
+        <translation>Это средний по скорости вариант и он будет стоить около 0.05 CRyptoCrowd для анонимизации 10000 CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
+        <translation>Это самый медленный и безопасный вариант. Максимальная анонимность стоит</translation>
+    </message>
+    <message>
+        <source>0.1 CRyptoCrowd per 10000 CRyptoCrowd you anonymize.</source>
+        <translation>0.1 CRyptoCrowd за 10000 CRyptoCrowd которые вы собираетесь анонимизировать.</translation>
+    </message>
+    <message>
+        <source>Obfuscation Configuration</source>
+        <translation>Настройка Перемешивания</translation>
+    </message>
+    <message>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Перемешивание было успешно выставлено на стандартные значения (%1 и 2 цикла). Вы в любой момент можете это изменить, открыв окно настройки CRyptoCrowd.</translation>
+    </message>
+    <message>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Перемешивание было успешно выбрано как высокое (%1 и 8 циклов). Вы в любой момент можете это изменить, открыв окно настройки CRyptoCrowd.</translation>
+    </message>
+    <message>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRyptoCrowd's configuration screen.</source>
+        <translation>Перемешивание было успешно выставлено на максимальное (%1 и 16 циклов). Вы в любой момент можете это изменить, открыв окно настройки CRyptoCrowd.</translation>
+    </message>
+</context>
+<context>
+    <name>OpenURIDialog</name>
+    <message>
+        <source>Open URI</source>
+        <translation>Открыть URI</translation>
+    </message>
+    <message>
+        <source>Open payment request from URI or file</source>
+        <translation>Запросить платеж через URI или файл</translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation>URI:</translation>
+    </message>
+    <message>
+        <source>Select payment request file</source>
+        <translation>Выберите файл запроса платежа</translation>
+    </message>
+    <message>
+        <source>Select payment request file to open</source>
+        <translation>Выберите файл запроса платежа чтобы его открыть</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsDialog</name>
+    <message>
+        <source>Options</source>
+        <translation>Настройки</translation>
+    </message>
+    <message>
+        <source>Main</source>
+        <translation>Основной</translation>
+    </message>
+    <message>
+        <source>Size of database cache</source>
+        <translation>Размер кэша базы данных</translation>
+    </message>
+    <message>
+        <source>MB</source>
+        <translation>MB</translation>
+    </message>
+    <message>
+        <source>Number of script verification threads</source>
+        <translation>Количество сценариев проверочных потоков</translation>
+    </message>
+    <message>
+        <source>(0 = auto, &lt;0 = leave that many cores free)</source>
+        <translation>(0 = авто, &lt;0 = оставить свободных ядер)</translation>
+    </message>
+    <message>
+        <source>Wallet</source>
+        <translation>Кошелек</translation>
+    </message>
+    <message>
+        <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>
+        <translation>Отключив проведение неподтвержденных изменений все изменения о транзакции &lt;br/&gt;не будут использованы пока транзакция не получит хотя бы одно подтверждение.&lt;br/&gt;Также это влияет на расчет вашего баланса.</translation>
+    </message>
+    <message>
+        <source>Automatically open the CRyptoCrowd client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть клиентский порт CRyptoCrowd через роутер. Ваш роутер должен поддерживать UPnP, а сам сервис должен быть включен.</translation>
+    </message>
+    <message>
+        <source>Accept connections from outside</source>
+        <translation>Принимать внешние подключения</translation>
+    </message>
+    <message>
+        <source>Allow incoming connections</source>
+        <translation>Разрешить входящие подключения</translation>
+    </message>
+    <message>
+        <source>Connect through SOCKS5 proxy (default proxy):</source>
+        <translation>Подключиться через SOCKS5 (прокси-сервер по умолчанию):</translation>
+    </message>
+    <message>
+        <source>Expert</source>
+        <translation>Эксперт</translation>
+    </message>
+    <message>
+        <source>Automatically start CRyptoCrowd after logging in to the system.</source>
+        <translation>Автоматически запускать CRyptoCrowd после входа в систему.</translation>
+    </message>
+    <message>
+        <source>Start CRyptoCrowd on system login</source>
+        <translation>Запускать CRyptoCrowd при входе в систему</translation>
+    </message>
+    <message>
+        <source>Whether to show coin control features or not.</source>
+        <translation>Показывает или скрывает особенности управления монетами.</translation>
+    </message>
+    <message>
+        <source>Enable coin control features</source>
+        <translation>Включить функции управления монет</translation>
+    </message>
+    <message>
+        <source>Show additional tab listing all your masternodes in first sub-tab&lt;br/&gt;and all masternodes on the network in second sub-tab.</source>
+        <translation>Показать список всех ваших мастернод в первой вкладке&lt;br/&gt;и всех мастернод в сети во второй вкладке.</translation>
+    </message>
+    <message>
+        <source>Show Masternodes Tab</source>
+        <translation>Показать вкладку Мастернод</translation>
+    </message>
+    <message>
+        <source>Spend unconfirmed change</source>
+        <translation>Проведение неподтвержденных изменений</translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation>Сеть</translation>
+    </message>
+    <message>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRyptoCrowd.</source>
+        <translation>Здесь можно выставить язык интерфейса. Изменения вступят в силу после перезапуска CRyptoCrowd.</translation>
+    </message>
+    <message>
+        <source>Language missing or translation incomplete? Help contributing translations here:
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</source>
+        <translation>Отсутствует ваш язык или заметили незавершенный перевод? Вы можете помочь нам стать лучше:
+https://www.transifex.com/CRyptoCrowd-project/CRyptoCrowd-project-translations</translation>
+    </message>
+    <message>
+        <source>Map port using UPnP</source>
+        <translation>Карта порта, использующего UPnP</translation>
+    </message>
+    <message>
+        <source>Enable automatic minting of CRyptoCrowd units to zXCRC</source>
+        <translation>Невозможно автоматически отчеканить единицы CRyptoCrowd для zXCRC</translation>
+    </message>
+    <message>
+        <source>Enable zXCRC Automint</source>
+        <translation>Невозможно авточеканка  zXCRC</translation>
+    </message>
+    <message>
+        <source>Percentage of incoming CRyptoCrowd which get automatically converted to zXCRC via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент приходящих CRyptoCrowd, которые автоматически конвертируются в zXCRC благодаря Zerocoin протоколу (min: 10%)</translation>
+    </message>
+    <message>
+        <source>Percentage of autominted zXCRC</source>
+        <translation>Процент  авточеканненых zXCRC</translation>
+    </message>
+    <message>
+        <source>Wait with automatic conversion to Zerocoin until enough CRyptoCrowd for this denomination is available</source>
+        <translation>Подождите с автоматическим преобразованием в Zerocoin, пока не будет достаточно CRyptoCrowd для этой номинации.</translation>
+    </message>
+    <message>
+        <source>Preferred Automint zXCRC Denomination</source>
+        <translation>Предпочитаемый номинал авточеканной  монеты  zXCRC</translation>
+    </message>
+    <message>
+        <source>Stake split threshold:</source>
+        <translation>Порог разделения доли:</translation>
+    </message>
+    <message>
+        <source>Connect to the CRyptoCrowd network through a SOCKS5 proxy.</source>
+        <translation>Подключиться к сети CRyptoCrowd через SOCKS5 прокси.</translation>
+    </message>
+    <message>
+        <source>Proxy IP:</source>
+        <translation>IP адрес:</translation>
+    </message>
+    <message>
+        <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
+        <translation>IP-адрес прокси сервера (например: IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation>Порт</translation>
+    </message>
+    <message>
+        <source>Port of the proxy (e.g. 9050)</source>
+        <translation>Порт прокси сервера (например: 9050)</translation>
+    </message>
+    <message>
+        <source>Window</source>
+        <translation>Окно</translation>
+    </message>
+    <message>
+        <source>Show only a tray icon after minimizing the window.</source>
+        <translation>После сворачивания окна показывать только значок в трее.</translation>
+    </message>
+    <message>
+        <source>Minimize to the tray instead of the taskbar</source>
+        <translation>Свернуть в трей, а не на панель задач</translation>
+    </message>
+    <message>
+        <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
+        <translation>Сворачивать окно при закрывании вместо выхода из приложения. При включении этой опции покинуть приложение можно только после нажатия Выйти в меню программы.</translation>
+    </message>
+    <message>
+        <source>Minimize on close</source>
+        <translation>Cворачивать при закрытии</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation>Экран</translation>
+    </message>
+    <message>
+        <source>User Interface language:</source>
+        <translation>Язык Интерфейса</translation>
+    </message>
+    <message>
+        <source>User Interface Theme:</source>
+        <translation>Тема Интерфейса</translation>
+    </message>
+    <message>
+        <source>Unit to show amounts in:</source>
+        <translation>В каких единицах показывать сумму:</translation>
+    </message>
+    <message>
+        <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
+        <translation>Выберите стандарную дробную величину, которая будет показываться в графическом интерфейсе и при отправке монет.</translation>
+    </message>
+    <message>
+        <source>Decimal digits</source>
+        <translation>Десятичная разрядность</translation>
+    </message>
+    <message>
+        <source>Hide empty balances</source>
+        <translation>Скрыть пустые балансы</translation>
+    </message>
+    <message>
+        <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
+        <translation>Сторониие ссылки (такие как block exporer), которые отображаются в закладке "транзакции" как контекстное меню. %s в ссыле будет замещено хэшем транзакции. Ссылки отделяются друг от друга вертикальной чертой |.</translation>
+    </message>
+    <message>
+        <source>Third party transaction URLs</source>
+        <translation>Сторонние ссылки</translation>
+    </message>
+    <message>
+        <source>Active command-line options that override above options:</source>
+        <translation>Активные опции коммандной строки, которые переписывают опции выше:</translation>
+    </message>
+    <message>
+        <source>Reset all client options to default.</source>
+        <translation>Вернуть стандартные настройки клиента</translation>
+    </message>
+    <message>
+        <source>Reset Options</source>
+        <translation>Сбросить Настройки</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>Any</source>
+        <translation>Любой</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <translation>по-умолчанию</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation>ничего</translation>
+    </message>
+    <message>
+        <source>Confirm options reset</source>
+        <translation>Подтвердить сброс настроек</translation>
+    </message>
+    <message>
+        <source>Client restart required to activate changes.</source>
+        <translation>Для применения изменений требуется перезапуск клиента.</translation>
+    </message>
+    <message>
+        <source>Client will be shutdown, do you want to proceed?</source>
+        <translation>Клиент будет закрыт, вы хотите продолжить?</translation>
+    </message>
+    <message>
+        <source>This change would require a client restart.</source>
+        <translation>Это изменение потребует перезапуска клиента.</translation>
+    </message>
+    <message>
+        <source>The supplied proxy address is invalid.</source>
+        <translation>Указан недопустимый адрес прокси-сервера.</translation>
+    </message>
+    <message>
+        <source>The supplied proxy port is invalid.</source>
+        <translation>Указан недопустимый порт прокси-сервера.</translation>
+    </message>
+    <message>
+        <source>The supplied proxy settings are invalid.</source>
+        <translation>Указаны недопустимые настройки прокси-сервера.</translation>
+    </message>
+</context>
+<context>
+    <name>OverviewPage</name>
+    <message>
+        <source>Form</source>
+        <translation>Вид</translation>
+    </message>
+    <message>
+        <source>Available:</source>
+        <translation>Доступно:</translation>
+    </message>
+    <message>
+        <source>Your current spendable balance</source>
+        <translation>Ваш текущий остаток средств</translation>
+    </message>
+    <message>
+        <source>Total Balance, including all unavailable coins.</source>
+        <translation>Общий баланс включая все не доступные монеты</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Balance</source>
+        <translation>Баланс CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Pending:</source>
+        <translation>В ожидании:</translation>
+    </message>
+    <message>
+        <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
+        <translation>Транзакции, которые ещё должны быть подтверждены и не уменьшают баланс</translation>
+    </message>
+    <message>
+        <source>Immature:</source>
+        <translation>Дозревают:</translation>
+    </message>
+    <message>
+        <source>Staked or masternode rewards that has not yet matured</source>
+        <translation>Награды за хранение и мастерноды, которые еще не *созрели*</translation>
+    </message>
+    <message>
+        <source>Current locked balance in watch-only addresses</source>
+        <translation>Текущий заблокированый баланс всех наблюдаемых адресов</translation>
+    </message>
+    <message>
+        <source>Your current CRyptoCrowd balance, unconfirmed and immature transactions included</source>
+        <translation>Ваш текущий CRyptoCrowd  баланс, включая неподтвержденные и незрелые транзакции</translation>
+    </message>
+    <message>
+        <source>zXCRC Balance</source>
+        <translation>Баланс zXCRC</translation>
+    </message>
+    <message>
+        <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
+These zXCRC are spendable.</source>
+        <translation>Зрелые: более 20 подтверждений и более 1 чеканки одного и того же наименования после того, как оно было отчеканено. Эти zXCRC можно потратить.</translation>
+    </message>
+    <message>
+        <source>Unconfirmed: less than 20 confirmations
+Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>
+        <translation>Неподтверждено: менее 20 подтверждений
+Незрелый: подтвержден, но менее 1 чеканок того же наименования после того, как он был отчеканен</translation>
+    </message>
+    <message>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью CRyptoCrowd после установки соединения, но этот процесс еще не завершен. </translation>
+    </message>
+    <message>
+        <source>OVERVIEW</source>
+        <translation>ОБЗОР</translation>
+    </message>
+    <message>
+        <source>Combined Balance (including unconfirmed and immature coins)</source>
+        <translation>Комбинированный баланс (включая неподтвержденные и незрелые монеты)</translation>
+    </message>
+    <message>
+        <source>Combined Balance</source>
+        <translation>Комбинированный баланс</translation>
+    </message>
+    <message>
+        <source>Unconfirmed transactions to watch-only addresses</source>
+        <translation>Неподтверждённые транзакции на наблюдаемые адреса</translation>
+    </message>
+    <message>
+        <source>Staked or masternode rewards in watch-only addresses that has not yet matured</source>
+        <translation>Награды за хранение и мастерноды в наблюдаемых адресах, которые еще не *созрели*</translation>
+    </message>
+    <message>
+        <source>Total:</source>
+        <translation>Всего:</translation>
+    </message>
+    <message>
+        <source>Current total balance in watch-only addresses</source>
+        <translation>Текущий баланс всех наблюдаемых адресов</translation>
+    </message>
+    <message>
+        <source>Watch-only:</source>
+        <translation>Наблюдаемый:</translation>
+    </message>
+    <message>
+        <source>Your current balance in watch-only addresses</source>
+        <translation>Ваш текущий баланс в наблюдаемых адресах</translation>
+    </message>
+    <message>
+        <source>Spendable:</source>
+        <translation>Расходуемый:</translation>
+    </message>
+    <message>
+        <source>Locked CRyptoCrowd or Masternode collaterals. These are excluded from zXCRC minting.</source>
+        <translation>Заблокированно дополнительное обеспечение CRyptoCrowd или Masternode. Они исключены из чеканки zXCRC.</translation>
+    </message>
+    <message>
+        <source>Locked:</source>
+        <translation>Заперто</translation>
+    </message>
+    <message>
+        <source>Unconfirmed:</source>
+        <translation>Неподтвержденный:</translation>
+    </message>
+    <message>
+        <source>Your current zXCRC balance, unconfirmed and immature zXCRC included.</source>
+        <translation>Ваш текущий zXCRC баланс, включая неподтвержденные и незрелые транзакции</translation>
+    </message>
+    <message>
+        <source>Recent transactions</source>
+        <translation>Последние транзакции</translation>
+    </message>
+    <message>
+        <source>out of sync</source>
+        <translation>несинронизировано</translation>
+    </message>
+    <message>
+        <source>Current percentage of zXCRC.
+If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
+</source>
+        <translation>Текущий процент от zXCRC.
+Если АвтоЧеканка включена, этот процент будет располагаться на настроенном проценте АвтоЧеканка  (по умолчанию = 10%).
+</translation>
+    </message>
+    <message>
+        <source>AutoMint is currently enabled and set to </source>
+        <translation>Авточеканка в данный момен включена и установлена в</translation>
+    </message>
+    <message>
+        <source>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</source>
+        <translation>To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.</translation>
+    </message>
+    <message>
+        <source>AutoMint is currently disabled.
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf</source>
+        <translation>Авточеканка  в настоящее время отключена.
+Чтобы включить Авточеканку, измените 'enablezeromint = 0' на 'enablezeromint = 1' в файле cryptocrowd.conf</translation>
+    </message>
+</context>
+<context>
+    <name>PaymentServer</name>
+    <message>
+        <source>Payment request error</source>
+        <translation>Ошибка при запросе на оплату</translation>
+    </message>
+    <message>
+        <source>URI handling</source>
+        <translation>Обработка ссылок</translation>
+    </message>
+    <message>
+        <source>Payment request fetch URL is invalid: %1</source>
+        <translation> Недопустимый URL-адрес запроса платежа: %1</translation>
+    </message>
+    <message>
+        <source>Payment request file handling</source>
+        <translation>Обработка файла запроса на оплату</translation>
+    </message>
+    <message>
+        <source>Invalid payment address %1</source>
+        <translation>Неверный адрес оплаты %1</translation>
+    </message>
+    <message>
+        <source>Cannot start CRyptoCrowd: click-to-pay handler</source>
+        <translation>Не удалось запустить CRyptoCrowd: обработчик click-to-pay </translation>
+    </message>
+    <message>
+        <source>URI cannot be parsed! This can be caused by an Invalid XCRC address or malformed URI parameters.</source>
+        <translation>URI не интерпретируется! Причиной этому может быть неверный CRyptoCrowd адрес или неверные параметеры URI.</translation>
+    </message>
+    <message>
+        <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
+        <translation>Файл запроса оплаты нечитается! Причиной может быть неверный файл запроса оплаты.</translation>
+    </message>
+    <message>
+        <source>Payment request rejected</source>
+        <translation>Запрос на оплату отклонен</translation>
+    </message>
+    <message>
+        <source>Payment request network doesn't match client network.</source>
+        <translation>Сеть запроса на оплату отличается от сети клиента.</translation>
+    </message>
+    <message>
+        <source>Payment request has expired.</source>
+        <translation>Запрос на оплату просрочен.</translation>
+    </message>
+    <message>
+        <source>Payment request is not initialized.</source>
+        <translation>Запрос на оплату не инициализирован.</translation>
+    </message>
+    <message>
+        <source>Unverified payment requests to custom payment scripts are unsupported.</source>
+        <translation>Неверифицированные запросы на оплату к пользовательским скриптам оплаты не поддерживается.</translation>
+    </message>
+    <message>
+        <source>Requested payment amount of %1 is too small (considered dust).</source>
+        <translation>Запрашиваемая сумма оплаты %1 слишком мала (considered dust).</translation>
+    </message>
+    <message>
+        <source>Refund from %1</source>
+        <translation>Сумма возврата от %1</translation>
+    </message>
+    <message>
+        <source>Payment request %1 is too large (%2 bytes, allowed %3 bytes).</source>
+        <translation>Запрос на оплату %1 слишком велик (%2 байт, разрешено %3 байт).</translation>
+    </message>
+    <message>
+        <source>Payment request DoS protection</source>
+        <translation>Защита от DoS атак, использующих запросы на оплату</translation>
+    </message>
+    <message>
+        <source>Error communicating with %1: %2</source>
+        <translation>Ошибка коммуникации с %1: %2</translation>
+    </message>
+    <message>
+        <source>Payment request cannot be parsed!</source>
+        <translation>Запрос на оплату непонятен!</translation>
+    </message>
+    <message>
+        <source>Bad response from server %1</source>
+        <translation>Неожиданный ответ сервера %1</translation>
+    </message>
+    <message>
+        <source>Network request error</source>
+        <translation>Ошибка обращения к сети</translation>
+    </message>
+    <message>
+        <source>Payment acknowledged</source>
+        <translation>Оплата принята к обработке</translation>
+    </message>
+</context>
+<context>
+    <name>PeerTableModel</name>
+    <message>
+        <source>Address/Hostname</source>
+        <translation>Адрес / имя хоста</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>Версия</translation>
+    </message>
+    <message>
+        <source>Ping Time</source>
+        <translation>Время отклика</translation>
+    </message>
+</context>
+<context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>Zerocoin Actions:</source>
+        <translation>Действия Zerocoin </translation>
+    </message>
+    <message>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRyptoCrowd network after a connection is established, but this process has not completed yet.</source>
+        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью CRyptoCrowd после установки соединения, но этот процесс еще не завершен. </translation>
+    </message>
+    <message>
+        <source>Mint Zerocoin</source>
+        <translation>Создать Zerocoin</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
+    </message>
+    <message>
+        <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
+        <translation>Доступными для чеканки являются монеты, которые подтверждены, а не заблокированы или заложены в коллекцию Masternode.</translation>
+    </message>
+    <message>
+        <source>Available for Minting:</source>
+        <translation>Доступный для чеканки</translation>
+    </message>
+    <message>
+        <source>0.000 000 00 XCRC</source>
+        <translation>0.000 000 00 XCRC</translation>
+    </message>
+    <message>
+        <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
+        <translation>Сброс базы данных кошелька Zerocoin. Удаляете транзакции, которые не попадают в цепочку.</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>Сброс</translation>
+    </message>
+    <message>
+        <source>Coin Control...</source>
+        <translation>Контроль Монеты...</translation>
+    </message>
+    <message>
+        <source>Quantity:</source>
+        <translation>Количество:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Сумма:</translation>
+    </message>
+    <message>
+        <source>Rescan the complete blockchain for  Zerocoin mints and their meta-data.</source>
+        <translation>Пересканировать  завершенную блокчейн для Zerocoin  чеканки и мета данных</translation>
+    </message>
+    <message>
+        <source>ReScan</source>
+        <translation>Пересканирование</translation>
+    </message>
+    <message>
+        <source>Status and/or Mesages from the last Mint Action.</source>
+        <translation>статус и / или сообщения от последней чеканки.</translation>
+    </message>
+    <message>
+        <source>PRIVACY</source>
+        <translation>КОНФИДЕНЦИАЛЬНОСТЬ</translation>
+    </message>
+    <message>
+        <source>Enter an amount of XCRC to convert to zXCRC</source>
+        <translation>Введите сумму в CRyptoCrowd для  конвертации в zXCRC</translation>
+    </message>
+    <message>
+        <source>zXCRC Control</source>
+        <translation>Контроль zXCRC</translation>
+    </message>
+    <message>
+        <source>zXCRC Selected:</source>
+        <translation>Выбрано zXCRC:</translation>
+    </message>
+    <message>
+        <source>Quantity Selected:</source>
+        <translation>Выбранное Количество:</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin. Without 'Pay To:' address creates payments to yourself.</source>
+        <translation>Потратить Zerocoin. Без адреса «Оплатить кому» вы сами создаете платежи.</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin</source>
+        <translation>Потратить Zerocoin</translation>
+    </message>
+    <message>
+        <source>Available (mature and spendable) zXCRC for spending</source>
+        <translation>Доступный (зрелый и расходуемый) zXCRC для расходов</translation>
+    </message>
+    <message>
+        <source>Available Balance:</source>
+        <translation>Доступный Баланс :</translation>
+    </message>
+    <message>
+        <source>Available (mature and spendable) zXCRC for spending
+
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Доступный (зрелый и затратный) zXCRC для расходов
+
+zXCRC are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</translation>
+    </message>
+    <message>
+        <source>0 zXCRC</source>
+        <translation>0 zXCRC</translation>
+    </message>
+    <message>
+        <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
+        <translation>Уровень безопасности для транзакций Zerocoin. Больше лучше, но требуется больше времени и ресурсов.</translation>
+    </message>
+    <message>
+        <source>Security Level:</source>
+        <translation>Уровень безопасности:</translation>
+    </message>
+    <message>
+        <source>Security Level 1 - 100 (default: 42)</source>
+        <translation>Уровень безопасности 1-100 ( по умолчанию: 42)</translation>
+    </message>
+    <message>
+        <source>Pay To:</source>
+        <translation>Оплатить кому:</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Адрес CRyptoCrowd для отправки платежа. Создает локальный платеж себе, когда он пуст.</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Выбрать ранее использованный адрес</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Вставить адрес из буфера обмена</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Label:</source>
+        <translation>Метка:</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to the list of used addresses</source>
+        <translation>Введите метку для этого адреса, чтобы добавить ее в список используемых адресов</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Сумма:</translation>
+    </message>
+    <message>
+        <source>Convert Change to Zerocoin (might cost additional fees)</source>
+        <translation>Преобразование изменений в Zerocoin (может стоить дополнительные сборы)</translation>
+    </message>
+    <message>
+        <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
+        <translation>Если этот флажок установлен, кошелек пытается минимизировать возвращаемое изменение, а не минимизировать количество потраченных купюр.</translation>
+    </message>
+    <message>
+        <source>Minimize Change</source>
+        <translation>Сведение к минимуму изменений</translation>
+    </message>
+    <message>
+        <source>Information about the available Zerocoin funds.</source>
+        <translation>Информация о доступных фондах Зерокоина.</translation>
+    </message>
+    <message>
+        <source>Zerocoin Stats:</source>
+        <translation>Zerocoin Stats:</translation>
+    </message>
+    <message>
+        <source>Total Balance including unconfirmed and immature zXCRC</source>
+        <translation>Общий баланс, включая неподтвержденные и незрелые zXCRC</translation>
+    </message>
+    <message>
+        <source>Total Zerocoin  Balance:</source>
+        <translation>Общий баланс Zerocoin:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 1:</source>
+        <translation>Номинал со значением 1:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 1:</source>
+        <translation>Номинал со значением 1:</translation>
+    </message>
+    <message>
+        <source>Unconfirmed: less than 20 confirmations
+Immature: confirmed, but less than 1 mint of the same denomination after it was minted</source>
+        <translation>Неподтверждено: менее 20 подтверждений
+Незрелый: подтвержден, но менее 1 чеканок того же наименования после того, как он был отчеканен</translation>
+    </message>
+    <message>
+        <source>Show the current status of automatic zXCRC minting.
+
+To change the status (restart required):
+- enable: add 'enablezeromint=1' to cryptocrowd.conf
+- disable: add 'enablezeromint=0' to cryptocrowd.conf
+
+To change the percentage (no restart required):
+- menu Settings-&gt;Options-&gt;Percentage of autominted zXCRC
+
+</source>
+        <translation>Показать текущий статус автоматической чеканки zXCRC.
+
+Чтобы изменить статус (требуется перезагрузка):
+- включить: добавить 'enablezeromint = 1' в cryptocrowd.conf
+- отключить: добавить 'enablezeromint = 0' в cryptocrowd.conf
+
+Чтобы изменить процент (не требуется перезагрузка):
+- меню Настройки-&gt; Параметры-&gt; Процент авторизованного zXCRC</translation>
+    </message>
+    <message>
+        <source>AutoMint Status</source>
+        <translation>Состояние автообмена</translation>
+    </message>
+    <message>
+        <source>Global Supply:</source>
+        <translation>Общая поставка</translation>
+    </message>
+    <message>
+        <source>Denom. 1:</source>
+        <translation>Номинал 1:</translation>
+    </message>
+    <message>
+        <source>Denom. 5:</source>
+        <translation>Номинал 5:</translation>
+    </message>
+    <message>
+        <source>Denom. 10:</source>
+        <translation>Номинал 10:</translation>
+    </message>
+    <message>
+        <source>Denom. 50:</source>
+        <translation>Номинал 50:</translation>
+    </message>
+    <message>
+        <source>Denom. 100:</source>
+        <translation>Номинал 100:</translation>
+    </message>
+    <message>
+        <source>Denom. 500:</source>
+        <translation>Номинал 500:</translation>
+    </message>
+    <message>
+        <source>Denom. 1000:</source>
+        <translation>Номинал 1000:</translation>
+    </message>
+    <message>
+        <source>Denom. 5000:</source>
+        <translation>Номинал 5000:</translation>
+    </message>
+    <message>
+        <source>0 x</source>
+        <translation>0 x</translation>
+    </message>
+    <message>
+        <source>Denominations with value 5:</source>
+        <translation>Номинал со значением 5:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 5:</source>
+        <translation>Номинал со значением 5:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 10:</source>
+        <translation>Номинал со значением 10:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 10:</source>
+        <translation>Номинал со значением 10:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 50:</source>
+        <translation>Номинал со значением 50:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 50:</source>
+        <translation>Номинал со значением 50:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 100:</source>
+        <translation>Номинал со значением 100:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 100:</source>
+        <translation>Номинал со значением 100:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 500:</source>
+        <translation>Номинал со значением 500:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 500:</source>
+        <translation>Номинал со значением 500:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 1000:</source>
+        <translation>Номинал со значением 1000:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 1000:</source>
+        <translation>Номинал со значением 1000:</translation>
+    </message>
+    <message>
+        <source>Denominations with value 5000:</source>
+        <translation>Номинал со значением 5000:</translation>
+    </message>
+    <message>
+        <source>Denom. with value 5000:</source>
+        <translation>Номинал со значением 5000:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Приоритет:</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Текстовая метка</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Комиссия:</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>Пыль:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>нет</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>Байты:</translation>
+    </message>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation>Недостаточно средств</translation>
+    </message>
+    <message>
+        <source>Coins automatically selected</source>
+        <translation>Монеты автоматически выбираются</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>промежуточный</translation>
+    </message>
+    <message>
+        <source>Coin Control Features</source>
+        <translation>Особенности управления монетами</translation>
+    </message>
+    <message>
+        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
+        <translation>Если это активировано, но адрес изменения пуст или недействителен, изменение будет отправлено на вновь сгенерированный адрес.</translation>
+    </message>
+    <message>
+        <source>Custom change address</source>
+        <translation>Пользовательский адрес изменения</translation>
+    </message>
+    <message>
+        <source>Amount After Fee:</source>
+        <translation>Сумма после оплаты:</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Изменить:</translation>
+    </message>
+    <message>
+        <source>out of sync</source>
+        <translation>несинронизировано</translation>
+    </message>
+    <message>
+        <source>Mint Status: Okay</source>
+        <translation>Статус чеканки  ОК</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>Копировать количество</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Копировать сумму</translation>
+    </message>
+    <message>
+        <source>Starting ResetMintZerocoin: rescanning complete blockchain, this will need up to 30 minutes depending on your hardware.
+Please be patient...</source>
+        <translation>Запуск ResetMintZerocoin: повторное сканирование полной блок-цепи, это потребует до 30 минут в зависимости от вашего оборудования.
+Будьте терпеливы ...</translation>
+    </message>
+    <message>
+        <source>Spending Zerocoin.
+Computationally expensive, might need several minutes depending on the selected Security Level and your hardware.
+Please be patient...</source>
+        <translation>Расходы Zerocoin.
+Вычислительно дорого, может потребоваться несколько минут в зависимости от выбранного уровня безопасности и вашего оборудования.
+Пожалуйста, будьте терпеливы...</translation>
+    </message>
+    <message>
+        <source>) needed.
+Maximum allowed: </source>
+        <translation>) необходимо.
+Максимально допустимое:</translation>
+    </message>
+    <message>
+        <source>zXCRC Spend #: </source>
+        <translation>zXCRC Тратить #: </translation>
+    </message>
+    <message>
+        <source>zXCRC Mint</source>
+        <translation>чеканка zXCRC</translation>
+    </message>
+    <message>
+        <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
+        <translation> &lt;b&gt;включен&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <source> &lt;b&gt;disabled&lt;/b&gt;.</source>
+        <translation> &lt;b&gt;отключен&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <source> Configured target percentage: &lt;b&gt;</source>
+        <translation> Настроенный целевой процент: &lt;b&gt;</translation>
+    </message>
+    <message>
+        <source>zXCRC is currently disabled due to maintenance.</source>
+        <translation>zXCRC в настоящее время отключен от обслуживания.</translation>
+    </message>
+    <message>
+        <source>zXCRC is currently undergoing maintenance.</source>
+        <translation>В настоящее время zXCRC проходит техническое обслуживание.</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
+        <translation>Номинал со значением &lt;b&gt;1&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;5&lt;/b&gt;:</source>
+        <translation>Номинал со значением &lt;b&gt;5&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;10&lt;/b&gt;:</source>
+        <translation>Номинал со значением &lt;b&gt;10&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;50&lt;/b&gt;:</source>
+        <translation>Номинал со значением &lt;b&gt;50&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;100&lt;/b&gt;:</source>
+        <translation>Номинал со значением &lt;b&gt;100&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;500&lt;/b&gt;:</source>
+        <translation>Номинал со значением &lt;b&gt;500&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;1000&lt;/b&gt;:</source>
+        <translation>Номинал со значением &lt;b&gt;1000&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. with value &lt;b&gt;5000&lt;/b&gt;:</source>
+        <translation>Номинал со значением &lt;b&gt;5000&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>AutoMint Status:</source>
+        <translation>Статус АвтоЧеканки:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;1&lt;/b&gt;:</source>
+        <translation>Номинал &lt;b&gt;1&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;5&lt;/b&gt;:</source>
+        <translation>Номинал&lt;b&gt;5&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;10&lt;/b&gt;:</source>
+        <translation>Номинал &lt;b&gt;10&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;50&lt;/b&gt;:</source>
+        <translation>Номинал &lt;b&gt;50&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;100&lt;/b&gt;:</source>
+        <translation>Номинал &lt;b&gt;100&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;500&lt;/b&gt;:</source>
+        <translation>Номинал &lt;b&gt;500&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;1000&lt;/b&gt;:</source>
+        <translation>Номинал &lt;b&gt;1000&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Denom. &lt;b&gt;5000&lt;/b&gt;:</source>
+        <translation>Номинал&lt;b&gt;5000&lt;/b&gt;:</translation>
+    </message>
+    <message>
+        <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>
+        <translation>Ошибка. Ваш кошелек заблокирован. Сначала введите кодовую фразу кошелька.</translation>
+    </message>
+    <message>
+        <source>Message: Enter an amount &gt; 0.</source>
+        <translation>Сообщение: Введите сумму&gt; 0.</translation>
+    </message>
+    <message>
+        <source>Minting </source>
+        <translation>Создание</translation>
+    </message>
+    <message>
+        <source>Successfully minted </source>
+        <translation>Создан успешно</translation>
+    </message>
+    <message>
+        <source> zXCRC in </source>
+        <translation> zXCRC в</translation>
+    </message>
+    <message>
+        <source> sec. Used denominations:
+</source>
+        <translation>сек. Испльзованы номинации:
+</translation>
+    </message>
+    <message>
+        <source>Duration: </source>
+        <translation>Продолжительность:</translation>
+    </message>
+    <message>
+        <source> sec.
+</source>
+        <translation>сек.
+</translation>
+    </message>
+    <message>
+        <source>Starting ResetSpentZerocoin: </source>
+        <translation>Запуск ResetSpentZerocoin:</translation>
+    </message>
+    <message>
+        <source>No 'Pay To' address provided, creating local payment</source>
+        <translation>Не предоставляется адрес «Pay To», создающий местный платеж</translation>
+    </message>
+    <message>
+        <source>Invalid XCRC address</source>
+        <translation>неправильный CRyptoCrowd адрес</translation>
+    </message>
+    <message>
+        <source>Invalid Send Amount</source>
+        <translation>Недействительная сумма отправки</translation>
+    </message>
+    <message>
+        <source>Confirm additional Fees</source>
+        <translation>Подтверждение дополнительных сборов</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to send?&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>Вы действительно хотите отправить?&lt;br /&gt;&lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source> to address </source>
+        <translation>адресовать</translation>
+    </message>
+    <message>
+        <source> to a newly generated (unused and therefore anonymous) local address &lt;br /&gt;</source>
+        <translation>к вновь созданному (неиспользуемому и поэтому анонимному) локальному адресу &lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>with Security Level </source>
+        <translation>с безопасным уровнем</translation>
+    </message>
+    <message>
+        <source>Confirm send coins</source>
+        <translation>Подтвердить отправку монет</translation>
+    </message>
+    <message>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Для версии 1 zXCRC требуется уровень безопасности 100, который можно успешно тратить.</translation>
+    </message>
+    <message>
+        <source>Failed to spend zXCRC</source>
+        <translation>Не удалось провести zXCRC</translation>
+    </message>
+    <message>
+        <source>Failed to fetch mint associated with serial hash</source>
+        <translation>Не удалось получить чеканку, связанную с серийным хэшем</translation>
+    </message>
+    <message>
+        <source>Too much inputs (</source>
+        <translation>Слишком много входов (</translation>
+    </message>
+    <message>
+        <source>
+Either mint higher denominations (so fewer inputs are needed) or reduce the amount to spend.</source>
+        <translation>
+Либо чеканятся монеты с  высоким номиналом (поэтому требуется меньше ресурсов), либо уменьшите сумму, которую нужно потратить.</translation>
+    </message>
+    <message>
+        <source>Spend Zerocoin failed with status = </source>
+        <translation>Провести Zerocoin не удалось со статусом =</translation>
+    </message>
+    <message numerus="yes">
+        <source>PrivacyDialog</source>
+        <comment>Enter an amount of XCRC to convert to zXCRC</comment>
+        <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
+    </message>
+    <message>
+        <source>denomination: </source>
+        <translation>наименование:</translation>
+    </message>
+    <message>
+        <source>serial: </source>
+        <translation>последовательный:</translation>
+    </message>
+    <message>
+        <source>Spend is 1 of : </source>
+        <translation>Расход 1 из :</translation>
+    </message>
+    <message>
+        <source>value out: </source>
+        <translation>ценность:</translation>
+    </message>
+    <message>
+        <source>address: </source>
+        <translation>Адрес:</translation>
+    </message>
+    <message>
+        <source>Sending successful, return code: </source>
+        <translation>Отправка успешного кода возврата:</translation>
+    </message>
+    <message>
+        <source>txid: </source>
+        <translation>txid: </translation>
+    </message>
+    <message>
+        <source>fee: </source>
+        <translation>Комиссия:</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Amount</source>
+        <translation>Сумма</translation>
+    </message>
+    <message>
+        <source>Enter a CRyptoCrowd address (e.g. %1)</source>
+        <translation>Введите адрес CRyptoCrowd (например %1)</translation>
+    </message>
+    <message>
+        <source>%1 d</source>
+        <translation>%1 д</translation>
+    </message>
+    <message>
+        <source>%1 h</source>
+        <translation>%1 ч</translation>
+    </message>
+    <message>
+        <source>%1 m</source>
+        <translation>%1 м</translation>
+    </message>
+    <message>
+        <source>%1 s</source>
+        <translation>%1 с</translation>
+    </message>
+    <message>
+        <source>NETWORK</source>
+        <translation>СЕТЬ</translation>
+    </message>
+    <message>
+        <source>BLOOM</source>
+        <translation>BLOOM</translation>
+    </message>
+    <message>
+        <source>UNKNOWN</source>
+        <translation>НЕИЗВЕСТНО</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>Ничего</translation>
+    </message>
+    <message>
+        <source>N/A</source>
+        <translation>Недоступно</translation>
+    </message>
+    <message>
+        <source>%1 ms</source>
+        <translation>%1 мс</translation>
+    </message>
+</context>
+<context>
+    <name>QRImageWidget</name>
+    <message>
+        <source>Save Image...</source>
+        <translation>Сохранить изображение</translation>
+    </message>
+    <message>
+        <source>Copy Image</source>
+        <translation>Копировать изображение</translation>
+    </message>
+    <message>
+        <source>Save QR Code</source>
+        <translation>Сохранить QR-код</translation>
+    </message>
+    <message>
+        <source>PNG Image (*.png)</source>
+        <translation>Изображение в формате PNG (*.png)</translation>
+    </message>
+</context>
+<context>
+    <name>RPCConsole</name>
+    <message>
+        <source>Tools window</source>
+        <translation>Окно с инструментами</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Информация</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Основное</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Имя</translation>
+    </message>
+    <message>
+        <source>Client name</source>
+        <translation>Имя клиента</translation>
+    </message>
+    <message>
+        <source>N/A</source>
+        <translation>Недоступно</translation>
+    </message>
+    <message>
+        <source>Number of connections</source>
+        <translation>Количество соениднений</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>Открыть</translation>
+    </message>
+    <message>
+        <source>Startup time</source>
+        <translation>Время старта</translation>
+    </message>
+    <message>
+        <source>Network</source>
+        <translation>Сеть</translation>
+    </message>
+    <message>
+        <source>Last block time</source>
+        <translation>Время последнего блока</translation>
+    </message>
+    <message>
+        <source>Debug log file</source>
+        <translation>Протокол отладки</translation>
+    </message>
+    <message>
+        <source>Using OpenSSL version</source>
+        <translation>Используемая версия OpenSSL</translation>
+    </message>
+    <message>
+        <source>Build date</source>
+        <translation>Дата сборки</translation>
+    </message>
+    <message>
+        <source>Current number of blocks</source>
+        <translation>Текущее количество блоков</translation>
+    </message>
+    <message>
+        <source>Client version</source>
+        <translation>Версия клиента</translation>
+    </message>
+    <message>
+        <source>Using BerkeleyDB version</source>
+        <translation>Используемая версия BrekleyDB</translation>
+    </message>
+    <message>
+        <source>Block chain</source>
+        <translation>Блокчейн</translation>
+    </message>
+    <message>
+        <source>Open the CRyptoCrowd debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть протокол отладки CRyptoCrowd. Это может занять некоторе время, если файл протокола очень большой.</translation>
+    </message>
+    <message>
+        <source>Number of Masternodes</source>
+        <translation>Количество мастернод</translation>
+    </message>
+    <message>
+        <source>Console</source>
+        <translation>Коммандая строка</translation>
+    </message>
+    <message>
+        <source>Clear console</source>
+        <translation>Очистить коммандную строку</translation>
+    </message>
+    <message>
+        <source>Network Traffic</source>
+        <translation>Сетевая передача данных</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Очистить</translation>
+    </message>
+    <message>
+        <source>Totals</source>
+        <translation>Результаты</translation>
+    </message>
+    <message>
+        <source>Received</source>
+        <translation>Принято</translation>
+    </message>
+    <message>
+        <source>Sent</source>
+        <translation>Отправлено</translation>
+    </message>
+    <message>
+        <source>Peers</source>
+        <translation>Пиры</translation>
+    </message>
+    <message>
+        <source>Banned peers</source>
+        <translation>Заблокированные сверстники</translation>
+    </message>
+    <message>
+        <source>Select a peer to view detailed information.</source>
+        <translation>Выберите пир, чтобы показать детальную информацию.</translation>
+    </message>
+    <message>
+        <source>Whitelisted</source>
+        <translation>белый список</translation>
+    </message>
+    <message>
+        <source>Direction</source>
+        <translation>Направление</translation>
+    </message>
+    <message>
+        <source>Protocol</source>
+        <translation>Протокол</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>Версия</translation>
+    </message>
+    <message>
+        <source>Services</source>
+        <translation>Сервисы</translation>
+    </message>
+    <message>
+        <source>Ban Score</source>
+        <translation>Рекорд банов</translation>
+    </message>
+    <message>
+        <source>Connection Time</source>
+        <translation>Продолжительность соединения</translation>
+    </message>
+    <message>
+        <source>Last Send</source>
+        <translation>Посленее отправление</translation>
+    </message>
+    <message>
+        <source>Last Receive</source>
+        <translation>Послений приём</translation>
+    </message>
+    <message>
+        <source>Bytes Sent</source>
+        <translation>Байтов отправлено</translation>
+    </message>
+    <message>
+        <source>Bytes Received</source>
+        <translation>Байтов получено</translation>
+    </message>
+    <message>
+        <source>Ping Time</source>
+        <translation>Время отклика</translation>
+    </message>
+    <message>
+        <source>Wallet Repair</source>
+        <translation>Ремонт кошелька</translation>
+    </message>
+    <message>
+        <source>Delete local Blockchain Folders</source>
+        <translation>Удаление локальных папок Blockchain</translation>
+    </message>
+    <message>
+        <source>Wallet In Use:</source>
+        <translation>Используемый кошелек:</translation>
+    </message>
+    <message>
+        <source>Starting Block</source>
+        <translation>Начальный блок</translation>
+    </message>
+    <message>
+        <source>Synced Headers</source>
+        <translation>Синхронизированные заголовки</translation>
+    </message>
+    <message>
+        <source>Synced Blocks</source>
+        <translation>Синхронизированные блоки</translation>
+    </message>
+    <message>
+        <source>The duration of a currently outstanding ping.</source>
+        <translation>Продолжительность текущего выдающегося пинга.</translation>
+    </message>
+    <message>
+        <source>Ping Wait</source>
+        <translation>Ping Wait</translation>
+    </message>
+    <message>
+        <source>Time Offset</source>
+        <translation>смещение по времени</translation>
+    </message>
+    <message>
+        <source>Custom Backup Path:</source>
+        <translation>Пользовательский путь резервного копирования:</translation>
+    </message>
+    <message>
+        <source>Custom zXCRC Backup Path:</source>
+        <translation>Пользовательский путь резервного копирования zXCRC:</translation>
+    </message>
+    <message>
+        <source>Custom Backups Threshold:</source>
+        <translation>Порог пользовательских резервных копий:</translation>
+    </message>
+    <message>
+        <source>Salvage wallet</source>
+        <translation>Кошелёк для сбора</translation>
+    </message>
+    <message>
+        <source>Attempt to recover private keys from a corrupt wallet.dat.</source>
+        <translation>Попытка востановить секрентые ключи битого wallet.dat.</translation>
+    </message>
+    <message>
+        <source>Rescan blockchain files</source>
+        <translation>Пересканировать файлы блокчейна</translation>
+    </message>
+    <message>
+        <source>Rescan the block chain for missing wallet transactions.</source>
+        <translation>Пересканировать блокчейн для поиска пропущенных транзакций в кошельке.</translation>
+    </message>
+    <message>
+        <source>Recover transactions 1</source>
+        <translation>Востановление транзакций 1</translation>
+    </message>
+    <message>
+        <source>Recover transactions from blockchain (keep meta-data, e.g. account owner).</source>
+        <translation>Перезаписать транзакции из блокчейна (при сохранении мета-данных, таких как владелец кошелька).</translation>
+    </message>
+    <message>
+        <source>Recover transactions 2</source>
+        <translation>Востановление транзакций 2</translation>
+    </message>
+    <message>
+        <source>Recover transactions from blockchain (drop meta-data).</source>
+        <translation>Перезаписать транзакции из блокчейна (с удалением мета-данных, таких как владелец кошелька).</translation>
+    </message>
+    <message>
+        <source>Upgrade wallet format</source>
+        <translation>Обновить формат кошелька</translation>
+    </message>
+    <message>
+        <source>Rebuild block chain index from current blk000??.dat files.</source>
+        <translation>Перестроить индекс блокчейна из текущих blk000??.dat файлов.</translation>
+    </message>
+    <message>
+        <source>-resync:</source>
+        <translation>-resync:</translation>
+    </message>
+    <message>
+        <source>Deletes all local blockchain folders so the wallet synchronizes from scratch.</source>
+        <translation>Удаляет все локальные папки с цепочкой, чтобы кошелек синхронизировался с нуля.</translation>
+    </message>
+    <message>
+        <source>The buttons below will restart the wallet with command-line options to repair the wallet, fix issues with corrupt blockhain files or missing/obsolete transactions.</source>
+        <translation>Кнопка ниже перезапустит кошелёк с некоторыми опциями кммандной строки чтобы отремотировать кошелёк, файлы блокчейна и пропавшие / устаревшие транзакции. </translation>
+    </message>
+    <message>
+        <source>Wallet repair options.</source>
+        <translation>Опции ремонта кошелька.</translation>
+    </message>
+    <message>
+        <source>Upgrade wallet to latest format on startup. (Note: this is NOT an update of the wallet itself!)</source>
+        <translation>Обновить кошелек до последнего формата при запуске.
+(Примечание: это НЕ обновление самого кошелька!)</translation>
+    </message>
+    <message>
+        <source>Rebuild index</source>
+        <translation>Пересоздать индекс</translation>
+    </message>
+    <message>
+        <source>In:</source>
+        <translation>Ввод:</translation>
+    </message>
+    <message>
+        <source>Out:</source>
+        <translation>Вывод:</translation>
+    </message>
+    <message>
+        <source>Welcome to the CRyptoCrowd RPC console.</source>
+        <translation>Добро пожаловать в окружение CRyptoCrowd RPC.</translation>
+    </message>
+    <message>
+        <source>Disconnect Node</source>
+        <translation>Отключить узел</translation>
+    </message>
+    <message>
+        <source>Ban Node for</source>
+        <translation>Запретный узел для</translation>
+    </message>
+    <message>
+        <source>1 hour</source>
+        <translation>1 час</translation>
+    </message>
+    <message>
+        <source>1 day</source>
+        <translation>1 день</translation>
+    </message>
+    <message>
+        <source>1 week</source>
+        <translation>1 неделя</translation>
+    </message>
+    <message>
+        <source>1 year</source>
+        <translation>1 год</translation>
+    </message>
+    <message>
+        <source>Unban Node</source>
+        <translation>Запретный узел</translation>
+    </message>
+    <message>
+        <source>This will delete your local blockchain folders and the wallet will synchronize the complete Blockchain from scratch.&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>Удаляет все локальные папки с цепочкой, чтобы кошелек синхронизировался с нуля.&lt;br /&gt;&lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>This needs quite some time and downloads a lot of data.&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>Это требует довольно много времени чтобы загрузить большое количество данных.&lt;br /&gt;&lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>Your transactions and funds will be visible again after the download has completed.&lt;br /&gt;&lt;br /&gt;</source>
+        <translation>После завершения загрузки ваши транзакции и средства будут снова видны.&lt;br /&gt;&lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>Do you want to continue?.&lt;br /&gt;</source>
+        <translation>Вы хотите продолжить?&lt;br /&gt;</translation>
+    </message>
+    <message>
+        <source>Confirm resync Blockchain</source>
+        <translation>Подтвердить повторную синхронизацию Blockchain</translation>
+    </message>
+    <message>
+        <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
+        <translation>Используйте стрелки вверх и вниз для навигации по истории, и &lt;b&gt;Ctrl-L&lt;/b&gt; для очистки экрана.</translation>
+    </message>
+    <message>
+        <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Введите &lt;b&gt;help&lt;/b&gt; для просмотра доступных команд.</translation>
+    </message>
+    <message>
+        <source>%1 B</source>
+        <translation>%1 Б</translation>
+    </message>
+    <message>
+        <source>%1 KB</source>
+        <translation>%1 КБ</translation>
+    </message>
+    <message>
+        <source>%1 MB</source>
+        <translation>%1 МБ</translation>
+    </message>
+    <message>
+        <source>%1 GB</source>
+        <translation>%1 ГБ</translation>
+    </message>
+    <message>
+        <source>(node id: %1)</source>
+        <translation>(node id: %1)</translation>
+    </message>
+    <message>
+        <source>via %1</source>
+        <translation>через %1</translation>
+    </message>
+    <message>
+        <source>never</source>
+        <translation>никогда</translation>
+    </message>
+    <message>
+        <source>Inbound</source>
+        <translation>входящий</translation>
+    </message>
+    <message>
+        <source>Outbound</source>
+        <translation>Исходящий</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>да</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>нет</translation>
+    </message>
+    <message>
+        <source>Unknown</source>
+        <translation>Неизвестно</translation>
+    </message>
+</context>
+<context>
+    <name>ReceiveCoinsDialog</name>
+    <message>
+        <source>Reuse one of the previously used receiving addresses.&lt;br&gt;Reusing addresses has security and privacy issues.&lt;br&gt;Do not use this unless re-generating a payment request made before.</source>
+        <translation>Повторное использование одного из ранее использованных принимающих адресов.&lt;br&gt;Реализация адресов имеет проблемы с безопасностью и конфиденциальностью.&lt;br&gt;Не используйте это, если повторно не генерируете запрос на платеж, сделанный ранее.</translation>
+    </message>
+    <message>
+        <source>Reuse an existing receiving address (not recommended)</source>
+        <translation>R  euse существующего адреса получателя (не рекомендуется)</translation>
+    </message>
+    <message>
+        <source>Message:</source>
+        <translation>Сообщение:</translation>
+    </message>
+    <message>
+        <source>An optional label to associate with the new receiving address.</source>
+        <translation>Дополнительный ярлык для связи с новым адресом приема.</translation>
+    </message>
+    <message>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Необязательное сообщение для присоединения к платежному запросу, которое будет отображаться при открытии запроса. Примечание. Сообщение не будет отправлено с оплатой через сеть CRyptoCrowd.</translation>
+    </message>
+    <message>
+        <source>RECEIVE</source>
+        <translation>ПОЛУЧАТЬ</translation>
+    </message>
+    <message>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRyptoCrowd network.</source>
+        <translation>Необязательное сообщение для присоединения к платежному запросу, которое будет отображаться при открытии запроса. &lt;br&gt;Примечание. Сообщение не будет отправлено с оплатой через сеть CRyptoCrowd.</translation>
+    </message>
+    <message>
+        <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
+        <translation>Используйте эту форму для запроса платежей. Все поля являются  &lt;b&gt;необязательными&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <source>Label:</source>
+        <translation>Метка:</translation>
+    </message>
+    <message>
+        <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
+        <translation>Необязательная сумма для запроса. Оставьте это пустое или ноль, чтобы не запрашивать определенную сумму.</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Количество:</translation>
+    </message>
+    <message>
+        <source>Request payment</source>
+        <translation>Запрос платежа</translation>
+    </message>
+    <message>
+        <source>Clear all fields of the form.</source>
+        <translation>Очистить все поля этой формы.</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>Очистить</translation>
+    </message>
+    <message>
+        <source>Requested payments history</source>
+        <translation>Запрос истории платежей</translation>
+    </message>
+    <message>
+        <source>Show the selected request (does the same as double clicking an entry)</source>
+        <translation>Показать этот выбранный запрос (или просто сделайте двойной клик за запись)</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>Показать</translation>
+    </message>
+    <message>
+        <source>Remove the selected entries from the list</source>
+        <translation>Удалить эти выбранные записи из этого списка</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>Удалить</translation>
+    </message>
+    <message>
+        <source>Copy label</source>
+        <translation>Копировать метку</translation>
+    </message>
+    <message>
+        <source>Copy message</source>
+        <translation>Скопировать сообщение</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Копировать сумму</translation>
+    </message>
+</context>
+<context>
+    <name>ReceiveRequestDialog</name>
+    <message>
+        <source>QR Code</source>
+        <translation>QR код</translation>
+    </message>
+    <message>
+        <source>Copy URI</source>
+        <translation>Скопировать URI</translation>
+    </message>
+    <message>
+        <source>Copy Address</source>
+        <translation>Скопировать Адрес</translation>
+    </message>
+    <message>
+        <source>Save Image...</source>
+        <translation>Сохранить изображение</translation>
+    </message>
+    <message>
+        <source>Request payment to %1</source>
+        <translation>Запрос платежа в %1</translation>
+    </message>
+    <message>
+        <source>Payment information</source>
+        <translation>Платежная информация</translation>
+    </message>
+    <message>
+        <source>URI</source>
+        <translation>URI</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>Сумма</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>Метка</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Сообщение</translation>
+    </message>
+    <message>
+        <source>Resulting URI too long, try to reduce the text for label / message.</source>
+        <translation>Слишком длинный URI, попробуйте уменьшить текст для метки / сообщения.</translation>
+    </message>
+    <message>
+        <source>Error encoding URI into QR Code.</source>
+        <translation>Ошибка при кодировании URI в QR код.</translation>
+    </message>
+</context>
+<context>
+    <name>RecentRequestsTableModel</name>
+    <message>
+        <source>Date</source>
+        <translation>Дата</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>Метка</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Сообщение</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>Сумма</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(нет метки)</translation>
+    </message>
+    <message>
+        <source>(no message)</source>
+        <translation>(нет сообщений)</translation>
+    </message>
+    <message>
+        <source>(no amount)</source>
+        <translation>(нет суммы)</translation>
+    </message>
+</context>
+<context>
+    <name>SendCoinsDialog</name>
+    <message>
+        <source>Send Coins</source>
+        <translation>Отправить Монеты</translation>
+    </message>
+    <message>
+        <source>SEND</source>
+        <translation>отправить</translation>
+    </message>
+    <message>
+        <source>Coin Control Features</source>
+        <translation>Особенности управления монетами</translation>
+    </message>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation>Недостаточно средств</translation>
+    </message>
+    <message>
+        <source>Quantity:</source>
+        <translation>Количество:</translation>
+    </message>
+    <message>
+        <source>Bytes:</source>
+        <translation>Байты:</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Сумма:</translation>
+    </message>
+    <message>
+        <source>Priority:</source>
+        <translation>Приоритет:</translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation>промежуточный</translation>
+    </message>
+    <message>
+        <source>Fee:</source>
+        <translation>Комиссия:</translation>
+    </message>
+    <message>
+        <source>Dust:</source>
+        <translation>Пыль:</translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation>нет</translation>
+    </message>
+    <message>
+        <source>After Fee:</source>
+        <translation>После комиссии:</translation>
+    </message>
+    <message>
+        <source>Change:</source>
+        <translation>Изменить:</translation>
+    </message>
+    <message>
+        <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
+        <translation>Если это активировано, но адрес изменения пуст или недействителен, изменение будет отправлено на вновь сгенерированный адрес.</translation>
+    </message>
+    <message>
+        <source>Custom change address</source>
+        <translation>Пользовательский адрес изменения</translation>
+    </message>
+    <message>
+        <source>Split UTXO</source>
+        <translation>Разделить UTXO</translation>
+    </message>
+    <message>
+        <source># of outputs</source>
+        <translation># выходов</translation>
+    </message>
+    <message>
+        <source>UTXO Size:</source>
+        <translation>UTXO Размер:</translation>
+    </message>
+    <message>
+        <source>0 CRyptoCrowd</source>
+        <translation>0 CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Transaction Fee:</source>
+        <translation>Комиссия за транзакцию:</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation>Выберите:</translation>
+    </message>
+    <message>
+        <source>collapse fee-settings</source>
+        <translation>коллапс</translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation>Свернуть</translation>
+    </message>
+    <message>
+        <source>per kilobyte</source>
+        <translation>за килобайт</translation>
+    </message>
+    <message>
+        <source>total at least</source>
+        <translation>не менее</translation>
+    </message>
+    <message>
+        <source>(read the tooltip)</source>
+        <translation>(читать всплывающую подсказку)</translation>
+    </message>
+    <message>
+        <source>Custom:</source>
+        <translation>Таможня:</translation>
+    </message>
+    <message>
+        <source>(Smart fee not initialized yet. This usually takes a few blocks...)</source>
+        <translation>(Умный платеж еще не инициализирован. Обычно это занимает несколько блоков....)</translation>
+    </message>
+    <message>
+        <source>SwiftX</source>
+        <translation>SwiftX</translation>
+    </message>
+    <message>
+        <source>Confirmation time:</source>
+        <translation>Количество подтверждений:</translation>
+    </message>
+    <message>
+        <source>Open Coin Control...</source>
+        <translation>Открытый контроль монеты</translation>
+    </message>
+    <message>
+        <source>Coins automatically selected</source>
+        <translation>Монеты автоматически выбираются</translation>
+    </message>
+    <message>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Если пользовательская плата установлена в 1000 uXCRCs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uXCRCs,&lt;br /&gt;а «по крайней мере» платит 1000 uCRyptoCrowd. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
+    </message>
+    <message>
+        <source>If the custom fee is set to 1000 uXCRCs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uXCRCs in fee,&lt;br /&gt;while "total at least" pays 1000 uXCRCs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Если пользовательская плата установлена в 1000 uXCRCs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uXCRCs,&lt;br /&gt;а «по крайней мере» платит 1000 uCRyptoCrowd. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
+    </message>
+    <message>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRyptoCrowd transactions than the network can process.</source>
+        <translation>Платить только минимальную плату просто отлично, если в блоке меньше объема транзакции, чем места в блоке.&lt;br /&gt; Но имейте в виду, что это может закончиться никогда не подтверждающей транзакцией, если будет больше спроса на транзакции CRyptoCrowd, чем сеть может обрабатывать.</translation>
+    </message>
+    <message>
+        <source>normal</source>
+        <translation>нормально</translation>
+    </message>
+    <message>
+        <source>fast</source>
+        <translation>быстро</translation>
+    </message>
+    <message>
+        <source>Recommended</source>
+        <translation>рекомендуемые</translation>
+    </message>
+    <message>
+        <source>Send as zero-fee transaction if possible</source>
+        <translation>Отправляйте  транзакции с нулевой оплатой, если возможно</translation>
+    </message>
+    <message>
+        <source>(confirmation may take longer)</source>
+        <translation>(подтверждение может занять больше времени)</translation>
+    </message>
+    <message>
+        <source>Confirm the send action</source>
+        <translation>Подтвердите действие отправки</translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation>Send</translation>
+    </message>
+    <message>
+        <source>Clear all fields of the form.</source>
+        <translation>Очистить все поля этой формы.</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>Очистить Все</translation>
+    </message>
+    <message>
+        <source>Send to multiple recipients at once</source>
+        <translation>Отправить сразу нескольким получателям</translation>
+    </message>
+    <message>
+        <source>Add Recipient</source>
+        <translation>Добавить Получателя</translation>
+    </message>
+    <message>
+        <source>Anonymized XCRC</source>
+        <translation>Анонимный CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Balance:</source>
+        <translation>Баланс:</translation>
+    </message>
+    <message>
+        <source>Copy quantity</source>
+        <translation>Копировать количество</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Копировать сумму</translation>
+    </message>
+    <message>
+        <source>Copy fee</source>
+        <translation>Копировать комиссию</translation>
+    </message>
+    <message>
+        <source>Copy after fee</source>
+        <translation>Копировать после вознаграждения </translation>
+    </message>
+    <message>
+        <source>Copy bytes</source>
+        <translation>Копировать байты</translation>
+    </message>
+    <message>
+        <source>Copy priority</source>
+        <translation>Копировать приоритет</translation>
+    </message>
+    <message>
+        <source>Copy dust</source>
+        <translation>Копировать пыль</translation>
+    </message>
+    <message>
+        <source>Copy change</source>
+        <translation>Копировать изменение</translation>
+    </message>
+    <message>
+        <source>The split block tool does not work when sending to outside addresses. Try again.</source>
+        <translation>Инструмент разделения блоков не работает при отправке на внешние адреса. Попробуй еще раз.</translation>
+    </message>
+    <message>
+        <source>The split block tool does not work with multiple addresses. Try again.</source>
+        <translation>Инструмент разделения блоков не работает с несколькими адресами. Попробуй еще раз.</translation>
+    </message>
+    <message>
+        <source>Warning: Invalid XCRC address</source>
+        <translation>Предупреждение: неправильный CRyptoCrowd адрес</translation>
+    </message>
+    <message>
+        <source>%1 to %2</source>
+        <translation>%1 до %2</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to send?</source>
+        <translation>Вы уверены, что хотите отправить?</translation>
+    </message>
+    <message>
+        <source>are added as transaction fee</source>
+        <translation>добавляются как плата за транзакцию</translation>
+    </message>
+    <message>
+        <source>Total Amount = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</source>
+        <translation>Итого = &lt;b&gt;%1&lt;/b&gt;&lt;br /&gt;= %2</translation>
+    </message>
+    <message>
+        <source>Confirm send coins</source>
+        <translation>Подтвердить отправку монет</translation>
+    </message>
+    <message>
+        <source>A fee %1 times higher than %2 per kB is considered an insanely high fee.</source>
+        <translation>Плата в %1 раз выше, чем %2 за КБ, считается безумно высокой.</translation>
+    </message>
+    <message numerus="yes">
+        <source>Estimated to begin confirmation within %n block(s).</source>
+        <translation><numerusform>Предполагается начать подтверждение в пределах %n блоков.</numerusform><numerusform>Предполагается начать подтверждение в пределах %n блоков.</numerusform><numerusform>Предполагается начать подтверждение в пределах %n блоков.</numerusform><numerusform>Предполагается начать подтверждение в пределах %n блоков.</numerusform></translation>
+    </message>
+    <message>
+        <source>The recipient address is not valid, please recheck.</source>
+        <translation>Адрес получателя недействителен, повторите проверку.</translation>
+    </message>
+    <message>
+        <source>using SwiftX</source>
+        <translation>используйте SwiftX</translation>
+    </message>
+    <message>
+        <source> split into %1 outputs using the UTXO splitter.</source>
+        <translation>разделить на %1 выходы с использованием разделителя UTXO.</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;(%1 of %2 entries displayed)&lt;/b&gt;</source>
+        <translation>&lt;b&gt;(%1 из %2 отображаемых записей)&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <source>The amount to pay must be larger than 0.</source>
+        <translation>Сумма для платежа должна быть больше, чем 0.</translation>
+    </message>
+    <message>
+        <source>The amount exceeds your balance.</source>
+        <translation>Сумма превышает ваш баланс.</translation>
+    </message>
+    <message>
+        <source>The total exceeds your balance when the %1 transaction fee is included.</source>
+        <translation>Сумма превышает ваш баланс, когда включена комиссия за транзакцию %1.</translation>
+    </message>
+    <message>
+        <source>Duplicate address found, can only send to each address once per send operation.</source>
+        <translation>Дублированный адрес найден, можно отправлять только на каждый адрес один раз за операцию отправки.</translation>
+    </message>
+    <message>
+        <source>Transaction creation failed!</source>
+        <translation>Не удалось создать транзакцию!</translation>
+    </message>
+    <message>
+        <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
+        <translation>Сделка была отклонена! Это может произойти, если некоторые из монет в вашем кошельке уже были потрачены, например, если вы использовали копию wallet.dat и монеты были потрачены в копии, но не отмечены как потраченные здесь.</translation>
+    </message>
+    <message>
+        <source>Error: The wallet was unlocked only to anonymize coins.</source>
+        <translation>Ошибка: кошелек был разблокирован только для анонимизации монет.</translation>
+    </message>
+    <message>
+        <source>Error: The wallet was unlocked only to anonymize coins. Unlock canceled.</source>
+        <translation>Ошибка: кошелек был разблокирован только для анонимизации монет. Разблокировка отменена.</translation>
+    </message>
+    <message>
+        <source>Pay only the minimum fee of %1</source>
+        <translation>Платите только минимальный взнос %1</translation>
+    </message>
+    <message>
+        <source>Warning: Unknown change address</source>
+        <translation>Предупреждение: Неизвестный адрес </translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(нет метки)</translation>
+    </message>
+</context>
+<context>
+    <name>SendCoinsEntry</name>
+    <message>
+        <source>This is a normal payment.</source>
+        <translation>Это нормальный платеж.</translation>
+    </message>
+    <message>
+        <source>Pay To:</source>
+        <translation>Оплатить кому:</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address to send the payment to</source>
+        <translation>Адрес CRyptoCrowd для отправки платежа</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Выбрать ранее использованный адрес</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Вставить адрес из буфера обмена</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Remove this entry</source>
+        <translation>Удалить эту запись</translation>
+    </message>
+    <message>
+        <source>Label:</source>
+        <translation>Метка:</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to the list of used addresses</source>
+        <translation>Введите метку для этого адреса, чтобы добавить ее в список используемых адресов</translation>
+    </message>
+    <message>
+        <source>Amount:</source>
+        <translation>Сумма:</translation>
+    </message>
+    <message>
+        <source>Message:</source>
+        <translation>Сообщение:</translation>
+    </message>
+    <message>
+        <source>A message that was attached to the CRyptoCrowd: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRyptoCrowd network.</source>
+        <translation>Сообщение, которое было прикреплено к URI CRyptoCrowd: URI, который будет сохранен с транзакцией для вашей справки. Примечание. Это сообщение не будет отправлено через сеть CRyptoCrowd.</translation>
+    </message>
+    <message>
+        <source>This is an unverified payment request.</source>
+        <translation>Это запрос непроверенных платежей.</translation>
+    </message>
+    <message>
+        <source>Pay To:</source>
+        <translation>Платить:</translation>
+    </message>
+    <message>
+        <source>Memo:</source>
+        <translation>Напоминание:</translation>
+    </message>
+    <message>
+        <source>This is a verified payment request.</source>
+        <translation>Это подтвержденный платеж.</translation>
+    </message>
+    <message>
+        <source>Enter a label for this address to add it to your address book</source>
+        <translation>Введите метку для адреса чтобы добавить в адресную книгу</translation>
+    </message>
+</context>
+<context>
+    <name>ShutdownWindow</name>
+    <message>
+        <source>CRyptoCrowd Core is shutting down...</source>
+        <translation>CRyptoCrowd Core выключается...</translation>
+    </message>
+    <message>
+        <source>Do not shut down the computer until this window disappears.</source>
+        <translation>Не выключайте этот компьютер пока это окно не исчезнет.</translation>
+    </message>
+</context>
+<context>
+    <name>SignVerifyMessageDialog</name>
+    <message>
+        <source>Signatures - Sign / Verify a Message</source>
+        <translation>Подписи - Подпишите / подтвердите сообщение</translation>
+    </message>
+    <message>
+        <source>Sign Message</source>
+        <translation>Вход в систему</translation>
+    </message>
+    <message>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Вы можете подписывать сообщения с вашими адресами, чтобы доказать, что вы ими владеете. Будьте осторожны, чтобы не подписывать ничего неопределенного, поскольку фишинг-атаки могут попытаться обмануть вас, подписав вашу личность на них. Подпишите только полные подробные заявления, с которыми вы согласны.</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>Адрес CRyptoCrowd для подписи сообщения с помощью</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>Выбрать ранее использованный адрес</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>Вставить адрес из буфера обмена</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Enter the message you want to sign here</source>
+        <translation>Введите сообщение, которое вы хотите подписать здесь.</translation>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation>Подпись</translation>
+    </message>
+    <message>
+        <source>Copy the current signature to the system clipboard</source>
+        <translation>Копировать текущую подпись в системный буфер обмена</translation>
+    </message>
+    <message>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>Подпишите сообщение, чтобы подтвердить свой адрес CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>Адрес CRyptoCrowd, которым подписано сообщение</translation>
+    </message>
+    <message>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным CRyptoCrowd адресом </translation>
+    </message>
+    <message>
+        <source>Sign Message</source>
+        <translation>Подпись Сообщение</translation>
+    </message>
+    <message>
+        <source>Reset all sign message fields</source>
+        <translation>Сбросить все поля сообщений</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>Очистить Все</translation>
+    </message>
+    <message>
+        <source>Verify Message</source>
+        <translation>Проверить сообщение</translation>
+    </message>
+    <message>
+        <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
+        <translation>Введите адрес подписи, сообщение (убедитесь, что вы скопировали разрывы строк, пробелы, табуляции и т. Д.) И подпись ниже, чтобы проверить сообщение. Будьте внимательны, чтобы не читать больше в подписи, чем в самом подписанном сообщении, чтобы избежать обмана с помощью атаки</translation>
+    </message>
+    <message>
+        <source>Verify Message</source>
+        <translation>Проверить  сообщение</translation>
+    </message>
+    <message>
+        <source>Reset all verify message fields</source>
+        <translation>Сбросить все поля подтверждения</translation>
+    </message>
+    <message>
+        <source>Click "Sign Message" to generate signature</source>
+        <translation>Нажмите «Sign Message» для создания подписи</translation>
+    </message>
+    <message>
+        <source>The entered address is invalid.</source>
+        <translation>Неправильно введен адрес.</translation>
+    </message>
+    <message>
+        <source>Please check the address and try again.</source>
+        <translation>Пожалуйста, проверьте адрес и попробуйте снова.</translation>
+    </message>
+    <message>
+        <source>The entered address does not refer to a key.</source>
+        <translation>Введенный адрес не связан с ключом.</translation>
+    </message>
+    <message>
+        <source>Wallet unlock was cancelled.</source>
+        <translation>Снятие блокировки кошелька было отменено.</translation>
+    </message>
+    <message>
+        <source>Private key for the entered address is not available.</source>
+        <translation>Персональный ключ для введенного адреса недоступен.</translation>
+    </message>
+    <message>
+        <source>Message signing failed.</source>
+        <translation>Ошибка подписания сообщения.</translation>
+    </message>
+    <message>
+        <source>Message signed.</source>
+        <translation>Сообщение подписано.</translation>
+    </message>
+    <message>
+        <source>The signature could not be decoded.</source>
+        <translation>Подпись не может быть расшифрована.</translation>
+    </message>
+    <message>
+        <source>Please check the signature and try again.</source>
+        <translation>Пожалуйста, проверьте эту подпись и попробуйте снова.</translation>
+    </message>
+    <message>
+        <source>The signature did not match the message digest.</source>
+        <translation>Подпись не соответствовала дайджесту сообщения.</translation>
+    </message>
+    <message>
+        <source>Message verification failed.</source>
+        <translation>Не удалось выполнить проверку сообщения.</translation>
+    </message>
+    <message>
+        <source>Message verified.</source>
+        <translation>Сообщение подтверждено.</translation>
+    </message>
+</context>
+<context>
+    <name>SplashScreen</name>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Version %1</source>
+        <translation>Версия %1</translation>
+    </message>
+    <message>
+        <source>The Bitcoin Core developers</source>
+        <translation>Разработчики Bitcoin Core</translation>
+    </message>
+    <message>
+        <source>The Dash Core developers</source>
+        <translation>Разработчики Dash Core</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd Core developers</source>
+        <translation>Разработчики CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>[testnet]</source>
+        <translation>[тестовая сеть]</translation>
+    </message>
+</context>
+<context>
+    <name>TrafficGraphWidget</name>
+    <message>
+        <source>KB/s</source>
+        <translation>КБ/с</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionDesc</name>
+    <message numerus="yes">
+        <source>Open for %n more block(s)</source>
+        <translation><numerusform>Открыть для  %n блоков</numerusform><numerusform>Открыть для  %n блоков</numerusform><numerusform>Открыть для  %n блоков</numerusform><numerusform>Открыть для  %n блоков</numerusform></translation>
+    </message>
+    <message>
+        <source>Open until %1</source>
+        <translation>Открыть до %1</translation>
+    </message>
+    <message>
+        <source>conflicted</source>
+        <translation>противоречивый</translation>
+    </message>
+    <message>
+        <source>%1/offline</source>
+        <translation>%1/ не в сети</translation>
+    </message>
+    <message>
+        <source>%1/unconfirmed</source>
+        <translation>%1/ неподтвержденный</translation>
+    </message>
+    <message>
+        <source>%1 confirmations</source>
+        <translation>%1 подтверждения</translation>
+    </message>
+    <message>
+        <source>%1/offline (verified via SwiftX)</source>
+        <translation>%1 / офлайн (проверено через SwiftX)</translation>
+    </message>
+    <message>
+        <source>%1/confirmed (verified via SwiftX)</source>
+        <translation>%1 / подтверждено (проверено через SwiftX)</translation>
+    </message>
+    <message>
+        <source>%1 confirmations (verified via SwiftX)</source>
+        <translation>%1 подтверждений (проверено через SwiftX)</translation>
+    </message>
+    <message>
+        <source>%1/offline (SwiftX verification in progress - %2 of %3 signatures)</source>
+        <translation>%1 / офлайн (проверка SwiftX - %2 %3 подписей)</translation>
+    </message>
+    <message>
+        <source>%1/confirmed (SwiftX verification in progress - %2 of %3 signatures )</source>
+        <translation>%1 / подтверждено (выполняется проверка SwiftX - %2 %3 подписей)</translation>
+    </message>
+    <message>
+        <source>%1 confirmations (SwiftX verification in progress - %2 of %3 signatures)</source>
+        <translation>%1 подтверждений (Проверка SwiftX в процессе - %2 %3 подписи)</translation>
+    </message>
+    <message>
+        <source>%1/offline (SwiftX verification failed)</source>
+        <translation>%1 / офлайн (проверка SwiftX не выполнена)</translation>
+    </message>
+    <message>
+        <source>%1/confirmed (SwiftX verification failed)</source>
+        <translation>%1 / подтверждено (проверка SwiftX не выполнена)</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation>Состояние</translation>
+    </message>
+    <message>
+        <source>, has not been successfully broadcast yet</source>
+        <translation>, еще не была успешно передана</translation>
+    </message>
+    <message numerus="yes">
+        <source>, broadcast through %n node(s)</source>
+        <translation><numerusform>, передается через %n узлов</numerusform><numerusform>, передается через %n узлов</numerusform><numerusform>, передается через %n узлов</numerusform><numerusform>, передается через %n узлов</numerusform></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Дата</translation>
+    </message>
+    <message>
+        <source>Source</source>
+        <translation>Источник</translation>
+    </message>
+    <message>
+        <source>Generated</source>
+        <translation>Сформировано</translation>
+    </message>
+    <message>
+        <source>From</source>
+        <translation>От</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <translation>неизвестно</translation>
+    </message>
+    <message>
+        <source>To</source>
+        <translation>Кому</translation>
+    </message>
+    <message>
+        <source>own address</source>
+        <translation>собственный адрес</translation>
+    </message>
+    <message>
+        <source>watch-only</source>
+        <translation>смотреть только</translation>
+    </message>
+    <message>
+        <source>label</source>
+        <translation>метка</translation>
+    </message>
+    <message>
+        <source>Credit</source>
+        <translation>Кредит</translation>
+    </message>
+    <message numerus="yes">
+        <source>matures in %n more block(s)</source>
+        <translation><numerusform>созревает в %n блоков</numerusform><numerusform>созревает в %n блоков</numerusform><numerusform>созревает в %n блоков</numerusform><numerusform>созревает в %n блоков</numerusform></translation>
+    </message>
+    <message>
+        <source>not accepted</source>
+        <translation>не принимаются</translation>
+    </message>
+    <message>
+        <source>Debit</source>
+        <translation>Дебит</translation>
+    </message>
+    <message>
+        <source>Total debit</source>
+        <translation>Общий дебет</translation>
+    </message>
+    <message>
+        <source>Total credit</source>
+        <translation>Общий кредит</translation>
+    </message>
+    <message>
+        <source>Transaction fee</source>
+        <translation>Комиссия за транзакцию</translation>
+    </message>
+    <message>
+        <source>Net amount</source>
+        <translation>Чистая сумма</translation>
+    </message>
+    <message>
+        <source>Message</source>
+        <translation>Сообщение</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation>Комментарий</translation>
+    </message>
+    <message>
+        <source>Transaction ID</source>
+        <translation>Номер транзакции</translation>
+    </message>
+    <message>
+        <source>Output index</source>
+        <translation>Выходной индекс</translation>
+    </message>
+    <message>
+        <source>Merchant</source>
+        <translation>коммерсант</translation>
+    </message>
+    <message>
+        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Сгенерированные монеты должны созреть %1 блоков, прежде чем они могут быть потрачены. Когда вы сгенерировали этот блок, он будет передан в сеть, которая будет добавлена в цепочку блоков. Если ему не удастся войти в цепочку, его состояние изменится на «не принято», и оно не будет потрачено. Иногда это может произойти, если другой узел генерирует блок за несколько секунд.</translation>
+    </message>
+    <message>
+        <source>Debug information</source>
+        <translation>Отладочная информация</translation>
+    </message>
+    <message>
+        <source>Transaction</source>
+        <translation>Транзакция</translation>
+    </message>
+    <message>
+        <source>Inputs</source>
+        <translation>входы</translation>
+    </message>
+    <message>
+        <source>Amount</source>
+        <translation>Сумма</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation>истина</translation>
+    </message>
+    <message>
+        <source>false</source>
+        <translation>ложь</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionDescDialog</name>
+    <message>
+        <source>Transaction details</source>
+        <translation>Детали транзакции</translation>
+    </message>
+    <message>
+        <source>This pane shows a detailed description of the transaction</source>
+        <translation>На этой панели отображается подробное описание транзакции</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionTableModel</name>
+    <message>
+        <source>Date</source>
+        <translation>Дата</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message numerus="yes">
+        <source>Open for %n more block(s)</source>
+        <translation><numerusform>Открыть для %n блоков</numerusform><numerusform>Открыть для %n блоков</numerusform><numerusform>Открыть для %n блоков</numerusform><numerusform>Открыть для  %n блоков</numerusform></translation>
+    </message>
+    <message>
+        <source>Open until %1</source>
+        <translation>Открыть до %1</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>не в сети</translation>
+    </message>
+    <message>
+        <source>Unconfirmed</source>
+        <translation>неподтвержденный</translation>
+    </message>
+    <message>
+        <source>Confirming (%1 of %2 recommended confirmations)</source>
+        <translation>Подтверждение (%1 %2 рекомендованных подтверждений)</translation>
+    </message>
+    <message>
+        <source>Confirmed (%1 confirmations)</source>
+        <translation>Подтверждено (подтверждение %1)</translation>
+    </message>
+    <message>
+        <source>Conflicted</source>
+        <translation>Конфликтующий</translation>
+    </message>
+    <message>
+        <source>Immature (%1 confirmations, will be available after %2)</source>
+        <translation>Незрелые (%1 подтверждения будут доступны после %2)</translation>
+    </message>
+    <message>
+        <source>This block was not received by any other nodes and will probably not be accepted!</source>
+        <translation>Этот блок не был принят никакими другими узлами и, вероятно, не будет принят!</translation>
+    </message>
+    <message>
+        <source>Received with</source>
+        <translation>Получено с</translation>
+    </message>
+    <message>
+        <source>Masternode Reward</source>
+        <translation>Вознаграждение Мастерноды</translation>
+    </message>
+    <message>
+        <source>Received from</source>
+        <translation>Получен от</translation>
+    </message>
+    <message>
+        <source>Received via Obfuscation</source>
+        <translation>Получено через обфускацию</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Stake</source>
+        <translation>Доля CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>zXCRC Stake</source>
+        <translation>Доля zXCRC</translation>
+    </message>
+    <message>
+        <source>Obfuscation Denominate</source>
+        <translation>Обфускация</translation>
+    </message>
+    <message>
+        <source>Obfuscation Collateral Payment</source>
+        <translation>Обфускационный Сопутствующий платеж</translation>
+    </message>
+    <message>
+        <source>Obfuscation Make Collateral Inputs</source>
+        <translation>Обфускация</translation>
+    </message>
+    <message>
+        <source>Obfuscation Create Denominations</source>
+        <translation>Обфускация Создание конфессий</translation>
+    </message>
+    <message>
+        <source>Converted CRyptoCrowd to zXCRC</source>
+        <translation>Преобразованный CRyptoCrowd в zXCRC</translation>
+    </message>
+    <message>
+        <source>Spent zXCRC</source>
+        <translation>потраченный zXCRC</translation>
+    </message>
+    <message>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Полученный CRyptoCrowd от zXCRC</translation>
+    </message>
+    <message>
+        <source>Minted Change as zXCRC from zXCRC Spend</source>
+        <translation>созданная  замена  zXCRC из потраенного zXCRC </translation>
+    </message>
+    <message>
+        <source>Converted zXCRC to CRyptoCrowd</source>
+        <translation>Преобразованный zXCRC to CRyptoCrowd</translation>
+    </message>
+    <message>
+        <source>Anonymous (zXCRC Transaction)</source>
+        <translation>Анонимный (транзакция zXCRC)</translation>
+    </message>
+    <message>
+        <source>Anonymous (zXCRC Stake)</source>
+        <translation>Анонимный (ставка zXCRC)</translation>
+    </message>
+    <message>
+        <source>Sent to</source>
+        <translation>Отправить</translation>
+    </message>
+    <message>
+        <source>Orphan Block - Generated but not accepted. This does not impact your holdings.</source>
+        <translation>Сиротский блок - сгенерирован, но не принят. Это не влияет на ваши запасы.</translation>
+    </message>
+    <message>
+        <source>Payment to yourself</source>
+        <translation>Оплата себе</translation>
+    </message>
+    <message>
+        <source>Mined</source>
+        <translation>заминированный</translation>
+    </message>
+    <message>
+        <source>Obfuscated</source>
+        <translation>затемненный</translation>
+    </message>
+    <message>
+        <source>watch-only</source>
+        <translation>смотреть только</translation>
+    </message>
+    <message>
+        <source>(n/a)</source>
+        <translation>(н/з)</translation>
+    </message>
+    <message>
+        <source>Transaction status. Hover over this field to show number of confirmations.</source>
+        <translation>Статус транзакции. Наведите указатель мыши на это поле, чтобы показать количество подтверждений.</translation>
+    </message>
+    <message>
+        <source>Date and time that the transaction was received.</source>
+        <translation>Дата и время получения транзакции.</translation>
+    </message>
+    <message>
+        <source>Type of transaction.</source>
+        <translation>Тип транзакции.</translation>
+    </message>
+    <message>
+        <source>Whether or not a watch-only address is involved in this transaction.</source>
+        <translation>Независимо от того, включен ли в эту транзакцию только адрес наблюдения.</translation>
+    </message>
+    <message>
+        <source>Destination address of transaction.</source>
+        <translation>Адрес назначения транзакции.</translation>
+    </message>
+    <message>
+        <source>Amount removed from or added to balance.</source>
+        <translation>Сумма, удаленная или добавленная к балансу.</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionView</name>
+    <message>
+        <source>All</source>
+        <translation>все</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>Сегодня</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>Эта неделя</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>Этот месяц</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>Последний месяц</translation>
+    </message>
+    <message>
+        <source>This year</source>
+        <translation>Этот год</translation>
+    </message>
+    <message>
+        <source>Range...</source>
+        <translation>Диапазон...</translation>
+    </message>
+    <message>
+        <source>Most Common</source>
+        <translation>наиболее общий</translation>
+    </message>
+    <message>
+        <source>Received with</source>
+        <translation>Получено с</translation>
+    </message>
+    <message>
+        <source>Sent to</source>
+        <translation>Отправить</translation>
+    </message>
+    <message>
+        <source>To yourself</source>
+        <translation>Самому себе</translation>
+    </message>
+    <message>
+        <source>Mined</source>
+        <translation>заминированный</translation>
+    </message>
+    <message>
+        <source>Minted</source>
+        <translation>Чеканка</translation>
+    </message>
+    <message>
+        <source>Masternode Reward</source>
+        <translation>Вознаграждение Мастерноды</translation>
+    </message>
+    <message>
+        <source>Zerocoin Mint</source>
+        <translation>чеканка Zerocoin</translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend</source>
+        <translation>Потратить Zerocoin </translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend to Self</source>
+        <translation>Потратить Zerocoin  на себя</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation>другие</translation>
+    </message>
+    <message>
+        <source>Enter address or label to search</source>
+        <translation>Введите адрес или имя для поиска</translation>
+    </message>
+    <message>
+        <source>Min amount</source>
+        <translation>Минимальная сумма</translation>
+    </message>
+    <message>
+        <source>Copy address</source>
+        <translation>Копировать адрес</translation>
+    </message>
+    <message>
+        <source>Copy label</source>
+        <translation>Копировать метку</translation>
+    </message>
+    <message>
+        <source>Copy amount</source>
+        <translation>Копировать сумму</translation>
+    </message>
+    <message>
+        <source>Copy transaction ID</source>
+        <translation>Копировать ID транзакции</translation>
+    </message>
+    <message>
+        <source>Edit label</source>
+        <translation>Редактировать имя</translation>
+    </message>
+    <message>
+        <source>Show transaction details</source>
+        <translation>Детали транзакции</translation>
+    </message>
+    <message>
+        <source>Export Transaction History</source>
+        <translation>Экспорт истории транзакций</translation>
+    </message>
+    <message>
+        <source>Comma separated file (*.csv)</source>
+        <translation>Файл формата csv</translation>
+    </message>
+    <message>
+        <source>Confirmed</source>
+        <translation>Подтверждено</translation>
+    </message>
+    <message>
+        <source>Watch-only</source>
+        <translation>смотреть только</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>Дата</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Тип</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>Метка</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>Адрес</translation>
+    </message>
+    <message>
+        <source>ID</source>
+        <translation>Номер</translation>
+    </message>
+    <message>
+        <source>Exporting Failed</source>
+        <translation>Ошибка экспорта</translation>
+    </message>
+    <message>
+        <source>There was an error trying to save the transaction history to %1.</source>
+        <translation>При попытке сохранить историю транзакций в %1 произошла ошибка.</translation>
+    </message>
+    <message>
+        <source>Exporting Successful</source>
+        <translation>Экспортирование произошло успешно</translation>
+    </message>
+    <message>
+        <source>Received CRyptoCrowd from zXCRC</source>
+        <translation>Полученный CRyptoCrowd от zXCRC</translation>
+    </message>
+    <message>
+        <source>Zerocoin Spend, Change in zXCRC</source>
+        <translation>Потратить Zerocoin, Преобразовать в zXCRC</translation>
+    </message>
+    <message>
+        <source>The transaction history was successfully saved to %1.</source>
+        <translation>История транзакций была успешно сохранена в %1.</translation>
+    </message>
+    <message>
+        <source>Range:</source>
+        <translation>диапазон</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>в</translation>
+    </message>
+</context>
+<context>
+    <name>UnitDisplayStatusBarControl</name>
+    <message>
+        <source>Unit to show amounts in. Click to select another unit.</source>
+        <translation>Блок , чтобы отобразить суммы. Нажмите, чтобы выбрать другое устройство.</translation>
+    </message>
+</context>
+<context>
+    <name>WalletFrame</name>
+    <message>
+        <source>No wallet has been loaded.</source>
+        <translation>Кошелек не загружен.</translation>
+    </message>
+</context>
+<context>
+    <name>WalletModel</name>
+    <message>
+        <source>Send Coins</source>
+        <translation>Отправить Монеты</translation>
+    </message>
+    <message>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRyptoCrowd.</source>
+        <translation>SwiftX не поддерживает отправку значений, которые еще высоки. В настоящее время транзакции ограничены %1 CRyptoCrowd.</translation>
+    </message>
+</context>
+<context>
+    <name>WalletView</name>
+    <message>
+        <source>HISTORY</source>
+        <translation>ИСТОРИЯ</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Экспорт</translation>
+    </message>
+    <message>
+        <source>Export the data in the current tab to a file</source>
+        <translation>Экспортировать данные с текущей вкладки в файл</translation>
+    </message>
+    <message>
+        <source>Selected amount:</source>
+        <translation>Выбранная сумма:</translation>
+    </message>
+    <message>
+        <source>Backup Wallet</source>
+        <translation>Резервная копия кошелька</translation>
+    </message>
+    <message>
+        <source>Wallet Data (*.dat)</source>
+        <translation>Данные кошелька (* .dat)</translation>
+    </message>
+</context>
+<context>
+    <name>zXCRCControlDialog</name>
+    <message>
+        <source>Select zXCRC to Spend</source>
+        <translation>Выберите zXCRC чтобы потратить</translation>
+    </message>
+    <message>
+        <source>Quantity</source>
+        <translation>Количество</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>zXCRC</source>
+        <translation>zXCRC</translation>
+    </message>
+    <message>
+        <source>Select/Deselect All</source>
+        <translation>Выбрать / Отменить выбор</translation>
+    </message>
+    <message>
+        <source>Is Spendable</source>
+        <translation>Расходы</translation>
+    </message>
+</context>
+<context>
+    <name>cryptocrowd-core</name>
+    <message>
+        <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
+        <translation>(1 = сохранить tx метаданные, например, владельца учетной записи и информацию о запросе платежа, 2 = удалить tx метаданные)</translation>
+    </message>
+    <message>
+        <source>Allow JSON-RPC connections from specified source. Valid for &lt;ip&gt; are a single IP (e.g. 1.2.3.4), a network/netmask (e.g. 1.2.3.4/255.255.255.0) or a network/CIDR (e.g. 1.2.3.4/24). This option can be specified multiple times</source>
+        <translation>Разрешить соединения JSON-RPC из указанного источника. Действительно для  &lt;ip&gt; одного IP (например, 1.2.3.4), сетевой / сетевой маски (например, 1.2.3.4/255.255.255.0) или сети / CIDR (например, 1.2.3.4/24). Эта опция может быть указана несколько раз</translation>
+    </message>
+    <message>
+        <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
+        <translation>Привяжите к указанному адресу и всегда слушайте его. Использовать [host]: обозначение порта для IPv6</translation>
+    </message>
+    <message>
+        <source>Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6</source>
+        <translation>Привяжите к указанным адресам и сверстникам-сверстникам, подключающимся к нему. Использовать [host]: обозначение порта для IPv6</translation>
+    </message>
+    <message>
+        <source>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</source>
+        <translation>Привяжите к указанному адресу для прослушивания соединений JSON-RPC. Используйте [host]: обозначение порта для IPv6. Эта опция может быть указана несколько раз (по умолчанию: привязка ко всем интерфейсам)</translation>
+    </message>
+    <message>
+        <source>Calculated accumulator checkpoint is not what is recorded by block index</source>
+        <translation>Расчетная контрольная точка  не является тем, что регистрируется блочным индексом</translation>
+    </message>
+    <message>
+        <source>Cannot obtain a lock on data directory %s. CRyptoCrowd Core is probably already running.</source>
+        <translation>Не удается получить блокировку в каталоге данных %s. CRyptoCrowd Core, вероятно, уже запущен.</translation>
+    </message>
+    <message>
+        <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
+        <translation>Изменить автоматическое окончательное поведение бюджета. mode = auto: Голосовать за точный окончательный бюджет, соответствующий моему сгенерированному бюджету. (строка, по умолчанию: авто)</translation>
+    </message>
+    <message>
+        <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:%u)</source>
+        <translation>Непрерывные транзакции с ограничениями по скорости до &lt;n&gt;* 1000 байт в минуту (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
+        <translation>Создавайте новые файлы с разрешениями по умолчанию для системы, вместо umask 077 (эффективны только с отключенной функцией кошелька)</translation>
+    </message>
+    <message>
+        <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
+        <translation>Удалите все транзакции кошелька и восстановите только те части блок-цепи через -rescan при запуске</translation>
+    </message>
+    <message>
+        <source>Delete all zerocoin spends and mints that have been recorded to the blockchain database and reindex them (0-1, default: %u)</source>
+        <translation>Удалите все траты и монетки zerocoin, которые были записаны в базу данных blockchain, и переиндексируйте их (0-1, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
+        <translation>Распространяется по лицензии программного обеспечения MIT, см. Сопроводительный файл COPYING или &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
+    </message>
+    <message>
+        <source>Enable automatic wallet backups triggered after each zXCRC minting (0-1, default: %u)</source>
+        <translation>Включить автоматическое резервное копирование кошелька, запускаемое после каждого чеканки zXCRC (0-1, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Enable or disable staking functionality for CRyptoCrowd inputs (0-1, default: %u)</source>
+        <translation>Включение или отключение функций разбивки для входов CRyptoCrowd (0-1, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Enable or disable staking functionality for zXCRC inputs (0-1, default: %u)</source>
+        <translation>Включение или отключение функций разбивки для входов zXCRC (0-1, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Enable spork administration functionality with the appropriate private key.</source>
+        <translation>Включите функцию администрирования spork с помощью соответствующего закрытого ключа.</translation>
+    </message>
+    <message>
+        <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>
+        <translation>Введите режим регрессии, в котором используется специальная цепочка, в которой блоки могут быть решены мгновенно.</translation>
+    </message>
+    <message>
+        <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
+        <translation>Ошибка: Прослушивание входящих соединений не выполнено (при возврате ошибки %s)</translation>
+    </message>
+    <message>
+        <source>Error: The transaction is larger than the maximum allowed transaction size!</source>
+        <translation>Ошибка: транзакция больше максимально допустимого размера транзакции!</translation>
+    </message>
+    <message>
+        <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
+        <translation>Ошибка: обнаружен неподдерживаемый аргумент -socks. Настройка версии SOCKS больше невозможна, поддерживаются только прокси SOCKS5.</translation>
+    </message>
+    <message>
+        <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
+        <translation>Выполните команду, когда получено соответствующее предупреждение, или мы видим очень длинную развилку (%s в cmd заменяется сообщением)</translation>
+    </message>
+    <message>
+        <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
+        <translation>Выполнять команду при изменении транзакции кошелька (%s в cmd заменяется на TxID)</translation>
+    </message>
+    <message>
+        <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
+        <translation>Выполнить команду, когда лучший блок изменяется (%s в cmd заменяется блочным хэшем)</translation>
+    </message>
+    <message>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Тарифы (в CRyptoCrowd / Kb), меньшие, чем это, считаются нулевой комиссией за ретрансляцию (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Fees (in XCRC/kB) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Плата (в CRyptoCrowd / Kb) меньше этого считается нулевой комиссией за создание транзакции (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
+        <translation>Сбросить активность базы данных из пула памяти в журнал диска каждый &lt;n&gt; мегабайт (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Found unconfirmed denominated outputs, will wait till they confirm to continue.</source>
+        <translation>Найденные неподтвержденные деноминированные выходы будут ждать, пока они подтвердят, что они будут продолжены.</translation>
+    </message>
+    <message>
+        <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
+        <translation>Если paytxfee не установлен, включите достаточно плату, так что транзакции начнут подтверждать в среднем в пределах n блоков (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
+        <translation>В этом режиме контролируется, сколько блоков генерируется немедленно.</translation>
+    </message>
+    <message>
+        <source>Insufficient or insufficient confirmed funds, you might need to wait a few minutes and try again.</source>
+        <translation>Недостаточно или недостаточно подтвержденных средств, вам может потребоваться несколько минут и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s' (must be at least the minrelay fee of %s to prevent stuck transactions)</source>
+        <translation>Недопустимая сумма для -maxtxfee =&lt;amount&gt;: '%s' (должна быть минимальная плата %s для предотвращения застревания транзакций)</translation>
+    </message>
+    <message>
+        <source>Keep the specified amount available for spending at all times (default: 0)</source>
+        <translation>Держите указанную сумму доступной для расходов в любое время (по умолчанию: 0)</translation>
+    </message>
+    <message>
+        <source>Log transaction priority and fee per kB when mining blocks (default: %u)</source>
+        <translation>Приоритет транзакции журнала и плата за kB при выполнении блоков добычи (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Maintain a full transaction index, used by the getrawtransaction rpc call (default: %u)</source>
+        <translation>Поддерживание полного индекса транзакции, используемого вызовом rvc getrawtransaction (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Maximum size of data in data carrier transactions we relay and mine (default: %u)</source>
+        <translation>Максимальный размер данных в транзакциях передачи данных, которые мы передаем,  (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Maximum total fees to use in a single wallet transaction, setting too low may abort large transactions (default: %s)</source>
+        <translation>Максимальная общая сумма комиссий за использование транзакции с одним кошельком, слишком низкая, может прервать крупные транзакции (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Number of seconds to keep misbehaving peers from reconnecting (default: %u)</source>
+        <translation>Количество секунд, чтобы не допустить повторного подключения неверных пользователей (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Obfuscation uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
+        <translation>Obfuscation использует точные деноминированные суммы для отправки средств, вам просто нужно будет анонимизировать еще несколько монет.</translation>
+    </message>
+    <message>
+        <source>Output debugging information (default: %u, supplying &lt;category&gt; is optional)</source>
+        <translation>Выходная информация отладки (по умолчанию: %u, поставка &lt;category&gt; необязательна)</translation>
+    </message>
+    <message>
+        <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
+        <translation>Запрос для одноранговых адресов через DNS-поиск, если он имеет низкий адрес (по умолчанию: 1, если не подключено)</translation>
+    </message>
+    <message>
+        <source>Randomize credentials for every proxy connection. This enables Tor stream isolation (default: %u)</source>
+        <translation>Ранжирование учетных данных для каждого прокси-соединения. Это позволяет изолировать Tor поток (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Require high priority for relaying free or low-fee transactions (default:%u)</source>
+        <translation>Требовать высокий приоритет для передачи бесплатных или низкооплачиваемых транзакций (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Send trace/debug info to console instead of debug.log file (default: %u)</source>
+        <translation>Отправлять трассировку / отладочную информацию на консоль вместо файла debug.log (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
+        <translation>Установите максимальный размер транзакций с высоким приоритетом / низкой оплатой в байтах (по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
+        <translation>Задайте количество потоков проверки скриптов (%u до %d, 0 = auto, &lt;0 = оставить много ядер бесплатно, по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
+        <translation>Установите количество потоков для генерации монет, если включено (-1 = все ядра, по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Show N confirmations for a successfully locked transaction (0-9999, default: %u)</source>
+        <translation>Показывать подтверждения N для успешно заблокированной транзакции (0-9999, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Support filtering of blocks and transaction with bloom filters (default: %u)</source>
+        <translation>Поддержка фильтрации блоков и транзакций с фильтрами цветения (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</source>
+        <translation>Этот продукт включает программное обеспечение, разработанное OpenSSL Project для использования в OpenSSL Toolkit &lt;https://www.openssl.org/&gt; и криптографическом программном обеспечении, написанном Эриком Яном и программным обеспечением UPnP, написанным Томасом Бернардом.</translation>
+    </message>
+    <message>
+        <source>Unable to bind to %s on this computer. CRyptoCrowd Core is probably already running.</source>
+        <translation>Не удалось привязать к %s на этом компьютере. CRyptoCrowd Core, вероятно, уже запущен.</translation>
+    </message>
+    <message>
+        <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
+        <translation>Не удалось найти достаточное количество средств, предназначенных для обфускации, для этой транзакции.</translation>
+    </message>
+    <message>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
+        <translation>Невозможно найти достаточное количество средств, не предназначенных для обфускации, для этой транзакции, которые не равны 10000 CRyptoCrowd.</translation>
+    </message>
+    <message>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRyptoCrowd.</source>
+        <translation>Не удалось найти достаточное количество средств для этой транзакции, которые не равны 10000 CRyptoCrowd.</translation>
+    </message>
+    <message>
+        <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
+        <translation>Используйте отдельный прокси SOCKS5 для доступа к сверстникам через скрытые сервисы Tor (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Warning: -maxtxfee is set very high! Fees this large could be paid on a single transaction.</source>
+        <translation>Предупреждение: -maxtxfee установлен очень высоко! Тарифы на эту сумму могут быть оплачены по одной транзакции.</translation>
+    </message>
+    <message>
+        <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
+        <translation>Предупреждение: -paytxfee установлен очень высоко! Это комиссия за транзакцию, которую вы заплатите, если вы отправляете транзакцию.</translation>
+    </message>
+    <message>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRyptoCrowd Core will not work properly.</source>
+        <translation>Внимание: проверьте правильность даты и времени вашего компьютера! Если ваши часы ошибочны, CRyptoCrowd Core не будет работать должным образом.</translation>
+    </message>
+    <message>
+        <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
+        <translation>Предупреждение: сеть, похоже, не полностью согласна! Некоторые , похоже, испытывают проблемы.</translation>
+    </message>
+    <message>
+        <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
+        <translation>Предупреждение: Мы, похоже, не полностью согласны с нашими сверстниками! Возможно, вам потребуется обновить или другие узлы, возможно, потребуется обновить.</translation>
+    </message>
+    <message>
+        <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
+        <translation>Предупреждение: ошибка чтения wallet.dat! Все ключи читаются правильно, но данные транзакции или записи адресной книги могут отсутствовать или некорректны.</translation>
+    </message>
+    <message>
+        <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
+        <translation>Предупреждение: wallet.dat поврежден, данные спасены! Исходный wallet.dat сохранен как кошелек. {Timestamp} .bak в %s; если ваш баланс или транзакции неверны, вам следует восстановить резервную копию.</translation>
+    </message>
+    <message>
+        <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
+        <translation>Список белых списков, соединяющихся с данной сетевой маской или IP-адресом. Может быть указано несколько раз.</translation>
+    </message>
+    <message>
+        <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
+        <translation>Учетные записи белых списков не могут быть запрещены DoS, и их транзакции всегда передаются, даже если они уже находятся в мэппуле, полезными, например, для шлюза</translation>
+    </message>
+    <message>
+        <source>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</source>
+        <translation>Вы должны указать в  строке приложенный ключ. Пожалуйста, обратитесь к документации для получения справки</translation>
+    </message>
+    <message>
+        <source>(51472 could be used only on mainnet)</source>
+        <translation>(51472 можно использовать только в сети)</translation>
+    </message>
+    <message>
+        <source>(default: %s)</source>
+        <translation>(неуплата: %s)</translation>
+    </message>
+    <message>
+        <source>(default: 1)</source>
+        <translation>(неуплата: 1)</translation>
+    </message>
+    <message>
+        <source>(must be 51472 for mainnet)</source>
+        <translation>(должен быть 51472 для mainet)</translation>
+    </message>
+    <message>
+        <source>Accept command line and JSON-RPC commands</source>
+        <translation>Принять командную строку и команды JSON-RPC</translation>
+    </message>
+    <message>
+        <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
+        <translation>Принять соединения извне (по умолчанию: 1, если нет -proxy или -connect)</translation>
+    </message>
+    <message>
+        <source>Accept public REST requests (default: %u)</source>
+        <translation>Принимать публичные запросы REST (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Add a node to connect to and attempt to keep the connection open</source>
+        <translation>Добавьте узел для подключения и попытку сохранить соединение открытым</translation>
+    </message>
+    <message>
+        <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
+        <translation>Разрешить поиск в DNS для -addnode, -seednode и -connect</translation>
+    </message>
+    <message>
+        <source>Already have that input.</source>
+        <translation>Уже есть этот вход.</translation>
+    </message>
+    <message>
+        <source>Always query for peer addresses via DNS lookup (default: %u)</source>
+        <translation>Всегда запрашивать одноранговые адреса через DNS-поиск (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Attempt to recover private keys from a corrupt wallet.dat</source>
+        <translation>Попытка восстановить секретные ключи из поврежденного файла wallet.dat</translation>
+    </message>
+    <message>
+        <source>Automatically create Tor hidden service (default: %d)</source>
+        <translation>Автоматически создавать скрытую службу Tor (по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Block creation options:</source>
+        <translation>Варианты создания блока:</translation>
+    </message>
+    <message>
+        <source>Calculating missing accumulators...</source>
+        <translation>Вычисление недостающих аккумуляторов ...</translation>
+    </message>
+    <message>
+        <source>Can't denominate: no compatible inputs left.</source>
+        <translation>Невозможно обозначить: никаких совместимых входов не осталось.</translation>
+    </message>
+    <message>
+        <source>Can't find random Masternode.</source>
+        <translation>Невозможно найти случайного Мастернода.</translation>
+    </message>
+    <message>
+        <source>Can't mix while sync in progress.</source>
+        <translation>Невозможно перемешать во время синхронизации.</translation>
+    </message>
+    <message>
+        <source>Cannot downgrade wallet</source>
+        <translation>Нельзя понизить кошелек</translation>
+    </message>
+    <message>
+        <source>Cannot resolve -bind address: '%s'</source>
+        <translation>Не удается разрешить -включить адрес: '%s'</translation>
+    </message>
+    <message>
+        <source>Cannot resolve -externalip address: '%s'</source>
+        <translation>Не удается разрешить -externalip адрес: '%s'</translation>
+    </message>
+    <message>
+        <source>Cannot resolve -whitebind address: '%s'</source>
+        <translation>Не удается разрешить -whitebind адрес: '%s'</translation>
+    </message>
+    <message>
+        <source>Cannot write default address</source>
+        <translation>Невозможно записать адрес по умолчанию</translation>
+    </message>
+    <message>
+        <source>Collateral not valid.</source>
+        <translation>Залог недействителен.</translation>
+    </message>
+    <message>
+        <source>Connect only to the specified node(s)</source>
+        <translation>Подключитесь только к указанному узлу (узлам)</translation>
+    </message>
+    <message>
+        <source>Connect through SOCKS5 proxy</source>
+        <translation>Подключение через прокси SOCKS5</translation>
+    </message>
+    <message>
+        <source>Connect to a node to retrieve peer addresses, and disconnect</source>
+        <translation>Подключитесь к узлу для получения одноранговых адресов и отключите</translation>
+    </message>
+    <message>
+        <source>Connection options:</source>
+        <translation>Варианты подключения:</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <translation>Copyright (C) 2009-%i Разработчики Bitcoin Core</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2014-%i The Dash Core Developers</source>
+        <translation>Copyright (C) 2014-%i Разработчики Dash Core</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2015-%i The CRyptoCrowd Core Developers</source>
+        <translation>Copyright (C) 2015-%i Разработчики CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Corrupted block database detected</source>
+        <translation>Обнаружена поврежденная база данных блоков</translation>
+    </message>
+    <message>
+        <source>Could not parse masternode.conf</source>
+        <translation>Не удалось разобрать masternode.conf</translation>
+    </message>
+    <message>
+        <source>Debugging/Testing options:</source>
+        <translation>Параметры отладки / тестирования:</translation>
+    </message>
+    <message>
+        <source>Delete blockchain folders and resync from scratch</source>
+        <translation>Удаление папок-цепочек и повторная синхронизация с нуля</translation>
+    </message>
+    <message>
+        <source>Disable OS notifications for incoming transactions (default: %u)</source>
+        <translation>Отключить уведомления ОС для входящих транзакций (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Disable safemode, override a real safe mode event (default: %u)</source>
+        <translation>Отключить безопасный режим, переопределить реальное событие безопасного режима (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
+        <translation>Откройте собственный IP-адрес (по умолчанию: 1 при прослушивании и без -externalip)</translation>
+    </message>
+    <message>
+        <source>Do not load the wallet and disable wallet RPC calls</source>
+        <translation>Не загружайте кошелек и отключите вызовы RPC кошелька</translation>
+    </message>
+    <message>
+        <source>Do you want to rebuild the block database now?</source>
+        <translation>Вы хотите перестроить базу данных блоков сейчас?</translation>
+    </message>
+    <message>
+        <source>Done loading</source>
+        <translation>Загрузка выполнена</translation>
+    </message>
+    <message>
+        <source>Enable automatic Zerocoin minting (0-1, default: %u)</source>
+        <translation>Включить автоматическую чистку Zerocoin (0-1, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Enable publish hash transaction (locked via SwiftX) in &lt;address&gt;</source>
+        <translation>Включить публикацию хеш-транзакции (заблокированной через SwiftX) в &lt;address&gt;</translation>
+    </message>
+    <message>
+        <source>Enable publish raw transaction (locked via SwiftX) in &lt;address&gt;</source>
+        <translation>Включить публикацию необработанных транзакций (заблокированных через SwiftX) в &lt;address&gt;</translation>
+    </message>
+    <message>
+        <source>Enable the client to act as a masternode (0-1, default: %u)</source>
+        <translation>Разрешить клиенту действовать как мастернод (0-1, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Entries are full.</source>
+        <translation>Записи заполнены.</translation>
+    </message>
+    <message>
+        <source>Error connecting to Masternode.</source>
+        <translation>Ошибка подключения к Masternode.</translation>
+    </message>
+    <message>
+        <source>Error initializing block database</source>
+        <translation>Ошибка инициализации базы данных блоков</translation>
+    </message>
+    <message>
+        <source>Error initializing wallet database environment %s!</source>
+        <translation>Ошибка инициализации среды базы данных кошелька %s!</translation>
+    </message>
+    <message>
+        <source>Error loading block database</source>
+        <translation>Ошибка загрузки базы данных блоков</translation>
+    </message>
+    <message>
+        <source>Error loading wallet.dat</source>
+        <translation>Ошибка при загрузке wallet.dat</translation>
+    </message>
+    <message>
+        <source>Error loading wallet.dat: Wallet corrupted</source>
+        <translation>Ошибка при загрузке wallet.dat: Кошелек поврежден</translation>
+    </message>
+    <message>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRyptoCrowd Core</source>
+        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новой версии CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Error opening block database</source>
+        <translation>Ошибка открытия базы данных блоков</translation>
+    </message>
+    <message>
+        <source>Error reading from database, shutting down.</source>
+        <translation>Ошибка чтения из базы данных, завершение работы.</translation>
+    </message>
+    <message>
+        <source>Error recovering public key.</source>
+        <translation>Ошибка при восстановлении открытого ключа.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <source>Error: A fatal internal error occured, see debug.log for details</source>
+        <translation>Ошибка: произошла фатальная внутренняя ошибка, подробности см. В файле debug.log.</translation>
+    </message>
+    <message>
+        <source>Error: Can't select current denominated inputs</source>
+        <translation>Ошибка: невозможно выбрать текущие входы</translation>
+    </message>
+    <message>
+        <source>Error: Disk space is low!</source>
+        <translation>Ошибка. Недостаточно места на диске!</translation>
+    </message>
+    <message>
+        <source>Error: Unsupported argument -tor found, use -onion.</source>
+        <translation>Ошибка: Неподдерживаемый аргумент -tor найден, используйте -onion.</translation>
+    </message>
+    <message>
+        <source>Error: Wallet locked, unable to create transaction!</source>
+        <translation>Ошибка: кошелек заблокирован, невозможно создать транзакцию!</translation>
+    </message>
+    <message>
+        <source>Error: You already have pending entries in the Obfuscation pool</source>
+        <translation>Ошибка. У вас уже есть ожидающие записи в пуле Obfuscation.</translation>
+    </message>
+    <message>
+        <source>Failed to calculate accumulator checkpoint</source>
+        <translation>Не удалось вычислить контрольную точку аккумулятора</translation>
+    </message>
+    <message>
+        <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
+        <translation>Не удалось прослушивать любой порт. Используйте -listen = 0, если вы этого хотите.</translation>
+    </message>
+    <message>
+        <source>Failed to read block</source>
+        <translation>Не удалось прочитать блок</translation>
+    </message>
+    <message>
+        <source>Fee (in XCRC/kB) to add to transactions you send (default: %s)</source>
+        <translation>Плата (в CRyptoCrowd / kB) для добавления к транзакциям, которые вы отправляете (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Finalizing transaction.</source>
+        <translation>Завершение транзакции.</translation>
+    </message>
+    <message>
+        <source>Force safe mode (default: %u)</source>
+        <translation>Режим принудительной защиты (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Found enough users, signing ( waiting %s )</source>
+        <translation>Найдено достаточно пользователей, подписывание (ожидание %s)</translation>
+    </message>
+    <message>
+        <source>Found enough users, signing ...</source>
+        <translation>Нашел достаточно пользователей, подписал ...</translation>
+    </message>
+    <message>
+        <source>Generate coins (default: %u)</source>
+        <translation>Создание монет (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>How many blocks to check at startup (default: %u, 0 = all)</source>
+        <translation>Сколько блоков проверяется при запуске (по умолчанию: %u, 0 = all)</translation>
+    </message>
+    <message>
+        <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
+        <translation>Если &lt;category&gt;не предоставляется, выводит всю информацию об отладке.</translation>
+    </message>
+    <message>
+        <source>Importing...</source>
+        <translation>Импорт ...</translation>
+    </message>
+    <message>
+        <source>Imports blocks from external blk000??.dat file</source>
+        <translation>Импортирует блоки из внешнего файла blk000 ?? .dat</translation>
+    </message>
+    <message>
+        <source>Include IP addresses in debug output (default: %u)</source>
+        <translation>Включить IP-адреса в отладочном выходе (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Incompatible mode.</source>
+        <translation>Несовместимый режим.</translation>
+    </message>
+    <message>
+        <source>Incompatible version.</source>
+        <translation>Несовместимая версия.</translation>
+    </message>
+    <message>
+        <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
+        <translation>Неправильный или не обнаруженный блок генезиса. Неверный каталог данных для сети?</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Информация</translation>
+    </message>
+    <message>
+        <source>Initialization sanity check failed. CRyptoCrowd Core is shutting down.</source>
+        <translation>Инициализация проверки работоспособности не удалась. CRyptoCrowd Core отключается.</translation>
+    </message>
+    <message>
+        <source>Input is not valid.</source>
+        <translation>Недопустимый ввод.</translation>
+    </message>
+    <message>
+        <source>Insufficient funds</source>
+        <translation>Недостаточно средств.</translation>
+    </message>
+    <message>
+        <source>Insufficient funds.</source>
+        <translation>Недостаточно средств.</translation>
+    </message>
+    <message>
+        <source>Invalid -onion address or hostname: '%s'</source>
+        <translation>Недопустимый -онионный адрес или имя хоста: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
+        <translation>Недопустимая сумма для -maxtxfee =&lt;amount&gt;: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
+        <translation>Недопустимая сумма для -minrelaytxfee&lt;amount&gt;: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
+        <translation>Недопустимая сумма для -mintxfee =&lt;amount&gt;: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (must be at least %s)</source>
+        <translation>Invalid amount for -paytxfee=&lt;amount&gt;: '%s' (должен быть не менее%s)</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
+        <translation>Недопустимая сумма для -paytxfee =&lt;amount&gt;: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
+        <translation>Недопустимая сумма для -reservebalance =&lt;amount&gt;</translation>
+    </message>
+    <message>
+        <source>Invalid amount</source>
+        <translation>Недопустимая сумма</translation>
+    </message>
+    <message>
+        <source>Invalid masternodeprivkey. Please see documenation.</source>
+        <translation>Недопустимый секретный ключ. См. Документацию.</translation>
+    </message>
+    <message>
+        <source>Invalid netmask specified in -whitelist: '%s'</source>
+        <translation>Недопустимая сетевая маска, указанная в -whitelist: '%s'</translation>
+    </message>
+    <message>
+        <source>Invalid port detected in masternode.conf</source>
+        <translation>Неверный порт обнаружен в файле masternode.conf</translation>
+    </message>
+    <message>
+        <source>Invalid private key.</source>
+        <translation>Недопустимый закрытый ключ.</translation>
+    </message>
+    <message>
+        <source>Invalid script detected.</source>
+        <translation>Обнаружен неверный сценарий.</translation>
+    </message>
+    <message>
+        <source>Percentage of automatically minted Zerocoin  (1-100, default: %u)</source>
+        <translation>Процент автоматически отчеканенного Zerocoin (1-100, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Reindex the CRyptoCrowd and zXCRC money supply statistics</source>
+        <translation>Reindex статистика денежной массы CRyptoCrowd и zXCRC</translation>
+    </message>
+    <message>
+        <source>Reindexing zerocoin database...</source>
+        <translation>Реиндексирующая база данных нулевого цикла ...</translation>
+    </message>
+    <message>
+        <source>Reindexing zerocoin failed</source>
+        <translation>Повторный обмен зерокоинта не удался</translation>
+    </message>
+    <message>
+        <source>Selected coins value is less than payment target</source>
+        <translation>Выбранная стоимость монет меньше цели платежа</translation>
+    </message>
+    <message>
+        <source>SwiftX options:</source>
+        <translation>Параметры SwiftX:</translation>
+    </message>
+    <message>
+        <source>This is a pre-release test build - use at your own risk - do not use for staking or merchant applications!</source>
+        <translation>Это предварительная версия сборки - используйте на свой страх и риск - не используйте для ставок или коммерческих приложений!</translation>
+    </message>
+    <message>
+        <source> mints deleted
+</source>
+        <translation>удалены монеты
+</translation>
+    </message>
+    <message>
+        <source> mints updated, </source>
+        <translation>монеты обновлены,</translation>
+    </message>
+    <message>
+        <source> unconfirmed transactions removed
+</source>
+        <translation>удалены неподтвержденные транзакции
+</translation>
+    </message>
+    <message>
+        <source>Disable all CRyptoCrowd specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Отключите все специфические функции CRyptoCrowd (Masternodes, Zerocoin, SwiftX, Бюджетирование) (0-1, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
+        <translation>Включить SwiftX, показать подтверждения для заблокированных транзакций (bool, default: %s)</translation>
+    </message>
+    <message>
+        <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
+        <translation>Ошибка: транзакция была отклонена! Это может произойти, если некоторые из монет в вашем кошельке уже были потрачены, например, если вы использовали копию кошелька. Dat и монеты были потрачены в копии, но не отмечены как потраченные здесь.</translation>
+    </message>
+    <message>
+        <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
+        <translation>Ошибка. Для этой транзакции требуется комиссия за транзакцию не менее %s из-за ее количества, сложности или использования недавно полученных средств!</translation>
+    </message>
+    <message>
+        <source>Error: Unsupported argument -checklevel found. Checklevel must be level 4.</source>
+        <translation>Ошибка: обнаружен неподдерживаемый аргумент -checklevel. Контрольный уровень должен быть 4-го уровня.</translation>
+    </message>
+    <message>
+        <source>Execute command when the best block changes and its size is over (%s in cmd is replaced by block hash, %d with the block size)</source>
+        <translation>Выполнять команду, когда лучший блок изменяется и его размер превышает (%s в cmd заменяется блочным хешем, %d с размером блока)</translation>
+    </message>
+    <message>
+        <source>Failed to find coin set amongst held coins with less than maxNumber of Spends</source>
+        <translation>Не удалось найти монету, установленную среди удерживаемых монет с минимальным количеством расходов</translation>
+    </message>
+    <message>
+        <source>In rare cases, a spend with 7 coins exceeds our maximum allowable transaction size, please retry spend using 6 or less coins</source>
+        <translation>В редких случаях трата с 7 монетами превышает наш максимально допустимый размер транзакции, пожалуйста, попробуйте потратить, используя 6 или менее монет</translation>
+    </message>
+    <message>
+        <source>Preferred Denomination for automatically minted Zerocoin  (1/5/10/50/100/500/1000/5000), 0 for no preference. default: %u)</source>
+        <translation>Предпочтительный номинал для автоматически чеканившегося Zerocoin (1/5/10/50/100/500/1000/5000), 0 без предпочтений. default: %u)</translation>
+    </message>
+    <message>
+        <source>Specify custom backup path to add a copy of any automatic zXCRC backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Укажите собственный путь резервного копирования, чтобы добавить копию любой автоматической резервной копии zXCRC. Если задано как dir, каждая резервная копия генерирует файл с отметкой времени. Если он установлен как файл, он будет переписывать в этот файл каждую резервную копию. Если также установлен резервный путь, произойдет 4 резервных копии</translation>
+    </message>
+    <message>
+        <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
+        <translation>Укажите собственный путь резервного копирования, чтобы добавить копию любой резервной копии кошелька. Если задано как dir, каждая резервная копия генерирует файл с отметкой времени. Если он установлен как файл, он будет переписывать в этот файл каждую резервную копию.</translation>
+    </message>
+    <message>
+        <source>SwiftX requires inputs with at least 6 confirmations, you might need to wait a few minutes and try again.</source>
+        <translation>SwiftX требует ввода с не менее чем 6 подтверждениями, вам может потребоваться несколько минут и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>&lt;category&gt; can be:</source>
+        <translation>&lt;category&gt; возможно:</translation>
+    </message>
+    <message>
+        <source>Attempt to force blockchain corruption recovery</source>
+        <translation>Попытка принудительного восстановления блокады</translation>
+    </message>
+    <message>
+        <source>CoinSpend: Accumulator witness does not verify</source>
+        <translation>CoinSpend: Свидетель Аккумулятора не проверяет</translation>
+    </message>
+    <message>
+        <source>Display the stake modifier calculations in the debug.log file.</source>
+        <translation>Отображение расчетов модификатора кола в файле debug.log.</translation>
+    </message>
+    <message>
+        <source>Display verbose coin stake messages in the debug.log file.</source>
+        <translation>Отображать подробные сообщения с монетами в файле debug.log.</translation>
+    </message>
+    <message>
+        <source>Enable publish hash block in &lt;address&gt;</source>
+        <translation>Включить публикацию хеш-блока в &lt;address&gt;</translation>
+    </message>
+    <message>
+        <source>Enable publish hash transaction in &lt;address&gt;</source>
+        <translation>Включить публикацию хеш-транзакции в &lt;address&gt;</translation>
+    </message>
+    <message>
+        <source>Enable publish raw block in &lt;address&gt;</source>
+        <translation>Включить публикацию необработанного блока в&lt;address&gt;</translation>
+    </message>
+    <message>
+        <source>Enable publish raw transaction in &lt;address&gt;</source>
+        <translation>Включить публикацию необработанных транзакций в &lt;address&gt;</translation>
+    </message>
+    <message>
+        <source>Enable staking functionality (0-1, default: %u)</source>
+        <translation>Включить функцию разбивки (0-1, по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Error: A fatal internal error occurred, see debug.log for details</source>
+        <translation>Ошибка: произошла фатальная внутренняя ошибка, подробнее см. Debug.log.</translation>
+    </message>
+    <message>
+        <source>Error: No valid utxo!</source>
+        <translation>Ошибка: нет действительного utxo!</translation>
+    </message>
+    <message>
+        <source>Failed to create mint</source>
+        <translation>Не удалось создать монетный двор</translation>
+    </message>
+    <message>
+        <source>Failed to deserialize</source>
+        <translation>Не удалось десериализовать</translation>
+    </message>
+    <message>
+        <source>Failed to find Zerocoins in wallet.dat</source>
+        <translation>Не удалось найти Zerocoins в файле wallet.dat</translation>
+    </message>
+    <message>
+        <source>Failed to select a zerocoin</source>
+        <translation>Не удалось выбрать зерокоин</translation>
+    </message>
+    <message>
+        <source>Failed to wipe zerocoinDB</source>
+        <translation>Не удалось вытереть zerocoinDB</translation>
+    </message>
+    <message>
+        <source>Failed to write coin serial number into wallet</source>
+        <translation>Не удалось записать серийный номер монеты в кошелек</translation>
+    </message>
+    <message>
+        <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
+        <translation>Непрерывные  &lt;n&gt; транзакции в памяти (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Last Obfuscation was too recent.</source>
+        <translation>Последняя обфускация была слишком поздней.</translation>
+    </message>
+    <message>
+        <source>Last successful Obfuscation action was too recent.</source>
+        <translation>Последняя успешная операция обфускации была совсем недавно.</translation>
+    </message>
+    <message>
+        <source>Limit size of signature cache to &lt;n&gt; entries (default: %u)</source>
+        <translation>Ограничить размер кэша подписи &lt;n&gt; для записей (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Line: %d</source>
+        <translation>Линия: %d</translation>
+    </message>
+    <message>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: %u or testnet: %u)</source>
+        <translation>Слушайте подключения JSON-RPC &lt;port&gt; (по умолчанию: %u или testnet: %u)</translation>
+    </message>
+    <message>
+        <source>Listen for connections on &lt;port&gt; (default: %u or testnet: %u)</source>
+        <translation>Слушайте подключения  &lt;port&gt;(по умолчанию: %u или testnet: %u)</translation>
+    </message>
+    <message>
+        <source>Loading addresses...</source>
+        <translation>Загрузка адресов ...</translation>
+    </message>
+    <message>
+        <source>Loading block index...</source>
+        <translation>Загружается индекс блока ...</translation>
+    </message>
+    <message>
+        <source>Loading budget cache...</source>
+        <translation>Загрузка кэша бюджета ...</translation>
+    </message>
+    <message>
+        <source>Loading masternode cache...</source>
+        <translation>загрузка оперативной памяти мастернодов</translation>
+    </message>
+    <message>
+        <source>Loading masternode payment cache...</source>
+        <translation>Загрузка кэша платежей в мазну ...</translation>
+    </message>
+    <message>
+        <source>Loading sporks...</source>
+        <translation>Загрузка ...</translation>
+    </message>
+    <message>
+        <source>Loading wallet... (%3.2f %%)</source>
+        <translation>Загрузка кошелька ... (%3.2f %%)</translation>
+    </message>
+    <message>
+        <source>Loading wallet...</source>
+        <translation>Загрузка кошелька ...</translation>
+    </message>
+    <message>
+        <source>Location of the auth cookie (default: data dir)</source>
+        <translation>Расположение файла cookie auth (по умолчанию: data dir)</translation>
+    </message>
+    <message>
+        <source>Lock is already in place.</source>
+        <translation>Блокировка уже установлена.</translation>
+    </message>
+    <message>
+        <source>Lock masternodes from masternode configuration file (default: %u)</source>
+        <translation>Блокировка masternodes из файла конфигурации masternode (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Lookup(): Invalid -proxy address or hostname: '%s'</source>
+        <translation>Lookup (): Invalid -proxy адрес или имя хоста: '%s'</translation>
+    </message>
+    <message>
+        <source>Maintain at most &lt;n&gt; connections to peers (default: %u)</source>
+        <translation>Поддерживать большинство  &lt;n&gt; соединений со сверстниками (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Masternode options:</source>
+        <translation>Параметры Masternode:</translation>
+    </message>
+    <message>
+        <source>Masternode queue is full.</source>
+        <translation>Очередь Masternode заполнена.</translation>
+    </message>
+    <message>
+        <source>Masternode:</source>
+        <translation>Мастернода:</translation>
+    </message>
+    <message>
+        <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
+        <translation>Максимальный буфер приема для каждого соединения&lt;n&gt;* 1000 байтов (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: %u)</source>
+        <translation>Максимальный буфер отправки для каждого соединения &lt;n&gt;* 1000 байтов (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Mint did not make it into blockchain</source>
+        <translation>чеканка не превратила его в блокчейн</translation>
+    </message>
+    <message>
+        <source>Missing input transaction information.</source>
+        <translation>Отсутствует входная информация о транзакции.</translation>
+    </message>
+    <message>
+        <source>Mixing in progress...</source>
+        <translation>Выполняется микширование ...</translation>
+    </message>
+    <message>
+        <source>Need address because change is not exact</source>
+        <translation>Нужен адрес, потому что изменение не является точным</translation>
+    </message>
+    <message>
+        <source>Need to specify a port with -whitebind: '%s'</source>
+        <translation>Необходимо указать порт с -whitebind: '%s'</translation>
+    </message>
+    <message>
+        <source>No Masternodes detected.</source>
+        <translation>Мастерноды не найдены.</translation>
+    </message>
+    <message>
+        <source>No compatible Masternode found.</source>
+        <translation>Совпадающий Матернод не найден.</translation>
+    </message>
+    <message>
+        <source>No funds detected in need of denominating.</source>
+        <translation>Не обнаружено средств, требующих деноминации.</translation>
+    </message>
+    <message>
+        <source>No matching denominations found for mixing.</source>
+        <translation>Соответствующие наименования для смешивания не найдены.</translation>
+    </message>
+    <message>
+        <source>Node relay options:</source>
+        <translation>Варианты реле узла:</translation>
+    </message>
+    <message>
+        <source>Non-standard public key detected.</source>
+        <translation>Обнаружен нестандартный открытый ключ.</translation>
+    </message>
+    <message>
+        <source>Not compatible with existing transactions.</source>
+        <translation>Не совместим с существующими транзакциями.</translation>
+    </message>
+    <message>
+        <source>Not enough file descriptors available.</source>
+        <translation>Недостаточно доступных дескрипторов файлов.</translation>
+    </message>
+    <message>
+        <source>Not in the Masternode list.</source>
+        <translation>Не в списке Masternode.</translation>
+    </message>
+    <message>
+        <source>Number of automatic wallet backups (default: 10)</source>
+        <translation>Количество резервных копий автоматического кошелька (по умолчанию: 10)</translation>
+    </message>
+    <message>
+        <source>Number of custom location backups to retain (default: %d)</source>
+        <translation>Количество резервных копий пользовательского местоположения для сохранения (по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Obfuscation is idle.</source>
+        <translation>Обфускация простаивает.</translation>
+    </message>
+    <message>
+        <source>Obfuscation request complete:</source>
+        <translation>Запрос об обфускации завершен:</translation>
+    </message>
+    <message>
+        <source>Obfuscation request incomplete:</source>
+        <translation>Запрос об обфускации неполный:</translation>
+    </message>
+    <message>
+        <source>Only accept block chain matching built-in checkpoints (default: %u)</source>
+        <translation>Учитывать встроенные контрольные точки с использованием цепочки блоков (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Only connect to nodes in network &lt;net&gt; (ipv4, ipv6 or onion)</source>
+        <translation>Только подключение к узлам в сети &lt;net&gt; (ipv4, ipv6 или лук)</translation>
+    </message>
+    <message>
+        <source>Options:</source>
+        <translation>Опции:</translation>
+    </message>
+    <message>
+        <source>Password for JSON-RPC connections</source>
+        <translation>Пароль для подключений JSON-RPC</translation>
+    </message>
+    <message>
+        <source>isValid(): Invalid -proxy address or hostname: '%s'</source>
+        <translation>isValid (): Invalid -proxy адрес или имя хоста: '%s'</translation>
+    </message>
+    <message>
+        <source>Preparing for resync...</source>
+        <translation>Подготовка к повторной синхронизации ...</translation>
+    </message>
+    <message>
+        <source>Prepend debug output with timestamp (default: %u)</source>
+        <translation>Подготовить вывод отладки с отметкой времени (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Print version and exit</source>
+        <translation>Версия для печати и выхода</translation>
+    </message>
+    <message>
+        <source>RPC server options:</source>
+        <translation>Параметры сервера RPC:</translation>
+    </message>
+    <message>
+        <source>Randomly drop 1 of every &lt;n&gt; network messages</source>
+        <translation>Случайно отбрасывайте 1 из всех  &lt;n&gt; сетевых сообщений</translation>
+    </message>
+    <message>
+        <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>
+        <translation>Случайно fuzz 1 каждого &lt;n&gt; сетевые сообщения</translation>
+    </message>
+    <message>
+        <source>Rebuild block chain index from current blk000??.dat files</source>
+        <translation>Перестроить индекс цепочки блоков из текущих файлов blk000 ?? .dat</translation>
+    </message>
+    <message>
+        <source>Receive and display P2P network alerts (default: %u)</source>
+        <translation>Получение и отображение оповещений сети P2P (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Reindex the accumulator database</source>
+        <translation>Reindex база данных аккумулятора</translation>
+    </message>
+    <message>
+        <source>Relay and mine data carrier transactions (default: %u)</source>
+        <translation>Операции передачи данных реле и мины (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Relay non-P2SH multisig (default: %u)</source>
+        <translation>Реле не-P2SH multisig (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Rescan the block chain for missing wallet transactions</source>
+        <translation>Повторите сканирование цепочки блоков для пропущенных транзакций в кошельке.</translation>
+    </message>
+    <message>
+        <source>Rescanning...</source>
+        <translation>Повторное сканирование ...</translation>
+    </message>
+    <message>
+        <source>ResetMintZerocoin finished: </source>
+        <translation>ResetMintZerocoin завершен:</translation>
+    </message>
+    <message>
+        <source>ResetSpentZerocoin finished: </source>
+        <translation>ResetSpentZerocoin завершен:</translation>
+    </message>
+    <message>
+        <source>Run a thread to flush wallet periodically (default: %u)</source>
+        <translation>Запустите поток, чтобы периодически очищать кошелек (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Run in the background as a daemon and accept commands</source>
+        <translation>Запускать в фоновом режиме в качестве демона и принимать команды</translation>
+    </message>
+    <message>
+        <source>Send transactions as zero-fee transactions if possible (default: %u)</source>
+        <translation>Отправлять транзакции как транзакции с нулевой оплатой, если это возможно (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Session not complete!</source>
+        <translation>Сессия не завершена!</translation>
+    </message>
+    <message>
+        <source>Session timed out.</source>
+        <translation>Время сеанса истекло.</translation>
+    </message>
+    <message>
+        <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
+        <translation>Установите размер кеша базы данных в мегабайтах (от %d до %d, по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Set external address:port to get to this masternode (example: %s)</source>
+        <translation>Задайте внешний адрес: порт, чтобы перейти к этому masternode (пример: %s)</translation>
+    </message>
+    <message>
+        <source>Set key pool size to &lt;n&gt; (default: %u)</source>
+        <translation>Установите размер пула ключей&lt;n&gt;(по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Set maximum block size in bytes (default: %d)</source>
+        <translation>Установите максимальный размер блока в байтах (по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Set minimum block size in bytes (default: %u)</source>
+        <translation>Установите минимальный размер блока в байтах (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Set the Maximum reorg depth (default: %u)</source>
+        <translation>Установите максимальную глубину реорганизации (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Set the masternode private key</source>
+        <translation>Задайте личный ключ масштаба</translation>
+    </message>
+    <message>
+        <source>Set the number of threads to service RPC calls (default: %d)</source>
+        <translation>Задайте количество потоков для обслуживания вызовов RPC (по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Sets the DB_PRIVATE flag in the wallet db environment (default: %u)</source>
+        <translation>Устанавливает флаг DB_PRIVATE в среде db кошелька (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Show all debugging options (usage: --help -help-debug)</source>
+        <translation>Показать все параметры отладки (использование: --help -help-debug)</translation>
+    </message>
+    <message>
+        <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
+        <translation>Сжать файл debug.log при запуске клиента (по умолчанию: 1, когда нет -debug)</translation>
+    </message>
+    <message>
+        <source>Signing failed.</source>
+        <translation>Сбой подписи.</translation>
+    </message>
+    <message>
+        <source>Signing timed out.</source>
+        <translation>Подписание закончилось.</translation>
+    </message>
+    <message>
+        <source>Signing transaction failed</source>
+        <translation>Не удалось подписать транзакцию</translation>
+    </message>
+    <message>
+        <source>Specify configuration file (default: %s)</source>
+        <translation>Укажите конфигурационный файл (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Specify connection timeout in milliseconds (minimum: 1, default: %d)</source>
+        <translation>Укажите время ожидания соединения в миллисекундах (минимум: 1, по умолчанию: %d)</translation>
+    </message>
+    <message>
+        <source>Specify data directory</source>
+        <translation>Укажите каталог данных</translation>
+    </message>
+    <message>
+        <source>Specify masternode configuration file (default: %s)</source>
+        <translation>Укажите конфигурационный файл (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Specify pid file (default: %s)</source>
+        <translation>Укажите файл pid (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Specify wallet file (within data directory)</source>
+        <translation>Укажите файл кошелька (в каталоге данных)</translation>
+    </message>
+    <message>
+        <source>Specify your own public address</source>
+        <translation>Укажите свой собственный общедоступный адрес</translation>
+    </message>
+    <message>
+        <source>Spend Valid</source>
+        <translation>Проводить проверку</translation>
+    </message>
+    <message>
+        <source>Spend unconfirmed change when sending transactions (default: %u)</source>
+        <translation>Проводить неподтвержденные изменения при отправке транзакций (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Staking options:</source>
+        <translation>Варианты ставок:</translation>
+    </message>
+    <message>
+        <source>Stop running after importing blocks from disk (default: %u)</source>
+        <translation>Прекратить работу после импорта блоков с диска (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Submitted following entries to masternode: %u / %d</source>
+        <translation>Представлены следующие записи в masternode: %u / %d</translation>
+    </message>
+    <message>
+        <source>Submitted to masternode, waiting for more entries ( %u / %d ) %s</source>
+        <translation>Отправлено в masternode, ожидая большего количества записей (%u / %d) %s</translation>
+    </message>
+    <message>
+        <source>Submitted to masternode, waiting in queue %s</source>
+        <translation>Отправлено в masternode, ожидая в очереди %s</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translation>Ошибка синхронизации</translation>
+    </message>
+    <message>
+        <source>Synchronization finished</source>
+        <translation>Синхронизация завершена</translation>
+    </message>
+    <message>
+        <source>Synchronization pending...</source>
+        <translation>Ожидается синхронизация ...</translation>
+    </message>
+    <message>
+        <source>Synchronizing budgets...</source>
+        <translation>Синхронизация бюджетов ...</translation>
+    </message>
+    <message>
+        <source>Synchronizing masternode winners...</source>
+        <translation>Синхронизация мастернод победителей ...</translation>
+    </message>
+    <message>
+        <source>Synchronizing masternodes...</source>
+        <translation>Синхронизация мастернод ...</translation>
+    </message>
+    <message>
+        <source>Synchronizing sporks...</source>
+        <translation>Синхронизация спорков ...</translation>
+    </message>
+    <message>
+        <source>Syncing zXCRC wallet...</source>
+        <translation>Синхронизация zXCRC кошелька ...</translation>
+    </message>
+    <message>
+        <source>The coin spend has been used</source>
+        <translation>Расходы на монеты использовались</translation>
+    </message>
+    <message>
+        <source>The new spend coin transaction did not verify</source>
+        <translation>Новая транзакция с мошенничеством не подтвердила</translation>
+    </message>
+    <message>
+        <source>The selected mint coin is an invalid coin</source>
+        <translation>Выбранная монетка - недействительна</translation>
+    </message>
+    <message>
+        <source>The transaction did not verify</source>
+        <translation>Транзакция не подтверждена</translation>
+    </message>
+    <message>
+        <source>This help message</source>
+        <translation>Это справочное сообщение</translation>
+    </message>
+    <message>
+        <source>This is experimental software.</source>
+        <translation>Это экспериментальное программное обеспечение.</translation>
+    </message>
+    <message>
+        <source>This is intended for regression testing tools and app development.</source>
+        <translation>Это предназначено для инструментов тестирования регрессии и разработки приложений.</translation>
+    </message>
+    <message>
+        <source>This is not a Masternode.</source>
+        <translation>Это не Мастернод.</translation>
+    </message>
+    <message>
+        <source>Threshold for disconnecting misbehaving peers (default: %u)</source>
+        <translation>Порог для отключения ошибочных сверстников (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Too many spends needed</source>
+        <translation>Слишком много расходов</translation>
+    </message>
+    <message>
+        <source>Tor control port password (default: empty)</source>
+        <translation>Пароль управляющего порта Tor (по умолчанию: пустой)</translation>
+    </message>
+    <message>
+        <source>Tor control port to use if onion listening enabled (default: %s)</source>
+        <translation>Tor для использования при включенном прослушивании лука (по умолчанию: %s)</translation>
+    </message>
+    <message>
+        <source>Transaction Created</source>
+        <translation>Создана транзакция</translation>
+    </message>
+    <message>
+        <source>Transaction Mint Started</source>
+        <translation>Чеканка началась</translation>
+    </message>
+    <message>
+        <source>Transaction amount too small</source>
+        <translation>Слишком маленькая сумма транзакции</translation>
+    </message>
+    <message>
+        <source>Transaction amounts must be positive</source>
+        <translation>Суммы транзакций должны быть положительными</translation>
+    </message>
+    <message>
+        <source>Transaction created successfully.</source>
+        <translation>Транзакция создана успешно.</translation>
+    </message>
+    <message>
+        <source>Transaction fees are too high.</source>
+        <translation>Сборы за транзакцию слишком высоки.</translation>
+    </message>
+    <message>
+        <source>Transaction not valid.</source>
+        <translation>Транзакция недействительна.</translation>
+    </message>
+    <message>
+        <source>Transaction too large for fee policy</source>
+        <translation>Слишком большая транзакция для данного тарифа</translation>
+    </message>
+    <message>
+        <source>Transaction too large</source>
+        <translation>Слишком большая транзакция</translation>
+    </message>
+    <message>
+        <source>Transmitting final transaction.</source>
+        <translation>Передача окончательной транзакции.</translation>
+    </message>
+    <message>
+        <source>Try to spend with a higher security level to include more coins</source>
+        <translation>Попытайтесь провести с более высоким уровнем безопасности, чтобы включить больше монет</translation>
+    </message>
+    <message>
+        <source>Trying to spend an already spent serial #, try again.</source>
+        <translation>Пытаясь потратить уже потраченный серийный номер #, попробуйте еще раз.</translation>
+    </message>
+    <message>
+        <source>Unable to bind to %s on this computer (bind returned error %s)</source>
+        <translation>Невозможно связать %s на этом компьютере (связать возвращенную ошибку %s)</translation>
+    </message>
+    <message>
+        <source>Unable to find transaction containing mint</source>
+        <translation>Не удалось найти транзакцию, содержащую монетный двор</translation>
+    </message>
+    <message>
+        <source>Unable to sign spork message, wrong key?</source>
+        <translation>Не удалось подписать сообщение , неправильный ключ?</translation>
+    </message>
+    <message>
+        <source>Unable to start HTTP server. See debug log for details.</source>
+        <translation>Не удалось запустить HTTP-сервер. Подробнее см. Журнал отладки.</translation>
+    </message>
+    <message>
+        <source>Unknown network specified in -onlynet: '%s'</source>
+        <translation>Неизвестная сеть, указанная в -onlynet: '%s'</translation>
+    </message>
+    <message>
+        <source>Unknown state: id = %u</source>
+        <translation>Неизвестное состояние: id = %u</translation>
+    </message>
+    <message>
+        <source>Upgrade wallet to latest format</source>
+        <translation>Обновление кошелька до последнего формата</translation>
+    </message>
+    <message>
+        <source>Use UPnP to map the listening port (default: %u)</source>
+        <translation>Используйте UPnP для отображения порта прослушивания (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Use UPnP to map the listening port (default: 1 when listening)</source>
+        <translation>Используйте UPnP для отображения порта прослушивания (по умолчанию: 1 при прослушивании)</translation>
+    </message>
+    <message>
+        <source>Use a custom max chain reorganization depth (default: %u)</source>
+        <translation>Используйте настраиваемую максимальную глубину реорганизации цепочки (по умолчанию: %u)</translation>
+    </message>
+    <message>
+        <source>Use the test network</source>
+        <translation>Использовать тестовую сеть</translation>
+    </message>
+    <message>
+        <source>Username for JSON-RPC connections</source>
+        <translation>Имя пользователя для соединений JSON-RPC</translation>
+    </message>
+    <message>
+        <source>Value is below the smallest available denomination (= 1) of zXCRC</source>
+        <translation>Значение ниже наименьшего доступного номинала (= 1) zXCRC</translation>
+    </message>
+    <message>
+        <source>Value more than Obfuscation pool maximum allows.</source>
+        <translation>Максимальное значение больше, чем позволяет пул перекрытий Obfuscation.</translation>
+    </message>
+    <message>
+        <source>Verifying blocks...</source>
+        <translation>Проверка блоков ...</translation>
+    </message>
+    <message>
+        <source>Verifying wallet...</source>
+        <translation>Проверка кошелька ...</translation>
+    </message>
+    <message>
+        <source>Version 1 zXCRC require a security level of 100 to successfully spend.</source>
+        <translation>Для версии 1 zXCRC требуется уровень безопасности 100, который можно успешно тратить.</translation>
+    </message>
+    <message>
+        <source>Wallet %s resides outside data directory %s</source>
+        <translation>Кошелек %s находится за пределами каталога данных %s</translation>
+    </message>
+    <message>
+        <source>Wallet is locked.</source>
+        <translation>Кошелек заблокирован.</translation>
+    </message>
+    <message>
+        <source>Wallet needed to be rewritten: restart CRyptoCrowd Core to complete</source>
+        <translation>Кошелек необходимо переписать: перезапустите CRyptoCrowd Core, чтобы завершить</translation>
+    </message>
+    <message>
+        <source>Wallet options:</source>
+        <translation>Параметры кошелька:</translation>
+    </message>
+    <message>
+        <source>Wallet window title</source>
+        <translation>Название окна кошелька</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>Предупреждение</translation>
+    </message>
+    <message>
+        <source>Warning: This version is obsolete, upgrade required!</source>
+        <translation>Внимание: эта версия устарела, требуется обновление!</translation>
+    </message>
+    <message>
+        <source>Warning: Unsupported argument -benchmark ignored, use -debug=bench.</source>
+        <translation>Предупреждение: Неподдерживаемый аргумент -benchmark игнорируется, используйте -debug = bench.</translation>
+    </message>
+    <message>
+        <source>Warning: Unsupported argument -debugnet ignored, use -debug=net.</source>
+        <translation>Предупреждение. Неподдерживаемый аргумент -debugnet игнорируется, используйте -debug = net.</translation>
+    </message>
+    <message>
+        <source>Will retry...</source>
+        <translation>Будет повторять ...</translation>
+    </message>
+    <message>
+        <source>You don't have enough Zerocoins in your wallet</source>
+        <translation>У вас недостаточно Zerocoins в вашем кошельке</translation>
+    </message>
+    <message>
+        <source>You need to rebuild the database using -reindex to change -txindex</source>
+        <translation>Вам нужно перестроить базу данных с помощью -reindex для изменения -txindex</translation>
+    </message>
+    <message>
+        <source>Your entries added successfully.</source>
+        <translation>Ваши записи добавлены успешно</translation>
+    </message>
+    <message>
+        <source>Your transaction was accepted into the pool!</source>
+        <translation>Ваша транзакция была принята в пул!</translation>
+    </message>
+    <message>
+        <source>Zapping all transactions from wallet...</source>
+        <translation>Замена всех транзакций из кошелька ...</translation>
+    </message>
+    <message>
+        <source>ZeroMQ notification options:</source>
+        <translation>Опции уведомления ZeroMQ:</translation>
+    </message>
+    <message>
+        <source>Zerocoin options:</source>
+        <translation>Варианты Zerocoin:</translation>
+    </message>
+    <message>
+        <source>on startup</source>
+        <translation>на старте</translation>
+    </message>
+    <message>
+        <source>wallet.dat corrupt, salvage failed</source>
+        <translation>wallet.dat коррумпирован, сбор не выполнен</translation>
+    </message>
+</context>
+</TS>

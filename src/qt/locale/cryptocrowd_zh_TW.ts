@@ -1,1 +1,965 @@
-<TS language="zh_TW" version="2.1">♪◙<context>♪◙    <name>AddressBookPage</name>♪◙    <message>♪◙        <source>Right-click to edit address or label</source>♪◙        <translation>Θ╗₧σÅ│Θì╡Σ╛åΣ┐«µö╣Σ╜ìσ¥Çµêûµ¿ÖΦ¿ÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a new address</source>♪◙        <translation>τöóτöƒµû░Σ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>New</source>♪◙        <translation>µû░σó₧</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the currently selected address to the system clipboard</source>♪◙        <translation>ΦñçΦú╜τ¢«σëìΘü╕σÅûτÜäΣ╜ìσ¥Çσê░τ│╗τ╡▒σë¬Φ▓╝τ░┐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy</source>♪◙        <translation>σê¬ΘÖñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete the currently selected address from the list</source>♪◙        <translation>σê¬ΘÖñσêùΦí¿Σ╕¡σ╖▓Θü╕µôçτÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete</source>♪◙        <translation>σê¬ΘÖñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export the data in the current tab to a file</source>♪◙        <translation>σî»σç║τ¢«σëìΘ¥óµ¥┐Σ╕¡τÜäΦ│çµûÖ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export</source>♪◙        <translation>σî»σç║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Close</source>♪◙        <translation>Θù£Θûë</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the address to send coins to</source>♪◙        <translation>Θü╕µôçΦªüσî»σç║CRyptoCrowdσ╣úτÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the address to receive coins with</source>♪◙        <translation>Θü╕µôçΦªüµÄÑµö╢CRyptoCrowdσ╣úτÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose</source>♪◙        <translation>Θü╕σÅû</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending addresses</source>♪◙        <translation>ΘÇüσç║τÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receiving addresses</source>♪◙        <translation>µÄÑµö╢τÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>♪◙        <translation>ΘÇÖµÿ»Σ╜áτö¿Σ╛åΣ╗ÿµ¼╛τÜä CRyptoCrowd Σ╜ìσ¥Ç, ΘÇüσç║σëì, Φ½ïσïÖσ┐àτó║Φ¬ìΘçæΘíìσÅèµÄÑµö╢Σ╜ìσ¥Çµÿ»σÉªµ¡úτó║.</translation>♪◙    </message>♪◙    <message>♪◙        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>♪◙        <translation>ΘÇÖµÿ»Σ╜áτö¿Σ╛åµÄÑµö╢µ¼╛ΘáàτÜä CRyptoCrowd Σ╜ìσ¥Ç, σ╗║Φ¡░Σ╜áµ»Åµ¼íΣ╗ÿµ¼╛Θâ╜Σ╜┐τö¿µû░τÜäΣ╜ìσ¥Ç.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Address</source>♪◙        <translation>µï╖Φ▓¥Σ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Label</source>♪◙        <translation>ΦñçΦú╜µ¿ÖΦ¿ÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit</source>♪◙        <translation>τ╖¿Φ╝»</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export Address List</source>♪◙        <translation>σî»σç║Σ╜ìσ¥ÇσêùΦí¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Comma separated file (*.csv)</source>♪◙        <translation>ΘÇùΦÖƒσìÇΘÜöΦ│çµûÖµ¬ö (*.csv)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Failed</source>♪◙        <translation>Φ│çµûÖσî»σç║µ£ëΦ¬ñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>There was an error trying to save the address list to %1. Please try again.</source>♪◙        <translation>σä▓σ¡ÿΣ╜ìσ¥ÇσêùΦí¿σê░ %1 µÖé, τÖ╝τöƒΘî»Φ¬ñ, Φ½ïσåìΦ⌐ªΣ╕Çµ¼í.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>AddressTableModel</name>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>µ¿ÖΦ¿ÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>Σ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(µ▓Æµ£ëµ¿ÖΦ¿ÿ)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>AskPassphraseDialog</name>♪◙    <message>♪◙        <source>Passphrase Dialog</source>♪◙        <translation>σ»åτó╝Φ╝╕σàÑµ¼ä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter passphrase</source>♪◙        <translation>Φ╝╕σàÑσ»åτó╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>New passphrase</source>♪◙        <translation>µû░τÜäσ»åτó╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Repeat new passphrase</source>♪◙        <translation>ΘçìΦñçµû░σ»åτó╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt wallet</source>♪◙        <translation>Θîóσîàσèáσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>This operation needs your wallet passphrase to unlock the wallet.</source>♪◙        <translation>ΘÇÖΘáàµôìΣ╜£Θ£ÇΦªüσàêτö¿σ»åτó╝ΦºúΘÄûΣ╜áτÜäΘîóσîà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock wallet</source>♪◙        <translation>ΘîóσîàΦºúΘÄû</translation>♪◙    </message>♪◙    <message>♪◙        <source>This operation needs your wallet passphrase to decrypt the wallet.</source>♪◙        <translation>ΘÇÖΘáàµôìΣ╜£Θ£ÇΦªüΣ╜áτÜäσ»åτó╝Σ╛åΦºúσ»åΘîóσîà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypt wallet</source>♪◙        <translation>ΘîóσîàΦºúσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change passphrase</source>♪◙        <translation>Σ┐«µö╣σ»åτó╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the old and new passphrase to the wallet.</source>♪◙        <translation>Φ½ïσêåσêÑΦ╝╕σàÑΘîóσîàτÜäΦêèσ»åτó╝Φêçµû░σ»åτó╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Confirm wallet encryption</source>♪◙        <translation>Θîóσîàτó║Φ¬ìσèáσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>♪◙        <translation>CRyptoCrowd τÅ╛σ£¿µ£âΘù£Θûëτ¿ïσ╝ÅΣ╛åΦÖòτÉåσèáσ»åµ╡üτ¿ï, Φ½ïµ│¿µäÅ, σâàσâàµÿ»σèáσ»åΣ╜áτÜäΘîóσîàΣ╕ªΣ╕ìΦâ╜σ«îσà¿Σ┐¥Φ¡╖Σ╜áτÜä CRyptoCrowd σ╣úΦó½σÅ»τûæΦ╗ƒΘ½öµêûτùàµ»Æσü╖Φ╡░τÜäΘó¿ΘÜ¬.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Are you sure you wish to encrypt your wallet?</source>♪◙        <translation>τó║σ«ÜΦªüσèáσ»åΣ╜áτÜäΘîóσîà?</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>♪◙        <translation>Φ½ïµ│¿µäÅ: σªéµ₧£Σ╜áσèáσ»åΣ║åΣ╜áτÜäΘîóσîàΣ╜åµÿ»σì╗σ┐ÿΦ¿ÿΣ╜áΦ¿¡σ«ÜτÜäσ»åτó╝, &lt;b&gt;Σ╜áσ░çµ£âσñ▒σÄ╗ΘîóσîàΦúíτÜäΘîó(CRyptoCrowd)&lt;/b&gt;!</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encrypted</source>♪◙        <translation>Θîóσîàσ╖▓σèáσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>♪◙        <translation>ΘçìΦªü: Σ╗╗Σ╜òΣ╣ïσëìΣ╜áµëÇσéÖΣ╗╜τÜäΦêèΘîóσîàµ¬öµíêµçëΦ⌐▓Σ╜┐τö¿µû░τöóτöƒΣ╕ªΣ╕öµ£ëσèáσ»åτÜäΘîóσîàµ¬öµíêσÅûΣ╗ú, τé║Σ║åσ«ëσà¿Φ╡╖Φªï, τò╢Σ╜áΘûïσºïΣ╜┐τö¿µû░Θîóσîàσ╛î, µé¿Σ╣ïσëìµëÇσéÖΣ╗╜τÜäµ£¬σèáσ»åΦêèΘîóσîàσ░çµ£âσñ▒µòê.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encryption failed</source>♪◙        <translation>Θîóσîàσèáσ»åσñ▒µòù</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>♪◙        <translation>Θîóσîàσèáσ»åσñ▒µòùσ¢áτé║τ¿ïσ╝ÅΣ╕èτÜäΘî»Φ¬ñ, Σ╜áτÜäΘîóσîàσ░Üµ£¬Φó½σèáσ»å.</translation>♪◙    </message>♪◙    <message>♪◙        <source>The supplied passphrases do not match.</source>♪◙        <translation>µé¿Φ╝╕σàÑτÜäσ»åτó╝Σ╕ìτ¼ª.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock failed</source>♪◙        <translation>ΘîóσîàΦºúΘÄûσñ▒µòù</translation>♪◙    </message>♪◙    <message>♪◙        <source>The passphrase entered for the wallet decryption was incorrect.</source>♪◙        <translation>µé¿Φ╝╕σàÑτÜäσ»åτó╝Θî»Φ¬ñ.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet decryption failed</source>♪◙        <translation>ΘîóσîàΦºúσ»åσñ▒µòù</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet passphrase was successfully changed.</source>♪◙        <translation>Θîóσîàσ»åτó╝Σ┐«µö╣µêÉσèƒ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Warning: The Caps Lock key is on!</source>♪◙        <translation>µ│¿µäÅ: Caps Lock(σñºσ»½Θì╡) µÿ»ΘûïσòƒτÜä.</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>BanTableModel</name>♪◙    </context>♪◙<context>♪◙    <name>Bip38ToolDialog</name>♪◙    <message>♪◙        <source>BIP 38 Tool</source>♪◙        <translation>BIP 38 σ╖Ñσà╖</translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP 38 Encrypt</source>♪◙        <translation>BIP 38 σèáσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address:</source>♪◙        <translation>Σ╜ìσ¥Ç:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>Θü╕µôçΣ╣ïσëìτö¿ΘüÄτÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>σ╛₧σë¬Φ▓╝τ░┐Φ▓╝Σ╕è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Passphrase: </source>♪◙        <translation>σ»åτó╝:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypted Key:</source>♪◙        <translation>σ╖▓σèáσ»åΘæ░σîÖ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the current signature to the system clipboard</source>♪◙        <translation>µï╖Φ▓¥τ¢«σëìτÜäτ░╜τ½áσê░τ│╗τ╡▒σë¬Φ▓╝τ░┐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt Key</source>♪◙        <translation>σèáσ»å Θæ░σîÖ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>µ╕àΘÖñ σà¿Θâ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP 38 Decrypt</source>♪◙        <translation>BIP 38 Φºúσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypt Key</source>♪◙        <translation>Φºúσ»å Θæ░σîÖ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Decrypted Key:</source>♪◙        <translation>σ╖▓Φºúσ»åΘæ░σîÖ:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Import Address</source>♪◙        <translation>σî»σàÑΣ╜ìσ¥Ç:</translation>♪◙    </message>♪◙    <message>♪◙        <source>Click "Decrypt Key" to compute key</source>♪◙        <translation>Θ╗₧ "Φºúσ»åΘæ░σîÖ" Σ╛åτöóτöƒ</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered passphrase is invalid. </source>♪◙        <translation>Φ╝╕σàÑτÜäσ»åτó╝Σ╕ìτ¼ªσÉêΦªÅσ«Ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Allowed: 0-9,a-z,A-Z,</source>♪◙        <translation>σâàσàüΦ¿▒: 0-9,a-z,A-Z</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address is invalid.</source>♪◙        <translation>Φ╝╕σàÑτÜäΣ╜ìσ¥Çτäíµòê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the address and try again.</source>♪◙        <translation>Φ½ïµ¬óµƒÑΣ╜ìσ¥Çµÿ»σÉªµ¡úτó║</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address does not refer to a key.</source>♪◙        <translation>µëÇΦ╝╕σàÑτÜäΣ╜ìσ¥ÇΣ╕ªµ▓Æµ£ëΘàìσ░ìτÜäΘæ░σîÖ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock was cancelled.</source>♪◙        <translation>ΘîóσîàΣ╕èΘÄûσ╖▓σÅûµ╢ê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Private key for the entered address is not available.</source>♪◙        <translation>µé¿τÜäτºüΘæ░σ░ìΦ╝╕σàÑτÜäΣ╜ìσ¥Çτäíµòê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Failed to decrypt.</source>♪◙        <translation>Φºúσ»åσñ▒µòù</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the key and passphrase and try again.</source>♪◙        <translation>Φ½ïτó║Φ¬ìΘîóσîàτºüΘæ░τÜäσ»åτó╝µÿ»µ¡úτó║τÜä.</translation>♪◙    </message>♪◙    <message>♪◙        <source>Data Not Valid.</source>♪◙        <translation>Φ│çµûÖτäíµòê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please try again.</source>♪◙        <translation>Φ½ïσåìΦ⌐ªΣ╕Çµ¼í</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please wait while key is imported</source>♪◙        <translation>Θæ░σîÖµ¡úσ£¿σî»σàÑΣ╕¡, Φ½ïτ¿ìσÇÖ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Key Already Held By Wallet</source>♪◙        <translation>τºüΘæ░σ╖▓Φó½ΘîóσîàΣ┐¥τ«í</translation>♪◙    </message>♪◙    <message>♪◙        <source>Error Adding Key To Wallet</source>♪◙        <translation>τºüΘæ░σèáσàÑΘîóσîàτÖ╝τöƒΘî»Φ¬ñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Successfully Added Private Key To Wallet</source>♪◙        <translation>τºüΘæ░σèáσàÑΘîóσîàµêÉσèƒ</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>BitcoinGUI</name>♪◙    <message>♪◙        <source>Wallet</source>♪◙        <translation>Θîóσîà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Node</source>♪◙        <translation>τ»ÇΘ╗₧</translation>♪◙    </message>♪◙    <message>♪◙        <source>Overview</source>♪◙        <translation>τ╕╜Φª╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show general overview of wallet</source>♪◙        <translation>Θí»τñ║ΘîóσîàΦ│çΦ¿è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send</source>♪◙        <translation>τÖ╝ΘÇü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receive</source>♪◙        <translation>µÄÑµö╢</translation>♪◙    </message>♪◙    <message>♪◙        <source>Transactions</source>♪◙        <translation>Σ║ñµÿô</translation>♪◙    </message>♪◙    <message>♪◙        <source>Browse transaction history</source>♪◙        <translation>τÇÅΦª╜Σ║ñµÿôτ┤ÇΘîä</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exit</source>♪◙        <translation>ΘÇÇσç║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Quit application</source>♪◙        <translation>Θù£Θûëτ¿ïσ╝Å</translation>♪◙    </message>♪◙    <message>♪◙        <source>About Qt</source>♪◙        <translation>Θù£µû╝ Qt</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show information about Qt</source>♪◙        <translation>Θí»τñ║ Qt Φ│çΦ¿è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Options...</source>♪◙        <translation>Θü╕Θáà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show / Hide</source>♪◙        <translation>Θí»τñ║ / ΘÜ▒ΦùÅ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show or hide the main Window</source>♪◙        <translation>Θí»τñ║µêûΘÜ▒ΦùÅΣ╕╗Φªûτ¬ù</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt Wallet...</source>♪◙        <translation>Θîóσîàσèáσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt the private keys that belong to your wallet</source>♪◙        <translation>σ░çΣ╜áΘîóσîàΣ╕¡τÜäτºüΘæ░σèáσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Backup Wallet...</source>♪◙        <translation>σéÖΣ╗╜Θîóσîà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Backup wallet to another location</source>♪◙        <translation>σéÖΣ╗╜Θîóσîàσê░σÅªσñûτÜäΣ╜ìτ╜«</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change Passphrase...</source>♪◙        <translation>µ¢┤µö╣σ»åτó╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change the passphrase used for wallet encryption</source>♪◙        <translation>µ¢┤µö╣Σ╜┐τö¿Σ╕¡τÜäΘîóσîàσ»åτó╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock Wallet...</source>♪◙        <translation>ΘîóσîàΦºúΘÄû</translation>♪◙    </message>♪◙    <message>♪◙        <source>Unlock wallet</source>♪◙        <translation>ΘîóσîàΦºúΘÄû</translation>♪◙    </message>♪◙    <message>♪◙        <source>Lock Wallet</source>♪◙        <translation>ΘîóσîàΣ╕èΘÄû</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign message...</source>♪◙        <translation>Φ¿èµü»τ░╜τ½á</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify message...</source>♪◙        <translation>µƒÑΘ⌐ùΦ¿èµü»</translation>♪◙    </message>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>Φ│çΦ¿è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show diagnostic information</source>♪◙        <translation>Θí»τñ║Φ¿║µû╖Φ¿èµü»</translation>♪◙    </message>♪◙    <message>♪◙        <source>Debug console</source>♪◙        <translation>ΘÖñΘî»σæ╜Σ╗ñσêù</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open debugging console</source>♪◙        <translation>ΘûïσòƒΘÖñΘî»σæ╜Σ╗ñσêù</translation>♪◙    </message>♪◙    <message>♪◙        <source>Network Monitor</source>♪◙        <translation>τ╢▓Φ╖»τ¢úµÄº</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show network monitor</source>♪◙        <translation>Θí»τñ║τ╢▓Φ╖»τ¢úµÄº</translation>♪◙    </message>♪◙    <message>♪◙        <source>Peers list</source>♪◙        <translation>µÄÑΘ╗₧(Peers)σêùΦí¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show peers info</source>♪◙        <translation>Θí»τñ║µÄÑΘ╗₧(Peers)Φ│çΦ¿è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet Repair</source>♪◙        <translation>ΘîóσîàΣ┐«σ╛⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show wallet repair options</source>♪◙        <translation>Θí»τñ║ΘîóσîàΣ┐«σ╛⌐Θü╕Θáà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open configuration file</source>♪◙        <translation>µëôΘûïΦ¿¡σ«Üµ¬ö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show Automatic Backups</source>♪◙        <translation>Θí»τñ║Φç¬σïòσéÖΣ╗╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show automatically created wallet backups</source>♪◙        <translation>Θí»τñ║Φç¬σïòσ╗║τ½ïτÜäΘîóσîàσéÖΣ╗╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending addresses...</source>♪◙        <translation>τÖ╝ΘÇüσ£░σ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the list of used sending addresses and labels</source>♪◙        <translation>Θí»τñ║µ¢╛τ╢ôΣ╜┐τö¿τÜäτÖ╝ΘÇüσ£░σ¥ÇσÅèµ¿Öτ▒ñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receiving addresses...</source>♪◙        <translation>µÄÑµö╢σ£░σ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the list of used receiving addresses and labels</source>♪◙        <translation>Θí»τñ║µ¢╛τ╢ôΣ╜┐τö¿ΘüÄτÜäµÄÑµö╢σ£░σ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open URI...</source>♪◙        <translation>µëôΘûïτ╢▓σ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Command-line options</source>♪◙        <translation>σæ╜Σ╗ñσêùσ╖Ñσà╖</translation>♪◙    </message>♪◙    <message>♪◙        <source>Synchronizing additional data: %p%</source>♪◙        <translation>σà╢Σ╗ûΦ│çµûÖσÉîµ¡ÑΣ╕¡: %p%</translation>♪◙    </message>♪◙    <message>♪◙        <source>File</source>♪◙        <translation>µ¬öµíê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Settings</source>♪◙        <translation>Φ¿¡σ«Ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tools</source>♪◙        <translation>σ╖Ñσà╖</translation>♪◙    </message>♪◙    <message>♪◙        <source>Help</source>♪◙        <translation>σ╣½σè⌐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Tabs toolbar</source>♪◙        <translation>Tabs σ╖Ñσà╖σêù</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Send coins to a CRyptoCrowd address</source>♪◙        <translation>ΘÇüσç║Θîóσ╣úσê░ CRyptoCrowd σ£░σ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>♪◙        <translation>Φ½ïµ▒éΣ╗ÿµ¼╛ (µ£âτöóτöƒ QR CodeΦ╖ƒ CRyptoCrowd Σ╜ìσ¥Ç)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Masternodes</source>♪◙        <translation>Masternodes</translation>♪◙    </message>♪◙    <message>♪◙        <source>Browse masternodes</source>♪◙        <translation>τÇÅΦª╜ Masternodes</translation>♪◙    </message>♪◙    <message>♪◙        <source>About CRyptoCrowd Core</source>♪◙        <translation>Θù£µû╝ CRyptoCrowd Core</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show information about CRyptoCrowd Core</source>♪◙        <translation>Θí»τñ║ CRyptoCrowd Core τ¢╕Θù£Φ│çΦ¿è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Modify configuration options for CRyptoCrowd</source>♪◙        <translation>Σ┐«µö╣ CRyptoCrowd Φ¿¡σ«Ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>♪◙        <translation>Σ╜┐τö¿Σ╜áτÜä CRyptoCrowd Σ╜ìσ¥Çσ░ìΦ¿èµü»τ░╜τ½á, Σ╛åΦ¡ëµÿÄΣ╜áµÿ»µôüµ£ëΦÇà</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>♪◙        <translation>Θ⌐ùΦ¡ëΦ¿èµü»τ░╜τ½áΦêç CRyptoCrowd Σ╜ìσ¥ÇσÉ╗σÉê</translation>♪◙    </message>♪◙    <message>♪◙        <source>BIP38 tool</source>♪◙        <translation>BIP38 σ╖Ñσà╖</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt and decrypt private keys using a passphrase</source>♪◙        <translation>Σ╜┐τö¿σ»åτó╝σ░ìτºüΘæ░σèáσ»åΦºúσ»å</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend</source>♪◙        <translation>σñÜΘçìτÖ╝ΘÇü</translation>♪◙    </message>♪◙    <message>♪◙        <source>MultiSend Settings</source>♪◙        <translation>σñÜΘçìτÖ╝ΘÇüΦ¿¡σ«Ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Wallet Configuration File</source>♪◙        <translation>µëôΘûïΘîóσîàΦ¿¡σ«Üµ¬ö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Masternode Configuration File</source>♪◙        <translation>µëôΘûïMasternodeΦ¿¡σ«Üµ¬ö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open Masternode configuration file</source>♪◙        <translation>µëôΘûïMasternodeΦ¿¡σ«Üµ¬ö</translation>♪◙    </message>♪◙    <message>♪◙        <source>Open a CRyptoCrowd: URI or payment request</source>♪◙        <translation>µëôΘûïCRyptoCrowd: Σ╜ìσ¥ÇµêûΣ╗ÿµ¼╛Φ½ïµ▒é </translation>♪◙    </message>♪◙    <message>♪◙        <source>Blockchain explorer</source>♪◙        <translation>σìÇσíèΘÅêτÇÅΦª╜</translation>♪◙    </message>♪◙    <message>♪◙        <source>Block explorer window</source>♪◙        <translation>σìÇσíèΘÅêτÇÅΦª╜Φªûτ¬ù</translation>♪◙    </message>♪◙    <message>♪◙        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>♪◙        <translation>Θí»τñ║ CRyptoCrowd Core σ╣½σè⌐Φ¿èµü»Σ╗ÑσÅûσ╛ù CRyptoCrowd σæ╜Σ╗ñσêùΦí¿Θü╕Θáà</translation>♪◙    </message>♪◙    <message>♪◙        <source>CRyptoCrowd Core client</source>♪◙        <translation>CRyptoCrowd Core σ«óµê╢τ½»</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>BlockExplorer</name>♪◙    <message>♪◙        <source>TextLabel</source>♪◙        <translation>µûçσ¡ùµ¿Öτ▒ñ</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>ClientModel</name>♪◙    </context>♪◙<context>♪◙    <name>CoinControlDialog</name>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(µ▓Æµ£ëµ¿ÖΦ¿ÿ)</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>EditAddressDialog</name>♪◙    </context>♪◙<context>♪◙    <name>FreespaceChecker</name>♪◙    </context>♪◙<context>♪◙    <name>HelpMessageDialog</name>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>Intro</name>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>MasternodeList</name>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>Σ╜ìσ¥Ç</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>MultiSendDialog</name>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address:</source>♪◙        <translation>Σ╜ìσ¥Ç:</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(µ▓Æµ£ëµ¿ÖΦ¿ÿ)</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>MultisigDialog</name>♪◙    </context>♪◙<context>♪◙    <name>ObfuscationConfig</name>♪◙    </context>♪◙<context>♪◙    <name>OpenURIDialog</name>♪◙    </context>♪◙<context>♪◙    <name>OptionsDialog</name>♪◙    </context>♪◙<context>♪◙    <name>OverviewPage</name>♪◙    </context>♪◙<context>♪◙    <name>PaymentServer</name>♪◙    </context>♪◙<context>♪◙    <name>PeerTableModel</name>♪◙    </context>♪◙<context>♪◙    <name>PrivacyDialog</name>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>Θü╕µôçΣ╣ïσëìτö¿ΘüÄτÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>σ╛₧σë¬Φ▓╝τ░┐Φ▓╝Σ╕è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>TextLabel</source>♪◙        <translation>µûçσ¡ùµ¿Öτ▒ñ</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>QObject</name>♪◙    </context>♪◙<context>♪◙    <name>QRImageWidget</name>♪◙    </context>♪◙<context>♪◙    <name>RPCConsole</name>♪◙    <message>♪◙        <source>Information</source>♪◙        <translation>Φ│çΦ¿è</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>ReceiveCoinsDialog</name>♪◙    </context>♪◙<context>♪◙    <name>ReceiveRequestDialog</name>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>Σ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>µ¿ÖΦ¿ÿ</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>RecentRequestsTableModel</name>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>µ¿ÖΦ¿ÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(µ▓Æµ£ëµ¿ÖΦ¿ÿ)</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>SendCoinsDialog</name>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>µ╕àΘÖñ σà¿Θâ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>(no label)</source>♪◙        <translation>(µ▓Æµ£ëµ¿ÖΦ¿ÿ)</translation>♪◙    </message>♪◙</context>♪◙<context>♪◙    <name>SendCoinsEntry</name>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>Θü╕µôçΣ╣ïσëìτö¿ΘüÄτÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>σ╛₧σë¬Φ▓╝τ░┐Φ▓╝Σ╕è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>ShutdownWindow</name>♪◙    </context>♪◙<context>♪◙    <name>SignVerifyMessageDialog</name>♪◙    <message>♪◙        <source>The CRyptoCrowd address to sign the message with</source>♪◙        <translation>σ░ìΦ¿èµü»τ░╜σÉìτÜä CRyptoCrowd Σ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose previously used address</source>♪◙        <translation>Θü╕µôçΣ╣ïσëìτö¿ΘüÄτÜäΣ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+A</source>♪◙        <translation>Alt+A</translation>♪◙    </message>♪◙    <message>♪◙        <source>Paste address from clipboard</source>♪◙        <translation>σ╛₧σë¬Φ▓╝τ░┐Φ▓╝Σ╕è</translation>♪◙    </message>♪◙    <message>♪◙        <source>Alt+P</source>♪◙        <translation>Alt+P</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the current signature to the system clipboard</source>♪◙        <translation>µï╖Φ▓¥τ¢«σëìτÜäτ░╜τ½áσê░τ│╗τ╡▒σë¬Φ▓╝τ░┐</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sign the message to prove you own this CRyptoCrowd address</source>♪◙        <translation>Σ╜┐τö¿τ░╜τ½áΣ╛åΦ¡ëµÿÄΣ╜áµÿ»Φ⌐▓  CRyptoCrowd Σ╜ìσ¥ÇτÜäµôüµ£ëΦÇà,</translation>♪◙    </message>♪◙    <message>♪◙        <source>The CRyptoCrowd address the message was signed with</source>♪◙        <translation>µ¡ñΦ¿èµü»Σ╣ï CRyptoCrowd Σ╜ìσ¥Çσ╖▓τ░╜τ½áµû╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>♪◙        <translation>Θ⌐ùΦ¡ëΦ¿èµü»Σ╗Ñτó║Σ┐¥Φ⌐▓  CRyptoCrowd Σ╜ìσ¥Çσ╖▓Φó½τ░╜τ½á</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all sign message fields</source>♪◙        <translation>ΘçìΦ¿¡µëÇµ£ëσ╖▓τ░╜τ½áΦ¿èµü»</translation>♪◙    </message>♪◙    <message>♪◙        <source>Clear All</source>♪◙        <translation>µ╕àΘÖñ σà¿Θâ¿</translation>♪◙    </message>♪◙    <message>♪◙        <source>Reset all verify message fields</source>♪◙        <translation>ΘçìΦ¿¡µëÇµ£ëΘ⌐ùΦ¡ëΦ¿èµü»τÜäµ¼äΣ╜ì</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address is invalid.</source>♪◙        <translation>Φ╝╕σàÑτÜäΣ╜ìσ¥Çτäíµòê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Please check the address and try again.</source>♪◙        <translation>Φ½ïµ¬óµƒÑΣ╜ìσ¥Çµÿ»σÉªµ¡úτó║</translation>♪◙    </message>♪◙    <message>♪◙        <source>The entered address does not refer to a key.</source>♪◙        <translation>µëÇΦ╝╕σàÑτÜäΣ╜ìσ¥ÇΣ╕ªµ▓Æµ£ëΘàìσ░ìτÜäΘæ░σîÖ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet unlock was cancelled.</source>♪◙        <translation>ΘîóσîàΣ╕èΘÄûσ╖▓σÅûµ╢ê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Private key for the entered address is not available.</source>♪◙        <translation>µé¿τÜäτºüΘæ░σ░ìΦ╝╕σàÑτÜäΣ╜ìσ¥Çτäíµòê</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>SplashScreen</name>♪◙    <message>♪◙        <source>CRyptoCrowd Core</source>♪◙        <translation>CRyptoCrowd Core</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>TrafficGraphWidget</name>♪◙    </context>♪◙<context>♪◙    <name>TransactionDesc</name>♪◙    </context>♪◙<context>♪◙    <name>TransactionDescDialog</name>♪◙    </context>♪◙<context>♪◙    <name>TransactionTableModel</name>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>Σ╜ìσ¥Ç</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>TransactionView</name>♪◙    <message>♪◙        <source>Comma separated file (*.csv)</source>♪◙        <translation>ΘÇùΦÖƒσìÇΘÜöΦ│çµûÖµ¬ö (*.csv)</translation>♪◙    </message>♪◙    <message>♪◙        <source>Label</source>♪◙        <translation>µ¿ÖΦ¿ÿ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>Σ╜ìσ¥Ç</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Failed</source>♪◙        <translation>Φ│çµûÖσî»σç║µ£ëΦ¬ñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Successful</source>♪◙        <translation>Φ│çµûÖσî»σç║µêÉσèƒ</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>UnitDisplayStatusBarControl</name>♪◙    </context>♪◙<context>♪◙    <name>WalletFrame</name>♪◙    </context>♪◙<context>♪◙    <name>WalletModel</name>♪◙    </context>♪◙<context>♪◙    <name>WalletView</name>♪◙    <message>♪◙        <source>Export</source>♪◙        <translation>σî»σç║</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export the data in the current tab to a file</source>♪◙        <translation>σî»σç║τ¢«σëìΘ¥óµ¥┐Σ╕¡τÜäΦ│çµûÖ</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>zXCRCControlDialog</name>♪◙    </context>♪◙<context>♪◙    <name>cryptocrowd-core</name>♪◙    </context>♪◙</TS>
+<TS language="zh_TW" version="2.1">
+<context>
+    <name>AddressBookPage</name>
+    <message>
+        <source>Right-click to edit address or label</source>
+        <translation>點右鍵來修改位址或標記</translation>
+    </message>
+    <message>
+        <source>Create a new address</source>
+        <translation>產生新位址</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation>新增</translation>
+    </message>
+    <message>
+        <source>Copy the currently selected address to the system clipboard</source>
+        <translation>複製目前選取的位址到系統剪貼簿</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>Delete the currently selected address from the list</source>
+        <translation>刪除列表中已選擇的位址</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>Export the data in the current tab to a file</source>
+        <translation>匯出目前面板中的資料</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>匯出</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Choose the address to send coins to</source>
+        <translation>選擇要匯出CRyptoCrowd幣的位址</translation>
+    </message>
+    <message>
+        <source>Choose the address to receive coins with</source>
+        <translation>選擇要接收CRyptoCrowd幣的位址</translation>
+    </message>
+    <message>
+        <source>Choose</source>
+        <translation>選取</translation>
+    </message>
+    <message>
+        <source>Sending addresses</source>
+        <translation>送出的位址</translation>
+    </message>
+    <message>
+        <source>Receiving addresses</source>
+        <translation>接收的位址</translation>
+    </message>
+    <message>
+        <source>These are your CRyptoCrowd addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>這是你用來付款的 CRyptoCrowd 位址, 送出前, 請務必確認金額及接收位址是否正確.</translation>
+    </message>
+    <message>
+        <source>These are your CRyptoCrowd addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>這是你用來接收款項的 CRyptoCrowd 位址, 建議你每次付款都使用新的位址.</translation>
+    </message>
+    <message>
+        <source>Copy Address</source>
+        <translation>拷貝位址</translation>
+    </message>
+    <message>
+        <source>Copy Label</source>
+        <translation>複製標記</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>編輯</translation>
+    </message>
+    <message>
+        <source>Export Address List</source>
+        <translation>匯出位址列表</translation>
+    </message>
+    <message>
+        <source>Comma separated file (*.csv)</source>
+        <translation>逗號區隔資料檔 (*.csv)</translation>
+    </message>
+    <message>
+        <source>Exporting Failed</source>
+        <translation>資料匯出有誤</translation>
+    </message>
+    <message>
+        <source>There was an error trying to save the address list to %1. Please try again.</source>
+        <translation>儲存位址列表到 %1 時, 發生錯誤, 請再試一次.</translation>
+    </message>
+</context>
+<context>
+    <name>AddressTableModel</name>
+    <message>
+        <source>Label</source>
+        <translation>標記</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>位址</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(沒有標記)</translation>
+    </message>
+</context>
+<context>
+    <name>AskPassphraseDialog</name>
+    <message>
+        <source>Passphrase Dialog</source>
+        <translation>密碼輸入欄</translation>
+    </message>
+    <message>
+        <source>Enter passphrase</source>
+        <translation>輸入密碼</translation>
+    </message>
+    <message>
+        <source>New passphrase</source>
+        <translation>新的密碼</translation>
+    </message>
+    <message>
+        <source>Repeat new passphrase</source>
+        <translation>重複新密碼</translation>
+    </message>
+    <message>
+        <source>Encrypt wallet</source>
+        <translation>錢包加密</translation>
+    </message>
+    <message>
+        <source>This operation needs your wallet passphrase to unlock the wallet.</source>
+        <translation>這項操作需要先用密碼解鎖你的錢包</translation>
+    </message>
+    <message>
+        <source>Unlock wallet</source>
+        <translation>錢包解鎖</translation>
+    </message>
+    <message>
+        <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
+        <translation>這項操作需要你的密碼來解密錢包</translation>
+    </message>
+    <message>
+        <source>Decrypt wallet</source>
+        <translation>錢包解密</translation>
+    </message>
+    <message>
+        <source>Change passphrase</source>
+        <translation>修改密碼</translation>
+    </message>
+    <message>
+        <source>Enter the old and new passphrase to the wallet.</source>
+        <translation>請分別輸入錢包的舊密碼與新密碼</translation>
+    </message>
+    <message>
+        <source>Confirm wallet encryption</source>
+        <translation>錢包確認加密</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your XCRCS from being stolen by malware infecting your computer.</source>
+        <translation>CRyptoCrowd 現在會關閉程式來處理加密流程, 請注意, 僅僅是加密你的錢包並不能完全保護你的 CRyptoCrowd 幣被可疑軟體或病毒偷走的風險.</translation>
+    </message>
+    <message>
+        <source>Are you sure you wish to encrypt your wallet?</source>
+        <translation>確定要加密你的錢包?</translation>
+    </message>
+    <message>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRyptoCrowd&lt;/b&gt;!</source>
+        <translation>請注意: 如果你加密了你的錢包但是卻忘記你設定的密碼, &lt;b&gt;你將會失去錢包裡的錢(CRyptoCrowd)&lt;/b&gt;!</translation>
+    </message>
+    <message>
+        <source>Wallet encrypted</source>
+        <translation>錢包已加密</translation>
+    </message>
+    <message>
+        <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
+        <translation>重要: 任何之前你所備份的舊錢包檔案應該使用新產生並且有加密的錢包檔案取代, 為了安全起見, 當你開始使用新錢包後, 您之前所備份的未加密舊錢包將會失效.</translation>
+    </message>
+    <message>
+        <source>Wallet encryption failed</source>
+        <translation>錢包加密失敗</translation>
+    </message>
+    <message>
+        <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
+        <translation>錢包加密失敗因為程式上的錯誤, 你的錢包尚未被加密.</translation>
+    </message>
+    <message>
+        <source>The supplied passphrases do not match.</source>
+        <translation>您輸入的密碼不符.</translation>
+    </message>
+    <message>
+        <source>Wallet unlock failed</source>
+        <translation>錢包解鎖失敗</translation>
+    </message>
+    <message>
+        <source>The passphrase entered for the wallet decryption was incorrect.</source>
+        <translation>您輸入的密碼錯誤.</translation>
+    </message>
+    <message>
+        <source>Wallet decryption failed</source>
+        <translation>錢包解密失敗</translation>
+    </message>
+    <message>
+        <source>Wallet passphrase was successfully changed.</source>
+        <translation>錢包密碼修改成功</translation>
+    </message>
+    <message>
+        <source>Warning: The Caps Lock key is on!</source>
+        <translation>注意: Caps Lock(大寫鍵) 是開啟的.</translation>
+    </message>
+</context>
+<context>
+    <name>BanTableModel</name>
+    </context>
+<context>
+    <name>Bip38ToolDialog</name>
+    <message>
+        <source>BIP 38 Tool</source>
+        <translation>BIP 38 工具</translation>
+    </message>
+    <message>
+        <source>BIP 38 Encrypt</source>
+        <translation>BIP 38 加密</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>位址:</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>選擇之前用過的位址</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>從剪貼簿貼上</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Passphrase: </source>
+        <translation>密碼:</translation>
+    </message>
+    <message>
+        <source>Encrypted Key:</source>
+        <translation>已加密鑰匙:</translation>
+    </message>
+    <message>
+        <source>Copy the current signature to the system clipboard</source>
+        <translation>拷貝目前的簽章到系統剪貼簿</translation>
+    </message>
+    <message>
+        <source>Encrypt Key</source>
+        <translation>加密 鑰匙</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>清除 全部</translation>
+    </message>
+    <message>
+        <source>BIP 38 Decrypt</source>
+        <translation>BIP 38 解密</translation>
+    </message>
+    <message>
+        <source>Decrypt Key</source>
+        <translation>解密 鑰匙</translation>
+    </message>
+    <message>
+        <source>Decrypted Key:</source>
+        <translation>已解密鑰匙:</translation>
+    </message>
+    <message>
+        <source>Import Address</source>
+        <translation>匯入位址:</translation>
+    </message>
+    <message>
+        <source>Click "Decrypt Key" to compute key</source>
+        <translation>點 "解密鑰匙" 來產生</translation>
+    </message>
+    <message>
+        <source>The entered passphrase is invalid. </source>
+        <translation>輸入的密碼不符合規定</translation>
+    </message>
+    <message>
+        <source>Allowed: 0-9,a-z,A-Z,</source>
+        <translation>僅允許: 0-9,a-z,A-Z</translation>
+    </message>
+    <message>
+        <source>The entered address is invalid.</source>
+        <translation>輸入的位址無效</translation>
+    </message>
+    <message>
+        <source>Please check the address and try again.</source>
+        <translation>請檢查位址是否正確</translation>
+    </message>
+    <message>
+        <source>The entered address does not refer to a key.</source>
+        <translation>所輸入的位址並沒有配對的鑰匙</translation>
+    </message>
+    <message>
+        <source>Wallet unlock was cancelled.</source>
+        <translation>錢包上鎖已取消</translation>
+    </message>
+    <message>
+        <source>Private key for the entered address is not available.</source>
+        <translation>您的私鑰對輸入的位址無效</translation>
+    </message>
+    <message>
+        <source>Failed to decrypt.</source>
+        <translation>解密失敗</translation>
+    </message>
+    <message>
+        <source>Please check the key and passphrase and try again.</source>
+        <translation>請確認錢包私鑰的密碼是正確的.</translation>
+    </message>
+    <message>
+        <source>Data Not Valid.</source>
+        <translation>資料無效</translation>
+    </message>
+    <message>
+        <source>Please try again.</source>
+        <translation>請再試一次</translation>
+    </message>
+    <message>
+        <source>Please wait while key is imported</source>
+        <translation>鑰匙正在匯入中, 請稍候</translation>
+    </message>
+    <message>
+        <source>Key Already Held By Wallet</source>
+        <translation>私鑰已被錢包保管</translation>
+    </message>
+    <message>
+        <source>Error Adding Key To Wallet</source>
+        <translation>私鑰加入錢包發生錯誤</translation>
+    </message>
+    <message>
+        <source>Successfully Added Private Key To Wallet</source>
+        <translation>私鑰加入錢包成功</translation>
+    </message>
+</context>
+<context>
+    <name>BitcoinGUI</name>
+    <message>
+        <source>Wallet</source>
+        <translation>錢包</translation>
+    </message>
+    <message>
+        <source>Node</source>
+        <translation>節點</translation>
+    </message>
+    <message>
+        <source>Overview</source>
+        <translation>總覽</translation>
+    </message>
+    <message>
+        <source>Show general overview of wallet</source>
+        <translation>顯示錢包資訊</translation>
+    </message>
+    <message>
+        <source>Send</source>
+        <translation>發送</translation>
+    </message>
+    <message>
+        <source>Receive</source>
+        <translation>接收</translation>
+    </message>
+    <message>
+        <source>Transactions</source>
+        <translation>交易</translation>
+    </message>
+    <message>
+        <source>Browse transaction history</source>
+        <translation>瀏覽交易紀錄</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <source>Quit application</source>
+        <translation>關閉程式</translation>
+    </message>
+    <message>
+        <source>About Qt</source>
+        <translation>關於 Qt</translation>
+    </message>
+    <message>
+        <source>Show information about Qt</source>
+        <translation>顯示 Qt 資訊</translation>
+    </message>
+    <message>
+        <source>Options...</source>
+        <translation>選項</translation>
+    </message>
+    <message>
+        <source>Show / Hide</source>
+        <translation>顯示 / 隱藏</translation>
+    </message>
+    <message>
+        <source>Show or hide the main Window</source>
+        <translation>顯示或隱藏主視窗</translation>
+    </message>
+    <message>
+        <source>Encrypt Wallet...</source>
+        <translation>錢包加密</translation>
+    </message>
+    <message>
+        <source>Encrypt the private keys that belong to your wallet</source>
+        <translation>將你錢包中的私鑰加密</translation>
+    </message>
+    <message>
+        <source>Backup Wallet...</source>
+        <translation>備份錢包</translation>
+    </message>
+    <message>
+        <source>Backup wallet to another location</source>
+        <translation>備份錢包到另外的位置</translation>
+    </message>
+    <message>
+        <source>Change Passphrase...</source>
+        <translation>更改密碼</translation>
+    </message>
+    <message>
+        <source>Change the passphrase used for wallet encryption</source>
+        <translation>更改使用中的錢包密碼</translation>
+    </message>
+    <message>
+        <source>Unlock Wallet...</source>
+        <translation>錢包解鎖</translation>
+    </message>
+    <message>
+        <source>Unlock wallet</source>
+        <translation>錢包解鎖</translation>
+    </message>
+    <message>
+        <source>Lock Wallet</source>
+        <translation>錢包上鎖</translation>
+    </message>
+    <message>
+        <source>Sign message...</source>
+        <translation>訊息簽章</translation>
+    </message>
+    <message>
+        <source>Verify message...</source>
+        <translation>查驗訊息</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>資訊</translation>
+    </message>
+    <message>
+        <source>Show diagnostic information</source>
+        <translation>顯示診斷訊息</translation>
+    </message>
+    <message>
+        <source>Debug console</source>
+        <translation>除錯命令列</translation>
+    </message>
+    <message>
+        <source>Open debugging console</source>
+        <translation>開啟除錯命令列</translation>
+    </message>
+    <message>
+        <source>Network Monitor</source>
+        <translation>網路監控</translation>
+    </message>
+    <message>
+        <source>Show network monitor</source>
+        <translation>顯示網路監控</translation>
+    </message>
+    <message>
+        <source>Peers list</source>
+        <translation>接點(Peers)列表</translation>
+    </message>
+    <message>
+        <source>Show peers info</source>
+        <translation>顯示接點(Peers)資訊</translation>
+    </message>
+    <message>
+        <source>Wallet Repair</source>
+        <translation>錢包修復</translation>
+    </message>
+    <message>
+        <source>Show wallet repair options</source>
+        <translation>顯示錢包修復選項</translation>
+    </message>
+    <message>
+        <source>Open configuration file</source>
+        <translation>打開設定檔</translation>
+    </message>
+    <message>
+        <source>Show Automatic Backups</source>
+        <translation>顯示自動備份</translation>
+    </message>
+    <message>
+        <source>Show automatically created wallet backups</source>
+        <translation>顯示自動建立的錢包備份</translation>
+    </message>
+    <message>
+        <source>Sending addresses...</source>
+        <translation>發送地址</translation>
+    </message>
+    <message>
+        <source>Show the list of used sending addresses and labels</source>
+        <translation>顯示曾經使用的發送地址及標籤</translation>
+    </message>
+    <message>
+        <source>Receiving addresses...</source>
+        <translation>接收地址</translation>
+    </message>
+    <message>
+        <source>Show the list of used receiving addresses and labels</source>
+        <translation>顯示曾經使用過的接收地址</translation>
+    </message>
+    <message>
+        <source>Open URI...</source>
+        <translation>打開網址</translation>
+    </message>
+    <message>
+        <source>Command-line options</source>
+        <translation>命令列工具</translation>
+    </message>
+    <message>
+        <source>Synchronizing additional data: %p%</source>
+        <translation>其他資料同步中: %p%</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>檔案</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>設定</translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation>工具</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>幫助</translation>
+    </message>
+    <message>
+        <source>Tabs toolbar</source>
+        <translation>Tabs 工具列</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Send coins to a CRyptoCrowd address</source>
+        <translation>送出錢幣到 CRyptoCrowd 地址</translation>
+    </message>
+    <message>
+        <source>Request payments (generates QR codes and CRyptoCrowd: URIs)</source>
+        <translation>請求付款 (會產生 QR Code跟 CRyptoCrowd 位址)</translation>
+    </message>
+    <message>
+        <source>Masternodes</source>
+        <translation>Masternodes</translation>
+    </message>
+    <message>
+        <source>Browse masternodes</source>
+        <translation>瀏覽 Masternodes</translation>
+    </message>
+    <message>
+        <source>About CRyptoCrowd Core</source>
+        <translation>關於 CRyptoCrowd Core</translation>
+    </message>
+    <message>
+        <source>Show information about CRyptoCrowd Core</source>
+        <translation>顯示 CRyptoCrowd Core 相關資訊</translation>
+    </message>
+    <message>
+        <source>Modify configuration options for CRyptoCrowd</source>
+        <translation>修改 CRyptoCrowd 設定</translation>
+    </message>
+    <message>
+        <source>Sign messages with your CRyptoCrowd addresses to prove you own them</source>
+        <translation>使用你的 CRyptoCrowd 位址對訊息簽章, 來證明你是擁有者</translation>
+    </message>
+    <message>
+        <source>Verify messages to ensure they were signed with specified CRyptoCrowd addresses</source>
+        <translation>驗證訊息簽章與 CRyptoCrowd 位址吻合</translation>
+    </message>
+    <message>
+        <source>BIP38 tool</source>
+        <translation>BIP38 工具</translation>
+    </message>
+    <message>
+        <source>Encrypt and decrypt private keys using a passphrase</source>
+        <translation>使用密碼對私鑰加密解密</translation>
+    </message>
+    <message>
+        <source>MultiSend</source>
+        <translation>多重發送</translation>
+    </message>
+    <message>
+        <source>MultiSend Settings</source>
+        <translation>多重發送設定</translation>
+    </message>
+    <message>
+        <source>Open Wallet Configuration File</source>
+        <translation>打開錢包設定檔</translation>
+    </message>
+    <message>
+        <source>Open Masternode Configuration File</source>
+        <translation>打開Masternode設定檔</translation>
+    </message>
+    <message>
+        <source>Open Masternode configuration file</source>
+        <translation>打開Masternode設定檔</translation>
+    </message>
+    <message>
+        <source>Open a CRyptoCrowd: URI or payment request</source>
+        <translation>打開CRyptoCrowd: 位址或付款請求 </translation>
+    </message>
+    <message>
+        <source>Blockchain explorer</source>
+        <translation>區塊鏈瀏覽</translation>
+    </message>
+    <message>
+        <source>Block explorer window</source>
+        <translation>區塊鏈瀏覽視窗</translation>
+    </message>
+    <message>
+        <source>Show the CRyptoCrowd Core help message to get a list with possible CRyptoCrowd command-line options</source>
+        <translation>顯示 CRyptoCrowd Core 幫助訊息以取得 CRyptoCrowd 命令列表選項</translation>
+    </message>
+    <message>
+        <source>CRyptoCrowd Core client</source>
+        <translation>CRyptoCrowd Core 客戶端</translation>
+    </message>
+    </context>
+<context>
+    <name>BlockExplorer</name>
+    <message>
+        <source>TextLabel</source>
+        <translation>文字標籤</translation>
+    </message>
+    </context>
+<context>
+    <name>ClientModel</name>
+    </context>
+<context>
+    <name>CoinControlDialog</name>
+    <message>
+        <source>(no label)</source>
+        <translation>(沒有標記)</translation>
+    </message>
+    </context>
+<context>
+    <name>EditAddressDialog</name>
+    </context>
+<context>
+    <name>FreespaceChecker</name>
+    </context>
+<context>
+    <name>HelpMessageDialog</name>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    </context>
+<context>
+    <name>Intro</name>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    </context>
+<context>
+    <name>MasternodeList</name>
+    <message>
+        <source>Address</source>
+        <translation>位址</translation>
+    </message>
+    </context>
+<context>
+    <name>MultiSendDialog</name>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>位址:</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(沒有標記)</translation>
+    </message>
+    </context>
+<context>
+    <name>MultisigDialog</name>
+    </context>
+<context>
+    <name>ObfuscationConfig</name>
+    </context>
+<context>
+    <name>OpenURIDialog</name>
+    </context>
+<context>
+    <name>OptionsDialog</name>
+    </context>
+<context>
+    <name>OverviewPage</name>
+    </context>
+<context>
+    <name>PaymentServer</name>
+    </context>
+<context>
+    <name>PeerTableModel</name>
+    </context>
+<context>
+    <name>PrivacyDialog</name>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>選擇之前用過的位址</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>從剪貼簿貼上</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>文字標籤</translation>
+    </message>
+    </context>
+<context>
+    <name>QObject</name>
+    </context>
+<context>
+    <name>QRImageWidget</name>
+    </context>
+<context>
+    <name>RPCConsole</name>
+    <message>
+        <source>Information</source>
+        <translation>資訊</translation>
+    </message>
+    </context>
+<context>
+    <name>ReceiveCoinsDialog</name>
+    </context>
+<context>
+    <name>ReceiveRequestDialog</name>
+    <message>
+        <source>Address</source>
+        <translation>位址</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>標記</translation>
+    </message>
+    </context>
+<context>
+    <name>RecentRequestsTableModel</name>
+    <message>
+        <source>Label</source>
+        <translation>標記</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(沒有標記)</translation>
+    </message>
+    </context>
+<context>
+    <name>SendCoinsDialog</name>
+    <message>
+        <source>Clear All</source>
+        <translation>清除 全部</translation>
+    </message>
+    <message>
+        <source>(no label)</source>
+        <translation>(沒有標記)</translation>
+    </message>
+</context>
+<context>
+    <name>SendCoinsEntry</name>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>選擇之前用過的位址</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>從剪貼簿貼上</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    </context>
+<context>
+    <name>ShutdownWindow</name>
+    </context>
+<context>
+    <name>SignVerifyMessageDialog</name>
+    <message>
+        <source>The CRyptoCrowd address to sign the message with</source>
+        <translation>對訊息簽名的 CRyptoCrowd 位址</translation>
+    </message>
+    <message>
+        <source>Choose previously used address</source>
+        <translation>選擇之前用過的位址</translation>
+    </message>
+    <message>
+        <source>Alt+A</source>
+        <translation>Alt+A</translation>
+    </message>
+    <message>
+        <source>Paste address from clipboard</source>
+        <translation>從剪貼簿貼上</translation>
+    </message>
+    <message>
+        <source>Alt+P</source>
+        <translation>Alt+P</translation>
+    </message>
+    <message>
+        <source>Copy the current signature to the system clipboard</source>
+        <translation>拷貝目前的簽章到系統剪貼簿</translation>
+    </message>
+    <message>
+        <source>Sign the message to prove you own this CRyptoCrowd address</source>
+        <translation>使用簽章來證明你是該  CRyptoCrowd 位址的擁有者,</translation>
+    </message>
+    <message>
+        <source>The CRyptoCrowd address the message was signed with</source>
+        <translation>此訊息之 CRyptoCrowd 位址已簽章於</translation>
+    </message>
+    <message>
+        <source>Verify the message to ensure it was signed with the specified CRyptoCrowd address</source>
+        <translation>驗證訊息以確保該  CRyptoCrowd 位址已被簽章</translation>
+    </message>
+    <message>
+        <source>Reset all sign message fields</source>
+        <translation>重設所有已簽章訊息</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>清除 全部</translation>
+    </message>
+    <message>
+        <source>Reset all verify message fields</source>
+        <translation>重設所有驗證訊息的欄位</translation>
+    </message>
+    <message>
+        <source>The entered address is invalid.</source>
+        <translation>輸入的位址無效</translation>
+    </message>
+    <message>
+        <source>Please check the address and try again.</source>
+        <translation>請檢查位址是否正確</translation>
+    </message>
+    <message>
+        <source>The entered address does not refer to a key.</source>
+        <translation>所輸入的位址並沒有配對的鑰匙</translation>
+    </message>
+    <message>
+        <source>Wallet unlock was cancelled.</source>
+        <translation>錢包上鎖已取消</translation>
+    </message>
+    <message>
+        <source>Private key for the entered address is not available.</source>
+        <translation>您的私鑰對輸入的位址無效</translation>
+    </message>
+    </context>
+<context>
+    <name>SplashScreen</name>
+    <message>
+        <source>CRyptoCrowd Core</source>
+        <translation>CRyptoCrowd Core</translation>
+    </message>
+    </context>
+<context>
+    <name>TrafficGraphWidget</name>
+    </context>
+<context>
+    <name>TransactionDesc</name>
+    </context>
+<context>
+    <name>TransactionDescDialog</name>
+    </context>
+<context>
+    <name>TransactionTableModel</name>
+    <message>
+        <source>Address</source>
+        <translation>位址</translation>
+    </message>
+    </context>
+<context>
+    <name>TransactionView</name>
+    <message>
+        <source>Comma separated file (*.csv)</source>
+        <translation>逗號區隔資料檔 (*.csv)</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>標記</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation>位址</translation>
+    </message>
+    <message>
+        <source>Exporting Failed</source>
+        <translation>資料匯出有誤</translation>
+    </message>
+    <message>
+        <source>Exporting Successful</source>
+        <translation>資料匯出成功</translation>
+    </message>
+    </context>
+<context>
+    <name>UnitDisplayStatusBarControl</name>
+    </context>
+<context>
+    <name>WalletFrame</name>
+    </context>
+<context>
+    <name>WalletModel</name>
+    </context>
+<context>
+    <name>WalletView</name>
+    <message>
+        <source>Export</source>
+        <translation>匯出</translation>
+    </message>
+    <message>
+        <source>Export the data in the current tab to a file</source>
+        <translation>匯出目前面板中的資料</translation>
+    </message>
+    </context>
+<context>
+    <name>zXCRCControlDialog</name>
+    </context>
+<context>
+    <name>cryptocrowd-core</name>
+    </context>
+</TS>

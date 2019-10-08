@@ -378,7 +378,7 @@ calculateGroupModulusAndOrder(uint256 seed, uint32_t pLen, uint32_t qLen,
     CBigNum x = generateIntegerFromSeed(pLen, pseed, &iterations);
     pseed += (iterations + 1);
 
-    // Set x = 2^{pLen?1} + (x mod 2^{pLenâ€“1}).
+    // Set x = 2^{pLen?1} + (x mod 2^{pLen–1}).
     CBigNum powerOfTwo = CBigNum(2).pow(pLen-1);
     x = powerOfTwo + (x % powerOfTwo);
 
@@ -405,13 +405,13 @@ calculateGroupModulusAndOrder(uint256 seed, uint32_t pLen, uint32_t qLen,
         CBigNum a = generateIntegerFromSeed(pLen, pseed, &iterations);
         pseed += iterations + 1;
 
-        // Set a = 2 + (a mod (resultModulusâ€“3)).
+        // Set a = 2 + (a mod (resultModulus–3)).
         a = CBigNum(2) + (a % ((*resultModulus) - CBigNum(3)));
 
         // Set z = a^{2 * t * resultGroupOrder} mod resultModulus
         CBigNum z = a.pow_mod(CBigNum(2) * t * (*resultGroupOrder), (*resultModulus));
 
-        // If GCD(zâ€“1, resultModulus) == 1 AND (z^{p0} mod resultModulus == 1)
+        // If GCD(z–1, resultModulus) == 1 AND (z^{p0} mod resultModulus == 1)
         // then we have found our result. Return.
         if ((resultModulus->gcd(z - CBigNum(1))).isOne() &&
                 (z.pow_mod(p0, (*resultModulus))).isOne()) {
@@ -457,7 +457,7 @@ calculateGroupGenerator(uint256 seed, uint256 pSeed, uint256 qSeed, CBigNum modu
 
     // Loop until we find a generator
     for (uint32_t count = 1; count < MAX_GENERATOR_ATTEMPTS; count++) {
-        // hash = Hash(seed || pSeed || qSeed || â€œggenâ€ || index || count
+        // hash = Hash(seed || pSeed || qSeed || “ggen” || index || count
         uint256 hash = calculateGeneratorSeed(seed, pSeed, qSeed, "ggen", index, count);
         CBigNum W(hash);
 
@@ -563,7 +563,7 @@ generateRandomPrime(uint32_t primeBitLen, uint256 in_seed, uint256 *out_seed,
         for (uint32_t testNum = 0; testNum < MAX_PRIMEGEN_ATTEMPTS; testNum++) {
 
             // If ((2 * t * c0) + 1 > 2^{primeBitLen}),
-            // then t = ?2^{primeBitLen} â€“ 1 / (2 * c0)?.
+            // then t = ?2^{primeBitLen} – 1 / (2 * c0)?.
             if ((CBigNum(2) * t * c0) > (CBigNum(2).pow(CBigNum(primeBitLen)))) {
                 t = ((CBigNum(2).pow(CBigNum(primeBitLen))) - CBigNum(1)) / (CBigNum(2) * c0);
             }

@@ -1,1 +1,277 @@
-<TS language="ja" version="2.1">♪◙<context>♪◙    <name>AddressBookPage</name>♪◙    <message>♪◙        <source>Right-click to edit address or label</source>♪◙        <translation>σÅ│πé»πâ¬πââπé»πüºπéóπâëπâ¼πé╣πééπüùπüÅπü»πâ⌐πâÖπâ½πéÆτ╖¿Θ¢å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Create a new address</source>♪◙        <translation>µû░πüùπüäπéóπâëπâ¼πé╣πéÆΣ╜£µêÉ</translation>♪◙    </message>♪◙    <message>♪◙        <source>New</source>♪◙        <translation>∩╝åµû░ΦªÅ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy the currently selected address to the system clipboard</source>♪◙        <translation>πé»πâ¬πââπâùπâ£πâ╝πâëπü╕τÅ╛σ£¿Θü╕µè₧πüùπüªπüäπéïπéóπâëπâ¼πé╣πéÆπé│πâöπâ╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy</source>♪◙        <translation>∩╝åπé│πâöπâ╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete the currently selected address from the list</source>♪◙        <translation>πâ¬πé╣πâêπüïπéëΘü╕µè₧πüòπéîπüƒπéóπâëπâ¼πé╣πéÆσëèΘÖñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Delete</source>♪◙        <translation>∩╝åσëèΘÖñ</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export</source>♪◙        <translation>∩╝åπé¿πé»πé╣πâ¥πâ╝πâê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Close</source>♪◙        <translation>∩╝åΘûëπüÿπéï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the address to send coins to</source>♪◙        <translation>ΘÇüΣ┐íσàêπéóπâëπâ¼πé╣πéÆΘü╕πéôπüºπé│πéñπâ│πéÆΘÇüπéï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose the address to receive coins with</source>♪◙        <translation>σÅùΣ┐íτö¿πéóπâëπâ¼πé╣πéÆΘü╕πéôπüºπé│πéñπâ│πéÆσÅùπüæσÅûπéï</translation>♪◙    </message>♪◙    <message>♪◙        <source>Choose</source>♪◙        <translation>∩╝åΘü╕µè₧</translation>♪◙    </message>♪◙    <message>♪◙        <source>Sending addresses</source>♪◙        <translation>ΘÇüΣ┐íσàêπéóπâëπâ¼πé╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Receiving addresses</source>♪◙        <translation>σÅùΣ┐íτö¿πéóπâëπâ¼πé╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Copy Address</source>♪◙        <translation>∩╝åπéóπâëπâ¼πé╣πéÆπé│πâôπâ╝</translation>♪◙    </message>♪◙    <message>♪◙        <source>Edit</source>♪◙        <translation>∩╝åτ╖¿Θ¢å</translation>♪◙    </message>♪◙    <message>♪◙        <source>Export Address List</source>♪◙        <translation>πéóπâëπâ¼πé╣πâ¬πé╣πâêπéÆπé¿πé»πé╣πâ¥πâ╝πâê</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Failed</source>♪◙        <translation>πé¿πé»πé╣πâ¥πâ╝πâêσñ▒µòù</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>AddressTableModel</name>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>πéóπâëπâ¼πé╣</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>AskPassphraseDialog</name>♪◙    <message>♪◙        <source>New passphrase</source>♪◙        <translation>µû░πüùπüäπâæπé╣πâ»πâ╝πâë</translation>♪◙    </message>♪◙    <message>♪◙        <source>Repeat new passphrase</source>♪◙        <translation>µû░πüùπüäπâæπé╣πâ»πâ╝πâëπü«τó║Φ¬ì</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypt wallet</source>♪◙        <translation>Φ▓íσ╕âπéÆµÜùσÅ╖σîû</translation>♪◙    </message>♪◙    <message>♪◙        <source>Change passphrase</source>♪◙        <translation>πâæπé╣πâ»πâ╝πâëπéÆσñëµ¢┤</translation>♪◙    </message>♪◙    <message>♪◙        <source>Enter the old and new passphrase to the wallet.</source>♪◙        <translation>τÅ╛σ£¿πü«πâæπé╣πâ»πâ╝πâëπü¿µû░πüùπüäπâæπé╣πâ»πâ╝πâëπéÆΦ▓íσ╕âπü½σàÑσè¢</translation>♪◙    </message>♪◙    <message>♪◙        <source>Wallet encrypted</source>♪◙        <translation>Φ▓íσ╕âπüîµÜùσÅ╖σîûπüòπéîπüƒ</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>BanTableModel</name>♪◙    </context>♪◙<context>♪◙    <name>Bip38ToolDialog</name>♪◙    <message>♪◙        <source>Address:</source>♪◙        <translation>πéóπâëπâ¼πé╣∩╝Ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Passphrase: </source>♪◙        <translation>πâæπé╣πâ»πâ╝πâë∩╝Ü</translation>♪◙    </message>♪◙    <message>♪◙        <source>Encrypted Key:</source>♪◙        <translation>µÜùσÅ╖σîûπüòπéîπüƒπé¡πâ╝</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>BitcoinGUI</name>♪◙    </context>♪◙<context>♪◙    <name>BlockExplorer</name>♪◙    </context>♪◙<context>♪◙    <name>ClientModel</name>♪◙    </context>♪◙<context>♪◙    <name>CoinControlDialog</name>♪◙    </context>♪◙<context>♪◙    <name>EditAddressDialog</name>♪◙    </context>♪◙<context>♪◙    <name>FreespaceChecker</name>♪◙    </context>♪◙<context>♪◙    <name>HelpMessageDialog</name>♪◙    </context>♪◙<context>♪◙    <name>Intro</name>♪◙    </context>♪◙<context>♪◙    <name>MasternodeList</name>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>πéóπâëπâ¼πé╣</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>MultiSendDialog</name>♪◙    <message>♪◙        <source>Address:</source>♪◙        <translation>πéóπâëπâ¼πé╣∩╝Ü</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>MultisigDialog</name>♪◙    </context>♪◙<context>♪◙    <name>ObfuscationConfig</name>♪◙    </context>♪◙<context>♪◙    <name>OpenURIDialog</name>♪◙    </context>♪◙<context>♪◙    <name>OptionsDialog</name>♪◙    </context>♪◙<context>♪◙    <name>OverviewPage</name>♪◙    </context>♪◙<context>♪◙    <name>PaymentServer</name>♪◙    </context>♪◙<context>♪◙    <name>PeerTableModel</name>♪◙    </context>♪◙<context>♪◙    <name>PrivacyDialog</name>♪◙    </context>♪◙<context>♪◙    <name>QObject</name>♪◙    </context>♪◙<context>♪◙    <name>QRImageWidget</name>♪◙    </context>♪◙<context>♪◙    <name>RPCConsole</name>♪◙    </context>♪◙<context>♪◙    <name>ReceiveCoinsDialog</name>♪◙    </context>♪◙<context>♪◙    <name>ReceiveRequestDialog</name>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>πéóπâëπâ¼πé╣</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>RecentRequestsTableModel</name>♪◙    </context>♪◙<context>♪◙    <name>SendCoinsDialog</name>♪◙    </context>♪◙<context>♪◙    <name>SendCoinsEntry</name>♪◙    </context>♪◙<context>♪◙    <name>ShutdownWindow</name>♪◙    </context>♪◙<context>♪◙    <name>SignVerifyMessageDialog</name>♪◙    </context>♪◙<context>♪◙    <name>SplashScreen</name>♪◙    </context>♪◙<context>♪◙    <name>TrafficGraphWidget</name>♪◙    </context>♪◙<context>♪◙    <name>TransactionDesc</name>♪◙    </context>♪◙<context>♪◙    <name>TransactionDescDialog</name>♪◙    </context>♪◙<context>♪◙    <name>TransactionTableModel</name>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>πéóπâëπâ¼πé╣</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>TransactionView</name>♪◙    <message>♪◙        <source>Address</source>♪◙        <translation>πéóπâëπâ¼πé╣</translation>♪◙    </message>♪◙    <message>♪◙        <source>Exporting Failed</source>♪◙        <translation>πé¿πé»πé╣πâ¥πâ╝πâêσñ▒µòù</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>UnitDisplayStatusBarControl</name>♪◙    </context>♪◙<context>♪◙    <name>WalletFrame</name>♪◙    </context>♪◙<context>♪◙    <name>WalletModel</name>♪◙    </context>♪◙<context>♪◙    <name>WalletView</name>♪◙    <message>♪◙        <source>Export</source>♪◙        <translation>∩╝åπé¿πé»πé╣πâ¥πâ╝πâê</translation>♪◙    </message>♪◙    </context>♪◙<context>♪◙    <name>zXCRCControlDialog</name>♪◙    </context>♪◙<context>♪◙    <name>cryptocrowd-core</name>♪◙    </context>♪◙</TS>
+<TS language="ja" version="2.1">
+<context>
+    <name>AddressBookPage</name>
+    <message>
+        <source>Right-click to edit address or label</source>
+        <translation>右クリックでアドレスもしくはラベルを編集</translation>
+    </message>
+    <message>
+        <source>Create a new address</source>
+        <translation>新しいアドレスを作成</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation>＆新規</translation>
+    </message>
+    <message>
+        <source>Copy the currently selected address to the system clipboard</source>
+        <translation>クリップボードへ現在選択しているアドレスをコピー</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>＆コピー</translation>
+    </message>
+    <message>
+        <source>Delete the currently selected address from the list</source>
+        <translation>リストから選択されたアドレスを削除</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>＆削除</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>＆エクスポート</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>＆閉じる</translation>
+    </message>
+    <message>
+        <source>Choose the address to send coins to</source>
+        <translation>送信先アドレスを選んでコインを送る</translation>
+    </message>
+    <message>
+        <source>Choose the address to receive coins with</source>
+        <translation>受信用アドレスを選んでコインを受け取る</translation>
+    </message>
+    <message>
+        <source>Choose</source>
+        <translation>＆選択</translation>
+    </message>
+    <message>
+        <source>Sending addresses</source>
+        <translation>送信先アドレス</translation>
+    </message>
+    <message>
+        <source>Receiving addresses</source>
+        <translation>受信用アドレス</translation>
+    </message>
+    <message>
+        <source>Copy Address</source>
+        <translation>＆アドレスをコビー</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>＆編集</translation>
+    </message>
+    <message>
+        <source>Export Address List</source>
+        <translation>アドレスリストをエクスポート</translation>
+    </message>
+    <message>
+        <source>Exporting Failed</source>
+        <translation>エクスポート失敗</translation>
+    </message>
+    </context>
+<context>
+    <name>AddressTableModel</name>
+    <message>
+        <source>Address</source>
+        <translation>アドレス</translation>
+    </message>
+    </context>
+<context>
+    <name>AskPassphraseDialog</name>
+    <message>
+        <source>New passphrase</source>
+        <translation>新しいパスワード</translation>
+    </message>
+    <message>
+        <source>Repeat new passphrase</source>
+        <translation>新しいパスワードの確認</translation>
+    </message>
+    <message>
+        <source>Encrypt wallet</source>
+        <translation>財布を暗号化</translation>
+    </message>
+    <message>
+        <source>Change passphrase</source>
+        <translation>パスワードを変更</translation>
+    </message>
+    <message>
+        <source>Enter the old and new passphrase to the wallet.</source>
+        <translation>現在のパスワードと新しいパスワードを財布に入力</translation>
+    </message>
+    <message>
+        <source>Wallet encrypted</source>
+        <translation>財布が暗号化された</translation>
+    </message>
+    </context>
+<context>
+    <name>BanTableModel</name>
+    </context>
+<context>
+    <name>Bip38ToolDialog</name>
+    <message>
+        <source>Address:</source>
+        <translation>アドレス：</translation>
+    </message>
+    <message>
+        <source>Passphrase: </source>
+        <translation>パスワード：</translation>
+    </message>
+    <message>
+        <source>Encrypted Key:</source>
+        <translation>暗号化されたキー</translation>
+    </message>
+    </context>
+<context>
+    <name>BitcoinGUI</name>
+    </context>
+<context>
+    <name>BlockExplorer</name>
+    </context>
+<context>
+    <name>ClientModel</name>
+    </context>
+<context>
+    <name>CoinControlDialog</name>
+    </context>
+<context>
+    <name>EditAddressDialog</name>
+    </context>
+<context>
+    <name>FreespaceChecker</name>
+    </context>
+<context>
+    <name>HelpMessageDialog</name>
+    </context>
+<context>
+    <name>Intro</name>
+    </context>
+<context>
+    <name>MasternodeList</name>
+    <message>
+        <source>Address</source>
+        <translation>アドレス</translation>
+    </message>
+    </context>
+<context>
+    <name>MultiSendDialog</name>
+    <message>
+        <source>Address:</source>
+        <translation>アドレス：</translation>
+    </message>
+    </context>
+<context>
+    <name>MultisigDialog</name>
+    </context>
+<context>
+    <name>ObfuscationConfig</name>
+    </context>
+<context>
+    <name>OpenURIDialog</name>
+    </context>
+<context>
+    <name>OptionsDialog</name>
+    </context>
+<context>
+    <name>OverviewPage</name>
+    </context>
+<context>
+    <name>PaymentServer</name>
+    </context>
+<context>
+    <name>PeerTableModel</name>
+    </context>
+<context>
+    <name>PrivacyDialog</name>
+    </context>
+<context>
+    <name>QObject</name>
+    </context>
+<context>
+    <name>QRImageWidget</name>
+    </context>
+<context>
+    <name>RPCConsole</name>
+    </context>
+<context>
+    <name>ReceiveCoinsDialog</name>
+    </context>
+<context>
+    <name>ReceiveRequestDialog</name>
+    <message>
+        <source>Address</source>
+        <translation>アドレス</translation>
+    </message>
+    </context>
+<context>
+    <name>RecentRequestsTableModel</name>
+    </context>
+<context>
+    <name>SendCoinsDialog</name>
+    </context>
+<context>
+    <name>SendCoinsEntry</name>
+    </context>
+<context>
+    <name>ShutdownWindow</name>
+    </context>
+<context>
+    <name>SignVerifyMessageDialog</name>
+    </context>
+<context>
+    <name>SplashScreen</name>
+    </context>
+<context>
+    <name>TrafficGraphWidget</name>
+    </context>
+<context>
+    <name>TransactionDesc</name>
+    </context>
+<context>
+    <name>TransactionDescDialog</name>
+    </context>
+<context>
+    <name>TransactionTableModel</name>
+    <message>
+        <source>Address</source>
+        <translation>アドレス</translation>
+    </message>
+    </context>
+<context>
+    <name>TransactionView</name>
+    <message>
+        <source>Address</source>
+        <translation>アドレス</translation>
+    </message>
+    <message>
+        <source>Exporting Failed</source>
+        <translation>エクスポート失敗</translation>
+    </message>
+    </context>
+<context>
+    <name>UnitDisplayStatusBarControl</name>
+    </context>
+<context>
+    <name>WalletFrame</name>
+    </context>
+<context>
+    <name>WalletModel</name>
+    </context>
+<context>
+    <name>WalletView</name>
+    <message>
+        <source>Export</source>
+        <translation>＆エクスポート</translation>
+    </message>
+    </context>
+<context>
+    <name>zXCRCControlDialog</name>
+    </context>
+<context>
+    <name>cryptocrowd-core</name>
+    </context>
+</TS>
