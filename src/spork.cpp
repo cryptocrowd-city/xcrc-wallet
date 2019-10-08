@@ -1,6 +1,6 @@
 // Copyright (c) 2014-2016 The Dash developers
 // Copyright (c) 2016-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulwðrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -26,7 +26,7 @@ CSporkManager sporkManager;
 std::map<uint256, CSporkMessage> mapSporks;
 std::map<int, CSporkMessage> mapSporksActive;
 
-// Bulwark: on startup load spork values from previous session if they exist in the sporkDB
+// CRyptoCrowd: on startup load spork values from previous session if they exist in the sporkDB
 void LoadSporksFromDB() {
     for (int i = SPORK_START; i <= SPORK_END; ++i) {
         // Since not all spork IDs are in use, we have to exclude undefined IDs
@@ -95,7 +95,7 @@ void ProcessSpork(CNode* pfrom, std::string& strCommand, CDataStream& vRecv) {
         //does a task if needed
         ExecuteSpork(spork.nSporkID, spork.nValue);
 
-        // Bulwark: add to spork database.
+        // CRyptoCrowd: add to spork database.
         pSporkDB->WriteSpork(spork.nSporkID, spork);
     }
     if (strCommand == "getsporks") {

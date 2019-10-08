@@ -1,6 +1,6 @@
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulwðrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -364,7 +364,7 @@ class CFinalizedBudget {
 
     // Verify and vote on finalized budget
     void CheckAndVote();
-    //total bulwark paid out by this budget
+    //total cryptocrowd paid out by this budget
     CAmount GetTotalPayout();
     //vote on this finalized budget as a masternode
     void SubmitVote();

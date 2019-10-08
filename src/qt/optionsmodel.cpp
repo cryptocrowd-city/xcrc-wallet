@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulwørk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -59,7 +59,7 @@ void OptionsModel::Init() {
 
     // Display
     if (!settings.contains("nDisplayUnit"))
-        settings.setValue("nDisplayUnit", BitcoinUnits::BWK);
+        settings.setValue("nDisplayUnit", BitcoinUnits::XCRC);
     nDisplayUnit = settings.value("nDisplayUnit").toInt();
 
     if (!settings.contains("strThirdPartyTxUrls"))
@@ -73,10 +73,10 @@ void OptionsModel::Init() {
     if (!settings.contains("nObfuscationRounds"))
         settings.setValue("nObfuscationRounds", 2);
 
-    if (!settings.contains("nAnonymizeBulwarkAmount"))
-        settings.setValue("nAnonymizeBulwarkAmount", 1000);
+    if (!settings.contains("nAnonymizeCRyptoCrowdAmount"))
+        settings.setValue("nAnonymizeCRyptoCrowdAmount", 1000);
 
-    nAnonymizeBulwarkAmount = settings.value("nAnonymizeBulwarkAmount").toLongLong();
+    nAnonymizeCRyptoCrowdAmount = settings.value("nAnonymizeCRyptoCrowdAmount").toLongLong();
 
     if (!settings.contains("fShowMasternodesTab"))
         settings.setValue("fShowMasternodesTab", masternodeConfig.getCount());
@@ -148,8 +148,8 @@ void OptionsModel::Init() {
         SoftSetArg("-zeromintpercentage", settings.value("nZeromintPercentage").toString().toStdString());
     if (settings.contains("nPreferredDenom"))
         SoftSetArg("-preferredDenom", settings.value("nPreferredDenom").toString().toStdString());
-    if (settings.contains("nAnonymizeBulwarkAmount"))
-        SoftSetArg("-anonymizebulwarkamount", settings.value("nAnonymizeBulwarkAmount").toString().toStdString());
+    if (settings.contains("nAnonymizeCRyptoCrowdAmount"))
+        SoftSetArg("-anonymizecryptocrowdamount", settings.value("nAnonymizeCRyptoCrowdAmount").toString().toStdString());
 
     language = settings.value("language").toString();
 }
@@ -159,7 +159,7 @@ void OptionsModel::Reset() {
 
     // Remove all entries from our QSettings object
     settings.clear();
-    resetSettings = true; // Needed in bulwark.cpp during shotdown to also remove the window positions
+    resetSettings = true; // Needed in cryptocrowd.cpp during shotdown to also remove the window positions
 
     // default setting for OptionsModel::StartAtStartup - disabled
     if (GUIUtil::GetStartOnSystemStartup())
@@ -230,8 +230,8 @@ QVariant OptionsModel::data(const QModelIndex& index, int role) const {
             return QVariant(nZeromintPercentage);
         case ZeromintPrefDenom:
             return QVariant(nPreferredDenom);
-        case AnonymizeBulwarkAmount:
-            return QVariant(nAnonymizeBulwarkAmount);
+        case AnonymizeCRyptoCrowdAmount:
+            return QVariant(nAnonymizeCRyptoCrowdAmount);
         case Listen:
             return settings.value("fListen");
         default:
@@ -352,10 +352,10 @@ bool OptionsModel::setData(const QModelIndex& index, const QVariant& value, int 
             emit preferredDenomChanged(nPreferredDenom);
             break;
 
-        case AnonymizeBulwarkAmount:
-            nAnonymizeBulwarkAmount = value.toInt();
-            settings.setValue("nAnonymizeBulwarkAmount", nAnonymizeBulwarkAmount);
-            emit anonymizeBulwarkAmountChanged(nAnonymizeBulwarkAmount);
+        case AnonymizeCRyptoCrowdAmount:
+            nAnonymizeCRyptoCrowdAmount = value.toInt();
+            settings.setValue("nAnonymizeCRyptoCrowdAmount", nAnonymizeCRyptoCrowdAmount);
+            emit anonymizeCRyptoCrowdAmountChanged(nAnonymizeCRyptoCrowdAmount);
             break;
         case CoinControlFeatures:
             fCoinControlFeatures = value.toBool();

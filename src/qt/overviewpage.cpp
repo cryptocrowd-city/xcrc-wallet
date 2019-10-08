@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulwèrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -37,7 +37,7 @@ extern CWallet* pwalletMain;
 class TxViewDelegate : public QAbstractItemDelegate {
     Q_OBJECT
   public:
-    TxViewDelegate() : QAbstractItemDelegate(), unit(BitcoinUnits::BWK) {
+    TxViewDelegate() : QAbstractItemDelegate(), unit(BitcoinUnits::XCRC) {
     }
 
     inline void paint(QPainter* painter, const QStyleOptionViewItem& option, const QModelIndex& index) const {
@@ -160,7 +160,7 @@ OverviewPage::~OverviewPage() {
     delete ui;
 }
 
-void OverviewPage::getPercentage(CAmount nUnlockedBalance, CAmount nZerocoinBalance, QString& sBWKPercentage, QString& szBWKPercentage) {
+void OverviewPage::getPercentage(CAmount nUnlockedBalance, CAmount nZerocoinBalance, QString& sXCRCPercentage, QString& szXCRCPercentage) {
     int nPrecision = 2;
     double dzPercentage = 0.0;
 
@@ -176,8 +176,8 @@ void OverviewPage::getPercentage(CAmount nUnlockedBalance, CAmount nZerocoinBala
 
     double dPercentage = 100.0 - dzPercentage;
 
-    szBWKPercentage = "(" + QLocale(QLocale::system()).toString(dzPercentage, 'f', nPrecision) + " %)";
-    sBWKPercentage = "(" + QLocale(QLocale::system()).toString(dPercentage, 'f', nPrecision) + " %)";
+    szXCRCPercentage = "(" + QLocale(QLocale::system()).toString(dzPercentage, 'f', nPrecision) + " %)";
+    sXCRCPercentage = "(" + QLocale(QLocale::system()).toString(dPercentage, 'f', nPrecision) + " %)";
 
 }
 
@@ -209,7 +209,7 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
     ui->labelWatchImmature->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, watchImmatureBalance, false, BitcoinUnits::separatorAlways));
     ui->labelWatchTotal->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, (watchOnlyBalance + watchUnconfBalance), false, BitcoinUnits::separatorAlways));
 
-    // zBWK labels
+    // zXCRC labels
     QString szPercentage = "";
     QString sPercentage = "";
     CAmount nLockedBalance = 0;
@@ -230,20 +230,20 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
     ui->labelzBalanceMature->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, matureZerocoinBalance, false, BitcoinUnits::separatorAlways));
     ui->labelTotalz->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, nTotalBalance + zerocoinBalance, false, BitcoinUnits::separatorAlways));
     ui->labelUnLockedBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, nUnlockedBalance, false, BitcoinUnits::separatorAlways));
-    ui->labelBWKPercent->setText(sPercentage);
-    ui->labelzBWKPercent->setText(szPercentage);
+    ui->labelXCRCPercent->setText(sPercentage);
+    ui->labelzXCRCPercent->setText(szPercentage);
 
     // Adjust bubble-help according to AutoMint settings
-    QString automintHelp = tr("Current percentage of zBWK.\nIf AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 0%).\n");
+    QString automintHelp = tr("Current percentage of zXCRC.\nIf AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 0%).\n");
     bool fEnableZeromint = GetBoolArg("-enablezeromint", false);
     int nZeromintPercentage = GetArg("-zeromintpercentage", 00);
     if (fEnableZeromint) {
         automintHelp += tr("AutoMint is currently enabled and set to ") + QString::number(nZeromintPercentage) + "%.\n";
-        automintHelp += tr("To disable AutoMint add 'enablezeromint=0' in bulwark.conf.");
+        automintHelp += tr("To disable AutoMint add 'enablezeromint=0' in cryptocrowd.conf.");
     } else {
-        automintHelp += tr("AutoMint is currently disabled.\nTo enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in bulwark.conf");
+        automintHelp += tr("AutoMint is currently disabled.\nTo enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in cryptocrowd.conf");
     }
-    ui->labelzBWKPercent->setToolTip(automintHelp);
+    ui->labelzXCRCPercent->setToolTip(automintHelp);
 
     // only show immature (newly mined) balance if it's non-zero, so as not to complicate things
     // for the non-mining users
@@ -312,7 +312,7 @@ void OverviewPage::setWalletModel(WalletModel* model) {
         connect(model, SIGNAL(notifyWatchonlyChanged(bool)), this, SLOT(updateWatchOnlyLabels(bool)));
     }
 
-    // update the display unit, to not use the default ("BWK")
+    // update the display unit, to not use the default ("XCRC")
     updateDisplayUnit();
 }
 

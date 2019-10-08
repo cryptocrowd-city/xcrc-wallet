@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulw¨rk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -81,29 +81,29 @@ enum AvailableCoinsType {
     ALL_COINS = 1,
     ONLY_DENOMINATED = 2,
     ONLY_NOT10000IFMN = 3,
-    ONLY_NONDENOMINATED_NOT10000IFMN = 4, // ONLY_NONDENOMINATED and not 10000 BWK at the same time
+    ONLY_NONDENOMINATED_NOT10000IFMN = 4, // ONLY_NONDENOMINATED and not 10000 XCRC at the same time
     ONLY_10000 = 5,                        // find masternode outputs including locked ones (use with caution)
     STAKABLE_COINS = 6                          // UTXO's that are valid for staking
 };
 
-// Possible states for zBWK send
+// Possible states for zXCRC send
 enum ZerocoinSpendStatus {
-    ZBWK_SPEND_OKAY = 0,                            // No error
-    ZBWK_SPEND_ERROR = 1,                           // Unspecified class of errors, more details are (hopefully) in the returning text
-    ZBWK_WALLET_LOCKED = 2,                         // Wallet was locked
-    ZBWK_COMMIT_FAILED = 3,                         // Commit failed, reset status
-    ZBWK_ERASE_SPENDS_FAILED = 4,                   // Erasing spends during reset failed
-    ZBWK_ERASE_NEW_MINTS_FAILED = 5,                // Erasing new mints during reset failed
-    ZBWK_TRX_FUNDS_PROBLEMS = 6,                    // Everything related to available funds
-    ZBWK_TRX_CREATE = 7,                            // Everything related to create the transaction
-    ZBWK_TRX_CHANGE = 8,                            // Everything related to transaction change
-    ZBWK_TXMINT_GENERAL = 9,                        // General errors in MintToTxIn
-    ZBWK_INVALID_COIN = 10,                         // Selected mint coin is not valid
-    ZBWK_FAILED_ACCUMULATOR_INITIALIZATION = 11,    // Failed to initialize witness
-    ZBWK_INVALID_WITNESS = 12,                      // Spend coin transaction did not verify
-    ZBWK_BAD_SERIALIZATION = 13,                    // Transaction verification failed
-    ZBWK_SPENT_USED_ZBWK = 14,                      // Coin has already been spend
-    ZBWK_TX_TOO_LARGE = 15                          // The transaction is larger than the max tx size
+    ZXCRC_SPEND_OKAY = 0,                            // No error
+    ZXCRC_SPEND_ERROR = 1,                           // Unspecified class of errors, more details are (hopefully) in the returning text
+    ZXCRC_WALLET_LOCKED = 2,                         // Wallet was locked
+    ZXCRC_COMMIT_FAILED = 3,                         // Commit failed, reset status
+    ZXCRC_ERASE_SPENDS_FAILED = 4,                   // Erasing spends during reset failed
+    ZXCRC_ERASE_NEW_MINTS_FAILED = 5,                // Erasing new mints during reset failed
+    ZXCRC_TRX_FUNDS_PROBLEMS = 6,                    // Everything related to available funds
+    ZXCRC_TRX_CREATE = 7,                            // Everything related to create the transaction
+    ZXCRC_TRX_CHANGE = 8,                            // Everything related to transaction change
+    ZXCRC_TXMINT_GENERAL = 9,                        // General errors in MintToTxIn
+    ZXCRC_INVALID_COIN = 10,                         // Selected mint coin is not valid
+    ZXCRC_FAILED_ACCUMULATOR_INITIALIZATION = 11,    // Failed to initialize witness
+    ZXCRC_INVALID_WITNESS = 12,                      // Spend coin transaction did not verify
+    ZXCRC_BAD_SERIALIZATION = 13,                    // Transaction verification failed
+    ZXCRC_SPENT_USED_ZXCRC = 14,                      // Coin has already been spend
+    ZXCRC_TX_TOO_LARGE = 15                          // The transaction is larger than the max tx size
 };
 
 struct CompactTallyItem {
@@ -203,7 +203,7 @@ class CWallet : public CCryptoKeyStore, public CValidationInterface {
     std::string ResetMintZerocoin(bool fExtendedSearch);
     std::string ResetSpentZerocoin();
     void ReconsiderZerocoins(std::list<CZerocoinMint>& listMintsRestored);
-    void ZBWKBackupWallet();
+    void ZXCRCBackupWallet();
 
     /** Zerocin entry changed.
     * @note called with lock cs_wallet held.
@@ -305,7 +305,7 @@ class CWallet : public CCryptoKeyStore, public CValidationInterface {
         return fEnableZeromint;
     }
 
-    void setZBWKAutoBackups(bool fEnabled) {
+    void setZXCRCAutoBackups(bool fEnabled) {
         fBackupMints = fEnabled;
     }
 

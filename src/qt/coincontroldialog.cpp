@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulwèrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -611,7 +611,7 @@ void CoinControlDialog::updateLabels(WalletModel* model, QDialog* dialog) {
     }
 
     // actually update labels
-    int nDisplayUnit = BitcoinUnits::BWK;
+    int nDisplayUnit = BitcoinUnits::XCRC;
     if (model && model->getOptionsModel())
         nDisplayUnit = model->getOptionsModel()->getDisplayUnit();
 
@@ -668,7 +668,7 @@ void CoinControlDialog::updateLabels(WalletModel* model, QDialog* dialog) {
         dFeeVary = (double)std::max(CWallet::minTxFee.GetFeePerK(), payTxFee.GetFeePerK()) / 1000;
     else
         dFeeVary = (double)std::max(CWallet::minTxFee.GetFeePerK(), mempool.estimateFee(nTxConfirmTarget).GetFeePerK()) / 1000;
-    QString toolTip4 = tr("Can vary +/- %1 uBWK per input.").arg(dFeeVary);
+    QString toolTip4 = tr("Can vary +/- %1 uXCRC per input.").arg(dFeeVary);
 
     l3->setToolTip(toolTip4);
     l4->setToolTip(toolTip4);
@@ -774,7 +774,7 @@ void CoinControlDialog::updateView() {
             if (ExtractDestination(out.tx->vout[out.i].scriptPubKey, outputAddress)) {
                 sAddress = QString::fromStdString(CBitcoinAddress(outputAddress).ToString());
 
-                // if listMode or change => show Bulwark address. In tree mode, address is not shown again for direct wallet address outputs
+                // if listMode or change => show CRyptoCrowd address. In tree mode, address is not shown again for direct wallet address outputs
                 if (!treeMode || (!(sAddress == sWalletAddress)))
                     itemOutput->setText(COLUMN_ADDRESS, sAddress);
 

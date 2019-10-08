@@ -1,7 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulw¨rk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -544,11 +544,11 @@ void RPCConsole::clear() {
         "b { color: #006060; } ");
 
     message(CMD_REPLY, 
-            (tr("Welcome to the Bulwark RPC console.") + "<br>" +
+            (tr("Welcome to the CRyptoCrowd RPC console.") + "<br>" +
             tr("Use up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.") + "<br>" +
             tr("Type <b>help</b> for an overview of available commands.<br>") +
             "<br><span class=\"secwarning\"><br>" +
-            tr("WARNING: Scammers have been active, telling users to type commands here, stealing their wallet contents. Do not use this console without fully understanding the ramifications of a command. Bulwark team members will never private message you console commands.") +
+            tr("WARNING: Scammers have been active, telling users to type commands here, stealing their wallet contents. Do not use this console without fully understanding the ramifications of a command. CRyptoCrowd team members will never private message you console commands.") +
             "</span>"),
             true);
 }
@@ -567,7 +567,7 @@ void RPCConsole::message(int category, const QString& message, bool html) {
     out += "<td class=\"icon\" width=\"32\"><img src=\"" + categoryClass(category) + "\"></td>";
     out += "<td class=\"message " + categoryClass(category) + "\" valign=\"middle\">";
     // Print error message when dumpprivkey is ran to try
-    // and aid in the prevention of BWK being stolen.
+    // and aid in the prevention of XCRC being stolen.
     if (message == "dumpprivkey" || message == "dumpwallet") {
         out += "<div><span style=\"color:red;font-weight:bold;\">WARNING: Scammers have been active, telling users to type commands here and stealing their wallet contents. Do not use this console without fully understanding the ramifications of a command.</span></div><br />";
     }

@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulwèrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -30,7 +30,7 @@
 #include <boost/filesystem/path.hpp>
 #include <boost/thread/exceptions.hpp>
 
-//Bulwark only features
+//CRyptoCrowd only features
 
 extern bool fMasterNode;
 extern bool fLiteMode;
@@ -39,7 +39,7 @@ extern int nSwiftTXDepth;
 extern int nZeromintPercentage;
 extern const int64_t AUTOMINT_DELAY;
 extern int nPreferredDenom;
-extern int nAnonymizeBulwarkAmount;
+extern int nAnonymizeCRyptoCrowdAmount;
 extern int nLiquidityProvider;
 extern bool fEnableZeromint;
 extern int64_t enforceMasternodePaymentsTime;
@@ -212,7 +212,7 @@ void RenameThread(const char* name);
  */
 template <typename Callable>
 void LoopForever(const char* name, Callable func, int64_t msecs) {
-    std::string s = strprintf("bulwark-%s", name);
+    std::string s = strprintf("cryptocrowd-%s", name);
     RenameThread(s.c_str());
     LogPrintf("%s thread start\n", name);
     try {
@@ -237,7 +237,7 @@ void LoopForever(const char* name, Callable func, int64_t msecs) {
  */
 template <typename Callable>
 void TraceThread(const char* name, Callable func) {
-    std::string s = strprintf("bulwark-%s", name);
+    std::string s = strprintf("cryptocrowd-%s", name);
     RenameThread(s.c_str());
     try {
         LogPrintf("%s thread start\n", name);

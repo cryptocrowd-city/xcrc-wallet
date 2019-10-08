@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2017-2019 The Bulwàrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
+// Copyright (c) 2017-2019 The Bulwèrk developers \\// Copyright (c) 2019 The CRyptoCrowd developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -229,10 +229,10 @@ UniValue stop(const UniValue& params, bool fHelp) {
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "\nStop Bulwark server.");
+            "\nStop CRyptoCrowd server.");
     // Shutdown will take long enough that the response should get back
     StartShutdown();
-    return "Bulwark server stopping";
+    return "CRyptoCrowd server stopping";
 }
 
 
@@ -314,35 +314,35 @@ static const CRPCCommand vRPCCommands[] = {
     {"hidden", "setmocktime", &setmocktime, true, false, false},
 
     /* Pivx features */
-    {"bulwark", "masternode", &masternode, true, true, false},
-    {"bulwark", "listmasternodes", &listmasternodes, true, true, false},
-    {"bulwark", "getmasternodecount", &getmasternodecount, true, true, false},
-    {"bulwark", "masternodeconnect", &masternodeconnect, true, true, false},
-    {"bulwark", "masternodecurrent", &masternodecurrent, true, true, false},
-    {"bulwark", "masternodedebug", &masternodedebug, true, true, false},
-    {"bulwark", "startmasternode", &startmasternode, true, true, false},
-    {"bulwark", "createmasternodekey", &createmasternodekey, true, true, false},
-    {"bulwark", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
-    {"bulwark", "listmasternodeconf", &listmasternodeconf, true, true, false},
-    {"bulwark", "getmasternodestatus", &getmasternodestatus, true, true, false},
-    {"bulwark", "getmasternodewinners", &getmasternodewinners, true, true, false},
-    {"bulwark", "getmasternodescores", &getmasternodescores, true, true, false},
-    {"bulwark", "mnbudget", &mnbudget, true, true, false},
-    {"bulwark", "preparebudget", &preparebudget, true, true, false},
-    {"bulwark", "submitbudget", &submitbudget, true, true, false},
-    {"bulwark", "mnbudgetvote", &mnbudgetvote, true, true, false},
-    {"bulwark", "getbudgetvotes", &getbudgetvotes, true, true, false},
-    {"bulwark", "getnextsuperblock", &getnextsuperblock, true, true, false},
-    {"bulwark", "getbudgetprojection", &getbudgetprojection, true, true, false},
-    {"bulwark", "getbudgetinfo", &getbudgetinfo, true, true, false},
-    {"bulwark", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
-    {"bulwark", "mnfinalbudget", &mnfinalbudget, true, true, false},
-    {"bulwark", "checkbudgets", &checkbudgets, true, true, false},
-    {"bulwark", "mnsync", &mnsync, true, true, false},
-    {"bulwark", "spork", &spork, true, true, false},
-    {"bulwark", "getpoolinfo", &getpoolinfo, true, true, false},
+    {"cryptocrowd", "masternode", &masternode, true, true, false},
+    {"cryptocrowd", "listmasternodes", &listmasternodes, true, true, false},
+    {"cryptocrowd", "getmasternodecount", &getmasternodecount, true, true, false},
+    {"cryptocrowd", "masternodeconnect", &masternodeconnect, true, true, false},
+    {"cryptocrowd", "masternodecurrent", &masternodecurrent, true, true, false},
+    {"cryptocrowd", "masternodedebug", &masternodedebug, true, true, false},
+    {"cryptocrowd", "startmasternode", &startmasternode, true, true, false},
+    {"cryptocrowd", "createmasternodekey", &createmasternodekey, true, true, false},
+    {"cryptocrowd", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
+    {"cryptocrowd", "listmasternodeconf", &listmasternodeconf, true, true, false},
+    {"cryptocrowd", "getmasternodestatus", &getmasternodestatus, true, true, false},
+    {"cryptocrowd", "getmasternodewinners", &getmasternodewinners, true, true, false},
+    {"cryptocrowd", "getmasternodescores", &getmasternodescores, true, true, false},
+    {"cryptocrowd", "mnbudget", &mnbudget, true, true, false},
+    {"cryptocrowd", "preparebudget", &preparebudget, true, true, false},
+    {"cryptocrowd", "submitbudget", &submitbudget, true, true, false},
+    {"cryptocrowd", "mnbudgetvote", &mnbudgetvote, true, true, false},
+    {"cryptocrowd", "getbudgetvotes", &getbudgetvotes, true, true, false},
+    {"cryptocrowd", "getnextsuperblock", &getnextsuperblock, true, true, false},
+    {"cryptocrowd", "getbudgetprojection", &getbudgetprojection, true, true, false},
+    {"cryptocrowd", "getbudgetinfo", &getbudgetinfo, true, true, false},
+    {"cryptocrowd", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
+    {"cryptocrowd", "mnfinalbudget", &mnfinalbudget, true, true, false},
+    {"cryptocrowd", "checkbudgets", &checkbudgets, true, true, false},
+    {"cryptocrowd", "mnsync", &mnsync, true, true, false},
+    {"cryptocrowd", "spork", &spork, true, true, false},
+    {"cryptocrowd", "getpoolinfo", &getpoolinfo, true, true, false},
 #ifdef ENABLE_WALLET
-    {"bulwark", "obfuscation", &obfuscation, false, false, true}, /* not threadSafe because of SendMoney */
+    {"cryptocrowd", "obfuscation", &obfuscation, false, false, true}, /* not threadSafe because of SendMoney */
 
     /* Wallet */
     {"wallet", "addmultisigaddress", &addmultisigaddress, true, false, true},
@@ -1043,7 +1043,7 @@ std::vector<std::string> CRPCTable::listCommands() const {
 }
 
 std::string HelpExampleCli(string methodname, string args) {
-    return "> bulwark-cli " + methodname + " " + args + "\n";
+    return "> cryptocrowd-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(string methodname, string args) {
